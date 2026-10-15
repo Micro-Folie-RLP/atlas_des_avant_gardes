@@ -1,0 +1,144 @@
+[
+  {
+    "id": "f-leiris-grandjeu-3",
+    "type": "publication_dans_numero",
+    "subject": "leiris",
+    "object": "numero-grandjeu-3",
+    "label": "Publie « Un document sur la sexualité infantile »",
+    "date": "1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu/le_grand_jeu_3",
+        "note": "Sommaire du numéro 3, à vérifier à la page indiquée"
+      }
+    ]
+  },
+  {
+    "id": "f-grandjeu-3-revue",
+    "type": "numero_de_revue",
+    "subject": "numero-grandjeu-3",
+    "object": "revue-grandjeu",
+    "label": "Numéro de la revue",
+    "date": "1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu/le_grand_jeu_3"
+      }
+    ]
+  },
+  {
+    "id": "f-ribemont-bifur",
+    "type": "direction_editoriale",
+    "subject": "ribemont",
+    "object": "revue-bifur",
+    "label": "Rédacteur en chef",
+    "date": "1929–1931",
+    "date_precision": "bornes de publication, non durée exacte du mandat",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb34431403m",
+        "note": "Notice bibliographique de Bifur"
+      }
+    ]
+  },
+  {
+    "id": "f-daumal-gilbert",
+    "type": "correspondance",
+    "subject": "daumal",
+    "object": "gilbert",
+    "label": "Correspondance publiée, 1924–1933",
+    "date": "1924–1933",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.entrevues.org/surlesrevues/roger-gilbert-lecomte-rene-daumal-correspondance-1924-1933/"
+      }
+    ]
+  },
+  {
+    "id": "f-daumal-paulhan",
+    "type": "correspondance",
+    "subject": "daumal",
+    "object": "paulhan",
+    "label": "Correspondance",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://jean-paulhan.fr/correspondances/paulhan-daumal"
+      }
+    ]
+  },
+  {
+    "id": "f-daumal-grandjeu",
+    "type": "fonde_participe",
+    "subject": "daumal",
+    "object": "revue-grandjeu",
+    "label": "Cofondateur et contributeur",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"
+      }
+    ]
+  },
+  {
+    "id": "f-gilbert-grandjeu",
+    "type": "fonde_participe",
+    "subject": "gilbert",
+    "object": "revue-grandjeu",
+    "label": "Cofondateur et contributeur",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"
+      }
+    ]
+  },
+  {
+    "id": "f-reneville-grandjeu",
+    "type": "collaboration_revue",
+    "subject": "reneville",
+    "object": "revue-grandjeu",
+    "label": "Collabore à la revue",
+    "date": "1928–1932",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"
+      }
+    ]
+  },
+  {
+    "id": "f-bataille-documents",
+    "type": "direction_editoriale",
+    "subject": "bataille",
+    "object": "revue-documents",
+    "label": "Secrétaire général de la revue",
+    "date": "1929–1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Référence au sommaire et à l'ours à préciser"
+      }
+    ]
+  },
+  {
+    "id": "f-leiris-documents",
+    "type": "collaboration_revue",
+    "subject": "leiris",
+    "object": "revue-documents",
+    "label": "Contributeur",
+    "date": "1929–1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Numéros et pages à relever"
+      }
+    ]
+  }
+]
