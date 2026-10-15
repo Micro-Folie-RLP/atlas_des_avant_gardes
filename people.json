@@ -1,0 +1,19 @@
+[
+{"id":"daumal","name":"René Daumal","years":"1908–1944","group":"Grand Jeu","bio":"Poète, traducteur du sanskrit et cofondateur du Grand Jeu. Auteur du Mont Analogue.","works":["Le Contre-Ciel","Le Mont Analogue"]},
+{"id":"gilbert","name":"Roger Gilbert-Lecomte","years":"1907–1943","group":"Grand Jeu","bio":"Poète et cofondateur du groupe des Simplistes et de la revue Le Grand Jeu.","works":["La Vie l'Amour la Mort le Vide et le Vent"]},
+{"id":"vailland","name":"Roger Vailland","years":"1907–1965","group":"Grand Jeu","bio":"Écrivain et journaliste, compagnon des Simplistes à Reims.","works":["Drôle de jeu"]},
+{"id":"sima","name":"Josef Šíma","years":"1891–1971","group":"Arts","bio":"Peintre d'origine tchèque associé à l'aventure du Grand Jeu.","works":[]},
+{"id":"paulhan","name":"Jean Paulhan","years":"1884–1968","group":"Revues","bio":"Écrivain et animateur de La Nouvelle Revue française, correspondant de Daumal.","works":["Les Fleurs de Tarbes"]},
+{"id":"leiris","name":"Michel Leiris","years":"1901–1990","group":"Sciences humaines","bio":"Écrivain et ethnologue, collaborateur du Grand Jeu et de Documents, cofondateur du Collège de sociologie.","works":["L'Afrique fantôme","L'Âge d'homme"]},
+{"id":"masson","name":"André Masson","years":"1896–1987","group":"Arts","bio":"Peintre associé au surréalisme et proche de Michel Leiris.","works":[]},
+{"id":"bataille","name":"Georges Bataille","years":"1897–1962","group":"Sciences humaines","bio":"Écrivain et penseur du sacré, animateur de Documents et du Collège de sociologie.","works":["L'Expérience intérieure"]},
+{"id":"breton","name":"André Breton","years":"1896–1966","group":"Surréalisme","bio":"Écrivain et principal animateur du mouvement surréaliste.","works":["Manifeste du surréalisme","Nadja"]},
+{"id":"desnos","name":"Robert Desnos","years":"1900–1945","group":"Surréalisme","bio":"Poète lié au surréalisme, contributeur à la revue Le Grand Jeu.","works":["Corps et biens"]},
+{"id":"michaux","name":"Henri Michaux","years":"1899–1984","group":"Indépendants","bio":"Poète et peintre, explorateur des états de conscience et des possibilités du langage.","works":["Un certain Plume","La Nuit remue"]},
+{"id":"caillois","name":"Roger Caillois","years":"1913–1978","group":"Sciences humaines","bio":"Écrivain et sociologue du sacré, cofondateur du Collège de sociologie.","works":["L'Homme et le sacré"]},
+{"id":"nouge","name":"Paul Nougé","years":"1895–1967","group":"Surréalisme belge","bio":"Poète et théoricien, figure majeure du surréalisme bruxellois.","works":[]},
+{"id":"magritte","name":"René Magritte","years":"1898–1967","group":"Surréalisme belge","bio":"Peintre surréaliste belge, proche de Paul Nougé.","works":[]},
+{"id":"fondane","name":"Benjamin Fondane","years":"1898–1944","group":"Indépendants","bio":"Poète, essayiste et philosophe, lecteur de Léon Chestov.","works":["La Conscience malheureuse"]},
+{"id":"rimbaud","name":"Arthur Rimbaud","years":"1854–1891","group":"Lectures","bio":"Poète du XIXe siècle, référence majeure pour les membres du Grand Jeu.","works":["Une saison en enfer","Illuminations"]},
+{"id":"tzara","name":"Tristan Tzara","years":"1896–1963","group":"Dada","bio":"Poète et fondateur du mouvement Dada à Zurich.","works":["Sept manifestes Dada"]}
+]

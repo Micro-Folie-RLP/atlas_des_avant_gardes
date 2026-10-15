@@ -1,0 +1,16 @@
+[
+{"from":"daumal","to":"gilbert","grade":"A","type":"Amitié et correspondance","detail":"Correspondance publiée, 1924–1933.","source":"https://www.entrevues.org/surlesrevues/roger-gilbert-lecomte-rene-daumal-correspondance-1924-1933/"},
+{"from":"daumal","to":"vailland","grade":"A","type":"Groupe fondateur","detail":"Compagnons des Simplistes et du Grand Jeu.","source":"https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"},
+{"from":"daumal","to":"sima","grade":"A","type":"Collaboration artistique","detail":"Participation au Grand Jeu.","source":"https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"},
+{"from":"daumal","to":"paulhan","grade":"A","type":"Correspondance","detail":"Lettres échangées de 1930 à 1936.","source":"https://jean-paulhan.fr/correspondances/paulhan-daumal"},
+{"from":"daumal","to":"leiris","grade":"A","type":"Co-publication éditoriale","detail":"Leiris publie « Un document sur la sexualité infantile » dans Le Grand Jeu n° 3 (1930). Cela ne prouve pas une rencontre.","source":"https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"},
+{"from":"daumal","to":"desnos","grade":"A","type":"Co-publication éditoriale","detail":"Contribution de Desnos au Grand Jeu n° 1 ; rencontre non établie.","source":"https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"},
+{"from":"daumal","to":"breton","grade":"A","type":"Controverse publique","detail":"Confrontation entre le Grand Jeu et le mouvement surréaliste.","source":"https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"},
+{"from":"daumal","to":"rimbaud","grade":"C","type":"Lecture et référence","detail":"Rimbaud est une référence essentielle au Grand Jeu.","source":"https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu"},
+{"from":"leiris","to":"masson","grade":"A","type":"Amitié et collaboration","detail":"Proximité artistique dans les avant-gardes parisiennes.","source":"https://www.bnf.fr/fr"},
+{"from":"leiris","to":"bataille","grade":"A","type":"Collaboration","detail":"Documents et Collège de sociologie.","source":"https://www.bnf.fr/fr"},
+{"from":"bataille","to":"caillois","grade":"A","type":"Collège de sociologie","detail":"Cofondateurs du Collège de sociologie en 1937.","source":"https://www.bnf.fr/fr"},
+{"from":"nouge","to":"magritte","grade":"A","type":"Collaboration surréaliste","detail":"Groupe surréaliste de Bruxelles.","source":"https://www.musee-magritte-museum.be/fr"},
+{"from":"breton","to":"tzara","grade":"A","type":"Avant-gardes","detail":"Relations entre Dada et surréalisme, marquées aussi par des conflits.","source":"https://www.bnf.fr/fr"},
+{"from":"daumal","to":"michaux","grade":"B","type":"Intermédiaire : Paulhan","detail":"Connexion de réseau à approfondir ; aucune rencontre directe établie ici.","source":"https://jean-paulhan.fr/correspondances/paulhan-daumal"}
+]
