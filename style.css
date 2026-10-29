@@ -16,5 +16,5 @@ body{padding-bottom:30px}.timeline-scroll{scrollbar-width:none}.timeline-scroll:
 
 
 /* Vies sans date de décès : prolonger jusqu'à 2026, puis indiquer l'incertitude en pointillés. */
-.life-bar.unknown{background:linear-gradient(to right,#a83225 0 var(--known-life-share,100%),transparent var(--known-life-share,100%) 100%);border-right:2px dashed #a83225;border-radius:2px;box-shadow:none}
+.life-bar.unknown{background:linear-gradient(to right,#a83225 0 var(--known-life-share,100%),transparent var(--known-life-share,100%) 100%),repeating-linear-gradient(to right,#a83225 0 5px,transparent 5px 9px);background-size:100% 100%,100% 3px;background-position:0 0,0 6px;background-repeat:no-repeat;border-radius:0;box-shadow:none}
 .life-bar.unknown::before{z-index:1}
