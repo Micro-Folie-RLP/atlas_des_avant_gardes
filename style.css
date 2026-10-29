@@ -7,3 +7,6 @@
 .life-row.active .life-bar{background:#238b57;box-shadow:inset 0 0 0 1px #155b38}
 .life-row.active .life-bar::before,.life-row.active .life-bar.complete::after{border-color:#155b38}
 .life-row.active .life-bar.unknown{background:repeating-linear-gradient(45deg,#238b57 0 5px,#a9d2b3 5px 10px)}
+
+/* Repère iconographique des disciplines dans la frise. */
+.person-name .name{display:flex;align-items:center;gap:6px;min-width:0}.person-icon{display:inline-flex;align-items:center;justify-content:center;flex:0 0 18px;width:18px;font:16px/1 Arial,sans-serif;color:#8b2d24}.person-name .name{white-space:nowrap}
