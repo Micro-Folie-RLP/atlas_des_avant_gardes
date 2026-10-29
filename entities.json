@@ -9,7 +9,9 @@
       "Le Contre-Ciel",
       "Le Mont Analogue"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "gilbert",
@@ -20,7 +22,9 @@
     "works": [
       "La Vie l'Amour la Mort le Vide et le Vent"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "vailland",
@@ -31,7 +35,9 @@
     "works": [
       "Drôle de jeu"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "sima",
@@ -40,7 +46,9 @@
     "group": "Arts",
     "bio": "Peintre d'origine tchèque associé à l'aventure du Grand Jeu.",
     "works": [],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "paulhan",
@@ -51,7 +59,9 @@
     "works": [
       "Les Fleurs de Tarbes"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "leiris",
@@ -63,7 +73,9 @@
       "L'Afrique fantôme",
       "L'Âge d'homme"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique"
   },
   {
     "id": "masson",
@@ -72,7 +84,9 @@
     "group": "Arts",
     "bio": "Peintre associé au surréalisme et proche de Michel Leiris.",
     "works": [],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "bataille",
@@ -83,7 +97,9 @@
     "works": [
       "L'Expérience intérieure"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "breton",
@@ -95,7 +111,9 @@
       "Manifeste du surréalisme",
       "Nadja"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "desnos",
@@ -106,7 +124,9 @@
     "works": [
       "Corps et biens"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "michaux",
@@ -118,7 +138,9 @@
       "Un certain Plume",
       "La Nuit remue"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "caillois",
@@ -129,7 +151,9 @@
     "works": [
       "L'Homme et le sacré"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique"
   },
   {
     "id": "nouge",
@@ -138,7 +162,9 @@
     "group": "Surréalisme belge",
     "bio": "Poète et théoricien, figure majeure du surréalisme bruxellois.",
     "works": [],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "magritte",
@@ -147,7 +173,9 @@
     "group": "Surréalisme belge",
     "bio": "Peintre surréaliste belge, proche de Paul Nougé.",
     "works": [],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "fondane",
@@ -158,7 +186,9 @@
     "works": [
       "La Conscience malheureuse"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "rimbaud",
@@ -170,7 +200,9 @@
       "Une saison en enfer",
       "Illuminations"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "tzara",
@@ -181,7 +213,9 @@
     "works": [
       "Sept manifestes Dada"
     ],
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "reneville",
@@ -191,7 +225,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "meyrat",
@@ -202,7 +238,9 @@
     "works": [],
     "verification": "a_completer",
     "kind": "person",
-    "death_date": "1997-01-22"
+    "death_date": "1997-01-22",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "minet",
@@ -212,7 +250,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "henry",
@@ -222,7 +262,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "harfaux",
@@ -232,7 +274,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "artaud",
@@ -242,7 +286,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "klossowski",
@@ -252,7 +298,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "ribemont",
@@ -262,7 +310,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "picabia",
@@ -272,7 +322,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "duchamp",
@@ -282,7 +334,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "arp",
@@ -292,7 +346,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "aragon",
@@ -302,7 +358,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "eluard",
@@ -312,7 +370,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "soupault",
@@ -322,7 +382,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "peret",
@@ -332,7 +394,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "einstein",
@@ -342,7 +406,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "boiffard",
@@ -352,7 +418,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "peignot",
@@ -362,7 +430,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "mesens",
@@ -372,7 +442,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "goemans",
@@ -382,7 +454,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "cahun",
@@ -392,7 +466,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "jolas",
@@ -402,7 +478,9 @@
     "bio": "Notice biographique à documenter et enrichir.",
     "works": [],
     "verification": "a_completer",
-    "kind": "person"
+    "kind": "person",
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "revue-grandjeu",
@@ -520,7 +598,9 @@
         "url": "https://www.poetryfoundation.org/poets/jack-kerouac",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "ginsberg",
@@ -538,7 +618,9 @@
         "url": "https://www.poetryfoundation.org/poets/allen-ginsberg",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "burroughs",
@@ -556,7 +638,9 @@
         "url": "https://www.poetryfoundation.org/",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "corso",
@@ -574,7 +658,9 @@
         "url": "https://www.poets.org/",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "ferlinghetti",
@@ -591,7 +677,9 @@
         "url": "https://www.poetryfoundation.org/",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "cassady",
@@ -608,7 +696,9 @@
         "url": "https://en.wikipedia.org/wiki/Neal_Cassady",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "huncke",
@@ -625,7 +715,9 @@
         "url": "https://sexualities.history.columbia.edu/content/beat-writers",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "holmes",
@@ -642,7 +734,9 @@
         "url": "https://en.wikipedia.org/wiki/John_Clellon_Holmes",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "snyder",
@@ -660,7 +754,9 @@
         "url": "https://www.poetryfoundation.org/poets/gary-snyder",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "orlovsky",
@@ -677,7 +773,9 @@
         "url": "https://sexualities.history.columbia.edu/content/beat-writers",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "mcclure",
@@ -694,7 +792,9 @@
         "url": "https://www.poets.org/",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "whalen",
@@ -711,7 +811,9 @@
         "url": "https://en.wikipedia.org/wiki/Philip_Whalen",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "welch",
@@ -728,7 +830,9 @@
         "url": "https://en.wikipedia.org/wiki/Lew_Welch",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "kaufman",
@@ -745,7 +849,9 @@
         "url": "https://en.wikipedia.org/wiki/Bob_Kaufman",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "diprima",
@@ -763,7 +869,9 @@
         "url": "https://www.poetryfoundation.org/poets/diane-di-prima",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "cowen",
@@ -778,7 +886,9 @@
         "url": "https://en.wikipedia.org/wiki/Elise_Cowen",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "johnson",
@@ -796,7 +906,9 @@
         "url": "https://en.wikipedia.org/wiki/Joyce_Johnson",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "hettie-jones",
@@ -813,7 +925,9 @@
         "url": "https://en.wikipedia.org/wiki/Hettie_Jones",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "kyger",
@@ -830,7 +944,9 @@
         "url": "https://en.wikipedia.org/wiki/Joanne_Kyger",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "pommy-vega",
@@ -847,7 +963,9 @@
         "url": "https://en.wikipedia.org/wiki/Janine_Pommy_Vega",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "ruth-weiss",
@@ -864,7 +982,9 @@
         "url": "https://en.wikipedia.org/wiki/Ruth_Weiss",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "kandel",
@@ -881,7 +1001,9 @@
         "url": "https://en.wikipedia.org/wiki/Lenore_Kandel",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "waldman",
@@ -898,7 +1020,9 @@
         "url": "https://www.poetryfoundation.org/poets/anne-waldman",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "baraka",
@@ -915,7 +1039,9 @@
         "url": "https://en.wikipedia.org/wiki/Amiri_Baraka",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "joans",
@@ -932,7 +1058,9 @@
         "url": "https://en.wikipedia.org/wiki/Ted_Joans",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "norse",
@@ -949,7 +1077,9 @@
         "url": "https://en.wikipedia.org/wiki/Harold_Norse",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "lamantia",
@@ -966,7 +1096,9 @@
         "url": "https://en.wikipedia.org/wiki/Philip_Lamantia",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "micheline",
@@ -983,7 +1115,9 @@
         "url": "https://en.wikipedia.org/wiki/Jack_Micheline",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "bremser",
@@ -1000,7 +1134,9 @@
         "url": "https://en.wikipedia.org/wiki/Ray_Bremser",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "solomon",
@@ -1017,7 +1153,9 @@
         "url": "https://en.wikipedia.org/wiki/Carl_Solomon",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "gysin",
@@ -1034,7 +1172,9 @@
         "url": "https://en.wikipedia.org/wiki/Brion_Gysin",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "bowles",
@@ -1052,7 +1192,9 @@
         "url": "https://en.wikipedia.org/wiki/Paul_Bowles",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "𝄞",
+    "role_label": "Musique"
   },
   {
     "id": "rexroth",
@@ -1069,7 +1211,9 @@
         "url": "https://www.poets.org/",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "levertov",
@@ -1086,7 +1230,9 @@
         "url": "https://www.poetryfoundation.org/poets/denise-levertov",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "cassady-carolyn",
@@ -1103,7 +1249,9 @@
         "url": "https://en.wikipedia.org/wiki/Carolyn_Cassady",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "vollmer",
@@ -1118,7 +1266,9 @@
         "url": "https://en.wikipedia.org/wiki/Joan_Vollmer",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "carr",
@@ -1133,7 +1283,9 @@
         "url": "https://en.wikipedia.org/wiki/Lucien_Carr",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "adam",
@@ -1150,7 +1302,9 @@
         "url": "https://en.wikipedia.org/wiki/Helen_Adam",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "gleason",
@@ -1165,7 +1319,9 @@
         "url": "https://en.wikipedia.org/wiki/Madeline_Gleason",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "de-angulo",
@@ -1180,7 +1336,9 @@
         "url": "https://en.wikipedia.org/wiki/Jaime_de_Angulo",
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "ball",
@@ -1199,7 +1357,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "hennings",
@@ -1218,7 +1378,9 @@
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "huelsenbeck",
@@ -1236,7 +1398,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "hausmann",
@@ -1255,7 +1419,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "hoch",
@@ -1273,7 +1439,9 @@
         "url": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/dada-africa-sources-et-influences-extra-occidentales",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "taeuber",
@@ -1292,7 +1460,9 @@
         "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Taeuber-Arp-Sophie",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "baader",
@@ -1310,7 +1480,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "grosz",
@@ -1329,7 +1501,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "heartfield",
@@ -1347,7 +1521,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "✦",
+    "role_label": "Autre"
   },
   {
     "id": "schwitters",
@@ -1366,7 +1542,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "freytag",
@@ -1385,7 +1563,9 @@
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "manray",
@@ -1404,7 +1584,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📷",
+    "role_label": "Photographie"
   },
   {
     "id": "suzanneduchamp",
@@ -1422,7 +1604,9 @@
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "wood",
@@ -1440,7 +1624,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "arnauld",
@@ -1459,7 +1645,9 @@
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "janco",
@@ -1477,7 +1665,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "crotti",
@@ -1493,7 +1683,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "citroen",
@@ -1511,7 +1703,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📷",
+    "role_label": "Photographie"
   },
   {
     "id": "richter",
@@ -1530,7 +1724,9 @@
         "url": "https://www.moma.org/calendar/exhibitions/80",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "cravan",
@@ -1548,7 +1744,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "pansaers",
@@ -1567,7 +1765,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "joostens",
@@ -1583,7 +1783,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "vano",
@@ -1602,7 +1804,9 @@
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "scutenaire",
@@ -1620,7 +1824,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture"
   },
   {
     "id": "hamoir",
@@ -1639,7 +1845,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "marien",
@@ -1657,7 +1865,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "📷",
+    "role_label": "Photographie"
   },
   {
     "id": "graverol",
@@ -1675,7 +1885,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "baes",
@@ -1693,7 +1905,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "chavee",
@@ -1712,7 +1926,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "dumont",
@@ -1730,7 +1946,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "colinet",
@@ -1748,7 +1966,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "simon",
@@ -1764,7 +1984,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "souris",
@@ -1780,7 +2002,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "𝄞",
+    "role_label": "Musique"
   },
   {
     "id": "servais",
@@ -1796,7 +2020,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
   },
   {
     "id": "eemans",
@@ -1812,7 +2038,9 @@
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
-    ]
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
   },
   {
     "id": "lecomte",
@@ -1829,6 +2057,483 @@
       {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "morton-feldman",
+    "name": "Morton Feldman",
+    "years": "1926–1987",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain de la New York School. Sa musique aux durées étirées et aux nuances infimes dialogue avec l’expressionnisme abstrait, notamment dans Rothko Chapel.",
+    "works": [
+      "Rothko Chapel"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/composer/morton-feldman/biography",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "john-cage",
+    "name": "John Cage",
+    "years": "1912–1992",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur, poète et penseur américain. Le hasard, l’indétermination et les happenings l’amènent à brouiller les frontières entre musique, arts visuels et performance.",
+    "works": [
+      "4′33″"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://resources.ircam.fr/fr/composer/john-cage/biography",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "earle-brown",
+    "name": "Earle Brown",
+    "years": "1926–2002",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain associé à la New York School. Ses partitions ouvertes et mobiles font écho à l’action painting et à l’art de l’imprévu.",
+    "works": [
+      "December 1952"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://earle-brown.org/bio/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "christian-wolff",
+    "name": "Christian Wolff",
+    "years": "1934–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain d’origine française, membre de la New York School. Son travail explore l’indétermination, l’écoute collective et les formes ouvertes.",
+    "works": [
+      "For 1, 2 or 3 People"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/christian-wolff",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "gyorgy-ligeti",
+    "name": "György Ligeti",
+    "years": "1923–2006",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur majeur de la musique du XXe siècle, connu pour ses masses sonores, ses textures complexes et ses recherches sur la perception.",
+    "works": [
+      "Atmosphères"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "iannis-xenakis",
+    "name": "Iannis Xenakis",
+    "years": "1922–2001",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur, architecte et ingénieur. Il transpose dans la musique des modèles mathématiques et des idées d’architecture et de spatialisation.",
+    "works": [
+      "Metastaseis"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "stockhausen",
+    "name": "Karlheinz Stockhausen",
+    "years": "1928–2007",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur allemand pionnier de la musique électronique et spatialisée, dont les œuvres transforment l’écoute en expérience de l’espace.",
+    "works": [
+      "Gesang der Jünglinge"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://stockhausen.org/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "luigi-nono",
+    "name": "Luigi Nono",
+    "years": "1924–1990",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur italien engagé, pionnier de l’électronique et de la spatialisation sonore. Ses œuvres interrogent mémoire, politique et écoute.",
+    "works": [
+      "Prometeo"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.luiginono.it/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "scriabin",
+    "name": "Alexander Scriabin",
+    "years": "1872–1915",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur russe dont l’harmonie visionnaire et le projet synesthésique du clavier de lumières rapprochent musique, couleur et expérience sensorielle.",
+    "works": [
+      "Prométhée, le Poème du feu"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Aleksandr-Scriabin",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "messiaen",
+    "name": "Olivier Messiaen",
+    "years": "1908–1992",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur français, organiste et pédagogue. Ses recherches sur les rythmes, les modes et le chant des oiseaux ouvrent un univers sonore singulier.",
+    "works": [
+      "Catalogue d’oiseaux"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "kurtag",
+    "name": "György Kurtág",
+    "years": "1926–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur hongrois dont l’écriture concentrée, fragmentaire et expressive fait de chaque son un événement presque sculptural.",
+    "works": [
+      "Játékok"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "takemitsu",
+    "name": "Tōru Takemitsu",
+    "years": "1930–1996",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur japonais qui mêle timbres, silence et formes ouvertes, en dialogue avec la nature, la poésie et les arts visuels.",
+    "works": [
+      "November Steps"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Toru-Takemitsu",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "philip-glass",
+    "name": "Philip Glass",
+    "years": "1937–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain majeur du minimalisme, dont les structures répétitives ont profondément marqué musique, opéra, cinéma et arts contemporains.",
+    "works": [
+      "Einstein on the Beach"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://philipglass.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "steve-reich",
+    "name": "Steve Reich",
+    "years": "1936–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain du minimalisme. Ses déphasages et ses boucles révèlent la transformation progressive du motif et du temps.",
+    "works": [
+      "Music for 18 Musicians"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.stevereich.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "terry-riley",
+    "name": "Terry Riley",
+    "years": "1935–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain pionnier du minimalisme, il développe des structures répétitives et des formes ouvertes influencées par l’improvisation.",
+    "works": [
+      "In C"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://terryriley.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "la-monte-young",
+    "name": "La Monte Young",
+    "years": "1935–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur et artiste américain, figure fondatrice du minimalisme et de l’art sonore, connu pour ses drones et ses expériences de durée.",
+    "works": [
+      "The Well-Tuned Piano"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.melafoundation.org/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "max-richter",
+    "name": "Max Richter",
+    "years": "1966–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur germano-britannique dont la musique associe écriture classique, répétition minimaliste, électronique et pratiques audiovisuelles.",
+    "works": [
+      "Sleep"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.maxrichtermusic.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "johann-johannsson",
+    "name": "Jóhann Jóhannsson",
+    "years": "1969–2018",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur islandais qui mêle orchestre, électronique et sons enregistrés, entre musique contemporaine et création pour le cinéma.",
+    "works": [
+      "Orphée"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.johannjohannsson.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "olafur-arnalds",
+    "name": "Ólafur Arnalds",
+    "years": "1986–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur et multi-instrumentiste islandais, il associe piano, cordes, électronique et dispositifs génératifs.",
+    "works": [
+      "re:member"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://olafurarnalds.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "brian-eno",
+    "name": "Brian Eno",
+    "years": "1948–",
+    "group": "Musique et arts visuels",
+    "bio": "Musicien, producteur et artiste britannique, pionnier de la musique ambient et des installations génératives, à la croisée du son et de l’art conceptuel.",
+    "works": [
+      "Music for Airports"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brian-eno.net/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "laurie-anderson",
+    "name": "Laurie Anderson",
+    "years": "1947–",
+    "group": "Musique et arts visuels",
+    "bio": "Artiste, musicienne et performeuse américaine qui combine voix, violon, électronique, récit et technologies dans des œuvres multimédias.",
+    "works": [
+      "O Superman"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://laurieanderson.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "christian-marclay",
+    "name": "Christian Marclay",
+    "years": "1955–",
+    "group": "Musique et arts visuels",
+    "bio": "Artiste visuel et compositeur suisse-américain. Il transforme disques, platines et enregistrements en matériaux de collage sonore et d’installation.",
+    "works": [
+      "The Clock"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.whitecube.com/artists/christian-marclay",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "william-basinski",
+    "name": "William Basinski",
+    "years": "1958–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur américain de musique ambient et expérimentale, connu pour ses boucles sur bande et ses œuvres sur l’érosion du son et la mémoire.",
+    "works": [
+      "The Disintegration Loops"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://williambasinski.com/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "eliane-radigue",
+    "name": "Éliane Radigue",
+    "years": "1932–2026",
+    "group": "Musique et arts visuels",
+    "bio": "Compositrice française pionnière de la musique électronique, elle développe des œuvres de longue durée où les infimes battements entre fréquences deviennent matière sonore.",
+    "works": [
+      "Adnos"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/composer/eliane-radigue/biography",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+      }
+    ]
+  },
+  {
+    "id": "charlemagne-palestine",
+    "name": "Charlemagne Palestine",
+    "years": "1947–",
+    "group": "Musique et arts visuels",
+    "bio": "Compositeur, performeur et artiste américain, associé au drone, à l’orgue, aux cloches et à des performances immersives proches des arts visuels.",
+    "works": [
+      "Strumming Music"
+    ],
+    "kind": "person",
+    "role_icon": "𝄞",
+    "role_label": "Musique",
+    "sources": [
+      {
+        "url": "https://www.charlemagnepalestine.org/",
+        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
       }
     ]
   }
