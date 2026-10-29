@@ -1181,5 +1181,655 @@
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
     ]
+  },
+  {
+    "id": "ball",
+    "name": "Hugo Ball",
+    "years": "1886–1927",
+    "group": "Dada",
+    "bio": "Écrivain et performeur allemand, cofondateur du Cabaret Voltaire à Zurich en 1916. Ses poèmes sonores comptent parmi les gestes fondateurs de Dada.",
+    "works": [
+      "Karawane",
+      "La Fuite hors du temps"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "hennings",
+    "name": "Emmy Hennings",
+    "years": "1885–1948",
+    "group": "Dada",
+    "bio": "Poétesse, chanteuse et performeuse allemande, cofondatrice du Cabaret Voltaire avec Hugo Ball. Figure centrale de Dada à Zurich, longtemps sous-estimée.",
+    "works": [
+      "Gefängnis",
+      "Das Brandmal"
+    ],
+    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "huelsenbeck",
+    "name": "Richard Huelsenbeck",
+    "years": "1892–1974",
+    "group": "Dada",
+    "bio": "Écrivain et médecin allemand, acteur du Dada zurichois puis berlinois. Il contribue à diffuser une version plus agressive et politique du mouvement.",
+    "works": [
+      "Dada Almanach"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "hausmann",
+    "name": "Raoul Hausmann",
+    "years": "1886–1971",
+    "group": "Dada",
+    "bio": "Artiste autrichien installé à Berlin, pionnier du photomontage et de la poésie sonore. Il participe au Dada berlinois et à sa critique des médias et du pouvoir.",
+    "works": [
+      "L'Esprit de notre temps",
+      "ABC Dada"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "hoch",
+    "name": "Hannah Höch",
+    "years": "1889–1978",
+    "group": "Dada",
+    "bio": "Artiste allemande et pionnière du photomontage, elle détourne images de presse, publicité et représentations du genre pour critiquer la société de Weimar.",
+    "works": [
+      "Coupe au couteau de cuisine Dada"
+    ],
+    "url": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/dada-africa-sources-et-influences-extra-occidentales",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/dada-africa-sources-et-influences-extra-occidentales",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "taeuber",
+    "name": "Sophie Taeuber-Arp",
+    "years": "1889–1943",
+    "group": "Dada",
+    "bio": "Artiste suisse, danseuse, designer et peintre abstraite. Active au Cabaret Voltaire, elle élargit Dada aux textiles, marionnettes, sculpture et architecture.",
+    "works": [
+      "Tête Dada",
+      "Décoration de l'Aubette"
+    ],
+    "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Taeuber-Arp-Sophie",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Taeuber-Arp-Sophie",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "baader",
+    "name": "Johannes Baader",
+    "years": "1875–1955",
+    "group": "Dada",
+    "bio": "Architecte de formation et agitateur dadaïste allemand, surnommé l'« Oberdada ». Ses actions publiques et ses collages brouillent art, politique et provocation.",
+    "works": [
+      "Oberdada"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "grosz",
+    "name": "George Grosz",
+    "years": "1893–1959",
+    "group": "Dada",
+    "bio": "Peintre et dessinateur allemand, membre du Dada berlinois. Ses caricatures acérées attaquent le militarisme, la bourgeoisie et les élites de l'Allemagne d'après-guerre.",
+    "works": [
+      "Ecce Homo",
+      "Les Piliers de la société"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "heartfield",
+    "name": "John Heartfield",
+    "years": "1891–1968",
+    "group": "Dada",
+    "bio": "Artiste allemand, pionnier du photomontage politique et membre du Dada berlinois. Il transforme les images imprimées en armes contre le nationalisme et le nazisme.",
+    "works": [
+      "Adolf le surhomme avale de l'or et débite des fadaises"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "schwitters",
+    "name": "Kurt Schwitters",
+    "years": "1887–1948",
+    "group": "Dada",
+    "bio": "Artiste allemand associé à Dada, créateur du Merz, pratique d'assemblage à partir de rebuts, imprimés et objets ordinaires. Il développe aussi poésie, typographie et installation.",
+    "works": [
+      "Merzbau",
+      "Anna Blume"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "freytag",
+    "name": "Elsa von Freytag-Loringhoven",
+    "years": "1874–1927",
+    "group": "Dada",
+    "bio": "Poétesse et artiste allemande installée à New York, figure radicale du proto-Dada. Performances, assemblages et poésie expérimentale mettent en crise les normes sociales et artistiques.",
+    "works": [
+      "God",
+      "Body Sweats"
+    ],
+    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "manray",
+    "name": "Man Ray",
+    "years": "1890–1976",
+    "group": "Dada / Surréalisme",
+    "bio": "Artiste américain installé à Paris, il participe au Dada parisien avant de devenir une figure majeure du surréalisme. Il expérimente photographie, rayogrammes, peinture et objets.",
+    "works": [
+      "Le Violon d'Ingres",
+      "Cadeau"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "suzanneduchamp",
+    "name": "Suzanne Duchamp",
+    "years": "1889–1963",
+    "group": "Dada",
+    "bio": "Peintre française, associée au Dada parisien et à ses jeux visuels et textuels. Son œuvre participe à l'expérimentation dadaïste au-delà des figures masculines les plus célèbres.",
+    "works": [
+      "Multiplication brisée et rétablie"
+    ],
+    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "wood",
+    "name": "Beatrice Wood",
+    "years": "1893–1998",
+    "group": "Dada",
+    "bio": "Artiste américaine, céramiste et autrice, proche du cercle dadaïste new-yorkais de Marcel Duchamp et Henri-Pierre Roché. Elle développe ensuite une œuvre singulière en céramique.",
+    "works": [
+      "I Shock Myself"
+    ],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "arnauld",
+    "name": "Céline Arnauld",
+    "years": "1885–1952",
+    "group": "Dada",
+    "bio": "Poétesse d'origine roumaine, active dans le Dada parisien. Elle fonde la revue Projecteur et publie une poésie qui associe expérimentation, ironie et images déconcertantes.",
+    "works": [
+      "Poèmes à claires-voies",
+      "Point de mire"
+    ],
+    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "janco",
+    "name": "Marcel Janco",
+    "years": "1895–1984",
+    "group": "Dada",
+    "bio": "Peintre et architecte roumain, cofondateur du Dada zurichois. Ses masques et reliefs de scène ont marqué les performances du Cabaret Voltaire.",
+    "works": [
+      "Masques Dada"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "crotti",
+    "name": "Jean Crotti",
+    "years": "1878–1958",
+    "group": "Dada",
+    "bio": "Peintre franco-suisse, lié aux avant-gardes parisiennes et au Dada. Il participe aux réseaux d'artistes qui contestent les frontières entre peinture, objet et idée.",
+    "works": [],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "citroen",
+    "name": "Paul Citroen",
+    "years": "1896–1983",
+    "group": "Dada",
+    "bio": "Artiste et photographe né à Berlin, actif dans les réseaux dadaïstes et constructivistes. Son photomontage et son enseignement au Bauhaus contribuent aux recherches modernes sur l'image.",
+    "works": [
+      "Metropolis"
+    ],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "richter",
+    "name": "Hans Richter",
+    "years": "1888–1976",
+    "group": "Dada",
+    "bio": "Peintre et cinéaste allemand, participant à Dada puis pionnier du cinéma expérimental. Il explore le mouvement, le rythme et l'abstraction dans des films sans narration traditionnelle.",
+    "works": [
+      "Rhythmus 21",
+      "Dada: Art and Anti-Art"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/80",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "cravan",
+    "name": "Arthur Cravan",
+    "years": "1887–1918",
+    "group": "Pré-Dada / avant-gardes",
+    "bio": "Poète, boxeur et provocateur, éditeur de la revue Maintenant. Par ses canulars et son rejet des institutions littéraires, il est souvent rapproché des gestes dadaïstes.",
+    "works": [
+      "Maintenant"
+    ],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "pansaers",
+    "name": "Clément Pansaers",
+    "years": "1885–1922",
+    "group": "Dada belge",
+    "bio": "Poète belge et figure du Dada international. Ses textes expérimentaux, publiés notamment dans Résurrection, mêlent jeux verbaux, satire et invention typographique.",
+    "works": [
+      "Pan-Pan au cul du nu nègre",
+      "Bar Nicanor"
+    ],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "joostens",
+    "name": "Paul Joostens",
+    "years": "1889–1960",
+    "group": "Dada belge",
+    "bio": "Artiste belge passé de l'avant-garde futuriste au dadaïsme. Il expérimente collage, assemblage et poésie visuelle dans les réseaux artistiques d'Anvers et de Bruxelles.",
+    "works": [],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "vano",
+    "name": "Paul van Ostaijen",
+    "years": "1896–1928",
+    "group": "Dada / expressionnisme flamand",
+    "bio": "Poète flamand, auteur de poésie typographique et sonore. Son recueil Bezette Stad fait de la mise en page et du rythme visuel une partie intégrante du poème.",
+    "works": [
+      "Bezette Stad",
+      "Het Sienjaal"
+    ],
+    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "scutenaire",
+    "name": "Louis Scutenaire",
+    "years": "1905–1987",
+    "group": "Surréalisme belge",
+    "bio": "Écrivain belge et membre du groupe surréaliste bruxellois, connu pour ses inscriptions, aphorismes et son humour anticonformiste. Il collabore étroitement avec Irène Hamoir et René Magritte.",
+    "works": [
+      "Mes inscriptions"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "hamoir",
+    "name": "Irène Hamoir",
+    "years": "1906–1994",
+    "group": "Surréalisme belge",
+    "bio": "Écrivaine belge, seule femme du noyau historique du groupe surréaliste bruxellois. Ses romans et sa poésie dialoguent avec l'humour, les jeux de langage et les images du groupe.",
+    "works": [
+      "La Cuve infernale",
+      "Corne de brume"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "marien",
+    "name": "Marcel Mariën",
+    "years": "1920–1993",
+    "group": "Surréalisme belge",
+    "bio": "Écrivain, éditeur, photographe et créateur d'objets surréalistes. Il rejoint le groupe belge autour de Magritte et Nougé et joue un rôle important dans la conservation de ses archives.",
+    "works": [
+      "L'Activité surréaliste en Belgique"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "graverol",
+    "name": "Jane Graverol",
+    "years": "1905–1984",
+    "group": "Surréalisme belge",
+    "bio": "Peintre belge dont les compositions oniriques et inquiétantes s'inscrivent dans le surréalisme. Elle participe aux réseaux surréalistes belges d'après-guerre et à la revue Les Lèvres nues.",
+    "works": [
+      "Le Cortège d'Orphée"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "baes",
+    "name": "Rachel Baes",
+    "years": "1912–1983",
+    "group": "Surréalisme belge",
+    "bio": "Peintre belge dont les tableaux mettent en scène des figures isolées, des atmosphères énigmatiques et des récits suspendus. Elle est associée au surréalisme belge.",
+    "works": [
+      "La Fin d'un monde"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "chavee",
+    "name": "Achille Chavée",
+    "years": "1906–1969",
+    "group": "Surréalisme belge",
+    "bio": "Poète belge, fondateur du groupe surréaliste Rupture à La Louvière. Son œuvre mêle humour, révolte politique, aphorisme et exploration de l'inconscient.",
+    "works": [
+      "Décoctions",
+      "L'Agenda d'émeraude"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "dumont",
+    "name": "Fernand Dumont",
+    "years": "1906–1945",
+    "group": "Surréalisme belge",
+    "bio": "Poète et essayiste belge, membre du groupe surréaliste Rupture. Arrêté pendant l'Occupation pour ses activités de résistance, il meurt en déportation.",
+    "works": [
+      "La Région du cœur"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "colinet",
+    "name": "Paul Colinet",
+    "years": "1898–1957",
+    "group": "Surréalisme belge",
+    "bio": "Poète belge lié au groupe surréaliste bruxellois, réputé pour ses textes brefs, son humour et ses associations verbales imprévisibles.",
+    "works": [
+      "Les Dés pipés"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "simon",
+    "name": "Armand Simon",
+    "years": "1906–1981",
+    "group": "Surréalisme belge",
+    "bio": "Dessinateur belge associé au groupe surréaliste du Hainaut. Ses dessins minutieux et visionnaires transforment les formes familières en paysages mentaux inquiétants.",
+    "works": [],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "souris",
+    "name": "André Souris",
+    "years": "1899–1970",
+    "group": "Surréalisme belge",
+    "bio": "Compositeur et chef d'orchestre belge, proche du groupe surréaliste bruxellois. Il expérimente les rapports entre musique, poésie et arts visuels avant de prendre ses distances avec le groupe.",
+    "works": [],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "servais",
+    "name": "Max Servais",
+    "years": "1904–1940",
+    "group": "Surréalisme belge",
+    "bio": "Peintre belge lié au surréalisme, auteur d'images oniriques et de compositions énigmatiques dans l'entre-deux-guerres.",
+    "works": [],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "eemans",
+    "name": "Marc Eemans",
+    "years": "1907–1998",
+    "group": "Surréalisme belge",
+    "bio": "Peintre, poète et essayiste belge, proche du surréalisme bruxellois dans les années 1920 avant de développer une voie ésotérique et symboliste singulière.",
+    "works": [],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
+  },
+  {
+    "id": "lecomte",
+    "name": "Marcel Lecomte",
+    "years": "1900–1966",
+    "group": "Surréalisme belge",
+    "bio": "Poète et écrivain belge, membre du premier cercle surréaliste bruxellois. Avec Nougé et Goemans, il participe à l'aventure des tracts Correspondance.",
+    "works": [
+      "Le Sens des tarots"
+    ],
+    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+      }
+    ]
   }
 ]
