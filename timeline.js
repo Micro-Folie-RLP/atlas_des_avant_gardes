@@ -1,5 +1,5 @@
 (async()=>{'use strict';
-const [entities,facts]=await Promise.all(['entities.json','facts.json'].map(async path=>{const r=await fetch(path+'?v=0.5');if(!r.ok)throw Error('Chargement '+path);return r.json()}));
+const [entities,facts]=await Promise.all(['entities.json','facts.json'].map(async path=>{const r=await fetch(path+'?v=0.7');if(!r.ok)throw Error('Chargement '+path);return r.json()}));
 const people=entities.filter(e=>e.kind==='person');const byId=Object.fromEntries(entities.map(e=>[e.id,e]));const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 // Indexation par patronyme : quelques cas complexes sont explicitement normalisés.
 const surnames={reneville:'Rolland de Renéville',ribemont:'Ribemont-Dessaignes',gilbert:'Gilbert-Lecomte',boiffard:'Boiffard',mesens:'Mesens'};
@@ -18,12 +18,13 @@ if(birth!==null){const bar=document.createElement('div');const complete=death!==
 row.append(name,track);row.addEventListener('click',()=>show(p.id));row.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();show(p.id)}});rows.append(row);rowById.set(p.id,row)}
 
 /* La barre fixe suit la largeur réelle de la frise et reste synchronisée. */
+const timelineScroller=document.querySelector('#timeline');
 const bottomScroll=document.querySelector('#timeline-bottom-scroll');
 const bottomInner=document.querySelector('#timeline-bottom-scroll-inner');
 let syncingScroll=false;
-function updateBottomScrollWidth(){bottomInner.style.width=Math.max(timeline.scrollWidth,timeline.clientWidth)+'px';bottomScroll.scrollLeft=timeline.scrollLeft}
-timeline.addEventListener('scroll',()=>{if(syncingScroll)return;syncingScroll=true;bottomScroll.scrollLeft=timeline.scrollLeft;syncingScroll=false},{passive:true});
-bottomScroll.addEventListener('scroll',()=>{if(syncingScroll)return;syncingScroll=true;timeline.scrollLeft=bottomScroll.scrollLeft;syncingScroll=false},{passive:true});
+function updateBottomScrollWidth(){bottomInner.style.width=Math.max(timelineScroller.scrollWidth,timelineScroller.clientWidth)+'px';bottomScroll.scrollLeft=timelineScroller.scrollLeft}
+timelineScroller.addEventListener('scroll',()=>{if(syncingScroll)return;syncingScroll=true;bottomScroll.scrollLeft=timelineScroller.scrollLeft;syncingScroll=false},{passive:true});
+bottomScroll.addEventListener('scroll',()=>{if(syncingScroll)return;syncingScroll=true;timelineScroller.scrollLeft=bottomScroll.scrollLeft;syncingScroll=false},{passive:true});
 window.addEventListener('resize',updateBottomScrollWidth);
 
 updateBottomScrollWidth();
