@@ -1,5 +1,5 @@
 (async()=>{'use strict';
-const [entities,facts]=await Promise.all(['entities.json','facts.json'].map(async path=>{const r=await fetch(path);if(!r.ok)throw Error('Chargement '+path);return r.json()}));
+const [entities,facts]=await Promise.all(['entities.json','facts.json'].map(async path=>{const r=await fetch(path+'?v=0.4');if(!r.ok)throw Error('Chargement '+path);return r.json()}));
 const people=entities.filter(e=>e.kind==='person');const byId=Object.fromEntries(entities.map(e=>[e.id,e]));const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 // Indexation par patronyme : quelques cas complexes sont explicitement normalisés.
 const surnames={reneville:'Rolland de Renéville',ribemont:'Ribemont-Dessaignes',gilbert:'Gilbert-Lecomte',boiffard:'Boiffard',mesens:'Mesens'};
