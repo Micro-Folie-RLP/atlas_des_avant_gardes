@@ -75,7 +75,10 @@
     ],
     "kind": "person",
     "role_icon": "🧠",
-    "role_label": "Pensée et critique"
+    "role_label": "Pensée et critique",
+    "groups": [
+      "Acéphale"
+    ]
   },
   {
     "id": "masson",
@@ -86,7 +89,10 @@
     "works": [],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "groups": [
+      "Acéphale"
+    ]
   },
   {
     "id": "bataille",
@@ -99,7 +105,10 @@
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "groups": [
+      "Acéphale"
+    ]
   },
   {
     "id": "breton",
@@ -153,7 +162,10 @@
     ],
     "kind": "person",
     "role_icon": "🧠",
-    "role_label": "Pensée et critique"
+    "role_label": "Pensée et critique",
+    "groups": [
+      "Acéphale"
+    ]
   },
   {
     "id": "nouge",
@@ -300,7 +312,10 @@
     "verification": "a_completer",
     "kind": "person",
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "groups": [
+      "Acéphale"
+    ]
   },
   {
     "id": "ribemont",
@@ -348,7 +363,10 @@
     "verification": "a_completer",
     "kind": "person",
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "aragon",
@@ -432,7 +450,10 @@
     "verification": "a_completer",
     "kind": "person",
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "groups": [
+      "Acéphale"
+    ]
   },
   {
     "id": "mesens",
@@ -1421,7 +1442,10 @@
       }
     ],
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "hoch",
@@ -1462,7 +1486,10 @@
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "baader",
@@ -1544,7 +1571,10 @@
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "freytag",
@@ -2098,6 +2128,10 @@
         "url": "https://resources.ircam.fr/fr/composer/john-cage/biography",
         "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
       }
+    ],
+    "groups": [
+      "ZAJ",
+      "Fluxus"
     ]
   },
   {
@@ -3484,7 +3518,11 @@
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "groups": [
+      "ZAJ",
+      "Poésie sonore"
+    ]
   },
   {
     "id": "gil-j-wolman",
@@ -3512,7 +3550,10 @@
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "groups": [
+      "ZAJ"
+    ]
   },
   {
     "id": "arrigo-lora-totino",
@@ -3553,7 +3594,10 @@
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "groups": [
+      "Art vidéo"
+    ]
   },
   {
     "id": "paul-de-vree",
@@ -4562,7 +4606,10 @@
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "groups": [
+      "Art conceptuel"
+    ]
   },
   {
     "id": "nam-june-paik",
@@ -4576,7 +4623,10 @@
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "groups": [
+      "Art vidéo"
+    ]
   },
   {
     "id": "alison-knowles",
@@ -4660,7 +4710,10 @@
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "groups": [
+      "Art vidéo"
+    ]
   },
   {
     "id": "daniel-spoerri",
@@ -4828,7 +4881,10 @@
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "groups": [
+      "Art conceptuel"
+    ]
   },
   {
     "id": "robert-watts",
@@ -4913,5 +4969,1518 @@
     "kind": "person",
     "role_icon": "🎭",
     "role_label": "Performance"
+  },
+  {
+    "id": "baargeld",
+    "name": "Johannes Theodor Baargeld",
+    "years": "1892–1927",
+    "group": "Dada de Cologne",
+    "bio": "Artiste et écrivain, coorganisateur du dadaïsme de Cologne avec Max Ernst et Hans Arp.",
+    "works": [
+      "Collages dada",
+      "Bulletin D"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/dada",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "max-ernst",
+    "name": "Max Ernst",
+    "years": "1891–1976",
+    "group": "Dada / surréalisme",
+    "bio": "Peintre et collagiste allemand, il participe au dadaïsme de Cologne avant de devenir une figure majeure du surréalisme.",
+    "works": [
+      "La Femme 100 têtes",
+      "Au rendez-vous des amis"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/dada",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "theo-van-doesburg",
+    "name": "Theo van Doesburg",
+    "years": "1883–1931",
+    "group": "De Stijl",
+    "bio": "Peintre, architecte et théoricien néerlandais, fondateur de De Stijl et promoteur d’une abstraction géométrique internationale.",
+    "works": [
+      "Éléments de construction",
+      "De Stijl"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "piet-mondrian",
+    "name": "Piet Mondrian",
+    "years": "1872–1944",
+    "group": "De Stijl",
+    "bio": "Peintre néerlandais, il développe le néoplasticisme fondé sur les lignes orthogonales et les couleurs primaires.",
+    "works": [
+      "Composition avec rouge, bleu et jaune",
+      "De Nieuwe Beelding"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "gerrit-rietveld",
+    "name": "Gerrit Rietveld",
+    "years": "1888–1964",
+    "group": "De Stijl",
+    "bio": "Architecte et designer néerlandais, il transpose les principes de De Stijl dans le mobilier et l’architecture.",
+    "works": [
+      "Chaise rouge et bleue",
+      "Maison Schröder"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "bart-van-der-leck",
+    "name": "Bart van der Leck",
+    "years": "1876–1958",
+    "group": "De Stijl",
+    "bio": "Peintre néerlandais proche des débuts de De Stijl, il réduit progressivement les formes à des aplats colorés et des lignes.",
+    "works": [
+      "Composition avec couleurs primaires",
+      "Travaux pour l’entreprise Müller"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "vilmos-huszár",
+    "name": "Vilmos Huszár",
+    "years": "1884–1960",
+    "group": "De Stijl",
+    "bio": "Peintre et designer hongrois installé aux Pays-Bas, cofondateur de De Stijl et collaborateur de la revue éponyme.",
+    "works": [
+      "Décoration intérieure De Stijl",
+      "Couverture de De Stijl"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "j-j-p-oud",
+    "name": "J. J. P. Oud",
+    "years": "1890–1963",
+    "group": "De Stijl",
+    "bio": "Architecte néerlandais, il applique les principes de De Stijl à l’architecture sociale et au logement moderne.",
+    "works": [
+      "Logements de Rotterdam",
+      "Café De Unie"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "cornelis-van-eesteren",
+    "name": "Cornelis van Eesteren",
+    "years": "1897–1988",
+    "group": "De Stijl / architecture moderne",
+    "bio": "Architecte et urbaniste néerlandais, il collabore avec Theo van Doesburg et développe une approche fonctionnaliste de l’urbanisme.",
+    "works": [
+      "Plans d’urbanisme d’Amsterdam"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "vantongerloo",
+    "name": "Georges Vantongerloo",
+    "years": "1886–1965",
+    "group": "De Stijl",
+    "bio": "Sculpteur et peintre belge, il explore les relations mathématiques entre volumes, lignes et couleurs dans l’abstraction.",
+    "works": [
+      "Construction dans la sphère",
+      "Compositions mathématiques"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "walter-gropius",
+    "name": "Walter Gropius",
+    "years": "1883–1969",
+    "group": "Bauhaus",
+    "bio": "Architecte allemand, fondateur du Bauhaus en 1919, école qui rapproche art, artisanat, architecture et industrie.",
+    "works": [
+      "Bâtiment du Bauhaus à Dessau",
+      "Manifeste du Bauhaus"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "paul-klee",
+    "name": "Paul Klee",
+    "years": "1879–1940",
+    "group": "Bauhaus",
+    "bio": "Peintre et pédagogue, il enseigne au Bauhaus et développe une œuvre nourrie de signes, de musique et de théorie de la couleur.",
+    "works": [
+      "Pédagogie de l’art moderne",
+      "Twittering Machine"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "laszlo-moholy-nagy",
+    "name": "László Moholy-Nagy",
+    "years": "1895–1946",
+    "group": "Bauhaus / art vidéo",
+    "bio": "Artiste hongrois, enseignant au Bauhaus, il expérimente photographie, typographie, lumière, film et matériaux industriels.",
+    "works": [
+      "Light-Space Modulator",
+      "Painting, Photography, Film"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "oskar-schlemmer",
+    "name": "Oskar Schlemmer",
+    "years": "1888–1943",
+    "group": "Bauhaus",
+    "bio": "Peintre, sculpteur et chorégraphe, il explore les rapports entre corps, espace et géométrie au Bauhaus.",
+    "works": [
+      "Ballet triadique",
+      "Figurines du Bauhaus"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "marcel-breuer",
+    "name": "Marcel Breuer",
+    "years": "1902–1981",
+    "group": "Bauhaus",
+    "bio": "Architecte et designer hongrois, il transforme le mobilier moderne par l’usage du tube d’acier et développe une architecture fonctionnaliste.",
+    "works": [
+      "Chaise Wassily",
+      "Chaise Cesca"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "johannes-itten",
+    "name": "Johannes Itten",
+    "years": "1888–1967",
+    "group": "Bauhaus",
+    "bio": "Peintre et pédagogue suisse, il conçoit le cours préliminaire du Bauhaus et une méthode influente d’enseignement de la couleur.",
+    "works": [
+      "L’Art de la couleur",
+      "Études chromatiques"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "josef-albers",
+    "name": "Josef Albers",
+    "years": "1888–1976",
+    "group": "Bauhaus / art conceptuel",
+    "bio": "Artiste et pédagogue, formé au Bauhaus puis enseignant, il étudie systématiquement les interactions entre couleurs et perception.",
+    "works": [
+      "Homage to the Square",
+      "Interaction of Color"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "anni-albers",
+    "name": "Anni Albers",
+    "years": "1899–1994",
+    "group": "Bauhaus",
+    "bio": "Artiste textile et théoricienne, elle élève le tissage au rang d’art moderne et expérimente structure, matière et abstraction.",
+    "works": [
+      "On Weaving",
+      "Textiles du Bauhaus"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "marianne-brandt",
+    "name": "Marianne Brandt",
+    "years": "1893–1983",
+    "group": "Bauhaus",
+    "bio": "Designer et photographe allemande, elle conçoit des objets métalliques emblématiques de l’atelier de métal du Bauhaus.",
+    "works": [
+      "Théière MT 49",
+      "Luminaires"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "gertrud-arndt",
+    "name": "Gertrud Arndt",
+    "years": "1903–2000",
+    "group": "Bauhaus / photographie",
+    "bio": "Photographe et designer textile, elle réalise au Bauhaus des autoportraits masqués devenus des jalons de la photographie expérimentale.",
+    "works": [
+      "Masquerades",
+      "Textiles du Bauhaus"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "lucia-moholy",
+    "name": "Lucia Moholy",
+    "years": "1894–1989",
+    "group": "Bauhaus / photographie",
+    "bio": "Photographe et écrivaine, elle documente les bâtiments, les objets et la vie du Bauhaus par des images devenues essentielles à son histoire.",
+    "works": [
+      "Photographies du Bauhaus",
+      "A Hundred Years of Photography"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "karel-teige",
+    "name": "Karel Teige",
+    "years": "1900–1951",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Critique, théoricien et graphiste tchèque, il relie le poétisme, le constructivisme et le surréalisme pragois.",
+    "works": [
+      "Collages typographiques",
+      "Écrits sur le poétisme"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "toy en",
+    "name": "Toyen",
+    "years": "1902–1980",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Peintre tchèque, figure majeure du surréalisme à Prague puis à Paris, elle développe une imagerie énigmatique.",
+    "works": [
+      "Le Tir",
+      "La Dormeuse"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "jindrich-styrsky",
+    "name": "Jindřich Štyrský",
+    "years": "1899–1942",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Peintre, photographe et écrivain tchèque, cofondateur du groupe surréaliste de Prague et du mouvement artificiel.",
+    "works": [
+      "Emilie vient à moi en rêve",
+      "Collages"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "vitezslav-nezval",
+    "name": "Vítězslav Nezval",
+    "years": "1900–1958",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Poète tchèque, membre du groupe Devětsil puis animateur du surréalisme pragois.",
+    "works": [
+      "Absolutní hrobař",
+      "Les Yeux de verre"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "jindrich-heisler",
+    "name": "Jindřich Heisler",
+    "years": "1914–1953",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Poète et artiste tchèque, il rejoint le groupe surréaliste de Prague et réalise des livres-objets et des photographies expérimentales.",
+    "works": [
+      "Les Spectres du désert",
+      "Poèmes et photographies"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "mikulas-medek",
+    "name": "Mikuláš Medek",
+    "years": "1926–1974",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Peintre tchèque, son œuvre d’après-guerre mêle surréalisme, matière et images corporelles.",
+    "works": [
+      "Cycles figuratifs"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "emila-medkova",
+    "name": "Emila Medková",
+    "years": "1928–1985",
+    "group": "Surréalisme d’Europe centrale",
+    "bio": "Photographe tchèque, elle transforme murs, objets et détails urbains en images surréalistes inquiétantes.",
+    "works": [
+      "Photographies de murs",
+      "Cycles photographiques"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "asger-jorn",
+    "name": "Asger Jorn",
+    "years": "1914–1973",
+    "group": "CoBrA / art conceptuel",
+    "bio": "Peintre danois, cofondateur de CoBrA et théoricien de l’art expérimental, il participe aussi à l’Internationale situationniste.",
+    "works": [
+      "Stalingrad",
+      "Pour la forme"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "karel-appel",
+    "name": "Karel Appel",
+    "years": "1921–2006",
+    "group": "CoBrA",
+    "bio": "Peintre et sculpteur néerlandais, cofondateur de CoBrA, il défend une création spontanée, colorée et anti-académique.",
+    "works": [
+      "Enfants interrogateurs",
+      "Peintures CoBrA"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "constant-nieuwenhuys",
+    "name": "Constant Nieuwenhuys",
+    "years": "1920–2005",
+    "group": "CoBrA / situationnisme",
+    "bio": "Artiste néerlandais, membre de CoBrA puis de l’Internationale situationniste, il conçoit New Babylon comme une ville ludique et collective.",
+    "works": [
+      "New Babylon",
+      "Animaux"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "corneille",
+    "name": "Corneille",
+    "years": "1922–2010",
+    "group": "CoBrA",
+    "bio": "Peintre néerlandais, cofondateur de CoBrA, il associe couleurs vives, formes spontanées et motifs animaux ou humains.",
+    "works": [
+      "Oiseaux et femmes",
+      "Peintures CoBrA"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "pierre-alechinsky",
+    "name": "Pierre Alechinsky",
+    "years": "1927–",
+    "group": "CoBrA",
+    "bio": "Peintre belge, membre de CoBrA, il développe une peinture gestuelle où l’image centrale s’entoure de marges dessinées.",
+    "works": [
+      "Central Park",
+      "Encres et peintures"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "christian-dotremont",
+    "name": "Christian Dotremont",
+    "years": "1922–1979",
+    "group": "CoBrA",
+    "bio": "Poète et peintre belge, cofondateur et théoricien de CoBrA, inventeur des logogrammes mêlant écriture et dessin.",
+    "works": [
+      "Logogrammes",
+      "Le grand rendez-vous"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "joseph-noiret",
+    "name": "Joseph Noiret",
+    "years": "1927–2012",
+    "group": "CoBrA",
+    "bio": "Poète belge, cofondateur de CoBrA et acteur des échanges entre poésie, peinture et expérimentation collective.",
+    "works": [
+      "Manifestes CoBrA",
+      "Poèmes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "jorgen-nash",
+    "name": "Jørgen Nash",
+    "years": "1920–2004",
+    "group": "CoBrA / situationnisme",
+    "bio": "Poète et artiste danois, membre de CoBrA puis cofondateur d’une Internationale situationniste dissidente.",
+    "works": [
+      "Poésie visuelle",
+      "Actions collectives"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "henry-heerup",
+    "name": "Henry Heerup",
+    "years": "1907–1993",
+    "group": "CoBrA",
+    "bio": "Peintre et sculpteur danois proche des réseaux de CoBrA, il travaille à partir de matériaux trouvés et d’un imaginaire populaire.",
+    "works": [
+      "Sculptures de rebut",
+      "Peintures"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "carl-henning-pedersen",
+    "name": "Carl-Henning Pedersen",
+    "years": "1913–2007",
+    "group": "CoBrA",
+    "bio": "Peintre danois, membre de CoBrA, il construit un univers mythique peuplé de figures et de créatures imaginaires.",
+    "works": [
+      "Peintures CoBrA",
+      "Créatures fantastiques"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "jiri-kolar",
+    "name": "Jiří Kolář",
+    "years": "1914–2002",
+    "group": "Surréalisme d’Europe centrale / art conceptuel",
+    "bio": "Poète et artiste tchèque, il transforme papier, textes et images en collages et expérimentations visuelles.",
+    "works": [
+      "Rollages",
+      "Collages"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ],
+    "groups": [
+      "Art conceptuel"
+    ]
+  },
+  {
+    "id": "jiri-valoch",
+    "name": "Jiří Valoch",
+    "years": "1946–",
+    "group": "Art conceptuel / ZAJ",
+    "bio": "Poète visuel, artiste conceptuel et théoricien tchèque, il explore texte, langage et formes minimales.",
+    "works": [
+      "Poèmes visuels",
+      "Textes conceptuels"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "petr-stembera",
+    "name": "Petr Štembera",
+    "years": "1945–",
+    "group": "Art conceptuel",
+    "bio": "Artiste tchèque, figure de l’art corporel et conceptuel, il réalise des actions mettant le corps à l’épreuve.",
+    "works": [
+      "Grafting",
+      "Actions corporelles"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "jiri-kovanda",
+    "name": "Jiří Kovanda",
+    "years": "1953–",
+    "group": "Art conceptuel",
+    "bio": "Artiste tchèque, connu pour ses actions discrètes dans l’espace public qui perturbent subtilement les habitudes sociales.",
+    "works": [
+      "Actions de Prague",
+      "Interventions publiques"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "stanislav-kolibal",
+    "name": "Stanislav Kolíbal",
+    "years": "1925–",
+    "group": "Art conceptuel",
+    "bio": "Sculpteur et artiste tchèque, il développe des structures minimales et des dessins où l’incertitude et l’équilibre deviennent sujets.",
+    "works": [
+      "Structures",
+      "Dessins"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "milan-adamciak",
+    "name": "Milan Adamčiak",
+    "years": "1946–2017",
+    "group": "Art conceptuel / musique expérimentale",
+    "bio": "Compositeur, artiste visuel et musicologue slovaque, il crée partitions graphiques, objets sonores et performances expérimentales.",
+    "works": [
+      "Partitions graphiques",
+      "Œuvres sonores"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "peter-weibel",
+    "name": "Peter Weibel",
+    "years": "1944–2023",
+    "group": "Art conceptuel / art vidéo",
+    "bio": "Artiste, théoricien et commissaire autrichien, il travaille sur la vidéo, les médias et les rapports entre langage et technologie.",
+    "works": [
+      "Teleaktionen",
+      "The Endless Sandwich"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "valie-export",
+    "name": "VALIE EXPORT",
+    "years": "1940–",
+    "group": "Art vidéo / performance",
+    "bio": "Artiste autrichienne, pionnière de la performance féministe et de l’art vidéo, elle interroge le corps, le regard et les médias.",
+    "works": [
+      "Tapp und Tastkino",
+      "Facing a Family"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "birgit-jurgenssen",
+    "name": "Birgit Jürgenssen",
+    "years": "1949–2003",
+    "group": "Art conceptuel / performance",
+    "bio": "Artiste autrichienne, figure de l’art féministe, elle utilise photographie, dessin et performance pour interroger les rôles de genre.",
+    "works": [
+      "Hausfrauen-Küchenschürze",
+      "Selbst mit Pelz"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "bruce-nauman",
+    "name": "Bruce Nauman",
+    "years": "1941–",
+    "group": "Art conceptuel / art vidéo",
+    "bio": "Artiste américain, il explore langage, corps, répétition et espace par la sculpture, la performance et la vidéo.",
+    "works": [
+      "Walking in an Exaggerated Manner Around the Perimeter of a Square",
+      "The True Artist Helps the World by Revealing Mystic Truths"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "joan-jonas",
+    "name": "Joan Jonas",
+    "years": "1936–",
+    "group": "Art vidéo / performance",
+    "bio": "Artiste américaine, pionnière de la vidéo et de la performance, elle combine gestes, miroirs, dessin, son et images enregistrées.",
+    "works": [
+      "Vertical Roll",
+      "Organic Honey’s Visual Telepathy"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "martha-rosler",
+    "name": "Martha Rosler",
+    "years": "1943–",
+    "group": "Art conceptuel / art vidéo",
+    "bio": "Artiste américaine, elle mêle vidéo, photographie et critique sociale autour des médias, du genre et de la guerre.",
+    "works": [
+      "Semiotics of the Kitchen",
+      "The Bowery in two inadequate descriptive systems"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "peter-campus",
+    "name": "Peter Campus",
+    "years": "1937–",
+    "group": "Art vidéo",
+    "bio": "Artiste américain, pionnier de l’installation vidéo en circuit fermé et des recherches sur la perception et l’image de soi.",
+    "works": [
+      "Three Transitions",
+      "Interface"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "dan-graham",
+    "name": "Dan Graham",
+    "years": "1942–2022",
+    "group": "Art conceptuel / art vidéo",
+    "bio": "Artiste et théoricien américain, il explore architecture, télévision, miroirs et participation du public.",
+    "works": [
+      "Present Continuous Past(s)",
+      "Rock My Religion"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "dara-birnbaum",
+    "name": "Dara Birnbaum",
+    "years": "1946–",
+    "group": "Art vidéo",
+    "bio": "Artiste américaine, pionnière de la vidéo féministe, elle déconstruit les images de la télévision et de la culture populaire.",
+    "works": [
+      "Technology/Transformation: Wonder Woman",
+      "Kiss the Girls: Make Them Cry"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "bill-viola",
+    "name": "Bill Viola",
+    "years": "1951–2024",
+    "group": "Art vidéo",
+    "bio": "Artiste américain, il développe des installations vidéo immersives autour du temps, du corps, de la naissance et de la mort.",
+    "works": [
+      "The Passing",
+      "The Crossing"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "gary-hill",
+    "name": "Gary Hill",
+    "years": "1951–",
+    "group": "Art vidéo",
+    "bio": "Artiste américain, il explore les relations entre image vidéo, langage, corps et espace dans des installations interactives.",
+    "works": [
+      "Tall Ships",
+      "Incidence of Catastrophe"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Art vidéo",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/video",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "joseph-kosuth",
+    "name": "Joseph Kosuth",
+    "years": "1945–",
+    "group": "Art conceptuel",
+    "bio": "Artiste américain, figure fondatrice de l’art conceptuel, il place langage, définition et contexte au cœur de l’œuvre.",
+    "works": [
+      "One and Three Chairs",
+      "Art after Philosophy"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "sol-lewitt",
+    "name": "Sol LeWitt",
+    "years": "1928–2007",
+    "group": "Art conceptuel",
+    "bio": "Artiste américain, il définit l’œuvre conceptuelle par l’idée et les instructions, notamment dans ses structures et dessins muraux.",
+    "works": [
+      "Paragraphs on Conceptual Art",
+      "Wall Drawings"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "lawrence-weiner",
+    "name": "Lawrence Weiner",
+    "years": "1942–2021",
+    "group": "Art conceptuel",
+    "bio": "Artiste américain, il utilise le langage comme matériau et conçoit des œuvres dont l’exécution physique n’est pas toujours nécessaire.",
+    "works": [
+      "Statements",
+      "Declaration of Intent"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "terry-atkinson",
+    "name": "Terry Atkinson",
+    "years": "1939–",
+    "group": "Art conceptuel",
+    "bio": "Artiste britannique, cofondateur du collectif Art & Language, il contribue à une pratique analytique et théorique de l’art conceptuel.",
+    "works": [
+      "Art-Language",
+      "Map to Not Indicate"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "hanne-darboven",
+    "name": "Hanne Darboven",
+    "years": "1941–2009",
+    "group": "Art conceptuel",
+    "bio": "Artiste allemande, elle crée des installations sérielles fondées sur l’écriture, les nombres, le calendrier et la durée.",
+    "works": [
+      "Kulturgeschichte 1880–1983",
+      "Schreibzeit"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "on-kawara",
+    "name": "On Kawara",
+    "years": "1932–2014",
+    "group": "Art conceptuel",
+    "bio": "Artiste japonais, il transforme dates, lieux et traces quotidiennes en œuvres conceptuelles sur le temps et l’existence.",
+    "works": [
+      "Today Series",
+      "I Am Still Alive"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "stanley-brouwn",
+    "name": "Stanley Brouwn",
+    "years": "1935–2017",
+    "group": "Art conceptuel",
+    "bio": "Artiste néerlandais, il explore mesure, déplacement et langage avec une pratique conceptuelle volontairement discrète.",
+    "works": [
+      "This Way Brouwn",
+      "Distances"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "marina-abramovic",
+    "name": "Marina Abramović",
+    "years": "1946–",
+    "group": "Art conceptuel / performance",
+    "bio": "Artiste serbe, figure majeure de la performance, elle place l’endurance, la présence et la relation au public au centre de son travail.",
+    "works": [
+      "Rhythm 0",
+      "The Artist Is Present"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "patrick-waldberg",
+    "name": "Patrick Waldberg",
+    "years": "1913–1985",
+    "group": "Acéphale",
+    "bio": "Critique d’art et écrivain, proche de Georges Bataille et membre du cercle de la société secrète Acéphale.",
+    "works": [
+      "L’Univers surréaliste",
+      "Écrits sur le surréalisme"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ],
+    "groups": [
+      "Acéphale"
+    ]
+  },
+  {
+    "id": "isabelle-waldberg",
+    "name": "Isabelle Waldberg",
+    "years": "1911–1990",
+    "group": "Acéphale",
+    "bio": "Sculptrice suisse, elle rejoint la société secrète Acéphale en 1938 et développe une œuvre sculpturale liée aux milieux d’avant-garde.",
+    "works": [
+      "Sculptures en fil de fer",
+      "Assemblages"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ],
+    "groups": [
+      "Acéphale"
+    ]
+  },
+  {
+    "id": "jean-wahl",
+    "name": "Jean Wahl",
+    "years": "1888–1974",
+    "group": "Acéphale",
+    "bio": "Philosophe français, contributeur de la revue Acéphale et interlocuteur des débats autour de Nietzsche et de l’existence.",
+    "works": [
+      "Études kierkegaardiennes",
+      "Vers le concret"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ],
+    "groups": [
+      "Acéphale"
+    ]
+  },
+  {
+    "id": "jules-monnerot",
+    "name": "Jules Monnerot",
+    "years": "1909–1995",
+    "group": "Acéphale",
+    "bio": "Sociologue et essayiste français, il contribue à la revue Acéphale et participe aux débats intellectuels du cercle.",
+    "works": [
+      "La Poésie moderne et le sacré",
+      "Sociologie du communisme"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ],
+    "groups": [
+      "Acéphale"
+    ]
+  },
+  {
+    "id": "walter-marchetti",
+    "name": "Walter Marchetti",
+    "years": "1931–2015",
+    "group": "ZAJ / musique expérimentale",
+    "bio": "Compositeur italien, cofondateur du groupe espagnol ZAJ avec Juan Hidalgo et Ramón Barce, il développe une musique d’action conceptuelle.",
+    "works": [
+      "Música para un vaso no muy grande",
+      "Arpocrate seduto sul loto"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "esther-ferrer",
+    "name": "Esther Ferrer",
+    "years": "1937–",
+    "group": "ZAJ / art conceptuel",
+    "bio": "Artiste espagnole, membre majeure de ZAJ, elle développe performances, actions, installations et recherches sur le temps et la géométrie.",
+    "works": [
+      "Íntimo y personal",
+      "Performances et installations"
+    ],
+    "kind": "person",
+    "role_icon": "◻️",
+    "role_label": "Art conceptuel",
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "ramon-barce",
+    "name": "Ramón Barce",
+    "years": "1928–2008",
+    "group": "ZAJ / musique expérimentale",
+    "bio": "Compositeur et théoricien espagnol, cofondateur de ZAJ, il contribue au renouvellement de la musique contemporaine en Espagne.",
+    "works": [
+      "Système de niveaux",
+      "Œuvres pour ensemble"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "tomas-marco",
+    "name": "Tomás Marco",
+    "years": "1942–",
+    "group": "ZAJ / musique expérimentale",
+    "bio": "Compositeur et essayiste espagnol, il participe aux activités et aux réseaux du groupe ZAJ.",
+    "works": [
+      "Œuvres expérimentales",
+      "Écrits sur la musique"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "lucebert",
+    "name": "Lucebert",
+    "years": "1924–1994",
+    "group": "CoBrA",
+    "bio": "Poète et peintre néerlandais, proche de CoBrA, il mêle langage expérimental, dessin et peinture spontanée.",
+    "works": [
+      "Apocrief",
+      "Peintures et dessins"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "eugene-brands",
+    "name": "Eugène Brands",
+    "years": "1913–2002",
+    "group": "CoBrA",
+    "bio": "Peintre néerlandais, associé à CoBrA, il explore l’imaginaire, les signes et les formes spontanées.",
+    "works": [
+      "Peintures CoBrA",
+      "Compositions abstraites"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "lotti-van-der-gaag",
+    "name": "Lotti van der Gaag",
+    "years": "1923–1999",
+    "group": "CoBrA",
+    "bio": "Sculptrice néerlandaise proche des artistes de CoBrA, elle crée des figures organiques et imaginaires.",
+    "works": [
+      "Sculptures fantastiques",
+      "Bronzes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
+  },
+  {
+    "id": "else-alfelt",
+    "name": "Else Alfelt",
+    "years": "1910–1974",
+    "group": "CoBrA",
+    "bio": "Peintre danoise proche du milieu de CoBrA, elle développe une abstraction colorée inspirée de paysages et de formes cosmiques.",
+    "works": [
+      "Peintures cosmiques",
+      "Compositions abstraites"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "sources": [
+      {
+        "url": "https://cobra-museum.nl/museum/cobra-artists/",
+        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+      }
+    ]
   }
 ]
