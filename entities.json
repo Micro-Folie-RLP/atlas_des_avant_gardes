@@ -1704,11 +1704,7 @@
     "sources": [
       {
         "url": "https://imec-archives.com/archives/fonds/097RLR",
-        "note": "IMEC : notice du fonds Rolland de Renéville, fondation des Cahiers de l’Hermès en 1947 et description des collections."
-      },
-      {
-        "url": "https://catalogue.bnf.fr/",
-        "note": "Catalogue général BnF : vérification nécessaire de l’identité exacte du périodique historique désigné par l’entrée."
+        "note": "IMEC : Rolland de Renéville fonde Les Cahiers de l’Hermès en 1947; l’identification de la revue correspondant à la datation 1933-1939 reste à établir."
       }
     ]
   },
@@ -1763,11 +1759,11 @@
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/poets/jack-kerouac",
-        "note": "Poetry Foundation : biographie et place dans la Beat Generation."
+        "note": "Poetry Foundation : biographie, origines franco-canadiennes et place dans la Beat Generation."
       },
       {
-        "url": "https://jackkerouac.com/pages/bibliography-1",
-        "note": "Site officiel : bibliographie détaillée des œuvres et premières éditions."
+        "url": "https://archives.nypl.org/brg/19343",
+        "note": "New York Public Library : archives personnelles, correspondance et biographie détaillée."
       }
     ],
     "role_icon": "🪶",
@@ -1799,15 +1795,11 @@
     "sources": [
       {
         "url": "https://www.loc.gov/item/n79109040/allen-ginsberg/",
-        "note": "Library of Congress : notice biographique et bibliographie sélective."
+        "note": "Library of Congress : biographie, œuvres majeures et enregistrements."
       },
       {
         "url": "https://allenginsberg.org/biography/",
-        "note": "The Allen Ginsberg Project : biographie et repères sur son œuvre."
-      },
-      {
-        "url": "https://www.poetryfoundation.org/poets/allen-ginsberg",
-        "note": "Poetry Foundation : notice biographique et bibliographie."
+        "note": "Allen Ginsberg Project : biographie et parcours littéraire."
       }
     ],
     "role_icon": "🪶",
@@ -1839,16 +1831,12 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poetryfoundation.org/",
-        "note": "Ressources biographiques et bibliographiques sur les écrivains de l’après-guerre."
+        "url": "https://findingaids.library.nyu.edu/fales/mss_625/",
+        "note": "NYU Special Collections : inventaire du fonds William S. Burroughs et description des manuscrits."
       },
       {
-        "url": "https://www.britannica.com/biography/William-S-Burroughs",
-        "note": "Encyclopaedia Britannica : biographie, œuvres et techniques d’écriture."
-      },
-      {
-        "url": "https://www.lib.uchicago.edu/",
-        "note": "Archives et collections de recherche consacrées à la littérature américaine du XXe siècle."
+        "url": "https://archives.nypl.org/brg/19345",
+        "note": "New York Public Library : archives, manuscrits, correspondance et documents sur la composition des romans."
       }
     ],
     "role_icon": "📼",
@@ -1881,11 +1869,15 @@
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/poets/gregory-corso",
-        "note": "Poetry Foundation : biographie, parcours et bibliographie."
+        "note": "Poetry Foundation : biographie et repères sur l’œuvre."
       },
       {
-        "url": "https://www.poets.org/poet/gregory-corso",
-        "note": "Academy of American Poets : notice et sélection d’œuvres."
+        "url": "https://archives.lib.ku.edu/repositories/3/resources/5498",
+        "note": "University of Kansas : fonds de manuscrits, lettres, carnets et biographie."
+      },
+      {
+        "url": "https://archives.nypl.org/brg/19235",
+        "note": "New York Public Library : manuscrits, correspondance et documents."
       }
     ],
     "role_icon": "🪶",
@@ -1955,15 +1947,11 @@
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/",
-        "note": "Ressources de contexte sur les écrivains beat et leurs correspondances."
+        "note": "Ressources de contexte sur la Beat Generation; la documentation biographique de Cassady reste à compléter par une source archivistique dédiée."
       },
       {
         "url": "https://www.denverlibrary.org/",
-        "note": "Collections historiques et ressources documentaires sur Neal Cassady et Denver."
-      },
-      {
-        "url": "https://www.sfgate.com/",
-        "note": "Dossiers historiques sur Neal Cassady et les Merry Pranksters."
+        "note": "Ressources historiques et collections locales de Denver, ville centrale dans la jeunesse de Cassady."
       }
     ],
     "role_icon": "✦",
@@ -1990,12 +1978,12 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://sexualities.history.columbia.edu/content/beat-writers",
-        "note": "Columbia University : ressources historiques sur les écrivains beat et leurs réseaux."
+        "url": "https://academic.oup.com/american-national-biography/reference/63042/reference-article-abstract/570411389",
+        "note": "American National Biography, Ben Schafer : notice biographique documentée."
       },
       {
         "url": "https://www.poetryfoundation.org/",
-        "note": "Ressources biographiques sur les poètes et écrivains de la Beat Generation."
+        "note": "Ressources de contexte sur les écrivains de la Beat Generation."
       }
     ],
     "role_icon": "📖",
