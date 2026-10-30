@@ -605,50 +605,147 @@
     "name": "Maurice Henry",
     "years": "1907–1984",
     "group": "Grand Jeu",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Journaliste, poète, dessinateur humoriste et scénariste, Maurice Henry appartient au premier noyau du Grand Jeu. Introduit auprès de René Daumal et Roger Gilbert-Lecomte par Roger Vailland, il participe aux expériences des Phrères simplistes et publie dans les trois numéros de la revue, notamment le « Discours du révolté » qui ouvre le premier. Son activité associe poésie, dessin satirique, presse et cinéma. Après la dissolution du groupe, il se rapproche du surréalisme et contribue à en faire connaître les activités par ses dessins et articles. Sa collaboration avec Artür Harfaux traverse plusieurs décennies.",
+    "works": [
+      "« Discours du révolté » (Le Grand Jeu, no 1, 1928)",
+      "Dessins et poèmes dans Le Grand Jeu (1928-1930)",
+      "Les Métamorphoses du vide (1955)",
+      "Dessins (1972)",
+      "Petite encyclopédie du dessin drôle en France (1985)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "✍️",
+    "role_label": "Écriture et arts graphiques",
+    "bibliography": [
+      "Les Métamorphoses du vide, 1955.",
+      "Dessins, 1972.",
+      "Petite encyclopédie du dessin drôle en France, 1985.",
+      "Fonds Maurice Henry, IMEC, fonds 072HNR.",
+      "Le Grand Jeu, réédition en fac-similé des trois numéros, Jean-Michel Place, 1977."
+    ],
+    "sources": [
+      {
+        "url": "https://imec-archives.com/archives/fonds/072HNR",
+        "note": "Fonds d’archives et notice biographique."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11907288b",
+        "note": "Notice d’autorité BnF."
+      }
+    ]
   },
   {
     "id": "harfaux",
     "name": "Artür Harfaux",
     "years": "1906–1995",
     "group": "Grand Jeu",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Photographe, dessinateur, illustrateur et scénariste, Artür Harfaux (né Arthur Harfaux) est lié dès sa jeunesse à Maurice Henry, rencontré au lycée de Cambrai. Il rejoint les milieux du Grand Jeu à Paris et participe à ses recherches visuelles par la photographie, le photomontage et le dessin. Son travail s’inscrit dans une pratique collective où l’image devient un terrain d’expérimentation. Sa collaboration avec Maurice Henry se prolonge dans la presse, le cinéma et différents projets graphiques. Les œuvres conservées dans les collections publiques et les archives documentent mieux son activité que les publications autonomes, relativement peu nombreuses.",
+    "works": [
+      "Photomontages et recherches photographiques autour du Grand Jeu (à partir de 1928)",
+      "Dessins et travaux graphiques en collaboration avec Maurice Henry",
+      "Scénarios et collaborations cinématographiques avec Maurice Henry"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "📷",
+    "role_label": "Photographie et arts visuels",
+    "bibliography": [
+      "Fonds Maurice Henry – Le Grand Jeu, Musée d’Art moderne de Paris, correspondances et documents relatifs à Artür Harfaux.",
+      "Artür Harfaux et Maurice Henry, autour du Grand Jeu, catalogue d’exposition, Tourcoing, 2002.",
+      "Grand Jeu et Surréalisme, catalogue d’exposition, Reims, 2003."
+    ],
+    "sources": [
+      {
+        "url": "https://www.parismuseescollections.paris.fr/fr/musee-d-art-moderne/oeuvres/artur-harfaux",
+        "note": "Œuvre conservée au Musée d’Art moderne de Paris."
+      },
+      {
+        "url": "https://corpus.inha.fr/gaael/cr1c27af7fa-6369-461e-8148-8388fe735468.xml/cr18712df91-9804-47bc-96ac-033ed19cf298.html",
+        "note": "Inventaire du fonds Maurice Henry et de ses correspondances."
+      }
+    ]
   },
   {
     "id": "artaud",
     "name": "Antonin Artaud",
     "years": "1896–1948",
     "group": "Surréalisme",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, dramaturge, acteur, dessinateur et théoricien du théâtre, Antonin Artaud participe au mouvement surréaliste dans les années 1920, avant sa rupture avec André Breton en 1926-1927. Il fonde avec Roger Vitrac et Robert Aron le Théâtre Alfred-Jarry, puis développe une conception radicale de la scène fondée sur le geste, le rythme, le son et l’action physique. Le Théâtre et son Double formule cette recherche du théâtre de la cruauté. Son parcours est marqué par le voyage au Mexique auprès des Tarahumaras, l’internement psychiatrique de 1937 à 1946 et une production tardive de dessins, cahiers et textes d’une grande intensité formelle. Son œuvre traverse poésie, cinéma, radio, théâtre et arts graphiques.",
+    "works": [
+      "L’Ombilic des limbes (1925)",
+      "Le Pèse-nerfs (1925)",
+      "L’Art et la mort (1929)",
+      "Héliogabale ou l’Anarchiste couronné (1934)",
+      "Les Cenci (1935)",
+      "Le Théâtre et son Double (1938)",
+      "D’un voyage au pays des Tarahumaras (1945)",
+      "Van Gogh, le suicidé de la société (1947)",
+      "Artaud le Mômo (1947)",
+      "Pour en finir avec le jugement de dieu (émission radiophonique, 1947)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🎭",
+    "role_label": "Théâtre et écriture",
+    "bibliography": [
+      "Œuvres complètes, éd. Paule Thévenin, Gallimard, 26 volumes, 1976-1994.",
+      "Antonin Artaud, catalogue d’exposition, dir. Guillaume Fau, BnF / Gallimard, 2006.",
+      "Le Théâtre et son Double, Gallimard, 1938.",
+      "L’Ombilic des limbes, NRF, 1925.",
+      "Van Gogh, le suicidé de la société, K éditeur, 1947."
+    ],
+    "sources": [
+      {
+        "url": "https://editions.bnf.fr/antonin-artaud",
+        "note": "Catalogue de l’exposition BnF, couvrant ses différentes pratiques."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Antonin_Artaud/106283",
+        "note": "Notice biographique et chronologie."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poets/antonin-artaud",
+        "note": "Bibliographie des publications."
+      }
+    ]
   },
   {
     "id": "klossowski",
     "name": "Pierre Klossowski",
     "years": "1905–2001",
     "group": "Indépendants",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Écrivain, traducteur, essayiste, peintre et dessinateur, Pierre Klossowski traverse plusieurs milieux intellectuels et artistiques du XXe siècle. Proche de Georges Bataille et associé aux activités d’Acéphale, il dialogue avec le surréalisme sans s’y réduire. Ses essais portent notamment sur Sade, Nietzsche et la théologie; ses récits explorent les rapports entre désir, simulacre, perversion, théologie et représentation. La trilogie de Roberte donne une forme romanesque à ces interrogations. À partir des années 1970, il développe une œuvre graphique faite de grands dessins au crayon de couleur, conçus comme des scènes suspendues ou des tableaux vivants. Son travail interroge la frontière entre image, corps et langage.",
+    "works": [
+      "Sade mon prochain (1947)",
+      "La Vocation suspendue (1950)",
+      "Roberte ce soir (1953)",
+      "Le Bain de Diane (1956)",
+      "Le Souffleur (1960)",
+      "Les Lois de l’hospitalité (1965)",
+      "Nietzsche et le cercle vicieux (1969)",
+      "La Monnaie vivante (1970)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre",
+    "role_icon": "📖",
+    "role_label": "Écriture et arts visuels",
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "La Vocation suspendue, Gallimard, 1950.",
+      "Roberte ce soir, Éditions de Minuit, 1953.",
+      "Le Bain de Diane, Jean-Jacques Pauvert, 1956.",
+      "Nietzsche et le cercle vicieux, Mercure de France, 1969.",
+      "La Monnaie vivante, Éric Losfeld, 1970.",
+      "Pierre Klossowski. Tableaux vivants, catalogue d’exposition, Gallimard / Centre Pompidou, 2007."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/personne/cL9gXjo",
+        "note": "Notice d’artiste et œuvres conservées au Centre Pompidou."
+      },
+      {
+        "url": "https://assets.ctfassets.net/cmz556ev1x99/1nRmwVEVgJaXM349mDWOFC/9f7e5cc63b0d18536b416a99869af7f8/Pierre_Klossowski_Bibliography.pdf",
+        "note": "Bibliographie des monographies et catalogues."
+      }
     ]
   },
   {
@@ -656,50 +753,148 @@
     "name": "Georges Ribemont-Dessaignes",
     "years": "1884–1974",
     "group": "Dada",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Peintre, poète, dramaturge et écrivain, Georges Ribemont-Dessaignes est l’un des précurseurs du dadaïsme à Paris. D’abord formé à la musique et à la peinture, il rejoint les expériences de rupture qui se développent autour de Marcel Duchamp et Francis Picabia pendant la Première Guerre mondiale. Il participe aux manifestations dada de 1920-1922 et contribue à la diffusion du mouvement par ses textes, ses pièces et ses interventions. Après la période dada, il poursuit une œuvre littéraire et théâtrale indépendante tout en continuant à peindre. Son parcours relie les premières contestations dada aux avant-gardes françaises ultérieures.",
+    "works": [
+      "L’Empereur de Chine (pièce, 1921)",
+      "Le Serin muet (1922)",
+      "La Ballade du soldat (1924)",
+      "Frontières humaines (1929)",
+      "Céleste (roman, 1931)",
+      "Le Bourreau du Pérou (roman, 1931)",
+      "Dada (essai, 1958)",
+      "Déjà jadis ou Du mouvement Dada à l’espace abstrait (1958)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🎭",
+    "role_label": "Écriture et arts visuels",
+    "bibliography": [
+      "L’Empereur de Chine, pièce, 1921.",
+      "Dada, 1958.",
+      "Déjà jadis ou Du mouvement Dada à l’espace abstrait, Julliard, 1958.",
+      "Notice documentaire, Musée d’Orsay."
+    ],
+    "sources": [
+      {
+        "url": "https://www.musee-orsay.fr/fr/ressources/repertoire-artistes-personnalites/georges-ribemont-dessaignes-216598",
+        "note": "Notice de référence du Musée d’Orsay."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/es/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/dada",
+        "note": "Dossier de ressources sur Dada."
+      }
+    ]
   },
   {
     "id": "picabia",
     "name": "Francis Picabia",
     "years": "1879–1953",
     "group": "Dada",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Peintre, dessinateur, écrivain et éditeur, Francis Picabia joue un rôle décisif dans les avant-gardes européennes, du cubisme à Dada puis au surréalisme. Après ses premières recherches impressionnistes et cubistes, il développe à partir de 1915 des compositions mécanomorphes qui détournent l’imagerie technique et industrielle. Ses séjours à New York, Barcelone, Zurich et Paris le placent au cœur des réseaux dada, qu’il anime avec Tristan Tzara et Marcel Duchamp. Il fonde la revue 391 en 1917 et multiplie les ruptures stylistiques : transparences, peintures figuratives et motifs empruntés à la presse. Son œuvre refuse toute identité esthétique stable.",
+    "works": [
+      "Udnie (1913)",
+      "Ici, c’est ici Stieglitz (1915)",
+      "Portrait d’une jeune fille américaine dans l’état de nudité (1915)",
+      "La Sainte Vierge (1915)",
+      "Pensées sans langage (1919)",
+      "L’Œil cacodylate (1921)",
+      "391 (revue, 1917-1924)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Pensées sans langage, Figuière, 1919.",
+      "Poèmes et dessins de la fille née sans mère, Lausanne, 1918.",
+      "Francis Picabia, catalogue d’exposition, Musée d’art moderne de la Ville de Paris, 2002.",
+      "Dada, catalogue d’exposition, Centre Pompidou, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/?q=Dada&with_online_works=true",
+        "note": "Notice de collection et œuvres de Picabia au MoMA."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/es/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/dada",
+        "note": "Dossier Dada et œuvres de Picabia."
+      }
+    ]
   },
   {
     "id": "duchamp",
     "name": "Marcel Duchamp",
     "years": "1887–1968",
     "group": "Dada",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Artiste franco-américain, Marcel Duchamp bouleverse la définition de l’œuvre d’art par ses ready-made, ses jeux sur l’auteur et ses expérimentations autour du hasard, du langage et du regard. Après une période de peinture marquée par le cubisme et le futurisme, il présente Nu descendant un escalier no 2 à l’Armory Show de 1913. À partir de 1915, installé à New York, il développe les ready-made, dont Roue de bicyclette, Porte-bouteilles et Fontaine, et travaille pendant des années au Grand Verre. Proche de Picabia et des réseaux dada, il reste à distance des groupes et des manifestes. Son influence sur l’art conceptuel et les pratiques contemporaines est considérable.",
+    "works": [
+      "Nu descendant un escalier no 2 (1912)",
+      "Roue de bicyclette (1913)",
+      "Porte-bouteilles (1914)",
+      "Fontaine (1917)",
+      "L.H.O.O.Q. (1919)",
+      "La Mariée mise à nu par ses célibataires, même / Grand Verre (1915-1923)",
+      "Boîte-en-valise (1935-1941)",
+      "Étant donnés (1946-1966)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🎨",
+    "role_label": "Arts visuels et théorie",
+    "bibliography": [
+      "Duchamp du signe, écrits réunis par Michel Sanouillet, Flammarion, 1975.",
+      "Marcel Duchamp, catalogue d’exposition, Centre Pompidou, 1977.",
+      "Arturo Schwarz, The Complete Works of Marcel Duchamp, Delano Greenidge Editions, 1997.",
+      "Calvin Tomkins, Duchamp: A Biography, Henry Holt, 1996.",
+      "Dada, catalogue d’exposition, Centre Pompidou, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/es/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/dada",
+        "note": "Dossier de référence sur Dada, incluant Fontaine."
+      },
+      {
+        "url": "https://www.moma.org/artists/?q=Dada&with_online_works=true",
+        "note": "Œuvres de Duchamp conservées au MoMA."
+      }
+    ]
   },
   {
     "id": "arp",
     "name": "Hans Arp",
     "years": "1886–1966",
     "group": "Dada",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Artiste, sculpteur et poète né à Strasbourg sous le nom de Hans Arp, il participe à plusieurs grandes expériences de l’avant-garde européenne. À Zurich, il est associé à la naissance de Dada en 1916; il développe des collages et reliefs fondés sur le hasard, les formes biomorphiques et une critique de la composition traditionnelle. Il travaille ensuite avec Sophie Taeuber-Arp, dont la collaboration artistique et intellectuelle est essentielle à son parcours, puis rejoint les réseaux surréalistes avant de poursuivre une recherche abstraite autonome. Son œuvre circule entre sculpture, relief, dessin, collage, poésie et édition, souvent sous les noms Jean Arp et Hans Arp selon les contextes linguistiques.",
+    "works": [
+      "Collages selon la loi du hasard (1916-1917)",
+      "Trousse d’un Da (1920-1921)",
+      "Wolkenpumpe (1920)",
+      "Sculptures biomorphiques (années 1930-1960)",
+      "Le Siège de l’air (poèmes, 1946)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre",
+    "role_icon": "🗿",
+    "role_label": "Arts visuels et poésie",
     "groups": [
       "Dada"
+    ],
+    "bibliography": [
+      "Jours effeuillés : poèmes, essais, souvenirs, 1920-1965, Gallimard, 1966.",
+      "Hans Arp / Sophie Taeuber-Arp. Exploracions mútues, catalogue, 2003.",
+      "Dada, catalogue d’exposition, Centre Pompidou, 2005.",
+      "Dada, National Gallery of Art / Museum of Modern Art, 2006.",
+      "Bibliographie de la Fondation Arp."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondationarp.org/bibliographie.html",
+        "note": "Bibliographie spécialisée de la Fondation Arp."
+      },
+      {
+        "url": "https://www.moma.org/artists/?q=Dada&with_online_works=true",
+        "note": "Notice de collection pour Jean (Hans) Arp."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/es/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/dada",
+        "note": "Dossier Dada et notice de Trousse d’un Da."
+      }
     ]
   },
   {
@@ -707,24 +902,77 @@
     "name": "Louis Aragon",
     "years": "1897–1982",
     "group": "Surréalisme",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, romancier et essayiste, Louis Aragon est l’un des fondateurs du dadaïsme parisien puis du surréalisme. Avec André Breton et Philippe Soupault, il participe à la revue Littérature et aux premières expériences d’écriture automatique. Le Paysan de Paris constitue l’un des grands textes de la modernité surréaliste. Son engagement au Parti communiste et son activité de journaliste modifient ensuite son rapport à l’avant-garde; il développe une œuvre romanesque et poétique où l’expérimentation formelle rencontre l’histoire politique, notamment dans le cycle du Monde réel. Pendant l’Occupation, il participe à la Résistance et écrit plusieurs recueils devenus emblématiques de la poésie clandestine.",
+    "works": [
+      "Feu de joie (1920)",
+      "Anicet ou le Panorama (1921)",
+      "Les Aventures de Télémaque (1922)",
+      "Le Paysan de Paris (1926)",
+      "Le Libertinage (1924)",
+      "Traité du style (1928)",
+      "Les Cloches de Bâle (1934)",
+      "Les Beaux Quartiers (1936)",
+      "Les Yeux d’Elsa (1942)",
+      "Aurélien (1944)",
+      "La Semaine sainte (1958)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "bibliography": [
+      "Le Paysan de Paris, Gallimard, 1926.",
+      "Traité du style, Gallimard, 1928.",
+      "Les Cloches de Bâle, Denoël, 1934.",
+      "Les Yeux d’Elsa, Pierre Seghers, 1942.",
+      "Œuvres poétiques, Bibliothèque de la Pléiade, Gallimard.",
+      "Daniel Bougnoux (dir.), Aragon, un destin français, Gallimard, 1997."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/",
+        "note": "Catalogue général BnF, notices d’autorité et éditions des œuvres."
+      }
+    ]
   },
   {
     "id": "eluard",
     "name": "Paul Éluard",
     "years": "1895–1952",
     "group": "Surréalisme",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, Paul Éluard est l’une des voix majeures du surréalisme. Il rejoint le groupe animé par André Breton et participe aux expériences de poésie collective, d’écriture automatique et de collage. Capitale de la douleur et L’Amour la poésie associent précision lyrique, liberté d’image et réflexion sur le désir. Son engagement politique le conduit à rejoindre le Parti communiste. Pendant la Seconde Guerre mondiale, il écrit des poèmes de résistance, dont « Liberté », devenu emblématique. Son œuvre ultérieure conserve une grande clarté formelle et une attention aux images quotidiennes.",
+    "works": [
+      "Le Devoir et l’Inquiétude (1917)",
+      "Les Animaux et leurs hommes, les hommes et leurs animaux (1920)",
+      "Répétitions (1922)",
+      "Mourir de ne pas mourir (1924)",
+      "Capitale de la douleur (1926)",
+      "L’Amour la poésie (1929)",
+      "La Vie immédiate (1932)",
+      "La Rose publique (1934)",
+      "Les Yeux fertiles (1936)",
+      "Poésie et vérité 1942 (1942)",
+      "Au rendez-vous allemand (1944)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "bibliography": [
+      "Capitale de la douleur, Gallimard, 1926.",
+      "L’Amour la poésie, Gallimard, 1929.",
+      "La Rose publique, Éditions surréalistes, 1934.",
+      "Poésie et vérité 1942, 1942.",
+      "Œuvres complètes, 2 volumes, Bibliothèque de la Pléiade, Gallimard, 1968-1971."
+    ],
+    "sources": [
+      {
+        "url": "https://eluard.org/biographie/",
+        "note": "Chronologie détaillée de l’Association des amis de Paul Éluard."
+      },
+      {
+        "url": "https://www.bnf.fr/fr/la-bibliographie-nationale-francaise",
+        "note": "Outil de vérification des éditions."
+      }
+    ]
   },
   {
     "id": "soupault",
