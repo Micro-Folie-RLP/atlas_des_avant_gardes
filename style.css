@@ -26,3 +26,23 @@ body{padding-bottom:30px}.timeline-scroll{scrollbar-width:none}.timeline-scroll:
 
 /* Zébrage recalculé sur les seules lignes visibles après filtrage. */
 .life-row.zebra-alt:not(.active):not(:hover){background:#eee4ce}
+
+/* Liens internes et comparaison de vies depuis les notices. */
+.person-reference{color:#8b2d24;font-weight:700;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;cursor:pointer}
+.person-reference:hover{color:#238b57}
+.comparison-panel{margin:22px 0;padding:16px;background:#eee4ce;border:2px solid #aa9a80}
+.comparison-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.comparison-heading h3{margin:0;font:900 20px Impact,'Arial Black',sans-serif}
+.comparison-heading button,.comparison-remove{min-height:0;padding:5px 8px;font-size:11px}
+.comparison-help{font:12px/1.4 Arial,sans-serif!important;color:#6d6253;margin:8px 0 14px!important}
+.comparison-axis{display:flex;justify-content:space-between;margin:0 0 5px calc(min(260px,32%));font:10px Arial,sans-serif;color:#6d6253}
+.comparison-row{display:grid;grid-template-columns:minmax(160px,32%) 1fr;gap:10px;align-items:center;padding:7px 0;border-top:1px solid #c7b89d}
+.comparison-person{display:flex;align-items:center;gap:7px;min-width:0;font:12px Arial,sans-serif}
+.comparison-person strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.comparison-person span{font-size:10px;color:#6d6253;white-space:nowrap}
+.comparison-remove{margin-left:auto;padding:2px 7px;font-size:17px;line-height:1}
+.comparison-track{height:22px;position:relative;background:repeating-linear-gradient(to right,#9d8e7530 0 1px,transparent 1px 10%)}
+.comparison-life{position:absolute;top:4px;height:14px;background:#a83225;border-radius:2px;min-width:2px}
+.comparison-life.is-open{background:repeating-linear-gradient(45deg,#a83225 0 5px,#d19b86 5px 10px)}
+.comparison-unknown-date{font:10px Arial,sans-serif;color:#6d6253}
+@media(max-width:650px){.comparison-panel{padding:10px}.comparison-axis{margin-left:0}.comparison-row{grid-template-columns:1fr;gap:4px}.comparison-person{font-size:11px}}
