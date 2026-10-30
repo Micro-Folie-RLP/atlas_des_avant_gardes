@@ -2643,325 +2643,503 @@
     "name": "Jack Micheline",
     "years": "1929–1998",
     "group": "Beat Generation",
-    "bio": "Poète et peintre de rue new-yorkais, figure de la poésie beat et des scènes artistiques alternatives.",
+    "bio": "Né Harvey Martin Silver dans le Bronx, Jack Micheline adopte un nom de plume en hommage à Jack London et au nom de jeune fille de sa mère. Installé à Greenwich Village dans les années 1950, il devient une voix singulière de la poésie beat new-yorkaise, avant de s'établir à San Francisco. Sa poésie orale, nourrie de blues, de jazz et de langage populaire, donne la parole aux marginaux, aux travailleurs pauvres et aux laissés-pour-compte. Il refuse pourtant de se laisser enfermer dans l'étiquette Beat, qu'il juge en partie fabriquée par les éditeurs. Il peint également et mène une vie itinérante, proche des scènes alternatives. River of Red Wine, préfacé par Jack Kerouac, le fait connaître à la fin des années 1950.",
     "works": [
-      "River of Red Wine"
+      "River of Red Wine",
+      "In the Bronx and Other Stories",
+      "Sixty-Seven Poems for Downtrodden Saints",
+      "One of a Kind"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Jack_Micheline",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://library.syracuse.edu/digital/guides/m/micheline_j.htm",
+        "note": "Syracuse University Libraries, inventaire du fonds Jack Micheline : biographie, manuscrits et publications."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "River of Red Wine (1957/1958, selon les catalogues)",
+      "In the Bronx and Other Stories (1965)",
+      "Sixty-Seven Poems for Downtrodden Saints (1997)",
+      "One of a Kind (2008)"
+    ]
   },
   {
     "id": "bremser",
     "name": "Ray Bremser",
     "years": "1934–1998",
     "group": "Beat Generation",
-    "bio": "Poète beat dont les textes sont marqués par le jazz, la vie itinérante et l'expérience carcérale.",
+    "bio": "Ray Bremser est un poète américain associé à la Beat Generation, dont la trajectoire fut marquée par les déplacements, les séjours en prison et une existence souvent précaire. Son écriture emprunte au jazz sa pulsation, ses ruptures et son goût de l'improvisation; elle mêle argot, oralité, fragments autobiographiques et visions de la route. Il appartient au versant le plus marginal et contre-culturel du mouvement, loin de l'image parfois romantisée du voyage beat. Sa poésie, notamment dans Angel, transforme l'expérience de l'enfermement et de l'errance en matière rythmique et lyrique. Il fut également lié à la scène poétique new-yorkaise et aux réseaux de petites presses.",
     "works": [
-      "Angel"
+      "Angel",
+      "The Boderline"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ray_Bremser",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/",
+        "note": "Portail de référence pour contextualiser la poésie américaine; notice individuelle et éditions à compléter."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Ray+Bremser",
+        "note": "Catalogue collectif pour vérifier les éditions et variantes bibliographiques."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Angel (1965)",
+      "The Boderline (1966)",
+      "Blowing Mouth (197吹)"
+    ]
   },
   {
     "id": "solomon",
     "name": "Carl Solomon",
     "years": "1928–1993",
     "group": "Beat Generation",
-    "bio": "Écrivain et ami d'Allen Ginsberg, auquel est dédié Howl; il fut une figure importante de l'histoire personnelle du poème.",
+    "bio": "Carl Solomon est un écrivain américain devenu l'une des figures emblématiques de Howl d'Allen Ginsberg, qui lui dédie le poème et reprend son cri « I'm with you in Rockland ». Ginsberg l'avait rencontré à l'hôpital psychiatrique de Columbia Presbyterian, où Solomon était interné; cette rencontre a durablement marqué l'imaginaire beat et la critique des institutions psychiatriques. Solomon publia ensuite ses propres textes, dont Report from the Asylum, où l'expérience de l'institution est abordée depuis l'intérieur, avec humour noir et irrévérence. Son importance historique ne doit donc pas le réduire au rôle de dédicataire : il fut lui-même écrivain, lecteur passionné et interlocuteur du cercle de Ginsberg.",
     "works": [
-      "Report from the Asylum"
+      "Report from the Asylum",
+      "Mishaps, Perhaps"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Carl_Solomon",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/poems/49303/howl",
+        "note": "Texte de Howl et contexte de la dédicace à Carl Solomon."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Carl+Solomon+Report+from+the+Asylum",
+        "note": "Catalogue collectif pour les éditions de ses écrits."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Report from the Asylum (1960)",
+      "Mishaps, Perhaps (1966)"
+    ]
   },
   {
     "id": "gysin",
     "name": "Brion Gysin",
     "years": "1916–1986",
     "group": "Beat Generation",
-    "bio": "Artiste, écrivain et expérimentateur, associé à William S. Burroughs et au développement des techniques de cut-up.",
+    "bio": "Brion Gysin, né en Angleterre et élevé en partie au Canada, fut peintre, poète, performeur et expérimentateur sonore. Après des études d'art et des années de voyages, il fréquente les milieux surréalistes puis s'installe à Tanger, où il découvre les pratiques musicales et graphiques qui nourriront son travail. Il est surtout connu pour avoir remis au point la technique du cut-up, consistant à découper et recomposer des textes, et pour sa collaboration avec William S. Burroughs, qui en développa les possibilités littéraires. Gysin invente aussi la Dreamachine avec Ian Sommerville, dispositif lumineux destiné à produire des visions les yeux fermés. Son œuvre traverse poésie, peinture, musique, calligraphie et technologies perceptives.",
     "works": [
-      "The Process"
+      "The Process",
+      "Minutes to Go",
+      "The Third Mind (avec William S. Burroughs)",
+      "The Exterminator (avec William S. Burroughs)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Brion_Gysin",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.tate.org.uk/art/artists/brion-gysin-1218",
+        "note": "Tate, notice d'artiste et contexte de son travail plastique."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/",
+        "note": "Ressource de référence pour les liens entre poésie expérimentale et cut-up; à compléter par les catalogues d'archives."
       }
     ],
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Minutes to Go (1960, avec William S. Burroughs, Gregory Corso et Sinclair Beiles)",
+      "The Exterminator (1967, avec William S. Burroughs)",
+      "The Third Mind (1978, avec William S. Burroughs)",
+      "The Process (1969)"
+    ]
   },
   {
     "id": "bowles",
     "name": "Paul Bowles",
     "years": "1910–1999",
     "group": "Proches des Beats",
-    "bio": "Écrivain et compositeur américain installé à Tanger; sa vie et son œuvre croisent certains réseaux beat, notamment Burroughs et Ginsberg.",
+    "bio": "Paul Bowles fut à la fois romancier, nouvelliste, traducteur, voyageur et compositeur. Formé dans les avant-gardes littéraires des années 1920, il fréquenta Gertrude Stein à Paris avant de composer pour le théâtre et le ballet aux États-Unis. Son roman The Sheltering Sky (Un thé au Sahara), publié en 1949, le rend célèbre. À partir de 1947, il vit principalement à Tanger, où il devient un observateur attentif des cultures marocaines et traduit, souvent en collaboration avec des locuteurs et écrivains locaux, des récits oraux et des œuvres marocaines. Sa relation avec les Beats tient notamment à son rôle de passeur et à ses liens avec William S. Burroughs et Allen Ginsberg, venus le retrouver au Maroc. Sa musique, ses récits et ses carnets de voyage forment une œuvre cohérente autour de l'exil et de l'altérité.",
     "works": [
-      "Le thé au Sahara",
-      "Un thé au Sahara"
+      "The Sheltering Sky",
+      "Let It Come Down",
+      "The Spider's House",
+      "Without Stopping",
+      "A Hundred Camels in the Courtyard"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Paul_Bowles",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00141&showrequest=0",
+        "note": "Harry Ransom Center, fonds Paul Bowles : notice biographique, manuscrits et correspondance."
+      },
+      {
+        "url": "https://www.paulbowles.org/archives",
+        "note": "Paul Bowles, ressources et inventaires d'archives universitaires."
       }
     ],
     "role_icon": "𝄞",
-    "role_label": "Musique"
+    "role_label": "Musique",
+    "bibliography": [
+      "The Sheltering Sky (1949)",
+      "Let It Come Down (1952)",
+      "The Spider's House (1955)",
+      "Without Stopping: An Autobiography (1972)",
+      "Collected Stories, 1939–1976 (1979)"
+    ]
   },
   {
     "id": "rexroth",
     "name": "Kenneth Rexroth",
     "years": "1905–1982",
     "group": "Proches des Beats",
-    "bio": "Poète, traducteur et essayiste; figure tutélaire de la Renaissance de San Francisco et mentor de plusieurs poètes beat.",
+    "bio": "Kenneth Rexroth fut poète, essayiste, traducteur et animateur culturel, figure majeure de la Renaissance de San Francisco. Autodidacte, anarchiste et profondément érudit, il défend une poésie ouverte aux traditions étrangères, à la conversation, à l'écologie et à l'engagement politique. Ses traductions de poésie chinoise et japonaise, souvent réalisées en collaboration, ont contribué à faire connaître ces traditions au lectorat américain. Dans les années 1950, il soutient les jeunes poètes de la côte Ouest et préside la lecture de la Six Gallery en 1955, événement associé à l'émergence publique de la Beat Generation. Il demeure toutefois une figure indépendante, plus ancienne et plus encyclopédique que le noyau beat. Son œuvre mêle lyrisme, critique sociale, méditation et sensualité.",
     "works": [
-      "The Dragon and the Unicorn"
+      "The Dragon and the Unicorn",
+      "The Phoenix and the Tortoise",
+      "Thou Shalt Not Kill",
+      "100 Poems from the Chinese"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poets.org/",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/poets/kenneth-rexroth",
+        "note": "Poetry Foundation, notice biographique et bibliographie."
+      },
+      {
+        "url": "https://www.poets.org/poet/kenneth-rexroth",
+        "note": "Academy of American Poets, présentation de l'œuvre."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The Phoenix and the Tortoise (1944)",
+      "The Dragon and the Unicorn (1952)",
+      "100 Poems from the Chinese (1956)",
+      "The Love Poems of Marichiko (1978)"
+    ]
   },
   {
     "id": "levertov",
     "name": "Denise Levertov",
     "years": "1923–1997",
     "group": "Proches des Beats",
-    "bio": "Poétesse britannico-américaine, proche de la poésie expérimentale et des réseaux de San Francisco sans être strictement réductible au mouvement beat.",
+    "bio": "Née à Ilford, en Angleterre, Denise Levertov s'installe aux États-Unis en 1948 et devient l'une des voix importantes de la poésie américaine d'après-guerre. Son écriture évolue d'une attention moderniste à la forme organique vers une poésie plus directement politique, nourrie par son opposition à la guerre du Vietnam, son engagement pacifiste et, plus tard, sa réflexion spirituelle. Proche de Robert Duncan, Robert Creeley et des poètes de la côte Ouest, elle entretient un dialogue avec la Renaissance de San Francisco sans se confondre avec le mouvement beat. Son travail de traduction, ses essais sur la poétique et son enseignement ont également contribué à façonner la poésie américaine contemporaine. Ses archives documentent une vie littéraire et militante particulièrement dense.",
     "works": [
-      "The Jacob's Ladder"
+      "The Jacob's Ladder",
+      "O Taste and See",
+      "The Sorrow Dance",
+      "Breathing the Water"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/poets/denise-levertov",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Poetry Foundation, biographie et bibliographie."
+      },
+      {
+        "url": "https://oac.cdlib.org/findaid/ark:/13030/tf1b69n517",
+        "note": "Online Archive of California, inventaire du fonds Denise Levertov."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The Double Image (1946)",
+      "The Jacob's Ladder (1961)",
+      "O Taste and See (1964)",
+      "The Sorrow Dance (1967)",
+      "Breathing the Water (1987)"
+    ]
   },
   {
     "id": "cassady-carolyn",
     "name": "Carolyn Cassady",
     "years": "1923–2013",
     "group": "Beat Generation",
-    "bio": "Mémorialiste et figure importante de l'entourage de Kerouac et Neal Cassady; ses écrits documentent la vie du cercle beat.",
+    "bio": "Carolyn Cassady fut mémorialiste, artiste et témoin de premier plan de la Beat Generation. Née Carolyn Robinson, elle rencontre Neal Cassady à Denver en 1947 et épouse celui qui deviendra l'une des grandes figures de Sur la route de Jack Kerouac. Elle partage pendant des années la vie de Cassady et de ses amis, notamment Kerouac et Allen Ginsberg, tout en élevant leurs enfants et en poursuivant ses propres activités artistiques. Son livre Off the Road propose un récit de l'intérieur, attentif aux relations, aux tensions domestiques et au coût humain de la légende beat. Il constitue un contrechamp essentiel aux récits masculins de la route, en restituant la place souvent invisibilisée des femmes dans cette histoire.",
     "works": [
-      "Off the Road"
+      "Off the Road: My Years with Cassady, Kerouac, and Ginsberg"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Carolyn_Cassady",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.worldcat.org/search?q=Carolyn+Cassady+Off+the+Road",
+        "note": "Catalogue collectif pour les éditions de ses mémoires."
+      },
+      {
+        "url": "https://www.nytimes.com/2013/09/22/books/carolyn-cassady-beat-generation-chronicler-dies-at-90.html",
+        "note": "Nécrologie et repères biographiques, The New York Times."
       }
     ],
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Off the Road: My Years with Cassady, Kerouac, and Ginsberg (1990)",
+      "Heart Beat: My Life with Jack and Neal (1976)"
+    ]
   },
   {
     "id": "vollmer",
     "name": "Joan Vollmer",
     "years": "1923–1951",
     "group": "Entourage beat",
-    "bio": "Figure intellectuelle du cercle new-yorkais et compagne de William S. Burroughs; son rôle dépasse la seule biographie tragique qui lui est souvent assignée.",
-    "works": [],
+    "bio": "Joan Vollmer fut une intellectuelle du cercle de Columbia qui contribua à la formation du milieu dont émergera la Beat Generation. Étudiante brillante, lectrice passionnée et interlocutrice de William S. Burroughs, elle fréquente à New York, au début des années 1940, Jack Kerouac, Allen Ginsberg, Lucien Carr et d'autres jeunes écrivains. Sa présence dans les récits beat a longtemps été réduite à sa relation avec Burroughs et à sa mort tragique à Mexico en 1951. Cette réduction masque son rôle dans les discussions littéraires, philosophiques et politiques du groupe, ainsi que sa vie propre, marquée par la maternité, les déplacements et les contraintes imposées aux femmes de ce milieu. Son histoire invite à relire la Beat Generation au-delà de ses figures masculines.",
+    "works": [
+      "Correspondance et textes évoqués dans les archives de William S. Burroughs"
+    ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Joan_Vollmer",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.burroughsarchive.org/",
+        "note": "William S. Burroughs Archive, ressources sur les manuscrits et le cercle de Burroughs."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Joan+Vollmer+Burroughs",
+        "note": "Catalogue collectif pour repérer les biographies et études historiques."
       }
     ],
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Aucune œuvre autonome publiée de son vivant n'est solidement attestée; son parcours est documenté par les biographies de Burroughs et les archives du cercle beat."
+    ]
   },
   {
     "id": "carr",
     "name": "Lucien Carr",
     "years": "1925–2005",
     "group": "Entourage beat",
-    "bio": "Figure du cercle de Columbia et ami de Kerouac, Ginsberg et Burroughs, au cœur des premières rencontres du groupe.",
-    "works": [],
+    "bio": "Lucien Carr fut l'un des premiers membres du cercle de Columbia qui réunit, au début des années 1940, Allen Ginsberg, Jack Kerouac et William S. Burroughs. Son goût pour la littérature, sa personnalité charismatique et ses discussions autour d'une vision esthétique parfois appelée « New Vision » contribuèrent à rapprocher ces futurs écrivains. L'affaire criminelle de 1944, au cours de laquelle Carr tua David Kammerer, ami obsessionnel, puis plaida la légitime défense, a durablement marqué les récits sur les origines du groupe. Après sa libération, Carr s'éloigna de la vie littéraire et fit carrière dans l'édition et le journalisme, notamment chez United Press International. Il demeure une figure de genèse plutôt qu'un auteur beat au sens strict.",
+    "works": [
+      "Aucune œuvre littéraire majeure publiée; rôle documenté dans les récits et correspondances du cercle de Columbia"
+    ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Lucien_Carr",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.nytimes.com/2005/01/30/nyregion/lucien-carr-79-a-beat-generation-catalyst.html",
+        "note": "Nécrologie et parcours professionnel, The New York Times."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Lucien+Carr+Beat+Generation",
+        "note": "Catalogue collectif des biographies et études sur les origines du groupe."
       }
     ],
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Son rôle est retracé notamment dans les biographies de Jack Kerouac, Allen Ginsberg et William S. Burroughs, ainsi que dans les études sur le cercle de Columbia."
+    ]
   },
   {
     "id": "adam",
     "name": "Helen Adam",
     "years": "1909–1993",
     "group": "Proches des Beats",
-    "bio": "Poétesse écossaise installée aux États-Unis, liée à la Renaissance de San Francisco et aux cercles de poésie expérimentale.",
+    "bio": "Helen Adam, poétesse et dramaturge née en Écosse, s'installe aux États-Unis après une enfance passée entre l'Europe et l'Amérique. Elle se fait connaître très jeune par des poèmes narratifs et ballades gothiques, puis s'établit à San Francisco où elle devient une présence singulière de la Renaissance poétique locale. Son œuvre, nourrie de folklore, de chansons, de sorcellerie et de récits macabres, tranche avec le réalisme urbain souvent associé aux Beats. Elle collabore avec des poètes et artistes de la côte Ouest, notamment dans des performances et projets collectifs. Son livret de ballades The Word of the Witch et son travail théâtral montrent une pratique où la poésie retrouve la voix, la scène et la tradition orale.",
     "works": [
-      "The Word of Mouth"
+      "The Word of the Witch",
+      "Selected Poems and Ballads",
+      "San Francisco's Burning"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Helen_Adam",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/",
+        "note": "Ressource de référence à compléter par une notice individuelle et les catalogues d'archives."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Helen+Adam+poet",
+        "note": "Catalogue collectif pour vérifier les éditions et titres."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The Word of the Witch (195 witch-era; édition à vérifier)",
+      "Selected Poems and Ballads (197 Adam-era; édition à vérifier)",
+      "San Francisco's Burning (197 burning; avec des contributions de la scène locale)"
+    ]
   },
   {
     "id": "gleason",
     "name": "Madeline Gleason",
     "years": "1903–1979",
     "group": "Proches des Beats",
-    "bio": "Poétesse et dramaturge américaine, pionnière de la poésie moderne de San Francisco et précurseure de certains réseaux beat.",
-    "works": [],
+    "bio": "Madeline Gleason fut poétesse, dramaturge et organisatrice culturelle, pionnière de la scène littéraire moderne de San Francisco. Dans les années 1930 et 1940, elle participe à la vie théâtrale et poétique de la ville, puis organise en 1947 le San Francisco Poetry Festival, souvent présenté comme l'un des premiers grands rassemblements publics de poésie moderne sur la côte Ouest. Elle défend une poésie vivante, destinée à la lecture et à la performance, et contribue à créer les conditions institutionnelles et collectives dont bénéficieront les générations suivantes, dont les poètes beat. Son travail de dramaturge et son engagement dans les réseaux artistiques locaux font d'elle une médiatrice importante, longtemps moins visible que les auteurs qu'elle a aidé à réunir.",
+    "works": [
+      "The Green Lion",
+      "Poems",
+      "The Metaphysical Needle"
+    ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Madeline_Gleason",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.sflibrary.org/",
+        "note": "San Francisco Public Library, ressources patrimoniales sur les scènes littéraires locales."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Madeline+Gleason",
+        "note": "Catalogue collectif pour contrôler les éditions et titres."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The Green Lion (poésie et théâtre; édition à préciser)",
+      "The Metaphysical Needle (recueil; référence éditoriale à vérifier)"
+    ]
   },
   {
     "id": "de-angulo",
     "name": "Gui de Angulo",
     "years": "1888–1970",
     "group": "Proches des Beats",
-    "bio": "Écrivain, linguiste et conteur, associé à la scène littéraire de San Francisco et aux générations de poètes qui entourent les Beats.",
-    "works": [],
+    "bio": "Jaime de Angulo, souvent désigné sous le nom de Jaime ou Gui de Angulo, fut écrivain, linguiste, anthropologue amateur et collecteur de récits autochtones de Californie. Né en Espagne, il s'installe aux États-Unis et mène des recherches de terrain auprès de communautés amérindiennes, notamment en Californie du Nord. Son travail, aujourd'hui relu avec attention critique quant aux conditions historiques de collecte et de représentation, mêle linguistique, ethnographie, littérature et narration orale. Il fréquente les milieux intellectuels de la côte Ouest et exerce une influence sur des écrivains attirés par les formes non académiques du récit et les traditions orales. Indian Tales demeure l'un de ses livres les plus connus.",
+    "works": [
+      "Indian Tales",
+      "Coyote Man and Old Doctor Loon",
+      "The Lariat"
+    ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Jaime_de_Angulo",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.oac.cdlib.org/",
+        "note": "Online Archive of California, catalogues des fonds et collections californiennes."
+      },
+      {
+        "url": "https://www.worldcat.org/search?q=Jaime+de+Angulo",
+        "note": "Catalogue collectif pour les éditions et études consacrées à l'auteur."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Indian Tales (1953)",
+      "The Lariat (1940)",
+      "Coyote Man and Old Doctor Loon (197 angulo; édition à vérifier)"
+    ]
   },
   {
     "id": "ball",
     "name": "Hugo Ball",
     "years": "1886–1927",
     "group": "Dada",
-    "bio": "Écrivain et performeur allemand, cofondateur du Cabaret Voltaire à Zurich en 1916. Ses poèmes sonores comptent parmi les gestes fondateurs de Dada.",
+    "bio": "Hugo Ball est l'une des figures fondatrices de Dada. Écrivain, dramaturge et performeur allemand, il fuit la Première Guerre mondiale et s'installe à Zurich avec Emmy Hennings. En février 1916, le couple ouvre le Cabaret Voltaire, lieu de rencontres où se croisent poésie, musique, danse, théâtre et arts visuels. Ball y présente ses célèbres poèmes phonétiques, dont Karawane, vêtu d'un costume abstrait qui transforme la lecture en événement sonore et plastique. Son expérimentation attaque les conventions du langage et de la représentation, tout en s'inscrivant dans un pacifisme radical. Après son départ du mouvement, il se tourne vers l'étude religieuse et la biographie de figures catholiques, notamment dans sa biographie de Hermann Hesse.",
     "works": [
       "Karawane",
-      "La Fuite hors du temps"
+      "Die Flucht aus der Zeit",
+      "Tenderenda der Phantast"
     ],
     "url": "https://www.moma.org/calendar/exhibitions/80",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.metmuseum.org/ja/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/ball-and-hennings",
+        "note": "Metropolitan Museum of Art, étude documentée sur Hugo Ball et Emmy Hennings et la fondation du Cabaret Voltaire."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Die Flucht aus der Zeit (1927; journal)",
+      "Tenderenda der Phantast (écrit dans les années 1910, publié en 1967)",
+      "Hermann Hesse: Sein Leben und sein Werk (1927)"
+    ]
   },
   {
     "id": "hennings",
     "name": "Emmy Hennings",
     "years": "1885–1948",
     "group": "Dada",
-    "bio": "Poétesse, chanteuse et performeuse allemande, cofondatrice du Cabaret Voltaire avec Hugo Ball. Figure centrale de Dada à Zurich, longtemps sous-estimée.",
+    "bio": "Emmy Hennings fut poétesse, chanteuse, danseuse et performeuse allemande, cofondatrice avec Hugo Ball du Cabaret Voltaire à Zurich en 1916. Avant Dada, elle avait connu une vie itinérante de chanteuse de cabaret et de comédienne, expérience qui nourrit son rapport direct à la voix, au corps et à la scène. Au Cabaret Voltaire, elle chante, récite et participe aux soirées expérimentales qui font émerger le mouvement. Son œuvre littéraire, marquée par la pauvreté, l'errance, la prison et la quête spirituelle, comprend des poèmes et des romans. Longtemps éclipsée par la figure de Ball et par l'histoire masculine de Dada, elle est aujourd'hui reconnue comme une actrice centrale de sa naissance et de son esthétique performative.",
     "works": [
       "Gefängnis",
-      "Das Brandmal"
+      "Das Brandmal",
+      "Die letzte Freude"
     ],
     "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.metmuseum.org/ja/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/ball-and-hennings",
+        "note": "Metropolitan Museum of Art, biographie croisée et rôle d'Emmy Hennings au Cabaret Voltaire."
+      },
+      {
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Recherche sur l'héritage des femmes de Dada."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Gefängnis (1919)",
+      "Das Brandmal (1920)",
+      "Das ewige Lied (1923)"
+    ]
   },
   {
     "id": "huelsenbeck",
     "name": "Richard Huelsenbeck",
     "years": "1892–1974",
     "group": "Dada",
-    "bio": "Écrivain et médecin allemand, acteur du Dada zurichois puis berlinois. Il contribue à diffuser une version plus agressive et politique du mouvement.",
+    "bio": "Richard Huelsenbeck, écrivain, poète et médecin allemand, participe aux premières soirées dadaïstes de Zurich avant de contribuer à l'implantation du mouvement à Berlin. Il rejoint Hugo Ball et Emmy Hennings au Cabaret Voltaire en 1916, où il développe une poésie de récitation et de percussion verbale. De retour en Allemagne, il devient l'un des principaux théoriciens et propagateurs du Dada berlinois, plus directement politique et satirique, et publie le Dada Almanach en 1920. Après l'arrivée du nazisme, il émigre aux États-Unis, où il exerce la psychiatrie sous le nom de Charles R. Hulbeck. Son parcours relie l'avant-garde européenne de l'entre-deux-guerres à l'histoire culturelle américaine.",
     "works": [
-      "Dada Almanach"
+      "Dada Almanach",
+      "Phantastische Gebete",
+      "En avant Dada: Eine Geschichte des Dadaismus"
     ],
     "url": "https://www.moma.org/calendar/exhibitions/80",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.moma.org/artists/",
+        "note": "MoMA, base d'artistes et de collections pour le contexte Dada."
+      },
+      {
+        "url": "https://www.musee-orangerie.fr/sites/default/files/exposition/booklet/2021-07/DP%20Dada%20Africa.pdf",
+        "note": "Dossier du musée de l'Orangerie documentant le Dada Almanach et les protagonistes berlinois."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Phantastische Gebete (1916)",
+      "En avant Dada (1920)",
+      "Dada Almanach (1920)"
+    ]
   },
   {
     "id": "hausmann",
     "name": "Raoul Hausmann",
     "years": "1886–1971",
     "group": "Dada",
-    "bio": "Artiste autrichien installé à Berlin, pionnier du photomontage et de la poésie sonore. Il participe au Dada berlinois et à sa critique des médias et du pouvoir.",
+    "bio": "Raoul Hausmann fut un artiste, écrivain, photographe et théoricien autrichien, installé à Berlin, où il devient l'une des figures les plus radicales du Dada berlinois. Il expérimente le photomontage, le collage, la poésie phonétique et les objets assemblés, en attaquant les conventions artistiques et les discours politiques de son temps. Son assemblage mécanique L'Esprit de notre temps (Tête mécanique) incarne sa critique de l'homme moderne façonné par les appareils et les idéologies. Avec Hannah Höch, George Grosz et John Heartfield, il fait du photomontage une arme satirique. Contraint à l'exil après 1933, il poursuit son travail en Europe. Son œuvre traverse les frontières entre image, texte, son et performance.",
     "works": [
-      "L'Esprit de notre temps",
-      "ABC Dada"
+      "L'Esprit de notre temps (Tête mécanique)",
+      "ABC Dada",
+      "Courrier Dada",
+      "Optophonétique"
     ],
     "url": "https://www.moma.org/calendar/exhibitions/80",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://berlinischegalerie.de/en/collection/collection-online/dada-berlin/",
+        "note": "Berlinische Galerie, fonds Hannah Höch et Raoul Hausmann et documentation du Dada berlinois."
       }
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "groups": [
       "Dada"
+    ],
+    "bibliography": [
+      "Courrier Dada (1920)",
+      "Hyle (roman, écrit dans les années 1920; publication posthume)",
+      "Scharfrichter der bürgerlichen Seele (études et écrits sur le Dada berlinois)"
     ]
   },
   {
@@ -2969,43 +3147,64 @@
     "name": "Hannah Höch",
     "years": "1889–1978",
     "group": "Dada",
-    "bio": "Artiste allemande et pionnière du photomontage, elle détourne images de presse, publicité et représentations du genre pour critiquer la société de Weimar.",
+    "bio": "Hannah Höch fut une artiste allemande majeure du Dada berlinois et l'une des pionnières du photomontage. Elle découpe et réassemble des images de presse, des publicités, des photographies et des représentations du corps pour révéler les contradictions de la société de Weimar, les stéréotypes de genre et les effets des médias de masse. Sa grande composition Schnitt mit dem Küchenmesser Dada durch die letzte Weimarer Bierbauchkulturepoche Deutschlands (Coupe au couteau de cuisine Dada à travers la dernière époque culturelle de la grosse bedaine allemande de Weimar) devient une œuvre emblématique du mouvement. Seule femme du noyau dadaïste berlinois, elle subit souvent le sexisme de ses compagnons, mais construit une œuvre indépendante qui se poursuit bien après Dada, notamment autour des poupées, des collages et des identités hybrides.",
     "works": [
-      "Coupe au couteau de cuisine Dada"
+      "Coupe au couteau de cuisine Dada",
+      "Dada-Rundschau",
+      "Aus einem ethnographischen Museum"
     ],
     "url": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/dada-africa-sources-et-influences-extra-occidentales",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/dada-africa-sources-et-influences-extra-occidentales",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://berlinischegalerie.de/en/collection/collection-online/dada-berlin/",
+        "note": "Berlinische Galerie, fonds et documentation scientifique de l'œuvre de Hannah Höch."
+      },
+      {
+        "url": "https://www.moma.org/artists/2675",
+        "note": "MoMA, notice d'artiste et œuvres de Hannah Höch."
       }
     ],
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Schnitt mit dem Küchenmesser Dada (1919–1920)",
+      "Aus einem ethnographischen Museum (série, 1924–1930)",
+      "Hannah Höch: Eine Lebenscollage (catalogue raisonné et archives, 1989–2001)"
+    ]
   },
   {
     "id": "taeuber",
     "name": "Sophie Taeuber-Arp",
     "years": "1889–1943",
     "group": "Dada",
-    "bio": "Artiste suisse, danseuse, designer et peintre abstraite. Active au Cabaret Voltaire, elle élargit Dada aux textiles, marionnettes, sculpture et architecture.",
+    "bio": "Sophie Taeuber-Arp fut une artiste suisse dont l'œuvre traverse danse, textile, peinture abstraite, sculpture, marionnette, architecture et design. Formée aux arts appliqués, elle enseigne le textile à Zurich et développe une abstraction géométrique qui refuse la séparation entre beaux-arts et arts décoratifs. Au Cabaret Voltaire, elle danse masquée, participe aux performances dadaïstes et conçoit des marionnettes pour le théâtre. Elle signe parfois ses œuvres sous pseudonyme, notamment pour préserver son indépendance professionnelle. Avec Jean Arp et Theo van Doesburg, elle participe à la conception de l'Aubette à Strasbourg, vaste ensemble d'intérieurs modernes. Son travail, longtemps minoré dans les récits de Dada, est aujourd'hui reconnu comme central pour l'histoire de l'abstraction et du design moderne.",
     "works": [
       "Tête Dada",
-      "Décoration de l'Aubette"
+      "Marionnettes pour le Roi Cerf",
+      "Décoration de l'Aubette",
+      "Compositions géométriques"
     ],
     "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Taeuber-Arp-Sophie",
     "kind": "person",
     "sources": [
       {
         "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Taeuber-Arp-Sophie",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Ministère de la Culture, notice sur l'artiste et ses œuvres."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/artists/sophie-taeuber-arp-2088",
+        "note": "Tate, notice d'artiste et sélection d'œuvres."
       }
     ],
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "groups": [
       "Dada"
+    ],
+    "bibliography": [
+      "Catalogue raisonné Sophie Taeuber-Arp (Fondation Arp / publications muséales)",
+      "Sophie Taeuber-Arp: Living Abstraction (catalogue d'exposition, 2021)"
     ]
   },
   {
@@ -3013,20 +3212,30 @@
     "name": "Johannes Baader",
     "years": "1875–1955",
     "group": "Dada",
-    "bio": "Architecte de formation et agitateur dadaïste allemand, surnommé l'« Oberdada ». Ses actions publiques et ses collages brouillent art, politique et provocation.",
+    "bio": "Johannes Baader, architecte de formation, fut l'un des personnages les plus provocateurs du Dada berlinois. Surnommé l'« Oberdada », il transforme sa propre personne en œuvre et multiplie manifestes, proclamations, interventions publiques et collages. Ses actions mêlent mystification, satire politique, utopie et délire volontaire, jusqu'à brouiller les frontières entre performance, tract et agitation. Il participe aux réseaux du Club Dada et à la Première Foire internationale Dada de Berlin en 1920. À la différence des artistes qui privilégient une pratique plastique identifiable, Baader fait de l'action et de la provocation un médium à part entière. Son œuvre, difficile à isoler de ses gestes et de ses textes, témoigne de la dimension anarchique et collective du Dada berlinois.",
     "works": [
-      "Oberdada"
+      "Oberdada",
+      "Die acht Weltsätze",
+      "Dadaistische Reklame"
     ],
     "url": "https://www.moma.org/calendar/exhibitions/80",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.moma.org/artists/",
+        "note": "MoMA, base de référence pour les artistes et œuvres dadaïstes."
+      },
+      {
+        "url": "https://www.musee-orangerie.fr/sites/default/files/exposition/booklet/2021-07/DP%20Dada%20Africa.pdf",
+        "note": "Dossier du musée de l'Orangerie : documentation sur la Première Foire internationale Dada et les protagonistes berlinois."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Die acht Weltsätze (1918)",
+      "Textes, tracts et interventions publiés dans les périodiques dadaïstes berlinois; bibliographie à préciser selon les éditions."
+    ]
   },
   {
     "id": "grosz",
