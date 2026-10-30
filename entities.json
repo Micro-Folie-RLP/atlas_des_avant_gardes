@@ -7871,451 +7871,1169 @@
     "id": "simone-forti",
     "name": "Simone Forti",
     "years": "1935–2026",
-    "bio": "Danseuse, chorégraphe et artiste américaine, pionnière de la danse postmoderne. Ses recherches vocales et ses « News Animations » croisent mouvement, langage et écoute.",
+    "bio": "Danseuse, chorégraphe, artiste et écrivaine née à Florence, Simone Forti émigre avec sa famille aux États-Unis en 1938. À San Francisco, elle étudie auprès d’Anna Halprin, dont les recherches sur l’improvisation et le mouvement quotidien l’éloignent des techniques chorégraphiques académiques. Installée à New York en 1959, elle fréquente les cours de composition de Robert Dunn et élabore en 1960-1961 les Dance Constructions : des situations où corps, objets, gravité et participation du public composent ensemble l’œuvre. Sans être membre formelle du Judson Dance Theater, elle en est l’une des sources décisives. Ses recherches ultérieures portent sur le mouvement animal, les News Animations, les paysages et l’improvisation parlée. Elle meurt à Los Angeles le 29 juillet 2026.",
     "works": [
-      "News Animations",
-      "Huddle"
+      "Dance Constructions (1960-1961) : Huddle, Hangers, Slant Board, Platforms, See-Saw, Roller Boxes",
+      "Handbook in Motion (1974)",
+      "News Animations (à partir des années 1980)",
+      "Logomotion (pratique d’improvisation parole-mouvement)",
+      "An Anthology (participation, 1962)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Handbook in Motion, The Press of the Nova Scotia College of Art and Design, 1974 ; trad. fr. Manuel en mouvement, Contredanse, 2000.",
+      "Simone Forti: Oh, Tongue, éd. Yvonne Rainer et Bruce Nauman, 2003.",
+      "Simone Forti: Thinking with the Body, éd. Sabine Breitwieser, Hatje Cantz, 2014.",
+      "Simone Forti, catalogue et documentation de Dance Constructions, Museum of Modern Art, New York, 2015-2018.",
+      "Agnès Benoit, trad., Manuel en mouvement, Contredanse, 2000."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/magazine/articles/1460",
+        "note": "Hommage et étude rétrospective du MoMA, 8 octobre 2026 : chronologie, Dance Constructions et transmission de l’œuvre."
+      },
+      {
+        "url": "https://contredanse.org/en/simone-forti-what-remains-in-motion/",
+        "note": "Notice de Contredanse, 7 août 2026, et repères sur Handbook in Motion / Manuel en mouvement."
+      }
+    ],
+    "related": [
+      "yoko-ono",
+      "yvonne-rainer",
+      "steve-paxton"
+    ]
   },
   {
     "id": "jean-louis-brau",
     "name": "Jean-Louis Brau",
     "years": "1930–1985",
-    "bio": "Poète, artiste et activiste français, lié au lettrisme et aux avant-gardes d’après-guerre. Il participe aux expérimentations de poésie phonétique et sonore.",
+    "bio": "Poète, écrivain, plasticien et cinéaste français, Jean-Louis Brau appartient à la génération des avant-gardes lettristes et post-lettristes de l’après-guerre. Son activité se situe à la jonction de la poésie phonétique, de l’expérimentation typographique, de l’image et de la performance. Il participe aux réseaux qui prolongent et déplacent l’invention d’Isidore Isou, dans un moment où le poème cesse d’être seulement un texte imprimé pour devenir matière vocale, geste et événement. Son parcours croise les recherches du lettrisme et les pratiques de poésie sonore qui se développent en Europe dans les années 1950-1970. Les notices biographiques disponibles demeurent moins abondantes que celles de plusieurs de ses contemporains ; les dates et attributions bibliographiques demandent donc un contrôle exemplaire par exemplaire.",
     "works": [
-      "Poésie lettriste"
+      "Poèmes et interventions lettristes (années 1950-1970)",
+      "Œuvres phonétiques et expérimentations sonores, documentées dans les anthologies de poésie sonore"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Contributions et documents à rechercher dans les périodiques lettristes de l’après-guerre, notamment Ur et les publications liées au mouvement.",
+      "Repérage dans les anthologies et catalogues de poésie sonore ; les notices de disques doivent être vérifiées à partir des exemplaires et de leurs crédits.",
+      "Les références monographiques et les dates de publication restent à établir : aucune édition non vérifiée n’est ajoutée ici."
+    ],
+    "sources": [
+      {
+        "url": "https://www.maurice-lemaitre.org/index.php/fr/lemaitre-lettrisme/biographie",
+        "note": "Chronologie primaire du milieu lettriste parisien et de ses revues ; source de contexte, non biographie individuelle de Brau."
+      },
+      {
+        "url": "https://www.ubu.com/sound/",
+        "note": "Archive de repérage pour les pratiques historiques de poésie sonore ; chaque attribution doit être recoupée avec les crédits originaux."
+      }
+    ],
+    "related": [
+      "maurice-lemaitre",
+      "isidore-isou",
+      "henri-chopin"
+    ]
   },
   {
     "id": "maurice-lemaitre",
     "name": "Maurice Lemaître",
     "years": "1926–2018",
-    "bio": "Artiste, poète et cinéaste français, figure majeure du lettrisme. Il expérimente avec les lettres, les phonèmes, la performance et le cinéma discrépant.",
+    "bio": "Né à Paris en 1926, Maurice Lemaître est l’un des principaux animateurs du lettrisme après la Seconde Guerre mondiale. Après des études de philosophie et un engagement dans les milieux anarchistes, il rencontre Isidore Isou en 1949 et rejoint le mouvement. Il développe une pratique qui associe poésie lettriste, métagraphie, photographie, théâtre, chorégraphie, édition et cinéma. Son film Le film est déjà commencé ? (1951) transforme la séance cinématographique en expérience critique : interventions dans la salle, jeu avec la projection et remise en cause de la séparation entre écran et spectateur. Il fonde ou anime plusieurs revues, dont Ur et Poésie Nouvelle, et contribue à faire connaître les recherches lettristes. Ses archives ont été acquises par Yale en 2009. Il meurt à Paris en 2018.",
     "works": [
-      "Le film est déjà commencé?",
-      "Œuvres lettristes"
+      "Le film est déjà commencé ? (film, 1951)",
+      "Système de notations pour les lettries (1952)",
+      "Le Mariaje du Don et de la Volga (symphonie lettriste)",
+      "Canailles (série métagraphique)",
+      "Au-delà du déclic (1965)",
+      "Écran total (2005)",
+      "Œuvres de cinéma (2007)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Le film est déjà commencé ?, scénario et documents, 1952.",
+      "Système de notations pour les lettries, 1952.",
+      "Œuvres poétiques et musicales, 1965.",
+      "Au-delà du déclic, livre photographique, 1965.",
+      "Écran total, Paris Expérimental, 2005.",
+      "Œuvres de cinéma, Paris Expérimental, 2007.",
+      "Archives de la Fondation Bismuth-Lemaître, fonds conservé à Yale University."
+    ],
+    "sources": [
+      {
+        "url": "https://www.maurice-lemaitre.org/index.php/fr/lemaitre-lettrisme/biographie",
+        "note": "Chronologie détaillée publiée par le site consacré à l’artiste, avec films, revues, expositions et publications."
+      }
+    ],
+    "related": [
+      "isidore-isou",
+      "gil-j-wolman",
+      "jean-louis-brau"
+    ]
   },
   {
     "id": "ulises-carrion",
     "name": "Ulises Carrión",
     "years": "1941–1989",
-    "bio": "Artiste et écrivain mexicain installé aux Pays-Bas, théoricien du livre d’artiste et de l’art postal. Son travail expérimental déplace le langage vers la structure, le son et l’action.",
+    "bio": "Né à San Andrés Tuxtla, au Mexique, Ulises Carrión étudie la littérature et publie d’abord des récits avant de s’installer en Europe à la fin des années 1960, puis à Amsterdam en 1972. Il abandonne progressivement l’écriture littéraire conventionnelle au profit d’une conception structurelle du livre : rythme, séquence, format, répétition et matérialité deviennent les véritables éléments de l’œuvre. En 1975, il ouvre à Amsterdam Other Books and So, espace indépendant consacré aux livres d’artistes, aux éditions et aux pratiques non conventionnelles. Il développe aussi l’art postal, la vidéo, la performance, le son et des projets collectifs. Son texte The New Art of Making Books (1975) est devenu une référence majeure de l’histoire du livre d’artiste. Il meurt à Amsterdam en 1989.",
     "works": [
-      "The New Art of Making Books",
-      "Gossip, Scandal and Good Manners"
+      "The New Art of Making Books (1975)",
+      "Other Books and So (espace et archive, Amsterdam, 1975-1979)",
+      "Gossip, Scandal and Good Manners (197 gossip/performance, 1981)",
+      "Sonnet(s) (1972)",
+      "The Poet’s Tongue (1977)",
+      "De German in Mexico (1972)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "The New Art of Making Books, 1975 ; nombreuses rééditions et traductions.",
+      "Second Thoughts, VOID Distributors, 1980.",
+      "Other Books and So, catalogue et documents de l’espace d’Amsterdam, 1975-1979.",
+      "Ulises Carrión, We have won! Haven’t we?, éd. Guy Schraenen, 1992.",
+      "Ulises Carrión, Dear reader. Don’t read, Museo Reina Sofía / Fundación Jumex, 2016.",
+      "Guy Schraenen (dir.), Ulises Carrión: A Retrospective, 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://www.deappel.nl/en/archive/entities/243-ulises-carrin",
+        "note": "Archive de de Appel, Amsterdam : présence de Carrión dans les collections et documents sonores."
+      },
+      {
+        "url": "https://www.museoreinasofia.es/en/exhibitions/ulises-carrion",
+        "note": "Repère institutionnel sur la rétrospective et la pratique de l’artiste."
+      }
+    ],
+    "related": [
+      "dick-higgins",
+      "ray-johnson",
+      "ed-ruscha"
+    ]
   },
   {
     "id": "anton-bruhin",
     "name": "Anton Bruhin",
     "years": "1949–",
-    "bio": "Artiste suisse, poète sonore et plasticien. Il explore les possibilités visuelles et phonétiques du langage, notamment par les palindromes et les compositions vocales.",
+    "bio": "Né en Suisse en 1949, Anton Bruhin est artiste visuel, écrivain, poète sonore et musicien expérimental. Son travail traverse les frontières entre dessin, peinture, typographie, poésie concrète, palindrome et composition vocale. Il traite les mots comme des objets plastiques et acoustiques : répétitions, permutations, symétries et jeux phonétiques deviennent des principes de construction. Cette recherche s’inscrit dans la continuité de la poésie concrète et sonore suisse, tout en conservant une dimension ludique et une grande attention à la matérialité du signe. Bruhin a également développé une pratique du dessin et de l’image imprimée. Les références discographiques et éditoriales étant dispersées, les titres et dates doivent être contrôlés sur les éditions originales.",
     "works": [
-      "Machenschaften",
-      "Lauter Wörter"
+      "Machenschaften (travaux textuels et visuels)",
+      "Lauter Wörter (poésie et jeux de langage)",
+      "Palindromes et compositions typographiques",
+      "Enregistrements et performances de poésie sonore"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Anton Bruhin, Machenschaften, éditions et tirages d’artiste à identifier selon les exemplaires consultés.",
+      "Anton Bruhin, Lauter Wörter, édition à vérifier sur exemplaire.",
+      "Documents et enregistrements de poésie concrète et sonore suisse : vérifier les crédits des anthologies avant attribution.",
+      "Références bibliographiques individuelles encore à consolider ; aucun éditeur ni millésime incertain n’est avancé."
+    ],
+    "sources": [
+      {
+        "url": "https://www.ubu.com/sound/",
+        "note": "Archive de repérage des pratiques de poésie sonore ; les enregistrements doivent être rapprochés des notices de disques originales."
+      },
+      {
+        "url": "https://www.nb.admin.ch/",
+        "note": "Catalogue de la Bibliothèque nationale suisse, à utiliser pour le contrôle des éditions et des publications de l’artiste."
+      }
+    ],
+    "related": [
+      "henri-chopin",
+      "ernst-jandl",
+      "kurt-schwitters"
+    ]
   },
   {
     "id": "eduardo-kac",
     "name": "Eduardo Kac",
     "years": "1962–",
-    "bio": "Artiste brésilien-américain, pionnier de l’art télécommunicationnel, de la poésie holographique et de la bio-art. Il élargit la poésie expérimentale aux médias technologiques.",
+    "bio": "Né à Rio de Janeiro en 1962, Eduardo Kac est artiste, théoricien et enseignant. Dès les années 1980, il explore les rapports entre poésie, télécommunication et médias électroniques, puis développe la holopoésie, dans laquelle le texte holographique se transforme avec le point de vue du lecteur. Ses recherches s’étendent à la poésie numérique, à l’art télématique, à l’installation interactive et au bio-art. Genesis (1999), œuvre fondée sur un « gène d’artiste » créé à partir d’une phrase biblique transcrite en code Morse puis en ADN, met en scène les traductions et transformations entre langage, technologie et vivant. Avec GFP Bunny (2000), il provoque un débat sur les pratiques artistiques utilisant les biotechnologies. Son œuvre associe expérimentation formelle, réflexion éthique et critique des frontières entre nature et culture.",
     "works": [
-      "Holopoetry",
-      "Genesis"
+      "Holopoetry (recherches développées depuis les années 1980)",
+      "Ornitorrinco (projet de téléprésence, à partir de 1989)",
+      "Genesis (1999)",
+      "GFP Bunny / Alba (2000)",
+      "Move 36 (2004)",
+      "Edunia (2009)",
+      "Natural History of the Enigma (2009)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Eduardo Kac, Life Forms: Biology and the Evolution of Digital Life, 1998.",
+      "Eduardo Kac (dir.), New Media Poetry: Poetic Innovation and New Technologies, Visible Language, 2007.",
+      "Eduardo Kac, Telepresence and Bio Art: Networking Humans, Rabbits, and Robots, University of Michigan Press, 2005.",
+      "Eduardo Kac, Media Poetry: An International Anthology, Intellect, 2007.",
+      "Eduardo Kac, Signs of Life: Bio Art and Beyond, MIT Press, 2007."
+    ],
+    "sources": [
+      {
+        "url": "https://www.ekac.org/",
+        "note": "Site de l’artiste : archives de ses projets, textes, expositions et travaux de poésie numérique, holopoésie et bio-art."
+      }
+    ],
+    "related": [
+      "ulises-carrion",
+      "john-giorno",
+      "nam-june-paik"
+    ]
   },
   {
     "id": "emil-cioran",
     "name": "Émile Cioran",
     "years": "1911–1995",
     "group": "Philosophie / aphorisme",
-    "bio": "Philosophe et moraliste d’origine roumaine, devenu écrivain de langue française. Ses aphorismes et essais explorent le désespoir, l’histoire, la religion et l’absurdité de l’existence.",
+    "bio": "Né en 1911 à Rășinari, en Transylvanie alors austro-hongroise, Emil Cioran étudie la philosophie à Bucarest et publie en roumain ses premiers essais, marqués par l’histoire politique et les crises intellectuelles de l’entre-deux-guerres. Installé à Paris à partir de 1937, il choisit progressivement le français comme langue d’écriture ; Précis de décomposition (1949) inaugure cette seconde œuvre, faite de fragments, d’aphorismes et d’essais brefs. Sa pensée, volontiers paradoxale, travaille le désespoir, l’insomnie, l’histoire, la religion, le suicide et l’impossibilité de se réconcilier avec l’existence. Il refuse les systèmes philosophiques et préfère l’essai discontinu, la contradiction et la formule. Il reçoit le prix Rivarol en 1950 et meurt à Paris en 1995.",
     "works": [
-      "Précis de décomposition",
-      "Syllogismes de l’amertume",
-      "De l’inconvénient d’être né"
+      "Sur les cimes du désespoir (1934, roumain)",
+      "Le Livre des leurres (1936, roumain)",
+      "Des larmes et des saints (1937, roumain)",
+      "Précis de décomposition (1949)",
+      "Syllogismes de l’amertume (1952)",
+      "La Tentation d’exister (1956)",
+      "Histoire et utopie (1960)",
+      "De l’inconvénient d’être né (1973)",
+      "Exercices d’admiration (1986)"
     ],
     "sources": [
-      "https://www.larousse.fr/encyclopedie/litterature/%C3%89mile_Michel_Cioran/172441"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11896880p.public",
+        "note": "Notice d’autorité BnF : identité, dates, langues d’écriture, installation en France à partir de 1937 et bibliographie liée."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Précis de décomposition, Gallimard, 1949.",
+      "Syllogismes de l’amertume, Gallimard, 1952.",
+      "La Tentation d’exister, Gallimard, 1956.",
+      "Histoire et utopie, Gallimard, 1960.",
+      "Le Mauvais Démiurge, Gallimard, 1969.",
+      "De l’inconvénient d’être né, Gallimard, 1973.",
+      "Exercices d’admiration, Gallimard, 1986.",
+      "Œuvres, éd. Nicolas Cavaillès, Bibliothèque de la Pléiade, Gallimard, 2011."
+    ],
+    "related": [
+      "albert-caraco",
+      "luc-dietrich",
+      "emmanuel-bove"
+    ]
   },
   {
     "id": "albert-caraco",
     "name": "Albert Caraco",
     "years": "1919–1971",
     "group": "Littératures singulières",
-    "bio": "Écrivain, philosophe et moraliste franco-uruguayen, auteur d’une œuvre sombre et radicale mêlant journal, aphorisme, essai et méditation sur la civilisation.",
+    "bio": "Né à Istanbul en 1919 dans une famille juive séfarade uruguayenne, Albert Caraco grandit au gré des déplacements familiaux, notamment à Prague, Berlin, Rio de Janeiro, Buenos Aires et Montevideo. Polyglotte, il écrit en allemand, anglais, espagnol et français. Poète, romancier, dramaturge et essayiste, il développe après la Seconde Guerre mondiale une œuvre de plus en plus aphoristique et métaphysique, caractérisée par une critique radicale de la civilisation, de la démographie, de la religion et des illusions humanistes. Bréviaire du chaos, publié après sa mort, condense cette vision sombre dans une prose volontairement sentencieuse. Son écriture se nourrit aussi du journal et de la méditation sur la mort. Il meurt à Paris en septembre 1971.",
     "works": [
-      "Bréviaire du chaos",
-      "Post Mortem",
-      "Ma confession"
+      "Ma confession (posthume, 1975)",
+      "Post Mortem (1968)",
+      "Bréviaire du chaos (posthume, 1982)",
+      "L’Ordre et le sexe (1968)",
+      "Les Racines de l’homme (1938)",
+      "Le Désir de mourir (1962)"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb118951032"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb118951032",
+        "note": "Notice d’autorité BnF : naissance à Istanbul, décès à Paris, langues pratiquées, déplacements et identités bibliographiques."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Le Désir de mourir, 1962.",
+      "L’Ordre et le sexe, 1968.",
+      "Post Mortem, 1968.",
+      "Ma confession, L’Âge d’Homme, 1975 (posthume).",
+      "Bréviaire du chaos, L’Âge d’Homme, 1982 (posthume).",
+      "Écrits sur la religion, 1984.",
+      "Semainier de l’agonie, 1985."
+    ],
+    "related": [
+      "emil-cioran",
+      "rene-guenon",
+      "luc-dietrich"
+    ]
   },
   {
     "id": "rene-guenon",
     "name": "René Guénon",
     "years": "1886–1951",
     "group": "Philosophie / ésotérisme",
-    "bio": "Métaphysicien et auteur français, figure majeure de l’école traditionaliste. Il critique la modernité au nom des doctrines métaphysiques et des traditions spirituelles.",
+    "bio": "Né à Blois en 1886, René Guénon se forme dans les milieux intellectuels et occultistes parisiens du début du XXe siècle, avant de prendre ses distances avec les courants ésotériques occidentaux qu’il juge fragmentaires. Il développe une critique de la modernité au nom de ce qu’il considère comme les principes métaphysiques des traditions. Ses ouvrages portent sur le symbolisme, l’initiation, l’hindouisme, le soufisme, la tradition chrétienne et la crise du monde moderne. Converti à l’islam en 1912 selon la notice d’autorité de la BnF, il s’installe au Caire en 1930 et y vit jusqu’à sa mort en 1951. Son influence sur les courants traditionalistes est considérable, mais son œuvre relève d’une orientation doctrinale spécifique qu’il convient de distinguer des avant-gardes artistiques proprement dites.",
     "works": [
-      "La Crise du monde moderne",
-      "Le Règne de la quantité et les signes des temps"
+      "Introduction générale à l’étude des doctrines hindoues (1921)",
+      "Le Théosophisme, histoire d’une pseudo-religion (1921)",
+      "L’Erreur spirite (1923)",
+      "Orient et Occident (1924)",
+      "La Crise du monde moderne (1927)",
+      "Le Symbolisme de la Croix (1931)",
+      "Les États multiples de l’être (1932)",
+      "La Grande Triade (1946)",
+      "Le Règne de la quantité et les signes des temps (1945)"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Introduction générale à l’étude des doctrines hindoues, Marcel Rivière, 1921.",
+      "Orient et Occident, Payot, 1924.",
+      "La Crise du monde moderne, Bossard, 1927.",
+      "Le Symbolisme de la Croix, Véga, 1931.",
+      "Les États multiples de l’être, Véga, 1932.",
+      "Le Règne de la quantité et les signes des temps, Gallimard, 1945.",
+      "La Grande Triade, Gallimard, 1946.",
+      "Œuvres, rééditions et bibliographies consultables au catalogue général de la BnF."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11906145j",
+        "note": "Notice d’autorité BnF : dates, identité, pseudonymes et repères biographiques."
+      }
+    ],
+    "related": [
+      "emil-cioran",
+      "albert-caraco",
+      "luc-dietrich"
+    ]
   },
   {
     "id": "luc-dietrich",
     "name": "Luc Dietrich",
     "years": "1913–1944",
     "group": "Littératures singulières",
-    "bio": "Écrivain, photographe et dessinateur français, proche de Lanza del Vasto. Son œuvre autobiographique et introspective explore la formation de soi et l’expérience du monde.",
+    "bio": "Né à Dijon en 1913, Luc Dietrich, de son nom civil Raoul Jacques Dietrich, connaît une jeunesse précaire et une formation intellectuelle largement autodidacte. Il rencontre Lanza del Vasto, qui devient son ami et interlocuteur décisif ; leur relation nourrit une réflexion sur l’apprentissage de soi, la pauvreté et la présence au monde. Écrivain, photographe et dessinateur, Dietrich publie L’Apprentissage de la ville, récit autobiographique où l’observation concrète et la quête d’une éducation intérieure se mêlent. Son écriture, proche par certains aspects du récit d’apprentissage, conserve une singularité poétique et méditative. Il meurt à Paris en août 1944, dans les derniers mois de l’Occupation. Plusieurs textes et documents ont été publiés après sa mort.",
     "works": [
-      "L’Apprentissage de la ville",
-      "Le Bonheur des tristes"
+      "Le Bonheur des tristes (1935)",
+      "L’Apprentissage de la ville (1942 ; édition posthume 1945)",
+      "Dialogue de l’amitié (avec Lanza del Vasto, édition posthume)",
+      "Poèmes et photographies, publications posthumes"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb11900179d"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11900179d",
+        "note": "Notice d’autorité BnF : identité civile, dates et lieux, activités, œuvres et variantes de nom."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Le Bonheur des tristes, Denoël, 1935.",
+      "L’Apprentissage de la ville, Denoël, 1942 ; publication posthume en volume en 1945.",
+      "Dialogue de l’amitié, avec Lanza del Vasto, Gallimard, édition posthume.",
+      "Luc Dietrich : cahier onze, sous la direction de Frédéric Richaud, 1998.",
+      "Raymond Cousse et Jean-Luc Bitton, La Vie comme une ombre : biographie de Luc Dietrich, Le Castor Astral."
+    ],
+    "related": [
+      "lanza-del-vasto",
+      "emil-cioran",
+      "albert-caraco"
+    ]
   },
   {
     "id": "armand-robin",
     "name": "Armand Robin",
     "years": "1912–1961",
     "group": "Poésie / traduction",
-    "bio": "Poète, traducteur et critique littéraire français, polyglotte passionné par les langues et les émissions radiophoniques étrangères. Son œuvre mêle poésie, traduction et écoute du monde.",
+    "bio": "Né en 1912 à Plouguernével, en Bretagne, Armand Robin est poète, traducteur, critique et observateur attentif des médias. Issu d’un milieu bretonnant, il apprend de nombreuses langues et traduit notamment des poètes russes, parmi lesquels Maïakovski, Pasternak, Blok et Essenine. Son activité d’écoute des émissions radiophoniques étrangères, qu’il suit dans leur langue originale, nourrit une réflexion singulière sur la propagande, la déformation de l’information et le pouvoir du langage. La Fausse Parole (1953) formule cette critique des discours médiatiques. Sa poésie, souvent fragmentaire et traversée par l’exil intérieur, se tient à distance des écoles littéraires. Il meurt à Paris en 1961 dans des circonstances tragiques.",
     "works": [
-      "Ma vie sans moi",
-      "Les Poèmes indésirables"
+      "Ma vie sans moi (1940)",
+      "Le Temps qu’il fait (1942)",
+      "Quatre Poètes russes (traductions, 1949)",
+      "La Fausse Parole (1953)",
+      "Poésie non traduite (1953-1958)",
+      "Le Monde d’une voix (posthume, 1968)",
+      "Les Poèmes indésirables (édition posthume, 1979)"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb11922225n"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11922225n",
+        "note": "Notice d’autorité BnF : dates, langues traduites, fonctions et bibliographie."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Armand_Robin/176529",
+        "note": "Notice de synthèse sur ses traductions, son écoute des radios étrangères et sa critique de la propagande."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Ma vie sans moi, Gallimard, 1940.",
+      "Le Temps qu’il fait, 1942.",
+      "Quatre Poètes russes, traductions, 1949.",
+      "La Fausse Parole, Minuit, 1953.",
+      "Le Monde d’une voix, Gallimard, 1968 (posthume).",
+      "Les Poèmes indésirables, Gallimard, 1979.",
+      "Œuvres, éditions et études réunies dans les catalogues de la BnF."
+    ],
+    "related": [
+      "henri-chopin",
+      "john-giorno",
+      "ulises-carrion"
+    ]
   },
   {
     "id": "georges-darien",
     "name": "Georges Darien",
     "years": "1862–1921",
     "group": "Littératures anarchistes",
-    "bio": "Romancier, dramaturge et pamphlétaire anarchiste français, adversaire de l’autorité, du militarisme et de l’hypocrisie sociale.",
+    "bio": "Né à Paris en 1862 sous le nom de Georges Hippolyte Adrien, Georges Darien est romancier, dramaturge et pamphlétaire. Son expérience du service militaire et des bataillons disciplinaires nourrit Biribi (1890), dénonciation de la violence institutionnelle et du système militaire. Il fréquente les milieux anarchistes et collabore à plusieurs périodiques, dont L’Endehors ; il fonde également L’Escarmouche et L’Ennemi du peuple. Son roman Le Voleur (1897) met en scène un personnage qui retourne contre la société les normes de propriété et de respectabilité. Dans La Belle France (1901), il attaque le nationalisme, le militarisme et les institutions républicaines. Son œuvre, longtemps marginalisée, a été redécouverte pour sa verve satirique et son radicalisme politique. Il meurt à Paris en 1921.",
     "works": [
-      "Le Voleur",
-      "Biribi",
-      "La Belle France"
+      "Biribi (1890)",
+      "Bas les cœurs ! (1890)",
+      "Le Voleur (1897)",
+      "L’Épaulette (1901)",
+      "La Belle France (1901)",
+      "Gottlieb Krumm (1904)",
+      "L’Ennemi du peuple (revue, 1903-1904)"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb11898640c"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11898640c",
+        "note": "Notice d’autorité BnF : identité, dates, pseudonyme, périodiques anarchistes et références d’œuvres."
+      },
+      {
+        "url": "https://www.bnfa.fr/livre?biblionumber=21106",
+        "note": "Notice éditoriale de Biribi et contexte de la dénonciation des bataillons disciplinaires."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Biribi, Savine, 1890.",
+      "Bas les cœurs !, Savine, 1890.",
+      "Le Voleur, Stock, 1897.",
+      "L’Épaulette, Stock, 1901.",
+      "La Belle France, Stock, 1901.",
+      "Gottlieb Krumm, 1904 ; traduction anglaise publiée ultérieurement.",
+      "L’Escarmouche et L’Ennemi du peuple, périodiques fondés ou animés par Darien."
+    ],
+    "related": [
+      "emmanuel-bove",
+      "luc-dietrich",
+      "marcel-schwob"
+    ]
   },
   {
     "id": "marcel-schwob",
     "name": "Marcel Schwob",
     "years": "1867–1905",
     "group": "Symbolisme / précurseurs",
-    "bio": "Écrivain, poète et érudit français, auteur de contes érudits et fantastiques. Son écriture singulière a marqué les modernistes et plusieurs générations d’écrivains expérimentaux.",
+    "bio": "Né à Chaville en 1867, Marcel Schwob est écrivain, traducteur, érudit et critique. Il grandit dans un milieu lettré et se forme aux langues anciennes, à la philologie et à la littérature européenne. Ses recherches sur l’argot, les récits médiévaux et les traditions populaires nourrissent une œuvre où l’érudition devient matière d’invention. Dans Cœur double (1891), Le Roi au masque d’or (1892) et Le Livre de Monelle (1894), il compose des récits brefs, fantastiques ou symboliques. Vies imaginaires (1896) propose des biographies fictives de personnages historiques ou obscurs, en brouillant les frontières entre document et invention ; ce livre exercera une influence durable sur Borges et les formes modernes de la biographie littéraire. Il meurt à Paris en 1905.",
     "works": [
-      "Le Livre de Monelle",
-      "Vies imaginaires",
-      "Cœur double"
+      "Cœur double (1891)",
+      "Le Roi au masque d’or (1892)",
+      "Le Livre de Monelle (1894)",
+      "Mimes (1894)",
+      "Vies imaginaires (1896)",
+      "La Croisade des enfants (1896)",
+      "Spicilège (1896)",
+      "La Lampe de Psyché (1903)"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb11924205h"
+      {
+        "url": "https://www.hachettebnf.fr/auteur/marcel-schwob/",
+        "note": "Catalogue éditorial recensant les œuvres et rééditions de Schwob."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Cœur double, Ollendorff, 1891.",
+      "Le Roi au masque d’or, Ollendorff, 1892.",
+      "Le Livre de Monelle, Mercure de France, 1894.",
+      "Vies imaginaires, 1896.",
+      "La Croisade des enfants, 1896.",
+      "Spicilège, 1896.",
+      "Œuvres complètes, édition critique publiée chez Les Belles Lettres / Hachette BnF selon les volumes."
+    ],
+    "related": [
+      "alfred-jarry",
+      "jorge-luis-borges",
+      "emmanuel-bove"
+    ]
   },
   {
     "id": "ivan-gontcharov",
     "name": "Ivan Gontcharov",
     "years": "1812–1891",
     "group": "Littérature russe",
-    "bio": "Romancier russe du XIXe siècle, célèbre pour son observation ironique de la société et pour la figure d’Oblomov, devenue emblématique de l’inertie existentielle.",
+    "bio": "Né à Simbirsk en 1812 dans une famille de marchands, Ivan Alexandrovitch Gontcharov étudie à l’université de Moscou avant d’entrer dans l’administration impériale. Il voyage notamment en Extrême-Orient comme secrétaire de l’expédition de l’amiral Poutiatine, expérience racontée dans La Frégate Pallas. Son œuvre romanesque observe les transformations de la société russe et les contradictions de ses élites. Une histoire ordinaire (1847) examine l’opposition entre idéalisme et adaptation sociale ; Oblomov (1859) crée une figure devenue emblématique de l’inertie et de l’impossibilité d’agir ; Le Ravin (1869) clôt sa trilogie romanesque. Gontcharov est reconnu pour son ironie, sa précision psychologique et son attention aux rythmes de la vie quotidienne. Il meurt à Saint-Pétersbourg en 1891.",
     "works": [
-      "Oblomov",
-      "Le Ravin",
-      "Une histoire ordinaire"
+      "Une histoire ordinaire (1847)",
+      "Oblomov (1859)",
+      "La Frégate Pallas (1858-1859)",
+      "Le Ravin (1869)",
+      "Notes sur la personnalité de Belinski (essai)"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Une histoire ordinaire, 1847.",
+      "Oblomov, 1859.",
+      "La Frégate Pallas, 1858-1859.",
+      "Le Ravin, 1869.",
+      "Œuvres romanesques et correspondance, éditions russes et traductions françaises diverses ; vérifier les traducteurs et éditeurs selon les éditions consultées."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Ivan-Aleksandrovich-Goncharov",
+        "note": "Notice biographique et bibliographique de synthèse sur l’écrivain russe."
+      }
+    ],
+    "related": [
+      "fiodor-dostoievski",
+      "ivan-tourgueniev",
+      "nikolai-gogol"
+    ]
   },
   {
     "id": "john-giorno",
     "name": "John Giorno",
     "years": "1936–2019",
     "group": "Poésie sonore / performance",
-    "bio": "Poète et artiste américain lié à la scène new-yorkaise, il associe collage verbal, performance, enregistrement et technologies de diffusion. Son projet Dial-A-Poem fait entendre des poètes au téléphone.",
+    "bio": "Né à New York en 1936, John Giorno est poète, artiste visuel et performeur. Après des études à Columbia, il entre dans le milieu de la Factory d’Andy Warhol et apparaît dans Sleep (1963). Il développe une poésie fondée sur le collage verbal, la répétition et la circulation de fragments empruntés à la publicité, aux conversations et aux médias. En 1965, il fonde Giorno Poetry Systems, organisation qui produit disques, publications et événements. Dial-A-Poem, lancé en 1969 et présenté au MoMA en 1970, permet au public d’écouter des poèmes par téléphone et transforme la diffusion de la poésie en dispositif participatif. Ses performances associent voix amplifiée, rythme et présence physique. Il s’engage aussi dans la lutte contre le sida et les droits des personnes homosexuelles. Il meurt à New York en 2019.",
     "works": [
-      "Dial-A-Poem",
-      "Giorno Poetry Systems",
-      "Thanx 4 Nothing"
+      "Sleep (apparition dans le film d’Andy Warhol, 1963)",
+      "Poems (1967)",
+      "Dial-A-Poem (1969-1970)",
+      "Giorno Poetry Systems / GPS Records",
+      "Thanx 4 Nothing (poème et performance)",
+      "Poem Paintings (à partir de 1989)",
+      "Great Demon Kings (mémoires, publication posthume, 2020)"
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "sources": [
-      "https://www.poetryfoundation.org/poets/john-giorno"
+      {
+        "url": "https://www.poetryfoundation.org/poets/john-giorno",
+        "note": "Biographie et repères sur Warhol, Giorno Poetry Systems et Dial-A-Poem."
+      },
+      {
+        "url": "https://giornopoetrysystems.org/john-giorno/biography",
+        "note": "Chronologie de l’organisation fondée par Giorno, de ses disques, performances et engagements."
+      }
     ],
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Poems, 1967.",
+      "The American Book of the Dead, 1964-1968 ; édition publiée en 1968.",
+      "Balling Buddha, 1970.",
+      "Cancer in My Left Ball, 1973.",
+      "You Got to Burn to Shine, 1994.",
+      "Subduing Demons in America: Selected Poems 1962-2007, 2008.",
+      "Great Demon Kings: A Memoir of Poetry, Sex, Art, Death, and Enlightenment, Farrar, Straus and Giroux, 2020."
+    ],
+    "related": [
+      "william-s-burroughs",
+      "andy-warhol",
+      "allen-ginsberg"
+    ]
   },
   {
     "id": "emmanuel-bove",
     "name": "Emmanuel Bove",
     "years": "1898–1945",
     "group": "Littératures singulières",
-    "bio": "Romancier français à l’écriture dépouillée, attentif aux solitudes ordinaires, aux humiliations sociales et aux existences en marge. Son œuvre fut admirée notamment par Samuel Beckett.",
+    "bio": "Né à Paris en 1898, Emmanuel Bove est romancier et journaliste. Son premier livre, Mes amis (1924), publié avec le soutien de Colette, attire immédiatement l’attention par une prose dépouillée et une observation aiguë des humiliations ordinaires. Ses personnages, souvent isolés, pauvres ou socialement déclassés, éprouvent le décalage entre leurs aspirations et les possibilités concrètes de leur existence. Bove publie de nombreux romans et récits dans l’entre-deux-guerres, tout en collaborant à la presse. Son écriture, faite de silences, de détails et de situations sans issue, sera admirée par Samuel Beckett. Après une période d’oubli, son œuvre est redécouverte à partir des années 1970. Il meurt à Paris en 1945 ; plusieurs manuscrits et textes inédits sont conservés à l’IMEC.",
     "works": [
-      "Mes amis",
-      "Armand",
-      "Bécon-les-Bruyères"
+      "Mes amis (1924)",
+      "Armand (1927)",
+      "Cœurs et Visages (1928)",
+      "L’Amour de Pierre Neuhart (1928)",
+      "Une fugue (1929)",
+      "Bécon-les-Bruyères (1927)",
+      "Un homme qui savait (écrit en 1942, publié en 1985)",
+      "Un caractère de femme (posthume, 1999)"
     ],
     "sources": [
-      "https://imec-archives.com/archives/fonds/048BVE"
+      {
+        "url": "https://www.imec-archives.com/archives/fonds/048BVE",
+        "note": "Fonds Emmanuel Bove à l’IMEC : manuscrits, correspondance, documents biographiques et présentation de l’œuvre."
+      },
+      {
+        "url": "https://www.imec-archives.com/matieres-premieres/blogs/blog/mes-amis-d-emmanuel-bove",
+        "note": "Étude de l’IMEC sur Mes amis et sa réception en 1924."
+      }
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Mes amis, Ferenczi, 1924.",
+      "Armand, Ferenczi, 1927.",
+      "Cœurs et Visages, Ferenczi, 1928.",
+      "Une fugue, 1929.",
+      "Bécon-les-Bruyères, 1927.",
+      "Un homme qui savait, Flammarion, 1985 (posthume).",
+      "Raymond Cousse et Jean-Luc Bitton, La Vie comme une ombre, Le Castor Astral, biographie de référence.",
+      "Œuvres, éditions et rééditions chez L’Arbre vengeur et autres éditeurs."
+    ],
+    "related": [
+      "marcel-schwob",
+      "luc-dietrich",
+      "georges-darien"
+    ]
   },
   {
     "id": "ivan-chtcheglov",
     "name": "Ivan Chtcheglov",
     "years": "1933–1998",
     "group": "Lettrisme / situationnisme",
-    "bio": "Écrivain et théoricien français, connu sous le nom de Gilles Ivain. Son Formulaire pour un urbanisme nouveau, écrit en 1953, a profondément marqué l’Internationale situationniste et l’imaginaire psychogéographique.",
+    "bio": "Né à Paris en 1933, Ivan Chtcheglov, qui signe parfois Gilles Ivain, est écrivain et théoricien lié à la mouvance lettriste puis à l’Internationale lettriste. En 1953, alors qu’il est très jeune, il rédige Formulaire pour un urbanisme nouveau, texte qui propose de transformer la ville par la dérive, l’ambiance, le jeu et l’invention de situations. Il y imagine une architecture émotionnelle et des quartiers conçus comme des expériences plutôt que comme des fonctions. Le texte circule d’abord dans les milieux lettristes avant d’être publié dans la revue Internationale situationniste en 1958, où il devient une référence de la psychogéographie et de la critique de l’urbanisme fonctionnaliste. Sa vie est marquée par des séjours en institution psychiatrique et une relation discontinue aux groupes d’avant-garde. Il meurt en 1998.",
     "works": [
-      "Formulaire pour un urbanisme nouveau"
+      "Formulaire pour un urbanisme nouveau (1953)",
+      "Contributions et textes liés à l’Internationale lettriste",
+      "Écrits et entretiens publiés dans les archives situationnistes"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "« Formulaire pour un urbanisme nouveau », rédigé en 1953 ; publication dans Internationale situationniste, no 1, juin 1958.",
+      "Ivan Chtcheglov, Écrits retrouvés, éditions Allia, 2006.",
+      "Textes et documents réunis dans les archives de l’Internationale situationniste ; consulter les variantes et datations selon les éditions."
+    ],
+    "sources": [
+      {
+        "url": "https://situationist.org/",
+        "note": "Archive de l’Internationale situationniste donnant accès au Formulaire pour un urbanisme nouveau et aux documents associés."
+      }
+    ],
+    "related": [
+      "guy-debord",
+      "constant-nieuwenhuys",
+      "isidore-isou"
+    ]
   },
   {
     "id": "cesare-pavese",
     "name": "Cesare Pavese",
     "years": "1908–1950",
     "group": "Littérature italienne",
-    "bio": "Écrivain, poète et traducteur italien, figure majeure de la littérature du XXe siècle. Ses romans et son journal interrogent la solitude, le mythe, la mémoire et l’impossibilité de vivre.",
+    "bio": "Né à Santo Stefano Belbo en 1908, Cesare Pavese est écrivain, poète, traducteur et éditeur italien. Diplômé de lettres à Turin, il traduit Melville, Dos Passos, Faulkner et d’autres auteurs anglophones, contribuant à renouveler la culture littéraire italienne. Opposant au fascisme, il est arrêté en 1935 et relégué dans le sud de l’Italie. Cette expérience nourrit le journal Il mestiere di vivere, tenu jusqu’à sa mort. Son œuvre romanesque et poétique associe paysages du Piémont, mythes, mémoire, solitude et violence historique. Il publie notamment Paesi tuoi, La bella estate et La luna e i falò. Il travaille aux éditions Einaudi, où il joue un rôle important dans la circulation des littératures étrangères. Il reçoit le prix Strega en 1950 et meurt à Turin la même année.",
     "works": [
-      "Le Métier de vivre",
-      "La Lune et les Feux",
-      "Dialogues avec Leucò"
+      "Lavorare stanca (1936)",
+      "Paesi tuoi (1941)",
+      "Dialoghi con Leucò (1947)",
+      "Il compagno (1947)",
+      "La bella estate (1949)",
+      "La luna e i falò (1950)",
+      "Il mestiere di vivere (journal, publication posthume, 1952)"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Lavorare stanca, Solaria, 1936.",
+      "Paesi tuoi, Einaudi, 1941.",
+      "Dialoghi con Leucò, Einaudi, 1947.",
+      "Il compagno, Einaudi, 1947.",
+      "La bella estate, Einaudi, 1949 ; prix Strega 1950.",
+      "La luna e i falò, Einaudi, 1950.",
+      "Il mestiere di vivere, Einaudi, 1952 (posthume).",
+      "Lettere 1924-1950, Einaudi, 1966."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/",
+        "note": "Portail Nobel utilisé comme point d’accès documentaire ; Pavese n’a pas reçu le prix Nobel. Pour les œuvres et archives, privilégier les éditions Einaudi et les catalogues bibliographiques."
+      }
+    ],
+    "related": [
+      "emmanuel-bove",
+      "marcel-schwob",
+      "albert-caraco"
+    ]
   },
   {
     "id": "kazimir-malevich",
     "name": "Kazimir Malevitch",
     "years": "1879–1935",
     "group": "Suprématisme",
-    "bio": "Peintre et théoricien, il pousse l’abstraction vers une géométrie radicale avec le suprématisme.",
+    "bio": "Né en 1879 près de Kiev, Kazimir Malevitch est peintre et théoricien de l’avant-garde russe. Après une formation artistique à Kiev puis à Moscou, il traverse plusieurs langages modernes, du néo-primitivisme au cubo-futurisme. En 1915, il présente le Carré noir à l’exposition 0,10 et formule le suprématisme, qu’il définit comme une peinture libérée de la représentation et fondée sur la sensation pure, la couleur et les formes géométriques. Il enseigne ensuite à Vitebsk et participe aux débats sur l’art nouveau et la pédagogie artistique. Après la révolution, ses recherches se heurtent progressivement à la normalisation esthétique soviétique ; il revient à la figuration dans les dernières années. Il meurt à Leningrad en 1935.",
     "works": [
-      "Carré noir",
-      "Carré blanc sur fond blanc"
+      "Carré noir (1915)",
+      "Carré rouge (1915)",
+      "Suprématisme (1915-1918)",
+      "Carré blanc sur fond blanc (1918)",
+      "Proun et recherches pédagogiques à Vitebsk (dialogue avec Lissitzky)",
+      "Le Cavalier rouge (années 1930)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Du cubisme et du futurisme au suprématisme : le nouveau réalisme pictural, manifeste, 1915.",
+      "Suprematism: 34 Drawings, 1920.",
+      "The World as Non-Objectivity, textes et conférences, 1920-1926.",
+      "Kazimir Malevich, The Non-Objective World, 1927 ; trad. anglaise, 1959.",
+      "Troels Andersen (éd.), Malevich: The Complete Works, 1990.",
+      "John E. Bowlt et Matthew Drutt (dir.), Amazons of the Avant-Garde, Guggenheim Museum, 2000."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/suprematism",
+        "note": "Définition institutionnelle du suprématisme et repères sur la rupture avec la représentation."
+      },
+      {
+        "url": "https://www.museothyssen.org/en/collection/artists/malevich-kazimir",
+        "note": "Biographie de Malevitch, évolution stylistique et présentation du Carré noir."
+      }
+    ],
+    "related": [
+      "el-lissitzky",
+      "ivan-kliun",
+      "liubov-popova"
+    ]
   },
   {
     "id": "wassily-kandinsky",
     "name": "Vassily Kandinsky",
     "years": "1866–1944",
     "group": "Abstraction",
-    "bio": "Peintre et théoricien de l’abstraction, actif dans les réseaux artistiques russes puis au Bauhaus.",
+    "bio": "Né à Moscou en 1866, Vassily Kandinsky étudie le droit et l’économie avant de choisir la peinture en 1896 et de s’installer à Munich. Il participe à la fondation de la Neue Künstlervereinigung München, puis cofonde avec Franz Marc le groupe Der Blaue Reiter et son almanach en 1911-1912. Ses tableaux évoluent vers une abstraction où couleur, ligne et rythme sont pensés comme des forces autonomes, en dialogue avec la musique et une réflexion spirituelle. De retour en Russie pendant la Première Guerre mondiale, il enseigne après la révolution, puis rejoint le Bauhaus en 1922. Après la fermeture de l’école par le régime nazi en 1933, il s’installe en France. Il meurt à Neuilly-sur-Seine en 1944.",
     "works": [
-      "Du spirituel dans l’art",
-      "Composition VIII"
+      "Du spirituel dans l’art (1911)",
+      "Composition VII (1913)",
+      "Tableau avec cercle (1911)",
+      "Composition VIII (1923)",
+      "Point et ligne sur plan (1926)",
+      "Composition X (1939)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Du spirituel dans l’art, 1911.",
+      "Klänge / Résonances, 1912.",
+      "Point et ligne sur plan, Bauhausbücher, 1926.",
+      "Regards sur le passé, 1913-1921.",
+      "Essais et textes réunis dans Kandinsky: Complete Writings on Art, éd. Kenneth C. Lindsay et Peter Vergo, 1982.",
+      "Peggy Guggenheim Collection, catalogues et notices consacrés à Kandinsky et Der Blaue Reiter."
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim-venice.it/en/art/artists/vasily-kandinsky/",
+        "note": "Biographie institutionnelle : Munich, Der Blaue Reiter, retour en Russie, Bauhaus et exil en France."
+      }
+    ],
+    "related": [
+      "franz-marc",
+      "paul-klee",
+      "alexej-jawlensky"
+    ]
   },
   {
     "id": "vladimir-tatlin",
     "name": "Vladimir Tatline",
     "years": "1885–1953",
     "group": "Constructivisme",
-    "bio": "Artiste et architecte, figure du constructivisme et des recherches sur les matériaux et la construction.",
+    "bio": "Né à Moscou en 1885, Vladimir Tatline est peintre, sculpteur, scénographe et théoricien de la construction. Après des études à Penza et à Moscou, il participe aux expositions de l’avant-garde russe et découvre à Paris l’atelier de Picasso en 1914. Ses reliefs et contre-reliefs associent bois, métal, verre et matériaux non nobles, en contestant les conventions de la sculpture. Après la révolution, il devient une figure majeure du constructivisme et dirige des institutions artistiques soviétiques. Son projet de Monument à la Troisième Internationale (1919-1920), tour inclinée de verre et de métal, demeure l’un des emblèmes de l’architecture utopique du XXe siècle, bien qu’il ne soit jamais construit. Il conçoit aussi des décors et costumes de théâtre, notamment pour Zanguezi de Khlebnikov. Il meurt à Moscou en 1953.",
     "works": [
-      "Monument à la Troisième Internationale",
-      "Contre-reliefs"
+      "Contre-reliefs (à partir de 1914)",
+      "Monument à la Troisième Internationale (maquette, 1919-1920)",
+      "Zanguezi de Velimir Khlebnikov (scénographie, 1923)",
+      "Letatlin (appareil volant expérimental, 1929-1932)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Vladimir Tatlin, textes et projets réunis dans les catalogues de rétrospectives, notamment Düsseldorf / Baden-Baden / Moscou / Saint-Pétersbourg, 1993-1994.",
+      "John Milner, Vladimir Tatlin and the Russian Avant-Garde, Yale University Press, 1983.",
+      "Lodder, Christina, Russian Constructivism, Yale University Press, 1983.",
+      "Andrei Nakov, L’Avant-garde russe, Thames & Hudson, éditions et volumes consacrés au constructivisme."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/5811-vladimir-tatlin",
+        "note": "Catalogue des œuvres de Tatline conservées ou documentées au MoMA."
+      },
+      {
+        "url": "https://www.rmgallery.rusmuseumvrm.ru/en/3608",
+        "note": "Notice du Musée russe : biographie, formations, expositions et contre-relief d’angle."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/peinture/Vladimir_Ievgrafovitch_Tatline/154601",
+        "note": "Synthèse sur les reliefs, le Monument à la IIIe Internationale et les activités théâtrales."
+      }
+    ],
+    "related": [
+      "alexander-rodchenko",
+      "el-lissitzky",
+      "liubov-popova"
+    ]
   },
   {
     "id": "alexander-rodchenko",
     "name": "Alexandre Rodtchenko",
     "years": "1891–1956",
     "group": "Constructivisme",
-    "bio": "Artiste, photographe et graphiste, il transforme l’art en laboratoire de formes, de design et de communication.",
+    "bio": "Né à Saint-Pétersbourg en 1891, Alexandre Rodtchenko étudie à Kazan puis à Moscou et devient l’un des principaux artistes de l’avant-garde russe. Il participe au constructivisme et affirme, au début des années 1920, le passage de la peinture autonome à une pratique de production liée à la vie sociale. Ses constructions spatiales utilisent des matériaux industriels et des formes démontables ; il travaille ensuite dans le graphisme, l’affiche, le photomontage, le livre et la photographie. Avec Varvara Stepanova, il conçoit des objets, des textiles et des dispositifs visuels destinés à la société nouvelle. Ses prises de vue obliques et ses cadrages inhabituels renouvellent profondément le langage photographique. Il enseigne au VKhUTEMAS et contribue aux revues LEF et Novy LEF. Il meurt à Moscou en 1956.",
     "works": [
-      "Photomontages",
-      "Affiches publicitaires"
+      "Construction spatiale no 12 (vers 1920)",
+      "Pure Red Color, Pure Yellow Color, Pure Blue Color (1921)",
+      "Affiches pour Lengiz et Mosselprom (années 1920)",
+      "Photomontages pour LEF et Novy LEF",
+      "Photographies de Moscou et de l’URSS en construction"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Aleksandr Rodchenko, articles et manifestes dans LEF et Novy LEF, 1923-1928.",
+      "Alexander Rodchenko, Experiments for the Future: Diaries, Essays, Letters, éd. Alexander N. Lavrentiev, 1996.",
+      "Alexander Lavrentiev, Alexander Rodchenko: Photography 1924-1954, 1995.",
+      "Jodi Hauptman et Adrian Sudhalter (dir.), Engineer, Agitator, Constructor: The Artist Reinvented, 1918-1939, MoMA, 2020."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/4975-aleksandr-rodchenko",
+        "note": "Biographie et catalogue du MoMA : constructivisme, constructions spatiales, photographie et photomontage."
+      }
+    ],
+    "related": [
+      "varvara-stepanova",
+      "liubov-popova",
+      "el-lissitzky"
+    ]
   },
   {
     "id": "varvara-stepanova",
     "name": "Varvara Stepanova",
     "years": "1894–1958",
     "group": "Constructivisme",
-    "bio": "Artiste, designer textile et graphiste, elle défend une création fonctionnelle liée à la vie quotidienne.",
+    "bio": "Née à Kaunas en 1894, Varvara Stepanova est peintre, poétesse, graphiste, designer textile et scénographe. Formée à Kazan puis à Moscou, elle fréquente les milieux futuristes et constructivistes et travaille étroitement avec Alexandre Rodtchenko, son compagnon et collaborateur. Après la révolution, elle défend une conception productive de l’art, tournée vers les objets, les vêtements, l’imprimé et l’environnement quotidien. Ses compositions géométriques, ses mises en page et ses tissus imprimés cherchent à relier forme, fonction et transformation sociale. Elle conçoit également des costumes et décors pour le théâtre, notamment dans le cadre des expérimentations de Vsevolod Meyerhold. Son travail est central dans l’histoire du design moderne et du constructivisme, mais longtemps moins étudié que celui de certains de ses collègues masculins. Elle meurt à Moscou en 1958.",
     "works": [
-      "Dessins pour textiles",
-      "Costumes de théâtre"
+      "Costumes pour La Mort de Tarelkin (1922)",
+      "Dessins textiles pour la Première Fabrique d’État de coton",
+      "Figures (série graphique, 1921)",
+      "Compositions constructivistes et livres expérimentaux",
+      "Projets de scénographie et costumes pour Meyerhold"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Varvara Stepanova, textes et manifestes constructivistes, 1920-1924.",
+      "John E. Bowlt et Matthew Drutt (dir.), Amazons of the Avant-Garde, Guggenheim Museum, 2000.",
+      "Jodi Hauptman et Adrian Sudhalter (dir.), Engineer, Agitator, Constructor: The Artist Reinvented, 1918-1939, MoMA, 2020.",
+      "Magdalena Dabrowski, Leah Dickerman et Peter Galassi (dir.), Aleksandr Rodchenko, MoMA, 1998."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/5643-varvara-stepanova",
+        "note": "Notice et œuvres du MoMA ; analyse de son rôle dans le constructivisme et la production."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/constructivism",
+        "note": "Cadre institutionnel sur le constructivisme et l’art comme production sociale."
+      }
+    ],
+    "related": [
+      "alexander-rodchenko",
+      "liubov-popova",
+      "alexandra-exter"
+    ]
   },
   {
     "id": "liubov-popova",
     "name": "Lioubov Popova",
     "years": "1889–1924",
     "group": "Constructivisme",
-    "bio": "Peintre et designer, elle passe de l’avant-garde cubo-futuriste aux compositions constructivistes et au théâtre.",
+    "bio": "Née près de Moscou en 1889, Lioubov Popova est peintre, théoricienne, enseignante et designer. Après une formation artistique en Russie et plusieurs voyages en Europe, elle s’approprie les recherches cubistes et futuristes avant de développer des compositions non figuratives et des constructions picturales. Elle participe à l’exposition 0,10 en 1915 et au groupe Supremus, puis s’engage dans le constructivisme après la révolution. Considérant la peinture de chevalet comme insuffisante pour la nouvelle société, elle travaille pour le théâtre, le textile, l’affiche et l’enseignement. Ses décors et costumes pour Le Cocu magnifique de Meyerhold (1922) transforment la scène en dispositif dynamique, fait de plateformes, d’échelles et de structures visibles. Elle enseigne aussi à l’INKhUK et meurt prématurément en 1924.",
     "works": [
-      "Architectonique picturale",
-      "Costumes pour La Grande Lessive"
+      "Architectonique picturale (1916-1918)",
+      "Construction de force spatiale (1918-1921)",
+      "Décors et costumes pour Le Cocu magnifique (1922)",
+      "Dessins textiles pour la Première Fabrique d’État de coton",
+      "Projets de livres et affiches constructivistes"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Liubov Popova, textes et projets réunis dans les catalogues d’exposition du MoMA.",
+      "Magdalena Dabrowski, Liubov Popova, MoMA, 1991.",
+      "John E. Bowlt et Matthew Drutt (dir.), Amazons of the Avant-Garde, Guggenheim Museum, 2000.",
+      "Jodi Hauptman et Adrian Sudhalter (dir.), Engineer, Agitator, Constructor: The Artist Reinvented, 1918-1939, MoMA, 2020."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/4694-liubov-popova",
+        "note": "Biographie du MoMA : passage à l’abstraction, théorie constructiviste, théâtre et arts appliqués."
+      },
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/328",
+        "note": "Notice de la rétrospective de 1991, avec chronologie et analyse de ses décors de théâtre."
+      }
+    ],
+    "related": [
+      "varvara-stepanova",
+      "alexander-rodchenko",
+      "kazimir-malevich"
+    ]
   },
   {
     "id": "el-lissitzky",
     "name": "El Lissitzky",
     "years": "1890–1941",
     "group": "Constructivisme",
-    "bio": "Artiste, architecte et typographe, il relie suprématisme, design et communication visuelle.",
+    "bio": "Né Lazar Markovitch Lissitzky en 1890 à Pochinok, El Lissitzky est architecte, peintre, typographe, photographe et théoricien. Formé à l’ingénierie et à l’architecture à Darmstadt, il revient en Russie pendant la Première Guerre mondiale. Marc Chagall l’invite en 1919 à enseigner à l’école artistique de Vitebsk, où il rencontre le suprématisme de Malevitch et rejoint le groupe UNOVIS. Il développe alors les Proun, compositions intermédiaires entre peinture et architecture, conçues comme des projets pour un espace nouveau. À partir des années 1920, il joue un rôle majeur dans la diffusion internationale du constructivisme, renouvelle la typographie et la mise en page du livre, conçoit des expositions et des pavillons, et travaille en Allemagne, en Suisse et en URSS. Il meurt à Moscou en 1941.",
     "works": [
-      "Proun",
-      "Les deux carrés"
+      "Proun (série, à partir de 1919)",
+      "Histoire de deux carrés (1922)",
+      "Frappe les Blancs avec le coin rouge (affiche, 1919)",
+      "Pour la voix de Maïakovski (mise en page, 1923)",
+      "Cabinet des abstraits (Hanovre, 1927)",
+      "Pavillon soviétique de la Pressa (Cologne, 1928)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "El Lissitzky, Pro dva kvadrata / Histoire de deux carrés, 1922.",
+      "Vladimir Mayakovsky, Dlia golosa / Pour la voix, mise en page d’El Lissitzky, 1923.",
+      "El Lissitzky, Russia: An Architecture for World Revolution, 1930.",
+      "Seth L. Wolitz, « Lissitzky, El », YIVO Encyclopedia of Jews in Eastern Europe, 2010.",
+      "Nancy Perloff et Eva Forgács (dir.), Monuments of the Future: Designs by El Lissitzky, Getty Research Institute, 1998."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/3569-el-lissitzky",
+        "note": "Notice du MoMA et catalogue des œuvres."
+      },
+      {
+        "url": "https://www.guggenheim-venice.it/en/art/artists/el-lissitzky/",
+        "note": "Biographie détaillée sur les Proun, Vitebsk, UNOVIS et les recherches constructivistes."
+      },
+      {
+        "url": "https://encyclopedia.yivo.org/article/1701",
+        "note": "Étude de Seth L. Wolitz sur les dimensions artistiques, typographiques et culturelles de son parcours."
+      }
+    ],
+    "related": [
+      "kazimir-malevich",
+      "vladimir-tatlin",
+      "alexander-rodchenko"
+    ]
   },
   {
     "id": "natalia-goncharova",
     "name": "Natalia Gontcharova",
     "years": "1881–1962",
     "group": "Rayonnisme",
-    "bio": "Peintre et scénographe, elle participe à l’avant-garde russe et au rayonnisme avant de travailler pour les Ballets russes.",
+    "bio": "Née en 1881 près de Toula, Natalia Gontcharova étudie la sculpture à Moscou avant de se consacrer à la peinture. Avec Mikhaïl Larionov, son compagnon et collaborateur, elle participe à la formation du néo-primitivisme russe, qui associe les formes de l’art populaire, des icônes et des traditions rurales aux recherches modernes. Elle expose avec le Valet de carreau, la Queue de l’âne et le Cible, puis contribue au rayonnisme, mouvement fondé avec Larionov en 1912. Son œuvre traverse cubo-futurisme, abstraction et références populaires. Invitée par Serge de Diaghilev, elle travaille à partir de 1914 pour les Ballets russes, créant décors et costumes, puis s’installe durablement à Paris en 1917. Elle poursuit une carrière internationale de peintre et scénographe jusqu’à sa mort en 1962.",
     "works": [
-      "Le Cycliste",
-      "Décors et costumes des Ballets russes"
+      "Les Cyclistes (1913)",
+      "Le Peuple de la ville (vers 1910)",
+      "Le Jardinier (1909-1910)",
+      "Les Moissonneurs (1911)",
+      "Décors et costumes pour Le Coq d’or (Ballets russes, 1914)",
+      "Décors et costumes pour les Ballets russes, années 1920-1950"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Natalia Goncharova, catalogue de l’exposition de la Tate Modern, 2019.",
+      "John E. Bowlt et Matthew Drutt (dir.), Amazons of the Avant-Garde, Guggenheim Museum, 2000.",
+      "Anthony Parton, Mikhail Larionov and the Russian Avant-Garde, Princeton University Press, 1993.",
+      "Jane Pritchard (dir.), Diaghilev and the Golden Age of the Ballets Russes, V&A Publishing, 2010."
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/artwork/artist/natalia-goncharova",
+        "note": "Notice du Guggenheim : parcours, expositions russes, cubo-futurisme et rayonnisme."
+      },
+      {
+        "url": "https://www.nationalgalleries.org/art-and-artists/artists/natalia-goncharova",
+        "note": "Biographie des National Galleries of Scotland, notamment son travail pour les Ballets russes."
+      }
+    ],
+    "related": [
+      "mikhail-larionov",
+      "alexandra-exter",
+      "olga-rozanova"
+    ]
   },
   {
     "id": "mikhail-larionov",
     "name": "Mikhaïl Larionov",
     "years": "1881–1964",
     "group": "Rayonnisme",
-    "bio": "Peintre et théoricien, cofondateur du rayonnisme avec Natalia Gontcharova.",
+    "bio": "Né en 1881 près d’Odessa, Mikhaïl Larionov étudie à l’École de peinture, sculpture et architecture de Moscou, où il rencontre Natalia Gontcharova, qui devient sa compagne et sa collaboratrice. Il participe aux premières expositions de l’avant-garde russe et développe le néo-primitivisme, nourri par les enseignes, les images populaires, les icônes et les arts paysans. En 1912, il formule avec Gontcharova le rayonnisme, peinture non figurative construite à partir de faisceaux de lignes et de rapports de lumière. Il organise les expositions de la Queue de l’âne et du Cible et joue un rôle de passeur entre les artistes russes et les courants européens. À partir de 1915, il travaille avec les Ballets russes de Diaghilev comme décorateur et costumier ; il s’installe à Paris en 1919. Il meurt en 1964.",
     "works": [
-      "Le Verre",
-      "Manifestes rayonnistes"
+      "Le Soldat au repos (vers 1911)",
+      "Rayonnisme rouge et bleu (1911)",
+      "Manifestes rayonnistes (1913)",
+      "Décors et costumes pour les Ballets russes",
+      "Compositions néo-primitivistes et rayonnistes"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Mikhail Larionov, textes et manifestes rayonnistes, 1913.",
+      "Anthony Parton, Mikhail Larionov and the Russian Avant-Garde, Princeton University Press, 1993.",
+      "John E. Bowlt et Matthew Drutt (dir.), Amazons of the Avant-Garde, Guggenheim Museum, 2000.",
+      "Jane Pritchard (dir.), Diaghilev and the Golden Age of the Ballets Russes, V&A Publishing, 2010."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nationalgalleries.org/art-and-artists/artists/mikhail-larionov",
+        "note": "Biographie des National Galleries of Scotland : néo-primitivisme, rayonnisme et installation à Paris."
+      }
+    ],
+    "related": [
+      "natalia-goncharova",
+      "kazimir-malevich",
+      "vladimir-tatlin"
+    ]
   },
   {
     "id": "alexandra-exter",
     "name": "Alexandra Exter",
     "years": "1882–1949",
     "group": "Cubofuturisme",
-    "bio": "Peintre et scénographe, elle mêle cubisme, futurisme et constructivisme dans ses œuvres et ses décors.",
+    "bio": "Née à Belostok en 1882, Alexandra Exter étudie à Kyiv et séjourne à Paris dès 1908, où elle découvre le cubisme et le futurisme. De retour dans l’Empire russe, elle devient une médiatrice essentielle entre les recherches parisiennes et les avant-gardes de Kyiv et Moscou. Son langage pictural associe couleurs intenses, plans géométriques et rythmes dynamiques ; elle participe aux expositions du Valet de carreau et de l’Union de la jeunesse. À partir des années 1910, elle développe une activité majeure de scénographe et de créatrice de costumes pour le théâtre, le ballet et le cinéma, donnant aux espaces scéniques une autonomie plastique. Elle quitte la Russie après la révolution et s’installe à Paris en 1924. Elle enseigne ensuite à l’Académie d’art moderne de Fernand Léger. Elle meurt à Fontenay-aux-Roses en 1949.",
     "works": [
-      "Décors pour Aelita",
-      "Costumes de théâtre"
+      "Décors et costumes pour Salomé (1917)",
+      "Décors pour Aelita (film de Yakov Protazanov, 1924)",
+      "Costumes pour les spectacles d’Alexandre Taïrov au Théâtre de chambre",
+      "Compositions cubo-futuristes et constructivistes",
+      "Costume Design for Les Équivoques d’Amour (vers 1933)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "John E. Bowlt et Matthew Drutt (dir.), Amazons of the Avant-Garde, Guggenheim Museum, 2000.",
+      "Alexandra Exter, catalogues d’exposition et études consacrés à ses peintures, costumes et scénographies.",
+      "Christina Lodder, Russian Constructivism, Yale University Press, 1983.",
+      "Catalogue de l’exposition Alexandra Exter, National Museum of Women in the Arts."
+    ],
+    "sources": [
+      {
+        "url": "https://nmwa.org/art/artists/alexandra-exter/",
+        "note": "Notice du National Museum of Women in the Arts : formation, carrière internationale, théâtre et enseignement."
+      },
+      {
+        "url": "https://www.museothyssen.org/en/collection/artists/exter-alexandra",
+        "note": "Biographie du musée Thyssen sur son rôle dans l’avant-garde russe et les échanges avec Paris."
+      }
+    ],
+    "related": [
+      "natalia-goncharova",
+      "varvara-stepanova",
+      "liubov-popova"
+    ]
   },
   {
     "id": "olga-rozanova",
     "name": "Olga Rozanova",
     "years": "1886–1918",
     "group": "Suprématisme",
-    "bio": "Peintre et poétesse de l’avant-garde, elle explore l’abstraction et contribue aux livres futuristes.",
+    "bio": "Née à Melenki en 1886, Olga Rozanova étudie à Moscou avant de rejoindre Saint-Pétersbourg et les milieux de l’Union de la jeunesse. Peintre, poétesse et théoricienne, elle participe aux expériences cubo-futuristes et collabore avec les poètes zaoum, notamment Alexeï Kroutchenykh, dont elle illustre plusieurs livres. Elle écrit elle-même des textes transmentaux et conçoit des livres où typographie, couleur, image et langage sont indissociables. À partir de 1915, elle se rapproche du suprématisme et explore une abstraction de plus en plus radicale, notamment dans ses compositions non objectives. Après la révolution, elle prend part aux initiatives artistiques et pédagogiques nouvelles. Sa carrière est interrompue par sa mort prématurée à Moscou en 1918.",
     "works": [
-      "La Guerre",
-      "Oiseau dans le nid"
+      "Le Livre-zaoum (illustrations et recherches, 1915)",
+      "La Guerre (livre futuriste de Kroutchenykh, 1916)",
+      "Homme dans la rue (1913)",
+      "Vol d’un aéroplane (1916)",
+      "Composition sans objet (1917-1918)",
+      "Suite de cartes postales de guerre (1916)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Olga Rozanova, textes et poèmes zaoum publiés dans les éditions futuristes russes, 1913-1917.",
+      "Amazons of the Avant-Garde: Alexandra Exter, Natalia Goncharova, Liubov Popova, Olga Rozanova, Varvara Stepanova, and Nadezhda Udaltsova, Guggenheim Museum, 2000.",
+      "Maria Tsantsanoglou (dir.), Olga Rozanova, catalogues et études de collections muséales.",
+      "Livres futuristes illustrés avec Alexeï Kroutchenykh, dont La Guerre, 1916."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/5066-olga-rozanova",
+        "note": "Notice du MoMA sur l’Union de la jeunesse et les échanges internationaux de Rozanova."
+      },
+      {
+        "url": "https://www.museothyssen.org/en/collection/artists/rozanova-olga",
+        "note": "Biographie détaillée : zaoum, livres futuristes, 0.10 et évolution vers l’abstraction."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/peinture/Olga_Vladimirovna_Rozanova/154201",
+        "note": "Notice sur ses livres-objets, son activité de poétesse zaoum et son travail après 1917."
+      }
+    ],
+    "related": [
+      "alexei-kruchenykh",
+      "kazimir-malevich",
+      "natalia-goncharova"
+    ]
   },
   {
     "id": "ivan-kliun",
     "name": "Ivan Klioun",
     "years": "1873–1943",
     "group": "Suprématisme",
-    "bio": "Peintre et théoricien, proche de Malevitch, il développe des recherches abstraites et géométriques.",
+    "bio": "Né en 1873 à Bolchie Gorki, Ivan Klioun, également transcrit Kliun ou Kliourne, est peintre et théoricien russe. Après des études à Kyiv, Varsovie et Moscou, il rencontre Kazimir Malevitch en 1907 ; cette relation joue un rôle important dans son évolution. Il participe à l’Union de la jeunesse et aux grandes expositions futuristes, dont Tramway V et 0.10. D’abord proche du symbolisme, il passe par le cubisme et le futurisme avant d’adopter le suprématisme entre 1915 et 1919. Il réalise des compositions géométriques et des reliefs qui interrogent les limites entre peinture et sculpture. Après la révolution, il enseigne dans les ateliers libres puis au VKhUTEMAS et prend des responsabilités dans les institutions artistiques. Dans les années 1930, il revient à une figuration plus traditionnelle. Il meurt à Moscou en 1943.",
     "works": [
-      "Compositions suprématistes",
-      "Sphères colorées"
+      "Composition (1917)",
+      "Suprématisme (série, 1915-1919)",
+      "Reliefs et constructions picturales (années 1910)",
+      "Compositions géométriques et sphères colorées",
+      "Turnir poetov / Tournoi des poètes (livre collectif, 1928)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Ivan Kliun, œuvres et textes documentés dans les catalogues de l’avant-garde russe.",
+      "John E. Bowlt, Russian Art of the Avant-Garde: Theory and Criticism, 1902-1934, Thames & Hudson, éditions successives.",
+      "Amazons of the Avant-Garde, Guggenheim Museum, 2000.",
+      "Catalogues du Musée Thyssen-Bornemisza et du Musée d’Orsay consacrés à Ivan Kliun/Kliourne."
+    ],
+    "sources": [
+      {
+        "url": "https://www.museothyssen.org/en/collection/artists/kliun-ivan",
+        "note": "Notice biographique : relation avec Malevitch, Union de la jeunesse, suprématisme et enseignement."
+      },
+      {
+        "url": "https://www.musee-orsay.fr/fr/ressources/repertoire-artistes-personnalites/ivan-kliourne-126203",
+        "note": "Répertoire du Musée d’Orsay, avec variantes du nom et dates."
+      }
+    ],
+    "related": [
+      "kazimir-malevich",
+      "olga-rozanova",
+      "vladimir-tatlin"
+    ]
   },
   {
     "id": "nadezhda-udaltsova",
