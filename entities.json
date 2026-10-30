@@ -7467,5 +7467,33 @@
         "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
       }
     ]
+  },
+  {
+    "id": "anna_akhmatova",
+    "name": "Anna Akhmatova",
+    "years": "1889–1966",
+    "group": "Littérature russe",
+    "groups": [
+      "Avant-garde russe",
+      "Littérature russe",
+      "Poésie / modernités"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Acteur",
+    "bio": "Poétesse russe, figure majeure de l'acméisme avec Nikolaï Goumilev et Sergueï Gorodetski. Sa poésie se distingue par sa densité, sa précision formelle et une attention aiguë à l'expérience intime et à la violence de l'histoire. Elle occupe une place singulière dans la modernité littéraire russe, sans se confondre avec le futurisme.",
+    "works": [
+      "Le Soir",
+      "Chapelet",
+      "Requiem",
+      "Poème sans héros"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Ajout dans le prolongement du repérage consacré aux avant-gardes russes; l'acméisme constitue un courant distinct du futurisme. Références biographiques individuelles à consolider."
+      }
+    ]
   }
 ]
