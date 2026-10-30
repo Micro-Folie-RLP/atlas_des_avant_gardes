@@ -3975,5 +3975,943 @@
     "kind": "person",
     "role_icon": "📖",
     "role_label": "Écriture"
+  },
+  {
+    "id": "kazimir-malevich",
+    "name": "Kazimir Malevitch",
+    "years": "1879–1935",
+    "group": "Suprématisme",
+    "bio": "Peintre et théoricien, il pousse l’abstraction vers une géométrie radicale avec le suprématisme.",
+    "works": [
+      "Carré noir",
+      "Carré blanc sur fond blanc"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "wassily-kandinsky",
+    "name": "Vassily Kandinsky",
+    "years": "1866–1944",
+    "group": "Abstraction",
+    "bio": "Peintre et théoricien de l’abstraction, actif dans les réseaux artistiques russes puis au Bauhaus.",
+    "works": [
+      "Du spirituel dans l’art",
+      "Composition VIII"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "vladimir-tatlin",
+    "name": "Vladimir Tatline",
+    "years": "1885–1953",
+    "group": "Constructivisme",
+    "bio": "Artiste et architecte, figure du constructivisme et des recherches sur les matériaux et la construction.",
+    "works": [
+      "Monument à la Troisième Internationale",
+      "Contre-reliefs"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "alexander-rodchenko",
+    "name": "Alexandre Rodtchenko",
+    "years": "1891–1956",
+    "group": "Constructivisme",
+    "bio": "Artiste, photographe et graphiste, il transforme l’art en laboratoire de formes, de design et de communication.",
+    "works": [
+      "Photomontages",
+      "Affiches publicitaires"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "varvara-stepanova",
+    "name": "Varvara Stepanova",
+    "years": "1894–1958",
+    "group": "Constructivisme",
+    "bio": "Artiste, designer textile et graphiste, elle défend une création fonctionnelle liée à la vie quotidienne.",
+    "works": [
+      "Dessins pour textiles",
+      "Costumes de théâtre"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "liubov-popova",
+    "name": "Lioubov Popova",
+    "years": "1889–1924",
+    "group": "Constructivisme",
+    "bio": "Peintre et designer, elle passe de l’avant-garde cubo-futuriste aux compositions constructivistes et au théâtre.",
+    "works": [
+      "Architectonique picturale",
+      "Costumes pour La Grande Lessive"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "el-lissitzky",
+    "name": "El Lissitzky",
+    "years": "1890–1941",
+    "group": "Constructivisme",
+    "bio": "Artiste, architecte et typographe, il relie suprématisme, design et communication visuelle.",
+    "works": [
+      "Proun",
+      "Les deux carrés"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "natalia-goncharova",
+    "name": "Natalia Gontcharova",
+    "years": "1881–1962",
+    "group": "Rayonnisme",
+    "bio": "Peintre et scénographe, elle participe à l’avant-garde russe et au rayonnisme avant de travailler pour les Ballets russes.",
+    "works": [
+      "Le Cycliste",
+      "Décors et costumes des Ballets russes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "mikhail-larionov",
+    "name": "Mikhaïl Larionov",
+    "years": "1881–1964",
+    "group": "Rayonnisme",
+    "bio": "Peintre et théoricien, cofondateur du rayonnisme avec Natalia Gontcharova.",
+    "works": [
+      "Le Verre",
+      "Manifestes rayonnistes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "alexandra-exter",
+    "name": "Alexandra Exter",
+    "years": "1882–1949",
+    "group": "Cubofuturisme",
+    "bio": "Peintre et scénographe, elle mêle cubisme, futurisme et constructivisme dans ses œuvres et ses décors.",
+    "works": [
+      "Décors pour Aelita",
+      "Costumes de théâtre"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "olga-rozanova",
+    "name": "Olga Rozanova",
+    "years": "1886–1918",
+    "group": "Suprématisme",
+    "bio": "Peintre et poétesse de l’avant-garde, elle explore l’abstraction et contribue aux livres futuristes.",
+    "works": [
+      "La Guerre",
+      "Oiseau dans le nid"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "ivan-kliun",
+    "name": "Ivan Klioun",
+    "years": "1873–1943",
+    "group": "Suprématisme",
+    "bio": "Peintre et théoricien, proche de Malevitch, il développe des recherches abstraites et géométriques.",
+    "works": [
+      "Compositions suprématistes",
+      "Sphères colorées"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "nadezhda-udaltsova",
+    "name": "Nadejda Oudaltsova",
+    "years": "1886–1961",
+    "group": "Cubofuturisme",
+    "bio": "Peintre, elle participe aux recherches cubistes et futuristes de l’avant-garde moscovite.",
+    "works": [
+      "Composition cubiste",
+      "Intérieur d’atelier"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "pavel-filonov",
+    "name": "Pavel Filonov",
+    "years": "1883–1941",
+    "group": "Art analytique",
+    "bio": "Peintre et théoricien, fondateur d’une méthode analytique minutieuse, singulière au sein de l’avant-garde russe.",
+    "works": [
+      "La Formule du prolétariat de Petrograd",
+      "Visages"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "david-burliuk",
+    "name": "David Bourliouk",
+    "years": "1882–1967",
+    "group": "Cubo-futurisme",
+    "bio": "Poète et peintre, promoteur du futurisme russe et membre du groupe Hylaea.",
+    "works": [
+      "Une gifle au goût public",
+      "Tableaux cubo-futuristes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "vladimir-mayakovsky",
+    "name": "Vladimir Maïakovski",
+    "years": "1893–1930",
+    "group": "Futurisme russe",
+    "bio": "Poète et dramaturge, voix majeure du futurisme russe, il expérimente la langue et la typographie.",
+    "works": [
+      "Une gifle au goût public",
+      "Le Nuage en pantalon"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "velimir-khlebnikov",
+    "name": "Vélémir Khlebnikov",
+    "years": "1885–1922",
+    "group": "Futurisme russe",
+    "bio": "Poète expérimental, il invente des jeux sonores et lexicaux et cherche une langue poétique nouvelle.",
+    "works": [
+      "Zanguezi",
+      "La Création verbale"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "aleksei-kruchenykh",
+    "name": "Alexeï Kroutchonykh",
+    "years": "1886–1968",
+    "group": "Futurisme russe",
+    "bio": "Poète d’avant-garde, théoricien du zaoum, une langue transrationnelle libérée du sens conventionnel.",
+    "works": [
+      "Victoire sur le soleil",
+      "Dyr bul shchyl"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "mikhail-matiushin",
+    "name": "Mikhaïl Matiouchine",
+    "years": "1861–1934",
+    "group": "Futurisme russe",
+    "bio": "Compositeur, peintre et théoricien, il collabore aux expériences interdisciplinaires de l’avant-garde russe.",
+    "works": [
+      "Victoire sur le soleil",
+      "Guides de perception élargie"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "nikolai-kulbin",
+    "name": "Nikolaï Koulbine",
+    "years": "1868–1917",
+    "group": "Avant-garde russe",
+    "bio": "Médecin, peintre et théoricien, il soutient les expérimentations artistiques et musicales à Saint-Pétersbourg.",
+    "works": [
+      "Impromptus graphiques",
+      "Écrits sur l’art libre"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "ivan-puni",
+    "name": "Ivan Pouni",
+    "years": "1892–1956",
+    "group": "Cubo-futurisme",
+    "bio": "Peintre et organisateur d’expositions, il participe aux expérimentations cubo-futuristes avant son exil.",
+    "works": [
+      "0,10",
+      "Compositions suprématistes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "gustav-klutsis",
+    "name": "Gustav Klutsis",
+    "years": "1895–1938",
+    "group": "Constructivisme",
+    "bio": "Artiste letton-soviétique, pionnier du photomontage politique et du design constructiviste.",
+    "works": [
+      "Affiches photomontées",
+      "Agitation visuelle"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "vera-ermolaeva",
+    "name": "Vera Ermolaïeva",
+    "years": "1893–1937",
+    "group": "Avant-garde russe",
+    "bio": "Peintre, illustratrice et éditrice, elle soutient les livres expérimentaux et les artistes d’avant-garde.",
+    "works": [
+      "Livres illustrés pour enfants",
+      "Éditions de Segodnia"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "alexander-vesnin",
+    "name": "Alexandre Vesnine",
+    "years": "1883–1959",
+    "group": "Constructivisme",
+    "bio": "Architecte et scénographe, il participe à la transformation constructiviste du théâtre et de l’architecture.",
+    "works": [
+      "Projet pour le Palais du Travail",
+      "Décors de théâtre"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "moisei-ginzburg",
+    "name": "Moïsseï Guinzbourg",
+    "years": "1892–1946",
+    "group": "Constructivisme",
+    "bio": "Architecte théoricien, acteur majeur du constructivisme architectural et du logement collectif moderne.",
+    "works": [
+      "Immeuble Narkomfin",
+      "Le Style et l’époque"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "filippo-tommaso-marinetti",
+    "name": "Filippo Tommaso Marinetti",
+    "years": "1876–1944",
+    "group": "Futurisme italien",
+    "bio": "Poète et fondateur du futurisme italien, il proclame la rupture avec les traditions dans son manifeste de 1909.",
+    "works": [
+      "Manifeste du futurisme",
+      "Zang Tumb Tumb"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "umberto-boccioni",
+    "name": "Umberto Boccioni",
+    "years": "1882–1916",
+    "group": "Futurisme italien",
+    "bio": "Peintre et sculpteur, il traduit le mouvement et la modernité industrielle dans un langage dynamique.",
+    "works": [
+      "La Ville qui monte",
+      "Formes uniques de la continuité dans l’espace"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "carlo-carra",
+    "name": "Carlo Carrà",
+    "years": "1881–1966",
+    "group": "Futurisme italien",
+    "bio": "Peintre, signataire des manifestes futuristes, il explore le dynamisme avant de se tourner vers la peinture métaphysique.",
+    "works": [
+      "Les Funérailles de l’anarchiste Galli",
+      "Manifestes des peintres futuristes"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "gino-severini",
+    "name": "Gino Severini",
+    "years": "1883–1966",
+    "group": "Futurisme italien",
+    "bio": "Peintre italien installé à Paris, il associe les recherches futuristes aux influences cubistes.",
+    "works": [
+      "Danse du Pan-Pan au Monico",
+      "Train blindé en action"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "giacomo-balla",
+    "name": "Giacomo Balla",
+    "years": "1871–1958",
+    "group": "Futurisme italien",
+    "bio": "Peintre et sculpteur, il explore la vitesse, la lumière et le mouvement avant de concevoir des objets et des vêtements futuristes.",
+    "works": [
+      "Dynamisme d’un chien en laisse",
+      "Mercure passant devant le Soleil"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "fortu-depero",
+    "name": "Fortunato Depero",
+    "years": "1892–1960",
+    "group": "Futurisme italien",
+    "bio": "Artiste, designer et scénographe, il étend le futurisme à la publicité, aux livres et aux arts appliqués.",
+    "works": [
+      "Depero futurista",
+      "Publicités Campari"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "enrico-prampolini",
+    "name": "Enrico Prampolini",
+    "years": "1894–1956",
+    "group": "Futurisme italien",
+    "bio": "Peintre, scénographe et théoricien, il prolonge le futurisme dans l’abstraction, le théâtre et les arts mécaniques.",
+    "works": [
+      "Scénographies futuristes",
+      "Manifestes de l’art mécanique"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "antonio-santelia",
+    "name": "Antonio Sant’Elia",
+    "years": "1888–1916",
+    "group": "Futurisme italien",
+    "bio": "Architecte, il imagine une ville moderne verticale et mécanisée dans ses dessins visionnaires.",
+    "works": [
+      "La Città Nuova",
+      "Manifestes de l’architecture futuriste"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "anton-giulio-bragaglia",
+    "name": "Anton Giulio Bragaglia",
+    "years": "1890–1960",
+    "group": "Futurisme italien",
+    "bio": "Photographe et théoricien, il développe le photodynamisme pour rendre visibles les trajectoires du mouvement.",
+    "works": [
+      "Photodynamisme futuriste",
+      "Thaïs"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "francesco-cangiullo",
+    "name": "Francesco Cangiullo",
+    "years": "1884–1977",
+    "group": "Futurisme italien",
+    "bio": "Poète et artiste, il pousse la poésie visuelle et les mots en liberté vers la performance et le théâtre.",
+    "works": [
+      "Piedigrotta",
+      "Manifestes futuristes"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "ardengo-soffici",
+    "name": "Ardengo Soffici",
+    "years": "1879–1964",
+    "group": "Futurisme italien",
+    "bio": "Peintre, écrivain et critique, il contribue aux échanges entre futurisme italien et avant-gardes parisiennes.",
+    "works": [
+      "BÏF§ZF+18",
+      "Écrits critiques"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "benedetta-cappa",
+    "name": "Benedetta Cappa Marinetti",
+    "years": "1897–1977",
+    "group": "Futurisme italien",
+    "bio": "Peintre et écrivaine futuriste, elle développe notamment l’aéropeinture et les recherches sur la synthèse des arts.",
+    "works": [
+      "Ciclo delle comunicazioni",
+      "Aéropeintures"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie"
+  },
+  {
+    "id": "bruno-munari",
+    "name": "Bruno Munari",
+    "years": "1907–1998",
+    "group": "Futurisme italien",
+    "bio": "Designer et artiste, il participe jeune au second futurisme avant de devenir une figure majeure du design expérimental.",
+    "works": [
+      "Macchine inutili",
+      "Libri illeggibili"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "francesco-balilla-pratella",
+    "name": "Francesco Balilla Pratella",
+    "years": "1880–1955",
+    "group": "Futurisme italien",
+    "bio": "Compositeur et théoricien, il publie des manifestes pour renouveler la musique à partir des sons et du bruit.",
+    "works": [
+      "Musica futurista",
+      "Manifesto dei musicisti futuristi"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts visuels"
+  },
+  {
+    "id": "george-maciunas",
+    "name": "George Maciunas",
+    "years": "1931–1978",
+    "group": "Fluxus",
+    "bio": "Artiste et organisateur lituano-américain, il coordonne Fluxus et en façonne les éditions, festivals et réseaux internationaux.",
+    "works": [
+      "Fluxus Yearboxes",
+      "Fluxus Manifesto"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "george-brecht",
+    "name": "George Brecht",
+    "years": "1926–2008",
+    "group": "Fluxus",
+    "bio": "Artiste américain, il crée des event scores qui transforment les gestes ordinaires en partitions ouvertes.",
+    "works": [
+      "Drip Music",
+      "Water Yam"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "yoko-ono",
+    "name": "Yoko Ono",
+    "years": "1933–",
+    "group": "Fluxus",
+    "bio": "Artiste conceptuelle et musicienne, elle développe des instructions, performances et œuvres participatives liées aux réseaux Fluxus.",
+    "works": [
+      "Grapefruit",
+      "Cut Piece"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "nam-june-paik",
+    "name": "Nam June Paik",
+    "years": "1932–2006",
+    "group": "Fluxus",
+    "bio": "Artiste coréen-américain, pionnier de l’art vidéo, il relie musique expérimentale, performance et technologie.",
+    "works": [
+      "TV Buddha",
+      "Global Groove"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "alison-knowles",
+    "name": "Alison Knowles",
+    "years": "1933–2025",
+    "group": "Fluxus",
+    "bio": "Artiste américaine, elle explore les performances, les événements, les livres d’artiste et les matériaux du quotidien.",
+    "works": [
+      "Make a Salad",
+      "The House of Dust"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "dick-higgins",
+    "name": "Dick Higgins",
+    "years": "1938–1998",
+    "group": "Fluxus",
+    "bio": "Artiste, compositeur et éditeur, il théorise l’intermedia et fonde Something Else Press.",
+    "works": [
+      "Danger Music",
+      "Intermedia"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "emmett-williams",
+    "name": "Emmett Williams",
+    "years": "1925–2007",
+    "group": "Fluxus",
+    "bio": "Poète et artiste américain, il associe poésie concrète, performance et éditions Fluxus.",
+    "works": [
+      "Theaterstücke",
+      "Sweethearts"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "mieko-shiomi",
+    "name": "Mieko Shiomi",
+    "years": "1938–",
+    "group": "Fluxus",
+    "bio": "Compositrice et artiste japonaise, elle développe des œuvres participatives et des réseaux de correspondance à l’échelle mondiale.",
+    "works": [
+      "Spatial Poem",
+      "Boundary Music"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "robert-filliou",
+    "name": "Robert Filliou",
+    "years": "1926–1987",
+    "group": "Fluxus",
+    "bio": "Artiste français, il mêle poésie, humour et participation, affirmant que l’art peut être une création permanente.",
+    "works": [
+      "Le Poïpoïdrome",
+      "La Fête permanente"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "wolf-vostell",
+    "name": "Wolf Vostell",
+    "years": "1932–1998",
+    "group": "Fluxus",
+    "bio": "Artiste allemand, associé à Fluxus et au happening, il intègre télévision, béton et images de la violence contemporaine.",
+    "works": [
+      "Dé-coll/age",
+      "TV Dé-coll/age"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "daniel-spoerri",
+    "name": "Daniel Spoerri",
+    "years": "1930–2024",
+    "group": "Fluxus / Nouveau Réalisme",
+    "bio": "Artiste suisse, membre des réseaux Fluxus puis du Nouveau Réalisme, connu pour ses tableaux-pièges.",
+    "works": [
+      "Tableaux-pièges",
+      "Restaurant Spoerri"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "ay-o",
+    "name": "Ay-O",
+    "years": "1931–2024",
+    "group": "Fluxus",
+    "bio": "Artiste japonais, associé à Fluxus, il crée des œuvres sensorielles et interactives autour de la couleur et du toucher.",
+    "works": [
+      "Finger Box",
+      "Rainbow Environment"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "joe-jones",
+    "name": "Joe Jones",
+    "years": "1934–1993",
+    "group": "Fluxus",
+    "bio": "Musicien et artiste américain, il construit des instruments automatiques et des sculptures sonores.",
+    "works": [
+      "Mechanical Music",
+      "Musical Boxes"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "charlotte-moorman",
+    "name": "Charlotte Moorman",
+    "years": "1933–1991",
+    "group": "Fluxus",
+    "bio": "Violoncelleuse et artiste de performance américaine, elle collabore avec Nam June Paik et brouille les frontières entre musique et art.",
+    "works": [
+      "Opera Sextronique",
+      "TV Bra for Living Sculpture"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "ken-friedman",
+    "name": "Ken Friedman",
+    "years": "1949–",
+    "group": "Fluxus",
+    "bio": "Artiste et théoricien américain, il contribue aux réseaux Fluxus, aux éditions et à la réflexion sur les pratiques participatives.",
+    "works": [
+      "Fluxus scores",
+      "Fluxus Reader"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "takehisa-kosugi",
+    "name": "Takehisa Kosugi",
+    "years": "1938–2018",
+    "group": "Fluxus",
+    "bio": "Compositeur japonais, membre du groupe expérimental Group Ongaku, il participe aux performances et concerts Fluxus.",
+    "works": [
+      "Anima 7",
+      "Catch-Wave"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "shigeko-kubota",
+    "name": "Shigeko Kubota",
+    "years": "1937–2015",
+    "group": "Fluxus",
+    "bio": "Artiste japonaise, pionnière de la vidéo et participante aux événements Fluxus à New York.",
+    "works": [
+      "Vagina Painting",
+      "Duchampiana"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "jackson-mac-low",
+    "name": "Jackson Mac Low",
+    "years": "1922–2004",
+    "group": "Fluxus",
+    "bio": "Poète et artiste américain, il utilise des procédures aléatoires et des partitions ouvertes dans sa poésie et ses performances.",
+    "works": [
+      "Stanzas for Iris Lezak",
+      "Words nd Ends from Ez"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "geoffrey-hendricks",
+    "name": "Geoffrey Hendricks",
+    "years": "1931–2018",
+    "group": "Fluxus",
+    "bio": "Artiste américain, membre de Fluxus, connu pour ses performances et ses œuvres autour du ciel et des nuages.",
+    "works": [
+      "Sky Project",
+      "Sky Boots"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "arthur-koepcke",
+    "name": "Arthur Köpcke",
+    "years": "1928–1977",
+    "group": "Fluxus",
+    "bio": "Artiste et écrivain allemand, il associe textes, instructions et participation du spectateur dans des œuvres conceptuelles.",
+    "works": [
+      "Reading / Work-Pieces",
+      "Wörterbuch"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "eric-andersen",
+    "name": "Eric Andersen",
+    "years": "1940–",
+    "group": "Fluxus",
+    "bio": "Artiste danois lié à Fluxus, il crée des actions, événements et œuvres participatives souvent conçus pour être réinterprétés.",
+    "works": [
+      "Opus series",
+      "Event scores"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "milan-knizak",
+    "name": "Milan Knížák",
+    "years": "1940–",
+    "group": "Fluxus",
+    "bio": "Artiste tchèque, associé à Fluxus et au mouvement underground, il travaille sur la performance, la musique et les objets altérés.",
+    "works": [
+      "Broken Music",
+      "Demonstrations for All Senses"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "robert-watts",
+    "name": "Robert Watts",
+    "years": "1923–1988",
+    "group": "Fluxus",
+    "bio": "Artiste américain, participant aux premiers événements Fluxus, il mêle objets, assemblage, humour et actions quotidiennes.",
+    "works": [
+      "Yam Festival",
+      "Events"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "ben-vautier",
+    "name": "Ben Vautier",
+    "years": "1935–2024",
+    "group": "Fluxus / Nouveau Réalisme",
+    "bio": "Artiste franco-suisse, lié à Fluxus et au Nouveau Réalisme, il explore la signature, le langage et la définition de l’art.",
+    "works": [
+      "Tout est art",
+      "Je signe tout"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "joseph-beuys",
+    "name": "Joseph Beuys",
+    "years": "1921–1986",
+    "group": "Fluxus",
+    "bio": "Artiste allemand, il participe à des performances liées aux réseaux Fluxus avant de développer une conception élargie de la sculpture sociale.",
+    "works": [
+      "How to Explain Pictures to a Dead Hare",
+      "I Like America and America Likes Me"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "takako-saito",
+    "name": "Takako Saito",
+    "years": "1929–",
+    "group": "Fluxus",
+    "bio": "Artiste japonaise associée à Fluxus, elle crée des jeux, objets et dispositifs qui invitent à expérimenter les sens.",
+    "works": [
+      "Flux Chess",
+      "Spice Chess"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "yoshi-wada",
+    "name": "Yoshi Wada",
+    "years": "1943–2021",
+    "group": "Fluxus / musique expérimentale",
+    "bio": "Compositeur et artiste sonore japonais-américain, il rejoint les réseaux Fluxus et explore les drones, les tuyaux et les instruments à vent.",
+    "works": [
+      "Lament for the Rise and Fall of the Elephantine Crocodile",
+      "Off the Wall"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
+  },
+  {
+    "id": "henry-flynt",
+    "name": "Henry Flynt",
+    "years": "1940–",
+    "group": "Fluxus",
+    "bio": "Artiste, philosophe et musicien américain, associé aux événements Fluxus et à la notion d’art conceptuel.",
+    "works": [
+      "Concept Art",
+      "You Are My Everlovin’"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance"
   }
 ]
