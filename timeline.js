@@ -1,5 +1,5 @@
 (async()=>{'use strict';
-const [entities,facts]=await Promise.all(['entities.json','facts.json'].map(async path=>{const r=await fetch(path+'?v=1.11');if(!r.ok)throw Error('Chargement '+path);return r.json()}));
+const [entities,facts]=await Promise.all(['entities.json','facts.json'].map(async path=>{const r=await fetch(path+'?v=1.12');if(!r.ok)throw Error('Chargement '+path);return r.json()}));
 const people=entities.filter(e=>e.kind==='person');const byId=Object.fromEntries(entities.map(e=>[e.id,e]));const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 // Indexation par patronyme : quelques cas complexes sont explicitement normalisés.
 const surnames={reneville:'Rolland de Renéville',ribemont:'Ribemont-Dessaignes',gilbert:'Gilbert-Lecomte',boiffard:'Boiffard',mesens:'Mesens'};
@@ -28,7 +28,24 @@ bottomScroll.addEventListener('scroll',()=>{if(syncingScroll)return;syncingScrol
 window.addEventListener('resize',updateBottomScrollWidth);
 
 updateBottomScrollWidth();
-function show(id){const p=byId[id];if(!p)return;rows.querySelectorAll('.active').forEach(r=>r.classList.remove('active'));rowById.get(id)?.classList.add('active');const related=facts.filter(f=>f.subject===id||f.object===id);details.innerHTML='<div class="eyebrow">NOTICE / '+esc(p.group||'')+'</div><h2>'+esc(p.name)+'</h2><p><strong>'+esc(p.years||'Dates non renseignées')+'</strong></p>'+(p.statut?'<p class="tag statut">'+esc(p.statut)+'</p>':'')+'<p>'+esc(p.bio||'Notice à compléter.')+'</p>'+((p.works||[]).length?'<h3>Œuvres repères</h3><p>'+p.works.map(esc).join(' · ')+'</p>':'')+((p.sources||[]).length?'<h3>Repères bibliographiques</h3>'+p.sources.map(s=>'<div class="fact"><a href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer">Ouvrir la source ↗</a><p>'+esc(s.note||'Référence à vérifier.')+'</p></div>').join(''):'')+'<h3>Faits documentaires ('+related.length+')</h3>'+(related.length?related.map(f=>'<div class="fact"><span class="tag">'+esc(f.type.replaceAll('_',' '))+' · '+esc(f.status||'à vérifier')+'</span><p>'+esc(byId[f.subject]?.name)+' → '+esc(byId[f.object]?.name)+' : '+esc(f.label||'')+'</p>'+((f.evidence||[]).map(s=>'<a href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer">Consulter la source ↗</a>').join(' · '))+'</div>').join(''):'<p>Aucun fait individuel encore enregistré dans cette version.</p>');details.scrollIntoView({behavior:'smooth',block:'nearest'})}
+
+// Noms cités : liens internes vers les personnes déjà présentes dans l'Atlas.
+const aliases=[];
+const aliasOwners=new Map();
+for(const p of people){
+  const full=p.name.trim();
+  const surname=full.split(/\\s+/).at(-1).replace(/^[«“]|[»”]$/g,'');
+  const variants=new Set([full]);
+  if(surname.length>=6){
+    const k=surname.toLocaleLowerCase('fr');
+    aliasOwners.set(k,(aliasOwners.get(k)||0)+1);
+    variants.add(surname);
+  }
+  for(const label of variants)aliases.push({label,id:p.id});
+}
+const uniqueAliases=aliases.filter(a=>a.label.includes(' ')||aliasOwners.get(a.label.toLocaleLowerCase('fr'))===1)
+  .sort((a,b)=>b.label.length-a.label.length);
+const aliasPattern=uniqueAliases.length?new RegExp('(^|[^\\\\p{L}\\\\p{N}])('+uniqueAliases.map(a=>a.label.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\function show(id){const p=byId[id];if(!p)return;rows.querySelectorAll('.active').forEach(r=>r.classList.remove('active'));rowById.get(id)?.classList.add('active');currentNoticeId=id;comparisonIds=[id];renderNotice();details.scrollIntoView({behavior:'smooth',block:'nearest'})}
 function filter(){const q=search.value.toLocaleLowerCase('fr').trim(),g=group.value;let visible=0,first=null;for(const p of people){const ok=(g==='all'||tags(p).some(t=>groupKey(t)===groupKey(g)))&&p.name.toLocaleLowerCase('fr').includes(q);const row=rowById.get(p.id);row.hidden=!ok;if(ok){row.classList.toggle('zebra-alt',visible%2===1);visible++;if(!first||p.name.toLocaleLowerCase('fr')===q)first=p;if(p.name.toLocaleLowerCase('fr')===q)first=p}else row.classList.remove('zebra-alt')}document.querySelector('#count').textContent=visible+' personne'+(visible>1?'s':'')+' · '+start+'–'+end;if(q&&first)show(first.id);else if(g!=='all'&&first)show(first.id)}
 [search,group].forEach(e=>e.addEventListener('input',filter));document.querySelector('#reset').addEventListener('click',()=>{search.value='';group.value='all';filter()});filter();
 })().catch(err=>{document.querySelector('#timeline-content').textContent='Impossible de charger la frise. Vérifiez entities.json et facts.json.';console.error(err)});
