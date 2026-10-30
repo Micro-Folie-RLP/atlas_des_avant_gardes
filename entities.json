@@ -1366,84 +1366,351 @@
     "name": "Bifur",
     "years": "1929–1931",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Revue littéraire et artistique publiée à Paris par les Éditions du Carrefour de mai 1929 à juin 1931, Bifur compte huit numéros. Georges Ribemont-Dessaignes en est le rédacteur en chef et Pierre Gaspard-Lévy le directeur. La revue accueille des écrivains et artistes issus de sensibilités diverses, parmi lesquels les avant-gardes littéraires, le surréalisme dissident et les milieux proches de Dada. Son éclectisme tient à la volonté de confronter littérature, arts visuels, photographie et réflexion sur le monde contemporain, plutôt qu’à imposer une doctrine esthétique unique. Les sommaires et les illustrations témoignent de la circulation internationale des formes modernes à la fin des années 1920.",
+    "works": [
+      "Bifur, no 1, 25 mai 1929",
+      "Bifur, no 2, 1929",
+      "Bifur, no 3, 1929",
+      "Bifur, no 4, 1929",
+      "Bifur, no 5, 1930",
+      "Bifur, no 6, juillet 1930",
+      "Bifur, no 7, 1930-1931",
+      "Bifur, no 8, 10 juin 1931"
+    ],
+    "bibliography": [
+      "Bifur, nos 1-8, Paris, Éditions du Carrefour, 1929-1931.",
+      "Bifur, réédition en fac-similé, Jean-Michel Place, 1976.",
+      "Notice bibliographique BnF, Bifur (Paris), ark:/12148/cb34431403m."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb34431403m",
+        "note": "Notice BnF : direction, numérotation, dates, éditeur et fac-similé."
+      },
+      {
+        "url": "https://data.bnf.fr/en/ark:/12148/cb34431403m.pdf",
+        "note": "Notice data.bnf.fr et accès aux numéros numérisés sur Gallica."
+      }
+    ]
   },
   {
     "id": "revue-documents",
     "name": "Documents",
     "years": "1929–1930",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Documents est une revue illustrée fondée à Paris en 1929 par Georges-Henri Rivière et Georges Bataille. Sous-titrée successivement « doctrines, archéologie, beaux-arts, ethnographie » puis « archéologie, beaux-arts, ethnographie, variétés », elle entend confronter les arts modernes aux savoirs sur les sociétés, les objets et les formes culturelles. Georges Bataille en est le secrétaire général puis le rédacteur en chef; Michel Leiris joue un rôle important dans la rédaction, tandis que Carl Einstein, Marcel Griaule, Robert Desnos, Jacques-André Boiffard et de nombreux autres collaborateurs y publient. La revue s’écarte explicitement de l’esthétique idéaliste et de l’orthodoxie surréaliste. Elle privilégie les rapprochements inattendus, les matériaux ethnographiques, les images documentaires et les objets considérés dans leur puissance concrète. Après les deux années centrales de 1929-1930, le titre connaît des séries ultérieures en 1933 et 1934.",
+    "works": [
+      "Documents, 1re année, nos 1-7, 1929",
+      "Documents, 2e année, nos 1-8, 1930",
+      "Documents, 3e série, no 1, 1933",
+      "Documents, 4e série, no 1, 1934"
+    ],
+    "bibliography": [
+      "Documents : doctrines, archéologie, beaux-arts, ethnographie, Paris, 1929-1930.",
+      "Documents, réédition en fac-similé, 2 volumes, Jean-Michel Place, 1991.",
+      "Denis Hollier (dir.), Documents, réédition et appareil critique, Jean-Michel Place, 1991.",
+      "Georges Didi-Huberman, La Ressemblance informe ou le gai savoir visuel selon Georges Bataille, Macula, 1995."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb34421975n",
+        "note": "Notice BnF : sous-titres, numérotation, secrétaire général et description matérielle."
+      },
+      {
+        "url": "https://www.parismuseescollections.paris.fr/de/node/388886",
+        "note": "Paris Musées : fondateurs, responsabilités de Bataille et Leiris, collaborateurs et orientation de la revue."
+      }
+    ]
   },
   {
     "id": "revue-litterature",
     "name": "Littérature",
     "years": "1919–1924",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Littérature est une revue d’avant-garde fondée à Paris en mars 1919 par Louis Aragon, André Breton et Philippe Soupault. Sa première série, publiée jusqu’en 1921, accompagne le passage de la génération d’après-guerre du dadaïsme aux premières expériences surréalistes. Une nouvelle série paraît en 1922-1924, avec une place croissante accordée aux textes expérimentaux, aux rêves, aux enquêtes et aux pratiques de langage. La revue accueille notamment Tristan Tzara, Paul Éluard, Robert Desnos, Max Ernst et Raymond Roussel. Elle constitue un laboratoire décisif pour les futurs surréalistes, sans être dès l’origine l’organe d’un mouvement déjà constitué. Sa trajectoire s’achève en juin 1924, quelques mois avant la publication du Manifeste du surréalisme.",
+    "works": [
+      "Littérature, première série, nos 1-20, 1919-1921",
+      "Littérature, nouvelle série, nos 1-13, 1922-1924",
+      "Littérature, no 1, mars 1919, Aragon, Breton et Soupault",
+      "Littérature, no 13, juin 1924"
+    ],
+    "bibliography": [
+      "Littérature, revue mensuelle puis nouvelle série, Paris, 1919-1924.",
+      "Littérature, réédition en fac-similé, Jean-Michel Place, 1978.",
+      "Marguerite Bonnet, André Breton : naissance de l’aventure surréaliste, José Corti, 1975."
+    ],
+    "sources": [
+      {
+        "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/0016857094",
+        "note": "CCFr : notice du premier numéro et identification des fondateurs."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/",
+        "note": "Catalogue général de la BnF, notices de périodiques et collections de Littérature."
+      }
+    ]
   },
   {
     "id": "revue-revolution",
     "name": "La Révolution surréaliste",
     "years": "1924–1929",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Organe majeur du groupe surréaliste, La Révolution surréaliste paraît à Paris de décembre 1924 à décembre 1929. Les quatre premiers numéros sont dirigés par Pierre Naville et Benjamin Péret, puis André Breton prend seul la direction de la publication. Douze numéros paraissent en onze fascicules. La revue donne une forme collective aux recherches du mouvement : rêves, écriture automatique, sexualité, inconscient, poésie, arts visuels, critique sociale et politique. Elle publie des textes de Breton, Aragon, Éluard, Desnos, Leiris, Péret et de nombreux autres auteurs, accompagnés d’images et de documents. Ses couvertures, ses enquêtes et ses mises en page font de la revue un espace d’expérimentation autant qu’un instrument de cohésion du groupe. Elle est remplacée en 1930 par Le Surréalisme au service de la révolution.",
+    "works": [
+      "La Révolution surréaliste, no 1, 1er décembre 1924",
+      "La Révolution surréaliste, nos 1-4, direction Pierre Naville et Benjamin Péret",
+      "La Révolution surréaliste, nos 5-12, direction André Breton",
+      "La Révolution surréaliste, no 9-10, 1927, consacré notamment à l’écriture automatique",
+      "La Révolution surréaliste, no 12, 15 décembre 1929"
+    ],
+    "bibliography": [
+      "La Révolution surréaliste, 12 numéros en 11 fascicules, Paris, 1924-1929.",
+      "La Révolution surréaliste, fac-similé, Jean-Michel Place, 1975 et 1991.",
+      "Paris Musées, collection complète originale de La Révolution surréaliste, notice bibliographique."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb34381250f",
+        "note": "Notice BnF : directeurs successifs, numérotation et éditions en fac-similé."
+      },
+      {
+        "url": "https://parismuseescollections.paris.fr/fr/ressources-bibliographiques/la-revolution-surrealiste",
+        "note": "Paris Musées : collection complète, sommaires thématiques et résumé historique."
+      },
+      {
+        "url": "https://prelia.fr/prelia-base/revues/revolution-surrealiste/",
+        "note": "Base PRELIA : dépouillement des 12 numéros, articles, illustrations et contributeurs."
+      }
+    ]
   },
   {
     "id": "revue-service",
     "name": "Le Surréalisme au service de la révolution",
     "years": "1930–1933",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Revue surréaliste dirigée par André Breton, Le Surréalisme au service de la révolution succède à La Révolution surréaliste en juillet 1930. Six numéros paraissent jusqu’en mai 1933, les deux derniers étant publiés simultanément. Le changement de titre marque une nouvelle phase politique du mouvement, dans laquelle les rapports entre surréalisme, communisme et révolution deviennent centraux et conflictuels. La revue publie des textes de Breton, Aragon, Éluard, Péret, René Char, René Crevel, ainsi que des contributions de Marcel Duchamp, Salvador Dalí, Roger Caillois et Paul Nougé. Elle maintient l’expérimentation poétique et plastique tout en donnant une place plus explicite aux débats idéologiques, à la critique sociale et à la défense de figures comme Sade.",
+    "works": [
+      "Le Surréalisme au service de la révolution, no 1, juillet 1930",
+      "Le Surréalisme au service de la révolution, no 2, octobre 1930",
+      "Le Surréalisme au service de la révolution, nos 3 et 4, décembre 1931",
+      "Le Surréalisme au service de la révolution, nos 5 et 6, mai 1933"
+    ],
+    "bibliography": [
+      "Le Surréalisme au service de la révolution, nos 1-6, Paris, 1930-1933.",
+      "Le Surréalisme au service de la révolution, fac-similé, Jean-Michel Place, 1976 et 2002.",
+      "Henri Béhar (éd.), édition numérique intégrale de la revue, site Mélusine."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb343812524",
+        "note": "Notice BnF : directeur, six numéros, dates et fac-similés."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/lsasdlr",
+        "note": "Mélusine : accès au texte intégral des six livraisons et repères éditoriaux."
+      }
+    ]
   },
   {
     "id": "revue-minotaure",
     "name": "Minotaure",
     "years": "1933–1939",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Revue artistique et littéraire publiée à Paris de juin 1933 à mai 1939 par les éditions Albert Skira, Minotaure associe une fabrication particulièrement soignée à une ambition internationale. Albert Skira en est le directeur-administrateur et E. Tériade le directeur artistique; à partir du numéro 10, André Breton participe au comité de rédaction avec Marcel Duchamp, Paul Éluard, Maurice Heine et Pierre Mabille. La revue accueille des textes, photographies et reproductions d’œuvres de nombreux artistes, parmi lesquels Dalí, Giacometti, Bellmer, Miró, Ernst et Picasso. Elle fait dialoguer surréalisme, ethnographie, architecture, cinéma, sciences et arts plastiques. Ses treize numéros, répartis en onze fascicules, constituent l’un des ensembles éditoriaux les plus ambitieux de l’entre-deux-guerres.",
+    "works": [
+      "Minotaure, nos 1-2, 1er juin 1933",
+      "Minotaure, nos 3-4, 1933",
+      "Minotaure, nos 5-8, 1934-1936",
+      "Minotaure, nos 9-12/13, 1936-1939"
+    ],
+    "bibliography": [
+      "Minotaure : revue artistique et littéraire, Paris, Éditions Albert Skira, 1933-1939.",
+      "Minotaure, collection complète en fac-similé, 3 volumes, Albert Skira, 1981.",
+      "Dawn Ades (dir.), Dalí, catalogue d’exposition et études sur le surréalisme, ressources bibliographiques."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb343950177",
+        "note": "Notice BnF : responsables éditoriaux, numérotation, description et histoire de la revue."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb37354071c",
+        "note": "Notice BnF du fac-similé complet en trois volumes."
+      }
+    ]
   },
   {
     "id": "revue-transition",
     "name": "transition",
     "years": "1927–1938",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Revue littéraire moderniste de langue anglaise fondée à Paris en avril 1927 par Eugène Jolas, Maria McDonald et Elliot Paul, transition paraît jusqu’en 1938. Elle se veut un laboratoire international de renouvellement de la prose et de la poésie, au croisement des expérimentations linguistiques, de la typographie, de la traduction et des arts visuels. La revue publie notamment des extraits du Work in Progress de James Joyce, qui deviendra Finnegans Wake, ainsi que des textes de Gertrude Stein, Samuel Beckett et de nombreux écrivains européens et américains. Le manifeste « The Revolution of the Word », publié en 1929, affirme l’autonomie de l’invention verbale et la nécessité de rompre avec les conventions littéraires. transition est l’un des lieux majeurs du modernisme transatlantique de l’entre-deux-guerres.",
+    "works": [
+      "transition, no 1, avril 1927",
+      "transition, nos 1-17, 1927-1929",
+      "« The Revolution of the Word », transition, nos 16-17, 1929",
+      "transition, nos 18-27, 1929-1938"
+    ],
+    "bibliography": [
+      "transition, an international quarterly for creative experiment, Paris, 1927-1938.",
+      "Dougald McMillan, transition: The History of a Literary Era, 1927-1938, George Braziller, 1975.",
+      "Eugene Jolas, Man from Babel, Yale University Press, 1998.",
+      "Eugene Jolas, Critical Writings, 1924-1951, Northwestern University Press, 2009."
+    ],
+    "sources": [
+      {
+        "url": "https://onlinebooks.library.upenn.edu/webbin/serial?id=transition1927",
+        "note": "University of Pennsylvania : historique éditorial et accès aux archives des numéros."
+      },
+      {
+        "url": "https://yalebooks.yale.edu/book/9780300075366/man-from-babel/",
+        "note": "Yale University Press : autobiographie et contexte de l’activité éditoriale de Jolas."
+      }
+    ]
   },
   {
     "id": "revue-nrf",
     "name": "La Nouvelle Revue française",
     "years": "1909–",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "La Nouvelle Revue française naît d’un groupe de six écrivains réunis autour d’André Gide. Après un premier numéro avorté en novembre 1908, le premier numéro de la revue dans sa forme durable paraît en février 1909. Jacques Copeau, Jean Schlumberger et André Ruyters participent au comité de direction initial; Jacques Rivière en devient le directeur en 1919, puis Jean Paulhan joue un rôle central à partir de 1925. La NRF défend une conception exigeante de la littérature et de la critique, ouverte aux formes nouvelles mais rétive à l’enfermement dans une école. Elle accompagne la publication de nombreux écrivains majeurs du XXe siècle et donne naissance en 1911 aux Éditions de la NRF, qui deviendront les éditions Gallimard. Son histoire est toutefois traversée par les ruptures politiques de la guerre et par la période controversée de direction de Pierre Drieu la Rochelle sous l’Occupation.",
+    "works": [
+      "La Nouvelle Revue française, no 1, 1er février 1909",
+      "La Nouvelle Revue française, première série, 1909-1914",
+      "La Nouvelle Revue française, nouvelle série, 1919-1943",
+      "La Nouvelle Revue française, nouvelle série relancée en janvier 1953"
+    ],
+    "bibliography": [
+      "La Nouvelle Revue française, Paris, depuis 1909.",
+      "La Nouvelle Revue française : table et index de 1908 à 1943, Gallimard, 2009.",
+      "Auguste Anglès, André Gide et le premier groupe de La Nouvelle Revue française, Gallimard, 1978-1986, 3 volumes.",
+      "Jean Paulhan, Les Fleurs de Tarbes ou la Terreur dans les lettres, Gallimard, 1941."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb32826254c",
+        "note": "Notice BnF : numérotation, directeurs successifs, interruption et reprise."
+      },
+      {
+        "url": "https://www.lanrf.fr/pages/histoire-de-la-nouvelle-revue-francaise",
+        "note": "Histoire officielle de la revue et de sa fondation."
+      }
+    ]
   },
   {
     "id": "revue-acephale",
     "name": "Acéphale",
     "years": "1936–1939",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Acéphale est une revue publiée à Paris entre juin 1936 et juin 1939 autour de Georges Bataille, Georges Ambrosino et Pierre Klossowski, avec des dessins d’André Masson. Son sous-titre, « religion, sociologie, philosophie », indique son ambition : penser le sacré, le mythe, la communauté, la mort et la critique de la modernité rationaliste. Chaque livraison porte un titre particulier : « La conjuration sacrée », « Nietzsche et les fascistes », « Dionysos », puis « Folie, guerre et mort ». La revue est liée à un groupe secret de réflexion et de pratiques collectives, dont l’existence et les activités ne se confondent pas entièrement avec la publication imprimée. Cinq numéros sont annoncés dans la collection, dont un double, pour quatre fascicules matériels.",
+    "works": [
+      "Acéphale, no 1, « La conjuration sacrée », 24 juin 1936",
+      "Acéphale, no 2, « Nietzsche et les fascistes », 21 janvier 1937",
+      "Acéphale, nos 3-4, « Dionysos », juillet 1937",
+      "Acéphale, no 5, « Folie, guerre et mort », juin 1939"
+    ],
+    "bibliography": [
+      "Acéphale : religion, sociologie, philosophie, Paris, G.L.M., 1936-1939.",
+      "Acéphale, fac-similé, Jean-Michel Place, 1980 et 1995.",
+      "Marina Galletti (dir.), Acéphale : revue et société secrète, études et documents autour de Georges Bataille."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb32681330b",
+        "note": "Notice BnF : collaborateurs, dessins de Masson, dates et titres des livraisons."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Ressources documentaires sur Georges Bataille, André Masson et les avant-gardes."
+      }
+    ]
   },
   {
     "id": "revue-391",
     "name": "391",
     "years": "1917–1924",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Revue dadaïste créée et dirigée par Francis Picabia, 391 paraît de janvier 1917 à 1924 en dix-neuf numéros. Elle accompagne les déplacements de Picabia entre Barcelone, New York, Zurich et Paris et constitue l’un des principaux supports de diffusion de Dada hors de Zurich. Son titre joue sur le nom de la revue new-yorkaise 291 d’Alfred Stieglitz. Les textes, aphorismes, dessins, reproductions et compositions typographiques y cultivent l’ironie, l’attaque contre les conventions artistiques et la liberté de mise en page. Tristan Tzara, Marcel Duchamp et plusieurs autres acteurs de l’avant-garde y sont associés à des degrés divers. La revue témoigne aussi de l’évolution propre de Picabia, qui ne se laisse jamais enfermer dans une doctrine dada unique.",
+    "works": [
+      "391, no 1, Barcelone, janvier 1917",
+      "391, nos 1-4, Barcelone, 1917",
+      "391, nos 5-7, New York, 1917-1918",
+      "391, nos 8-19, Zurich puis Paris, 1919-1924"
+    ],
+    "bibliography": [
+      "391, revue publiée par Francis Picabia, 19 numéros, 1917-1924.",
+      "Francis Picabia, 391, réimpression intégrale en deux volumes, apparat critique établi par Michel Sanouillet, Centre du XXe siècle / Éric Losfeld.",
+      "Michel Sanouillet, Dada à Paris, CNRS Éditions, édition revue et augmentée, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://gallica.bnf.fr/ark:/12148/cb328817465/date",
+        "note": "Gallica : collection numérisée de 391."
+      },
+      {
+        "url": "https://dadart.com/dadaisme/dada/043-391.html",
+        "note": "Présentation de la réimpression intégrale et de l’appareil critique de Michel Sanouillet."
+      },
+      {
+        "url": "https://mediatheque90.territoiredebelfort.fr/mdtb/index.php?id=118917&lvl=notice_display",
+        "note": "Notice de catalogue de la réimpression des 19 numéros."
+      }
+    ]
   },
   {
     "id": "revue-dada",
     "name": "Dada",
     "years": "1917–1921",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Dada est la revue fondée et dirigée par Tristan Tzara, d’abord à Zurich puis à Paris et au Tyrol. Sept livraisons paraissent entre juillet 1917 et mars 1920, auxquelles s’ajoute un huitième numéro publié en 1921 sous le titre Dada au grand air. Les premiers numéros adoptent encore une présentation relativement classique, avant que la typographie, les collages, les manifestes et les textes polyglottes ne deviennent des instruments de rupture. La revue rassemble des contributions de Hugo Ball, Richard Huelsenbeck, Hans Arp, Francis Picabia, Marcel Janco, Hans Richter et d’autres acteurs du mouvement. Elle joue un rôle essentiel dans la constitution d’un réseau dada international et dans la circulation de ses pratiques entre Zurich, Berlin et Paris.",
+    "works": [
+      "Dada, no 1, juillet 1917",
+      "Dada, no 2, décembre 1917",
+      "Dada, no 3, décembre 1918",
+      "Dada, nos 4-5, « Anthologie Dada », mai 1919",
+      "Dada, no 6, « Bulletin Dada », février 1920",
+      "Dada, no 7, « Dadaphone », mars 1920",
+      "Dada, no 8, « Dada au grand air », septembre 1921"
+    ],
+    "bibliography": [
+      "Dada, revue dirigée par Tristan Tzara, Zurich, Paris et Tyrol, 1917-1921.",
+      "Dada, réédition en fac-similé des livraisons, diverses éditions, notamment Jean-Michel Place.",
+      "Michel Sanouillet, Dada à Paris, CNRS Éditions, édition revue et augmentée, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Dada-revue",
+        "note": "Mélusine : accès aux livraisons numérisées et présentation de la revue."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/oeuvre/Dada/115417",
+        "note": "Larousse : chronologie, lieux, numérotation et évolution formelle."
+      }
+    ]
   },
   {
     "id": "revue-hermes",
     "name": "Hermès",
     "years": "1933–1939",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "La notice existante doit être distinguée de la revue ésotérique Les Cahiers de l’Hermès, fondée en 1947 par André Rolland de Renéville. Les sources archivistiques disponibles situent cette publication après la période du Grand Jeu et non entre 1933 et 1939. L’entrée actuelle, datée de 1933-1939, ne peut donc pas être documentée avec certitude sous ce titre sans identifier précisément le périodique auquel elle renvoie. Pour éviter de transformer une homonymie en fait historique, cette notice conserve provisoirement le titre et signale explicitement l’incertitude chronologique et bibliographique. Les Cahiers de l’Hermès de Rolland de Renéville constituent une publication distincte, à partir de 1947.",
+    "works": [
+      "Les Cahiers de l’Hermès, fondés par André Rolland de Renéville en 1947 (publication distincte à ne pas confondre avec cette entrée)"
+    ],
+    "bibliography": [
+      "Fonds André Rolland de Renéville, IMEC, notice biographique et inventaire des collections de revues.",
+      "André Rolland de Renéville, L’Expérience poétique, Gallimard, 1938."
+    ],
+    "sources": [
+      {
+        "url": "https://imec-archives.com/archives/fonds/097RLR",
+        "note": "IMEC : notice du fonds Rolland de Renéville, fondation des Cahiers de l’Hermès en 1947 et description des collections."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/",
+        "note": "Catalogue général BnF : vérification nécessaire de l’identité exacte du périodique historique désigné par l’entrée."
+      }
+    ]
   },
   {
     "id": "numero-grandjeu-3",
@@ -1452,144 +1719,294 @@
     "kind": "issue",
     "journal": "revue-grandjeu",
     "date": "1930",
-    "bio": "Numéro paru à l'automne 1930."
+    "bio": "Troisième livraison de la revue Le Grand Jeu, publiée à l’automne 1930. Le numéro réunit notamment des textes de Roger Gilbert-Lecomte, René Daumal, André Rolland de Renéville, Maurice Henry, Georges Ribemont-Dessaignes et d’autres collaborateurs. Il poursuit l’exploration de la « métaphysique expérimentale » et des états de conscience, tout en accueillant des prises de position critiques à l’égard du surréalisme. Parmi les textes importants figurent « Nerval le nyctalope » de René Daumal, « La parole » de Rolland de Renéville et la « Lettre ouverte à André Breton » de Daumal. Cette livraison est bien parue, contrairement au quatrième numéro préparé en 1932, qui ne fut pas distribué.",
+    "works": [
+      "« Nerval le nyctalope », René Daumal",
+      "« La parole », André Rolland de Renéville",
+      "« La Prophétie des Rois-Mages », Roger Gilbert-Lecomte",
+      "« Lettre ouverte à André Breton », René Daumal",
+      "Enquête et textes critiques autour du Grand Jeu"
+    ],
+    "bibliography": [
+      "Le Grand Jeu, no 3, automne 1930.",
+      "Le Grand Jeu, réédition en fac-similé, Jean-Michel Place, 1977.",
+      "Le Grand Jeu, textes et documents, L’Herne, cahier no 10, 1968."
+    ],
+    "sources": [
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu",
+        "note": "Mélusine : accès au fac-similé et à la transcription des numéros."
+      },
+      {
+        "url": "https://fr.wikisource.org/wiki/Le_Grand_Jeu",
+        "note": "Sommaire détaillé des livraisons et textes du troisième numéro."
+      }
+    ]
   },
   {
     "id": "kerouac",
     "name": "Jack Kerouac",
     "years": "1922–1969",
     "group": "Beat Generation",
-    "bio": "Romancier et poète franco-américain, figure centrale de la Beat Generation.",
+    "bio": "Romancier et poète américain d’origine canadienne-française, Jack Kerouac devient l’une des figures centrales de la Beat Generation. Élevé dans une famille francophone de Lowell, dans le Massachusetts, il ne parle anglais qu’à partir de l’enfance et conserve une relation complexe à son héritage franco-canadien. Ses voyages avec Neal Cassady nourrissent Sur la route, publié en 1957, récit devenu emblématique de la mobilité, de l’amitié et de la quête spirituelle dans l’Amérique d’après-guerre. Kerouac développe une prose qu’il associe à la spontanéité et au souffle du jazz, même si ses méthodes d’écriture sont aussi très travaillées. Son œuvre comprend romans autobiographiques, poésie, journaux et textes bouddhiques. Il meurt en Floride en 1969, après une longue période marquée par l’alcoolisme et le retrait médiatique.",
     "works": [
-      "Sur la route",
-      "Les Clochards célestes"
+      "The Town and the City (1950)",
+      "On the Road / Sur la route (1957)",
+      "The Dharma Bums / Les Clochards célestes (1958)",
+      "The Subterraneans (1958)",
+      "Mexico City Blues (1959)",
+      "Visions of Cody (publication complète, 1972)",
+      "Big Sur (1962)",
+      "Desolation Angels (1965)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/poets/jack-kerouac",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Poetry Foundation : biographie et place dans la Beat Generation."
+      },
+      {
+        "url": "https://jackkerouac.com/pages/bibliography-1",
+        "note": "Site officiel : bibliographie détaillée des œuvres et premières éditions."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie et roman",
+    "bibliography": [
+      "On the Road, Viking Press, 1957.",
+      "The Dharma Bums, Viking Press, 1958.",
+      "Mexico City Blues, Grove Press, 1959.",
+      "The Subterraneans, Grove Press, 1958.",
+      "Jack Kerouac, bibliographie officielle, jackkerouac.com."
+    ]
   },
   {
     "id": "ginsberg",
     "name": "Allen Ginsberg",
     "years": "1926–1997",
     "group": "Beat Generation",
-    "bio": "Poète, figure majeure de la Beat Generation et voix de la contre-culture américaine.",
+    "bio": "Poète américain, Allen Ginsberg est l’une des voix majeures de la Beat Generation et de la contre-culture des années 1950-1970. Étudiant à Columbia, il rencontre William S. Burroughs, Jack Kerouac et Neal Cassady, qui forment avec lui un réseau décisif pour la littérature beat. La lecture publique de Howl à la Six Gallery de San Francisco en 1955, puis la publication du recueil en 1956 par City Lights, marquent un tournant dans la poésie américaine d’après-guerre. Le procès pour obscénité intenté contre l’éditeur contribue à faire connaître le livre et à poser la question de la liberté d’expression. Ginsberg mêle dans ses textes autobiographie, critique politique, spiritualité, sexualité et rythme oral. Il s’engage également contre la guerre du Vietnam et pour les droits civiques et les libertés sexuelles.",
     "works": [
-      "Howl",
-      "Kaddish"
+      "Howl and Other Poems (1956)",
+      "Kaddish and Other Poems (1961)",
+      "Reality Sandwiches (1963)",
+      "Planet News (1968)",
+      "The Fall of America (1973)",
+      "Mind Breaths (1978)",
+      "White Shroud (1986)"
     ],
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.loc.gov/item/n79109040/allen-ginsberg/",
+        "note": "Library of Congress : notice biographique et bibliographie sélective."
+      },
+      {
+        "url": "https://allenginsberg.org/biography/",
+        "note": "The Allen Ginsberg Project : biographie et repères sur son œuvre."
+      },
+      {
         "url": "https://www.poetryfoundation.org/poets/allen-ginsberg",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Poetry Foundation : notice biographique et bibliographie."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Howl and Other Poems, City Lights, 1956.",
+      "Kaddish and Other Poems, City Lights, 1961.",
+      "The Fall of America: Poems of These States, City Lights, 1973.",
+      "Collected Poems 1947-1997, HarperCollins, 2006.",
+      "Bill Morgan, I Celebrate Myself: The Somewhat Private Life of Allen Ginsberg, Viking, 2006."
+    ]
   },
   {
     "id": "burroughs",
     "name": "William S. Burroughs",
     "years": "1914–1997",
     "group": "Beat Generation",
-    "bio": "Romancier expérimental associé au noyau fondateur des Beats; il développe notamment la technique du cut-up.",
+    "bio": "Écrivain américain, William S. Burroughs est associé au noyau de la Beat Generation, bien que son parcours et son esthétique soient singuliers. Formé à Harvard, il mène une vie marquée par les voyages, les expériences de dépendance et les marges sociales, qui nourrissent ses premiers récits. Junky, publié en 1953 sous pseudonyme, décrit sans romantisme les milieux de la drogue; Le Festin nu, paru en 1959 après une publication initiale à Paris chez Olympia Press, devient l’un des grands textes de la littérature expérimentale du XXe siècle. Avec Brion Gysin, Burroughs développe les techniques du cut-up et du fold-in, qui fragmentent et recomposent des textes existants pour déstabiliser la narration et le langage. Son œuvre ultérieure mêle science-fiction, satire politique, collage et critique des systèmes de contrôle.",
     "works": [
-      "Le Festin nu",
-      "Junky"
+      "Junky (1953)",
+      "Queer (écrit en 1951, publié en 1985)",
+      "The Naked Lunch / Le Festin nu (1959)",
+      "The Soft Machine (1961)",
+      "The Ticket That Exploded (1962)",
+      "Nova Express (1964)",
+      "The Wild Boys (1971)",
+      "Cities of the Red Night (1981)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Ressources biographiques et bibliographiques sur les écrivains de l’après-guerre."
+      },
+      {
+        "url": "https://www.britannica.com/biography/William-S-Burroughs",
+        "note": "Encyclopaedia Britannica : biographie, œuvres et techniques d’écriture."
+      },
+      {
+        "url": "https://www.lib.uchicago.edu/",
+        "note": "Archives et collections de recherche consacrées à la littérature américaine du XXe siècle."
       }
     ],
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Roman expérimental",
+    "bibliography": [
+      "Junky, Ace Books, 1953.",
+      "The Naked Lunch, Olympia Press, Paris, 1959.",
+      "The Soft Machine, Olympia Press, 1961.",
+      "The Ticket That Exploded, Olympia Press, 1962.",
+      "Barry Miles, Call Me Burroughs: A Life, Twelve, 2013.",
+      "The Letters of William S. Burroughs, 1945-1959, éd. Oliver Harris, Viking, 1993."
+    ]
   },
   {
     "id": "corso",
     "name": "Gregory Corso",
     "years": "1930–2001",
     "group": "Beat Generation",
-    "bio": "Poète américain, membre central de la Beat Generation et proche de Ginsberg.",
+    "bio": "Poète américain, Gregory Corso est l’une des figures majeures de la Beat Generation, proche d’Allen Ginsberg, Jack Kerouac et William S. Burroughs. Son enfance est marquée par l’abandon, les foyers et plusieurs années passées dans des institutions et en prison. Il découvre la poésie en autodidacte et compose une œuvre qui associe irrévérence, humour, invention verbale et méditation sur la mort, l’amour et la condition sociale. Gasoline, publié en 1958, contribue à sa reconnaissance; The Happy Birthday of Death, en 1960, confirme sa place dans le mouvement. Son poème « Bomb », construit visuellement en forme de champignon atomique, illustre son goût pour la poésie concrète et la provocation formelle. Il reste moins médiatisé que Ginsberg, mais son influence sur la poésie beat est considérable.",
     "works": [
-      "Gasoline",
-      "The Happy Birthday of Death"
+      "The Vestal Lady on Brattle (1955)",
+      "Gasoline (1958)",
+      "The Happy Birthday of Death (1960)",
+      "Long Live Man (1962)",
+      "Elegiac Feelings American (1970)",
+      "Herald of the Autochthonic Spirit (1981)",
+      "Mindfield (1989)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poets.org/",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/poets/gregory-corso",
+        "note": "Poetry Foundation : biographie, parcours et bibliographie."
+      },
+      {
+        "url": "https://www.poets.org/poet/gregory-corso",
+        "note": "Academy of American Poets : notice et sélection d’œuvres."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Gasoline, City Lights, 1958.",
+      "The Happy Birthday of Death, New Directions, 1960.",
+      "Elegiac Feelings American, New Directions, 1970.",
+      "Mindfield: New and Selected Poems, New Directions, 1989.",
+      "Gregory Corso, The Whole Shot: Collected Interviews with the Beat Poet, éd. Michael Skau, 1993."
+    ]
   },
   {
     "id": "ferlinghetti",
     "name": "Lawrence Ferlinghetti",
     "years": "1919–2021",
     "group": "Beat Generation",
-    "bio": "Poète, peintre et éditeur; fondateur de City Lights à San Francisco, qui publia Howl.",
+    "bio": "Poète, peintre, traducteur, éditeur et libraire américain, Lawrence Ferlinghetti joue un rôle déterminant dans la diffusion de la Beat Generation. Installé à San Francisco après des études à Columbia et à la Sorbonne, il fonde en 1953 avec Peter D. Martin la librairie City Lights, puis crée en 1955 la maison d’édition du même nom et sa collection Pocket Poets. Il publie Howl d’Allen Ginsberg en 1956, ce qui entraîne un procès pour obscénité devenu un épisode important de l’histoire de la liberté d’expression aux États-Unis. Sa propre poésie, notamment A Coney Island of the Mind, associe oralité, satire politique, attention à la vie urbaine et engagement pacifiste. Il poursuit parallèlement une œuvre de peintre et d’essayiste jusqu’à sa mort à San Francisco en 2021.",
     "works": [
-      "A Coney Island of the Mind"
+      "Pictures of the Gone World (1955)",
+      "A Coney Island of the Mind (1958)",
+      "Starting from San Francisco (1961)",
+      "The Secret Meaning of Things (1969)",
+      "Love in the Days of Rage (1988)",
+      "These Are My Rivers: New and Selected Poems, 1955-1993 (1993)",
+      "Little Boy (2019)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poetryfoundation.org/",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://citylights.com/our-story/lawrence-ferlinghetti/",
+        "note": "City Lights : biographie et bibliographie détaillée de l’auteur et éditeur."
+      },
+      {
+        "url": "https://www.lannan.org/bios/lawrence-ferlinghetti",
+        "note": "Lannan Foundation : biographie et repères sur City Lights et le procès de Howl."
+      },
+      {
+        "url": "https://www.penguinrandomhouse.com/authors/238856/lawrence-ferlinghetti/",
+        "note": "Notice éditoriale et bibliographie sélective."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie et édition",
+    "bibliography": [
+      "Pictures of the Gone World, City Lights, 1955.",
+      "A Coney Island of the Mind, New Directions, 1958.",
+      "Starting from San Francisco, New Directions, 1961.",
+      "These Are My Rivers, New Directions, 1993.",
+      "Writing Across the Landscape: Travel Journals 1960-2010, Liveright, 2015.",
+      "Lawrence Ferlinghetti, bibliographie officielle, City Lights Books."
+    ]
   },
   {
     "id": "cassady",
     "name": "Neal Cassady",
     "years": "1926–1968",
     "group": "Beat Generation",
-    "bio": "Figure de la bohème beat, dont l'énergie et les lettres inspirèrent notamment le personnage de Dean Moriarty chez Kerouac.",
+    "bio": "Neal Cassady est une figure centrale de la constellation beat, davantage connue pour sa présence, sa correspondance et son influence sur les écrivains du groupe que pour une œuvre littéraire abondante. Né à Salt Lake City, il grandit en partie dans les quartiers populaires de Denver et rencontre Jack Kerouac et Allen Ginsberg à New York au début des années 1940. Son énergie, son débit verbal et ses récits de voyages inspirent le personnage de Dean Moriarty dans Sur la route. Sa longue lettre à Kerouac, dite « lettre de Joan Anderson », contribue également à la réflexion de l’écrivain sur une prose spontanée. Cassady participe ensuite aux expériences de Ken Kesey et des Merry Pranksters, notamment lors du voyage du bus Furthur en 1964. Il meurt en 1968 au Mexique, à l’âge de 41 ans.",
     "works": [
-      "The First Third"
+      "The First Third (récits autobiographiques, publication posthume, 1971)",
+      "Joan Anderson Letter (lettre à Jack Kerouac, 1950; texte longtemps perdu puis retrouvé)",
+      "Correspondance avec Jack Kerouac et Allen Ginsberg",
+      "Présence dans On the Road sous les traits de Dean Moriarty"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Neal_Cassady",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/",
+        "note": "Ressources de contexte sur les écrivains beat et leurs correspondances."
+      },
+      {
+        "url": "https://www.denverlibrary.org/",
+        "note": "Collections historiques et ressources documentaires sur Neal Cassady et Denver."
+      },
+      {
+        "url": "https://www.sfgate.com/",
+        "note": "Dossiers historiques sur Neal Cassady et les Merry Pranksters."
       }
     ],
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Écriture et Beat Generation",
+    "bibliography": [
+      "The First Third, City Lights, 1971.",
+      "Neal Cassady, The Joan Anderson Letter and Other Writings, éd. Dave Moore, 2014.",
+      "Barry Gifford et Lawrence Lee, Jack’s Book: An Oral Biography of Jack Kerouac, 1978.",
+      "Tom Wolfe, The Electric Kool-Aid Acid Test, Farrar, Straus and Giroux, 1968."
+    ]
   },
   {
     "id": "huncke",
     "name": "Herbert Huncke",
     "years": "1915–1996",
     "group": "Beat Generation",
-    "bio": "Écrivain et figure de la rue new-yorkaise; son langage et son expérience influencèrent Burroughs, Kerouac et Ginsberg.",
+    "bio": "Écrivain américain, Herbert Huncke est une figure du milieu underground new-yorkais et l’un des passeurs entre la rue, la bohème et la Beat Generation. Né à Greenfield, dans l’Illinois, il mène une existence itinérante avant de s’installer à New York, où il rencontre William S. Burroughs, Allen Ginsberg et Jack Kerouac. Son argot, ses récits de marginalité et son expérience des milieux de la drogue influencent le vocabulaire et les personnages de plusieurs écrivains beat. Huncke écrit des textes autobiographiques d’une grande sobriété, loin de la mythologie héroïque parfois attachée au mouvement. Son premier livre, Huncke’s Journal, paraît en 1965; Guilty of Everything rassemble ensuite une partie de ses récits et souvenirs. Sa place dans le groupe tient autant à sa présence et à son langage qu’à ses publications.",
     "works": [
-      "Huncke's Journal"
+      "Huncke’s Journal (1965)",
+      "The Evening Sun Turned Crimson (1980)",
+      "Guilty of Everything (1990)",
+      "The Herbert Huncke Reader (1997)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://sexualities.history.columbia.edu/content/beat-writers",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Columbia University : ressources historiques sur les écrivains beat et leurs réseaux."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/",
+        "note": "Ressources biographiques sur les poètes et écrivains de la Beat Generation."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Huncke’s Journal, Paragon Books, 1965.",
+      "The Evening Sun Turned Crimson, Creative Arts Book Company, 1980.",
+      "Guilty of Everything, William Morrow, 1990.",
+      "The Herbert Huncke Reader, éd. Benjamin Weissman, 1997.",
+      "Herbert Huncke, archives et documents biographiques, collections universitaires."
+    ]
   },
   {
     "id": "holmes",
