@@ -46,3 +46,15 @@ body{padding-bottom:30px}.timeline-scroll{scrollbar-width:none}.timeline-scroll:
 .comparison-life.is-open{background:repeating-linear-gradient(45deg,#a83225 0 5px,#d19b86 5px 10px)}
 .comparison-unknown-date{font:10px Arial,sans-serif;color:#6d6253}
 @media(max-width:650px){.comparison-panel{padding:10px}.comparison-axis{margin-left:0}.comparison-row{grid-template-columns:1fr;gap:4px}.comparison-person{font-size:11px}}
+
+/* Commandes des notices : fermeture discrète et ajout libre aux vies comparées. */
+.details{position:relative}
+.notice-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.notice-close{display:inline-flex;align-items:center;justify-content:center;flex:0 0 34px;width:34px;height:34px;min-height:34px;padding:0;border:1px solid var(--ink);font:24px/1 Arial,sans-serif}
+.comparison-add{margin:10px 0 4px}
+.comparison-add-toggle{min-height:34px;padding:7px 10px;font-size:12px}
+.comparison-add-editor{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:8px}
+.comparison-add-editor input{flex:1;min-width:190px;min-height:36px;padding:8px;font-size:13px}
+.comparison-add-confirm{min-height:36px;padding:7px 12px;font-size:12px}
+.comparison-add-error{flex-basis:100%;font:12px Arial,sans-serif;color:#a83225}
+.comparison-add-editor[hidden]{display:none}
