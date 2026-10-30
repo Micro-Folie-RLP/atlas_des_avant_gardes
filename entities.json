@@ -10825,77 +10825,177 @@
     "name": "Ben Vautier",
     "years": "1935–2024",
     "group": "Fluxus / Nouveau Réalisme",
-    "bio": "Artiste franco-suisse, lié à Fluxus et au Nouveau Réalisme, il explore la signature, le langage et la définition de l’art.",
+    "bio": "Ben Vautier est un artiste franco-suisse associé à Fluxus et au Nouveau Réalisme. À partir des années 1950, il fait de la signature, de l’écriture manuscrite et de la provocation des moyens d’interroger la définition de l’art. Ses déclarations ironiques déplacent l’œuvre vers le langage et la vie quotidienne, tout en questionnant l’autorité des institutions et le statut de l’artiste.",
     "works": [
       "Tout est art",
       "Je signe tout"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "George Maciunas, Fluxus: A Conceptual Country, 1964.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Owen F. Smith, Fluxus: The History of an Attitude, San Diego State University Press, 1998."
+    ],
+    "related": [
+      "george-maciunas",
+      "robert-filliou",
+      "yoko-ono"
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "Ressource documentaire sur Fluxus / Nouveau Réalisme ; à compléter par une notice d’œuvre propre à Ben Vautier."
+      },
+      {
+        "url": "https://www.nypl.org/research/research-catalog",
+        "note": "Ressource documentaire sur Fluxus / Nouveau Réalisme ; à compléter par une notice d’œuvre propre à Ben Vautier."
+      }
+    ]
   },
   {
     "id": "joseph-beuys",
     "name": "Joseph Beuys",
     "years": "1921–1986",
     "group": "Fluxus",
-    "bio": "Artiste allemand, il participe à des performances liées aux réseaux Fluxus avant de développer une conception élargie de la sculpture sociale.",
+    "bio": "Joseph Beuys est un artiste allemand dont les actions, sculptures, dessins et enseignements ont marqué l’art d’après-guerre. Proche des réseaux Fluxus au début des années 1960, il développe la notion de « sculpture sociale » : la créativité pourrait transformer la société. Feutre, graisse, miel, parole et pédagogie deviennent des matériaux d’une œuvre où le mythe personnel et l’engagement politique sont étroitement mêlés.",
     "works": [
       "How to Explain Pictures to a Dead Hare",
       "I Like America and America Likes Me"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Caroline Tisdall, Joseph Beuys, Thames & Hudson, 1979.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Owen F. Smith, Fluxus: The History of an Attitude, San Diego State University Press, 1998."
+    ],
+    "related": [
+      "george-maciunas",
+      "wolf-vostell",
+      "henry-flynt"
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Joseph Beuys."
+      },
+      {
+        "url": "https://www.nypl.org/research/research-catalog",
+        "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Joseph Beuys."
+      }
+    ]
   },
   {
     "id": "takako-saito",
     "name": "Takako Saito",
     "years": "1929–",
     "group": "Fluxus",
-    "bio": "Artiste japonaise associée à Fluxus, elle crée des jeux, objets et dispositifs qui invitent à expérimenter les sens.",
+    "bio": "Takako Saito est une artiste japonaise associée aux réseaux Fluxus. Ses objets et jeux transforment les règles en expériences sensorielles : ses échiquiers peuvent substituer aux pièces des épices, des sons ou des matériaux inattendus. Le public ne se contente pas de regarder, il manipule et interprète ; la pratique ludique devient une critique de l’objet artistique passif.",
     "works": [
       "Flux Chess",
       "Spice Chess"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Owen F. Smith, Fluxus: The History of an Attitude, San Diego State University Press, 1998."
+    ],
+    "related": [
+      "mieko-shiomi",
+      "george-maciunas",
+      "george-brecht"
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Takako Saito."
+      },
+      {
+        "url": "https://www.nypl.org/research/research-catalog",
+        "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Takako Saito."
+      }
+    ]
   },
   {
     "id": "yoshi-wada",
     "name": "Yoshi Wada",
     "years": "1943–2021",
     "group": "Fluxus / musique expérimentale",
-    "bio": "Compositeur et artiste sonore japonais-américain, il rejoint les réseaux Fluxus et explore les drones, les tuyaux et les instruments à vent.",
+    "bio": "Yoshi Wada, né au Japon puis installé à New York, est un compositeur et artiste sonore issu des réseaux Fluxus. Il développe une musique de longue durée fondée sur les drones, les harmoniques, la respiration et la puissance physique des instruments. Cornemuses, tuyaux et instruments construits deviennent des sources de résonances immersives, entre rituel et expérimentation.",
     "works": [
       "Lament for the Rise and Fall of the Elephantine Crocodile",
       "Off the Wall"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Owen F. Smith, Fluxus: The History of an Attitude, San Diego State University Press, 1998."
+    ],
+    "related": [
+      "henry-flynt",
+      "takehisa-kosugi",
+      "george-maciunas"
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "Ressource documentaire sur Fluxus / musique expérimentale ; à compléter par une notice d’œuvre propre à Yoshi Wada."
+      },
+      {
+        "url": "https://www.nypl.org/research/research-catalog",
+        "note": "Ressource documentaire sur Fluxus / musique expérimentale ; à compléter par une notice d’œuvre propre à Yoshi Wada."
+      }
+    ]
   },
   {
     "id": "henry-flynt",
     "name": "Henry Flynt",
     "years": "1940–",
     "group": "Fluxus",
-    "bio": "Artiste, philosophe et musicien américain, associé aux événements Fluxus et à la notion d’art conceptuel.",
+    "bio": "Henry Flynt est un artiste, philosophe et musicien américain qui gravite autour des événements Fluxus et de l’avant-garde new-yorkaise. Il forge l’expression « concept art » pour critiquer les conventions de l’art et la culture savante. Son travail musical mêle hillbilly, improvisation et systèmes de jeu, tandis que ses écrits contestent les institutions culturelles et les récits dominants de l’avant-garde.",
     "works": [
       "Concept Art",
       "You Are My Everlovin’"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Owen F. Smith, Fluxus: The History of an Attitude, San Diego State University Press, 1998.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Owen F. Smith, Fluxus: The History of an Attitude, San Diego State University Press, 1998."
+    ],
+    "related": [
+      "george-maciunas",
+      "yoko-ono",
+      "takehisa-kosugi"
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Henry Flynt."
+      },
+      {
+        "url": "https://www.nypl.org/research/research-catalog",
+        "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Henry Flynt."
+      }
+    ]
   },
   {
     "id": "baargeld",
     "name": "Johannes Theodor Baargeld",
     "years": "1892–1927",
     "group": "Dada de Cologne",
-    "bio": "Artiste et écrivain, coorganisateur du dadaïsme de Cologne avec Max Ernst et Hans Arp.",
+    "bio": "Artiste et écrivain, coorganisateur du dadaïsme de Cologne avec Max Ernst et Hans Arp. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Collages dada",
       "Bulletin D"
@@ -10905,17 +11005,27 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/dada",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Dada de Cologne et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Johannes Theodor Baargeld."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle sur Dada de Cologne et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Johannes Theodor Baargeld."
       }
-    ]
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": []
   },
   {
     "id": "max-ernst",
     "name": "Max Ernst",
     "years": "1891–1976",
     "group": "Dada / surréalisme",
-    "bio": "Peintre et collagiste allemand, il participe au dadaïsme de Cologne avant de devenir une figure majeure du surréalisme.",
+    "bio": "Peintre et collagiste allemand, il participe au dadaïsme de Cologne avant de devenir une figure majeure du surréalisme. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "La Femme 100 têtes",
       "Au rendez-vous des amis"
@@ -10925,9 +11035,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/dada",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Dada / surréalisme et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Max Ernst."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle sur Dada / surréalisme et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Max Ernst."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "tzara",
+      "ribemont",
+      "picabia"
     ]
   },
   {
@@ -10935,7 +11059,7 @@
     "name": "Theo van Doesburg",
     "years": "1883–1931",
     "group": "De Stijl",
-    "bio": "Peintre, architecte et théoricien néerlandais, fondateur de De Stijl et promoteur d’une abstraction géométrique internationale.",
+    "bio": "Peintre, architecte et théoricien néerlandais, fondateur de De Stijl et promoteur d’une abstraction géométrique internationale. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Éléments de construction",
       "De Stijl"
@@ -10945,9 +11069,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Theo van Doesburg."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Theo van Doesburg."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "piet-mondrian",
+      "gerrit-rietveld",
+      "bart-van-der-leck"
     ]
   },
   {
@@ -10955,7 +11093,7 @@
     "name": "Piet Mondrian",
     "years": "1872–1944",
     "group": "De Stijl",
-    "bio": "Peintre néerlandais, il développe le néoplasticisme fondé sur les lignes orthogonales et les couleurs primaires.",
+    "bio": "Peintre néerlandais, il développe le néoplasticisme fondé sur les lignes orthogonales et les couleurs primaires. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Composition avec rouge, bleu et jaune",
       "De Nieuwe Beelding"
@@ -10965,9 +11103,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Piet Mondrian."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Piet Mondrian."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "gerrit-rietveld",
+      "bart-van-der-leck"
     ]
   },
   {
@@ -10975,7 +11127,7 @@
     "name": "Gerrit Rietveld",
     "years": "1888–1964",
     "group": "De Stijl",
-    "bio": "Architecte et designer néerlandais, il transpose les principes de De Stijl dans le mobilier et l’architecture.",
+    "bio": "Architecte et designer néerlandais, il transpose les principes de De Stijl dans le mobilier et l’architecture. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Chaise rouge et bleue",
       "Maison Schröder"
@@ -10985,9 +11137,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Gerrit Rietveld."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Gerrit Rietveld."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "piet-mondrian",
+      "bart-van-der-leck"
     ]
   },
   {
@@ -10995,7 +11161,7 @@
     "name": "Bart van der Leck",
     "years": "1876–1958",
     "group": "De Stijl",
-    "bio": "Peintre néerlandais proche des débuts de De Stijl, il réduit progressivement les formes à des aplats colorés et des lignes.",
+    "bio": "Peintre néerlandais proche des débuts de De Stijl, il réduit progressivement les formes à des aplats colorés et des lignes. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Composition avec couleurs primaires",
       "Travaux pour l’entreprise Müller"
@@ -11005,9 +11171,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Bart van der Leck."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Bart van der Leck."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "piet-mondrian",
+      "gerrit-rietveld"
     ]
   },
   {
@@ -11015,7 +11195,7 @@
     "name": "Vilmos Huszár",
     "years": "1884–1960",
     "group": "De Stijl",
-    "bio": "Peintre et designer hongrois installé aux Pays-Bas, cofondateur de De Stijl et collaborateur de la revue éponyme.",
+    "bio": "Peintre et designer hongrois installé aux Pays-Bas, cofondateur de De Stijl et collaborateur de la revue éponyme. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Décoration intérieure De Stijl",
       "Couverture de De Stijl"
@@ -11025,9 +11205,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Vilmos Huszár."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Vilmos Huszár."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "piet-mondrian",
+      "gerrit-rietveld"
     ]
   },
   {
@@ -11035,7 +11229,7 @@
     "name": "J. J. P. Oud",
     "years": "1890–1963",
     "group": "De Stijl",
-    "bio": "Architecte néerlandais, il applique les principes de De Stijl à l’architecture sociale et au logement moderne.",
+    "bio": "Architecte néerlandais, il applique les principes de De Stijl à l’architecture sociale et au logement moderne. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Logements de Rotterdam",
       "Café De Unie"
@@ -11045,9 +11239,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à J. J. P. Oud."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à J. J. P. Oud."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "piet-mondrian",
+      "gerrit-rietveld"
     ]
   },
   {
@@ -11055,7 +11263,7 @@
     "name": "Cornelis van Eesteren",
     "years": "1897–1988",
     "group": "De Stijl / architecture moderne",
-    "bio": "Architecte et urbaniste néerlandais, il collabore avec Theo van Doesburg et développe une approche fonctionnaliste de l’urbanisme.",
+    "bio": "Architecte et urbaniste néerlandais, il collabore avec Theo van Doesburg et développe une approche fonctionnaliste de l’urbanisme. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Plans d’urbanisme d’Amsterdam"
     ],
@@ -11064,9 +11272,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl / architecture moderne et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Cornelis van Eesteren."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl / architecture moderne et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Cornelis van Eesteren."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "piet-mondrian",
+      "gerrit-rietveld"
     ]
   },
   {
@@ -11074,7 +11296,7 @@
     "name": "Georges Vantongerloo",
     "years": "1886–1965",
     "group": "De Stijl",
-    "bio": "Sculpteur et peintre belge, il explore les relations mathématiques entre volumes, lignes et couleurs dans l’abstraction.",
+    "bio": "Sculpteur et peintre belge, il explore les relations mathématiques entre volumes, lignes et couleurs dans l’abstraction. Son travail participe à la recherche d’un langage moderne fondé sur la simplification des formes, la construction de l’espace et les relations entre arts visuels, architecture et design. Le mouvement fut traversé de désaccords et d’évolutions, loin d’être un style parfaitement uniforme.",
     "works": [
       "Construction dans la sphère",
       "Compositions mathématiques"
@@ -11084,9 +11306,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/de-stijl",
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Georges Vantongerloo."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur De Stijl et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Georges Vantongerloo."
       }
+    ],
+    "bibliography": [
+      "Carel Blotkamp, De Stijl: The Formative Years, MIT Press, 1986.",
+      "Nancy J. Troy, The De Stijl Environment, MIT Press, 1983.",
+      "Michael White, De Stijl and Dutch Modernism, Manchester University Press, 2003."
+    ],
+    "related": [
+      "theo-van-doesburg",
+      "piet-mondrian",
+      "gerrit-rietveld"
     ]
   },
   {
@@ -11094,7 +11330,7 @@
     "name": "Walter Gropius",
     "years": "1883–1969",
     "group": "Bauhaus",
-    "bio": "Architecte allemand, fondateur du Bauhaus en 1919, école qui rapproche art, artisanat, architecture et industrie.",
+    "bio": "Architecte allemand, fondateur du Bauhaus en 1919, école qui rapproche art, artisanat, architecture et industrie. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Bâtiment du Bauhaus à Dessau",
       "Manifeste du Bauhaus"
@@ -11105,8 +11341,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Walter Gropius."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Walter Gropius."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "paul-klee",
+      "oskar-schlemmer",
+      "marcel-breuer"
     ]
   },
   {
@@ -11114,7 +11364,7 @@
     "name": "Paul Klee",
     "years": "1879–1940",
     "group": "Bauhaus",
-    "bio": "Peintre et pédagogue, il enseigne au Bauhaus et développe une œuvre nourrie de signes, de musique et de théorie de la couleur.",
+    "bio": "Peintre et pédagogue, il enseigne au Bauhaus et développe une œuvre nourrie de signes, de musique et de théorie de la couleur. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Pédagogie de l’art moderne",
       "Twittering Machine"
@@ -11125,8 +11375,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Paul Klee."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Paul Klee."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "oskar-schlemmer",
+      "marcel-breuer"
     ]
   },
   {
@@ -11134,7 +11398,7 @@
     "name": "László Moholy-Nagy",
     "years": "1895–1946",
     "group": "Bauhaus / art vidéo",
-    "bio": "Artiste hongrois, enseignant au Bauhaus, il expérimente photographie, typographie, lumière, film et matériaux industriels.",
+    "bio": "Artiste hongrois, enseignant au Bauhaus, il expérimente photographie, typographie, lumière, film et matériaux industriels. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Light-Space Modulator",
       "Painting, Photography, Film"
@@ -11145,8 +11409,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus / art vidéo et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à László Moholy-Nagy."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus / art vidéo et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à László Moholy-Nagy."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "oskar-schlemmer"
     ]
   },
   {
@@ -11154,7 +11432,7 @@
     "name": "Oskar Schlemmer",
     "years": "1888–1943",
     "group": "Bauhaus",
-    "bio": "Peintre, sculpteur et chorégraphe, il explore les rapports entre corps, espace et géométrie au Bauhaus.",
+    "bio": "Peintre, sculpteur et chorégraphe, il explore les rapports entre corps, espace et géométrie au Bauhaus. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Ballet triadique",
       "Figurines du Bauhaus"
@@ -11165,8 +11443,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Oskar Schlemmer."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Oskar Schlemmer."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "marcel-breuer"
     ]
   },
   {
@@ -11174,7 +11466,7 @@
     "name": "Marcel Breuer",
     "years": "1902–1981",
     "group": "Bauhaus",
-    "bio": "Architecte et designer hongrois, il transforme le mobilier moderne par l’usage du tube d’acier et développe une architecture fonctionnaliste.",
+    "bio": "Architecte et designer hongrois, il transforme le mobilier moderne par l’usage du tube d’acier et développe une architecture fonctionnaliste. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Chaise Wassily",
       "Chaise Cesca"
@@ -11185,8 +11477,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Marcel Breuer."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Marcel Breuer."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "oskar-schlemmer"
     ]
   },
   {
@@ -11194,7 +11500,7 @@
     "name": "Johannes Itten",
     "years": "1888–1967",
     "group": "Bauhaus",
-    "bio": "Peintre et pédagogue suisse, il conçoit le cours préliminaire du Bauhaus et une méthode influente d’enseignement de la couleur.",
+    "bio": "Peintre et pédagogue suisse, il conçoit le cours préliminaire du Bauhaus et une méthode influente d’enseignement de la couleur. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "L’Art de la couleur",
       "Études chromatiques"
@@ -11205,8 +11511,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Johannes Itten."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Johannes Itten."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "oskar-schlemmer"
     ]
   },
   {
@@ -11214,7 +11534,7 @@
     "name": "Josef Albers",
     "years": "1888–1976",
     "group": "Bauhaus / art conceptuel",
-    "bio": "Artiste et pédagogue, formé au Bauhaus puis enseignant, il étudie systématiquement les interactions entre couleurs et perception.",
+    "bio": "Artiste et pédagogue, formé au Bauhaus puis enseignant, il étudie systématiquement les interactions entre couleurs et perception. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Homage to the Square",
       "Interaction of Color"
@@ -11225,8 +11545,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus / art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Josef Albers."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus / art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Josef Albers."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "laszlo-moholy-nagy"
     ]
   },
   {
@@ -11234,7 +11568,7 @@
     "name": "Anni Albers",
     "years": "1899–1994",
     "group": "Bauhaus",
-    "bio": "Artiste textile et théoricienne, elle élève le tissage au rang d’art moderne et expérimente structure, matière et abstraction.",
+    "bio": "Artiste textile et théoricienne, elle élève le tissage au rang d’art moderne et expérimente structure, matière et abstraction. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "On Weaving",
       "Textiles du Bauhaus"
@@ -11245,8 +11579,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Anni Albers."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Anni Albers."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "oskar-schlemmer"
     ]
   },
   {
@@ -11254,7 +11602,7 @@
     "name": "Marianne Brandt",
     "years": "1893–1983",
     "group": "Bauhaus",
-    "bio": "Designer et photographe allemande, elle conçoit des objets métalliques emblématiques de l’atelier de métal du Bauhaus.",
+    "bio": "Designer et photographe allemande, elle conçoit des objets métalliques emblématiques de l’atelier de métal du Bauhaus. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Théière MT 49",
       "Luminaires"
@@ -11265,8 +11613,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Marianne Brandt."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Marianne Brandt."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "oskar-schlemmer"
     ]
   },
   {
@@ -11274,7 +11636,7 @@
     "name": "Gertrud Arndt",
     "years": "1903–2000",
     "group": "Bauhaus / photographie",
-    "bio": "Photographe et designer textile, elle réalise au Bauhaus des autoportraits masqués devenus des jalons de la photographie expérimentale.",
+    "bio": "Photographe et designer textile, elle réalise au Bauhaus des autoportraits masqués devenus des jalons de la photographie expérimentale. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Masquerades",
       "Textiles du Bauhaus"
@@ -11285,8 +11647,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus / photographie et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Gertrud Arndt."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus / photographie et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Gertrud Arndt."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "laszlo-moholy-nagy"
     ]
   },
   {
@@ -11294,7 +11670,7 @@
     "name": "Lucia Moholy",
     "years": "1894–1989",
     "group": "Bauhaus / photographie",
-    "bio": "Photographe et écrivaine, elle documente les bâtiments, les objets et la vie du Bauhaus par des images devenues essentielles à son histoire.",
+    "bio": "Photographe et écrivaine, elle documente les bâtiments, les objets et la vie du Bauhaus par des images devenues essentielles à son histoire. Son parcours s’inscrit dans les recherches du Bauhaus, qui rapprochaient art, artisanat, architecture et production industrielle. L’histoire de l’école est aussi celle d’une pédagogie expérimentale, des tensions entre création individuelle et fonction sociale, puis de sa dispersion sous la pression politique.",
     "works": [
       "Photographies du Bauhaus",
       "A Hundred Years of Photography"
@@ -11305,8 +11681,22 @@
     "sources": [
       {
         "url": "https://www.bauhaus.de/en/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Bauhaus / photographie et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Lucia Moholy."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/bauhaus",
+        "note": "Ressource institutionnelle sur Bauhaus / photographie et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Lucia Moholy."
       }
+    ],
+    "bibliography": [
+      "Magdalena Droste, Bauhaus, 1919–1933, Taschen, 2006.",
+      "Frank Whitford, Bauhaus, Thames & Hudson, 1984.",
+      "Barry Bergdoll et Leah Dickerman (dir.), Bauhaus 1919–1933: Workshops for Modernity, MoMA, 2009."
+    ],
+    "related": [
+      "walter-gropius",
+      "paul-klee",
+      "laszlo-moholy-nagy"
     ]
   },
   {
@@ -11314,7 +11704,7 @@
     "name": "Karel Teige",
     "years": "1900–1951",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Critique, théoricien et graphiste tchèque, il relie le poétisme, le constructivisme et le surréalisme pragois.",
+    "bio": "Critique, théoricien et graphiste tchèque, il relie le poétisme, le constructivisme et le surréalisme pragois. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Collages typographiques",
       "Écrits sur le poétisme"
@@ -11324,9 +11714,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Karel Teige."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Karel Teige."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "toy en",
+      "jindrich-styrsky",
+      "vitezslav-nezval"
     ]
   },
   {
@@ -11334,7 +11738,7 @@
     "name": "Toyen",
     "years": "1902–1980",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Peintre tchèque, figure majeure du surréalisme à Prague puis à Paris, elle développe une imagerie énigmatique.",
+    "bio": "Peintre tchèque, figure majeure du surréalisme à Prague puis à Paris, elle développe une imagerie énigmatique. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Le Tir",
       "La Dormeuse"
@@ -11344,9 +11748,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Toyen."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Toyen."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "jindrich-styrsky",
+      "vitezslav-nezval"
     ]
   },
   {
@@ -11354,7 +11772,7 @@
     "name": "Jindřich Štyrský",
     "years": "1899–1942",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Peintre, photographe et écrivain tchèque, cofondateur du groupe surréaliste de Prague et du mouvement artificiel.",
+    "bio": "Peintre, photographe et écrivain tchèque, cofondateur du groupe surréaliste de Prague et du mouvement artificiel. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Emilie vient à moi en rêve",
       "Collages"
@@ -11364,9 +11782,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jindřich Štyrský."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jindřich Štyrský."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "toy en",
+      "vitezslav-nezval"
     ]
   },
   {
@@ -11374,7 +11806,7 @@
     "name": "Vítězslav Nezval",
     "years": "1900–1958",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Poète tchèque, membre du groupe Devětsil puis animateur du surréalisme pragois.",
+    "bio": "Poète tchèque, membre du groupe Devětsil puis animateur du surréalisme pragois. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Absolutní hrobař",
       "Les Yeux de verre"
@@ -11384,9 +11816,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Vítězslav Nezval."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Vítězslav Nezval."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "toy en",
+      "jindrich-styrsky"
     ]
   },
   {
@@ -11394,7 +11840,7 @@
     "name": "Jindřich Heisler",
     "years": "1914–1953",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Poète et artiste tchèque, il rejoint le groupe surréaliste de Prague et réalise des livres-objets et des photographies expérimentales.",
+    "bio": "Poète et artiste tchèque, il rejoint le groupe surréaliste de Prague et réalise des livres-objets et des photographies expérimentales. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Les Spectres du désert",
       "Poèmes et photographies"
@@ -11404,9 +11850,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jindřich Heisler."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jindřich Heisler."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "toy en",
+      "jindrich-styrsky"
     ]
   },
   {
@@ -11414,7 +11874,7 @@
     "name": "Mikuláš Medek",
     "years": "1926–1974",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Peintre tchèque, son œuvre d’après-guerre mêle surréalisme, matière et images corporelles.",
+    "bio": "Peintre tchèque, son œuvre d’après-guerre mêle surréalisme, matière et images corporelles. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Cycles figuratifs"
     ],
@@ -11423,9 +11883,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Mikuláš Medek."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Mikuláš Medek."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "toy en",
+      "jindrich-styrsky"
     ]
   },
   {
@@ -11433,7 +11907,7 @@
     "name": "Emila Medková",
     "years": "1928–1985",
     "group": "Surréalisme d’Europe centrale",
-    "bio": "Photographe tchèque, elle transforme murs, objets et détails urbains en images surréalistes inquiétantes.",
+    "bio": "Photographe tchèque, elle transforme murs, objets et détails urbains en images surréalistes inquiétantes. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Photographies de murs",
       "Cycles photographiques"
@@ -11443,9 +11917,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Emila Medková."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Emila Medková."
       }
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "toy en",
+      "jindrich-styrsky"
     ]
   },
   {
@@ -11453,7 +11941,7 @@
     "name": "Asger Jorn",
     "years": "1914–1973",
     "group": "CoBrA / art conceptuel",
-    "bio": "Peintre danois, cofondateur de CoBrA et théoricien de l’art expérimental, il participe aussi à l’Internationale situationniste.",
+    "bio": "Peintre danois, cofondateur de CoBrA et théoricien de l’art expérimental, il participe aussi à l’Internationale situationniste. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Stalingrad",
       "Pour la forme"
@@ -11464,8 +11952,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA / art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Asger Jorn."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA / art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Asger Jorn."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "constant-nieuwenhuys",
+      "corneille"
     ]
   },
   {
@@ -11473,7 +11975,7 @@
     "name": "Karel Appel",
     "years": "1921–2006",
     "group": "CoBrA",
-    "bio": "Peintre et sculpteur néerlandais, cofondateur de CoBrA, il défend une création spontanée, colorée et anti-académique.",
+    "bio": "Peintre et sculpteur néerlandais, cofondateur de CoBrA, il défend une création spontanée, colorée et anti-académique. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Enfants interrogateurs",
       "Peintures CoBrA"
@@ -11484,8 +11986,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Karel Appel."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Karel Appel."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "corneille",
+      "pierre-alechinsky",
+      "christian-dotremont"
     ]
   },
   {
@@ -11493,7 +12009,7 @@
     "name": "Constant Nieuwenhuys",
     "years": "1920–2005",
     "group": "CoBrA / situationnisme",
-    "bio": "Artiste néerlandais, membre de CoBrA puis de l’Internationale situationniste, il conçoit New Babylon comme une ville ludique et collective.",
+    "bio": "Artiste néerlandais, membre de CoBrA puis de l’Internationale situationniste, il conçoit New Babylon comme une ville ludique et collective. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "New Babylon",
       "Animaux"
@@ -11504,8 +12020,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA / situationnisme et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Constant Nieuwenhuys."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA / situationnisme et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Constant Nieuwenhuys."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "asger-jorn",
+      "karel-appel",
+      "corneille"
     ]
   },
   {
@@ -11513,7 +12043,7 @@
     "name": "Corneille",
     "years": "1922–2010",
     "group": "CoBrA",
-    "bio": "Peintre néerlandais, cofondateur de CoBrA, il associe couleurs vives, formes spontanées et motifs animaux ou humains.",
+    "bio": "Peintre néerlandais, cofondateur de CoBrA, il associe couleurs vives, formes spontanées et motifs animaux ou humains. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Oiseaux et femmes",
       "Peintures CoBrA"
@@ -11524,8 +12054,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Corneille."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Corneille."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "pierre-alechinsky",
+      "christian-dotremont"
     ]
   },
   {
@@ -11533,7 +12077,7 @@
     "name": "Pierre Alechinsky",
     "years": "1927–",
     "group": "CoBrA",
-    "bio": "Peintre belge, membre de CoBrA, il développe une peinture gestuelle où l’image centrale s’entoure de marges dessinées.",
+    "bio": "Peintre belge, membre de CoBrA, il développe une peinture gestuelle où l’image centrale s’entoure de marges dessinées. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Central Park",
       "Encres et peintures"
@@ -11544,8 +12088,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Pierre Alechinsky."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Pierre Alechinsky."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "corneille",
+      "christian-dotremont"
     ]
   },
   {
@@ -11553,7 +12111,7 @@
     "name": "Christian Dotremont",
     "years": "1922–1979",
     "group": "CoBrA",
-    "bio": "Poète et peintre belge, cofondateur et théoricien de CoBrA, inventeur des logogrammes mêlant écriture et dessin.",
+    "bio": "Poète et peintre belge, cofondateur et théoricien de CoBrA, inventeur des logogrammes mêlant écriture et dessin. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Logogrammes",
       "Le grand rendez-vous"
@@ -11564,8 +12122,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Christian Dotremont."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Christian Dotremont."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "corneille",
+      "pierre-alechinsky"
     ]
   },
   {
@@ -11573,7 +12145,7 @@
     "name": "Joseph Noiret",
     "years": "1927–2012",
     "group": "CoBrA",
-    "bio": "Poète belge, cofondateur de CoBrA et acteur des échanges entre poésie, peinture et expérimentation collective.",
+    "bio": "Poète belge, cofondateur de CoBrA et acteur des échanges entre poésie, peinture et expérimentation collective. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Manifestes CoBrA",
       "Poèmes"
@@ -11584,8 +12156,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Joseph Noiret."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Joseph Noiret."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "corneille",
+      "pierre-alechinsky"
     ]
   },
   {
@@ -11593,7 +12179,7 @@
     "name": "Jørgen Nash",
     "years": "1920–2004",
     "group": "CoBrA / situationnisme",
-    "bio": "Poète et artiste danois, membre de CoBrA puis cofondateur d’une Internationale situationniste dissidente.",
+    "bio": "Poète et artiste danois, membre de CoBrA puis cofondateur d’une Internationale situationniste dissidente. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Poésie visuelle",
       "Actions collectives"
@@ -11604,8 +12190,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA / situationnisme et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jørgen Nash."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA / situationnisme et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jørgen Nash."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "asger-jorn",
+      "karel-appel",
+      "constant-nieuwenhuys"
     ]
   },
   {
@@ -11613,7 +12213,7 @@
     "name": "Henry Heerup",
     "years": "1907–1993",
     "group": "CoBrA",
-    "bio": "Peintre et sculpteur danois proche des réseaux de CoBrA, il travaille à partir de matériaux trouvés et d’un imaginaire populaire.",
+    "bio": "Peintre et sculpteur danois proche des réseaux de CoBrA, il travaille à partir de matériaux trouvés et d’un imaginaire populaire. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Sculptures de rebut",
       "Peintures"
@@ -11624,8 +12224,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Henry Heerup."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Henry Heerup."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "corneille",
+      "pierre-alechinsky"
     ]
   },
   {
@@ -11633,7 +12247,7 @@
     "name": "Carl-Henning Pedersen",
     "years": "1913–2007",
     "group": "CoBrA",
-    "bio": "Peintre danois, membre de CoBrA, il construit un univers mythique peuplé de figures et de créatures imaginaires.",
+    "bio": "Peintre danois, membre de CoBrA, il construit un univers mythique peuplé de figures et de créatures imaginaires. Son œuvre s’inscrit dans l’expérimentation collective de l’après-guerre : spontanéité, formes expressives et dialogue entre poésie et arts visuels y contestent les conventions académiques. Les réseaux de CoBrA furent internationaux et éphémères, mais leur influence s’étend bien au-delà de la durée officielle du groupe.",
     "works": [
       "Peintures CoBrA",
       "Créatures fantastiques"
@@ -11644,8 +12258,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Carl-Henning Pedersen."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle sur CoBrA et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Carl-Henning Pedersen."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "karel-appel",
+      "corneille",
+      "pierre-alechinsky"
     ]
   },
   {
@@ -11653,7 +12281,7 @@
     "name": "Jiří Kolář",
     "years": "1914–2002",
     "group": "Surréalisme d’Europe centrale / art conceptuel",
-    "bio": "Poète et artiste tchèque, il transforme papier, textes et images en collages et expérimentations visuelles.",
+    "bio": "Poète et artiste tchèque, il transforme papier, textes et images en collages et expérimentations visuelles. Son travail prend place dans les réseaux d’avant-garde d’Europe centrale, où poésie, photographie, collage et peinture dialoguent avec le surréalisme international. Les conditions politiques de l’entre-deux-guerres puis de l’après-guerre ont profondément influencé la circulation et la réception de ces œuvres.",
     "works": [
       "Rollages",
       "Collages"
@@ -11663,12 +12291,26 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/surrealism",
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale / art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jiří Kolář."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Surréalisme d’Europe centrale / art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jiří Kolář."
       }
     ],
     "groups": [
       "Art conceptuel"
+    ],
+    "bibliography": [
+      "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
+      "Michael Richardson (dir.), The International Encyclopedia of Surrealism, Bloomsbury, 2019.",
+      "Karel Srp (dir.), Toyen, Prague City Gallery, 2000."
+    ],
+    "related": [
+      "karel-teige",
+      "toy en",
+      "jindrich-styrsky"
     ]
   },
   {
@@ -11676,7 +12318,7 @@
     "name": "Jiří Valoch",
     "years": "1946–",
     "group": "Art conceptuel / ZAJ",
-    "bio": "Poète visuel, artiste conceptuel et théoricien tchèque, il explore texte, langage et formes minimales.",
+    "bio": "Poète visuel, artiste conceptuel et théoricien tchèque, il explore texte, langage et formes minimales. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Poèmes visuels",
       "Textes conceptuels"
@@ -11686,9 +12328,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Art conceptuel / ZAJ et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jiří Valoch."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle sur Art conceptuel / ZAJ et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jiří Valoch."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "petr-stembera",
+      "jiri-kovanda",
+      "stanislav-kolibal"
     ]
   },
   {
@@ -11696,7 +12352,7 @@
     "name": "Petr Štembera",
     "years": "1945–",
     "group": "Art conceptuel",
-    "bio": "Artiste tchèque, figure de l’art corporel et conceptuel, il réalise des actions mettant le corps à l’épreuve.",
+    "bio": "Artiste tchèque, figure de l’art corporel et conceptuel, il réalise des actions mettant le corps à l’épreuve. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Grafting",
       "Actions corporelles"
@@ -11706,9 +12362,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Petr Štembera."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Petr Štembera."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-kovanda",
+      "stanislav-kolibal",
+      "joseph-kosuth"
     ]
   },
   {
@@ -11716,7 +12386,7 @@
     "name": "Jiří Kovanda",
     "years": "1953–",
     "group": "Art conceptuel",
-    "bio": "Artiste tchèque, connu pour ses actions discrètes dans l’espace public qui perturbent subtilement les habitudes sociales.",
+    "bio": "Artiste tchèque, connu pour ses actions discrètes dans l’espace public qui perturbent subtilement les habitudes sociales. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Actions de Prague",
       "Interventions publiques"
@@ -11726,9 +12396,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jiří Kovanda."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Jiří Kovanda."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "petr-stembera",
+      "stanislav-kolibal",
+      "joseph-kosuth"
     ]
   },
   {
@@ -11736,7 +12420,7 @@
     "name": "Stanislav Kolíbal",
     "years": "1925–",
     "group": "Art conceptuel",
-    "bio": "Sculpteur et artiste tchèque, il développe des structures minimales et des dessins où l’incertitude et l’équilibre deviennent sujets.",
+    "bio": "Sculpteur et artiste tchèque, il développe des structures minimales et des dessins où l’incertitude et l’équilibre deviennent sujets. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Structures",
       "Dessins"
@@ -11746,9 +12430,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Stanislav Kolíbal."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Art conceptuel et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Stanislav Kolíbal."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "petr-stembera",
+      "jiri-kovanda",
+      "joseph-kosuth"
     ]
   },
   {
@@ -11756,7 +12454,7 @@
     "name": "Milan Adamčiak",
     "years": "1946–2017",
     "group": "Art conceptuel / musique expérimentale",
-    "bio": "Compositeur, artiste visuel et musicologue slovaque, il crée partitions graphiques, objets sonores et performances expérimentales.",
+    "bio": "Compositeur, artiste visuel et musicologue slovaque, il crée partitions graphiques, objets sonores et performances expérimentales. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Partitions graphiques",
       "Œuvres sonores"
@@ -11766,9 +12464,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Art conceptuel / musique expérimentale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Milan Adamčiak."
+      },
+      {
         "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle sur Art conceptuel / musique expérimentale et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Milan Adamčiak."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -11776,7 +12488,7 @@
     "name": "Peter Weibel",
     "years": "1944–2023",
     "group": "Art conceptuel / art vidéo",
-    "bio": "Artiste, théoricien et commissaire autrichien, il travaille sur la vidéo, les médias et les rapports entre langage et technologie.",
+    "bio": "Artiste, théoricien et commissaire autrichien, il travaille sur la vidéo, les médias et les rapports entre langage et technologie. Son travail doit être replacé dans les réseaux d’art expérimental qui ont remis en cause la séparation entre œuvre, action, langage et vie quotidienne. Les archives de ces pratiques sont parfois dispersées ; les catalogues institutionnels et les études de mouvement constituent donc des points d’entrée à compléter par des notices d’œuvres précises.",
     "works": [
       "Teleaktionen",
       "The Endless Sandwich"
@@ -11786,9 +12498,23 @@
     "role_label": "Art vidéo",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle sur Art conceptuel / art vidéo et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Peter Weibel."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle sur Art conceptuel / art vidéo et son contexte artistique ; point d’entrée documentaire à compléter par une notice d’œuvre ou un catalogue consacré à Peter Weibel."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "bruce-nauman",
+      "martha-rosler",
+      "dan-graham"
     ]
   },
   {
