@@ -7902,8 +7902,8 @@
     ],
     "related": [
       "yoko-ono",
-      "yvonne-rainer",
-      "steve-paxton"
+      "john-cage",
+      "bob-cobbing"
     ]
   },
   {
@@ -7987,7 +7987,7 @@
     "works": [
       "The New Art of Making Books (1975)",
       "Other Books and So (espace et archive, Amsterdam, 1975-1979)",
-      "Gossip, Scandal and Good Manners (197 gossip/performance, 1981)",
+      "Gossip, Scandal and Good Manners (performance et conférence, 1981)",
       "Sonnet(s) (1972)",
       "The Poet’s Tongue (1977)",
       "De German in Mexico (1972)"
@@ -8016,8 +8016,8 @@
     ],
     "related": [
       "dick-higgins",
-      "ray-johnson",
-      "ed-ruscha"
+      "schwitters",
+      "john-cage"
     ]
   },
   {
@@ -8053,8 +8053,8 @@
     ],
     "related": [
       "henri-chopin",
-      "ernst-jandl",
-      "kurt-schwitters"
+      "bob-cobbing",
+      "schwitters"
     ]
   },
   {
@@ -8224,7 +8224,7 @@
     "bio": "Né à Dijon en 1913, Luc Dietrich, de son nom civil Raoul Jacques Dietrich, connaît une jeunesse précaire et une formation intellectuelle largement autodidacte. Il rencontre Lanza del Vasto, qui devient son ami et interlocuteur décisif ; leur relation nourrit une réflexion sur l’apprentissage de soi, la pauvreté et la présence au monde. Écrivain, photographe et dessinateur, Dietrich publie L’Apprentissage de la ville, récit autobiographique où l’observation concrète et la quête d’une éducation intérieure se mêlent. Son écriture, proche par certains aspects du récit d’apprentissage, conserve une singularité poétique et méditative. Il meurt à Paris en août 1944, dans les derniers mois de l’Occupation. Plusieurs textes et documents ont été publiés après sa mort.",
     "works": [
       "Le Bonheur des tristes (1935)",
-      "L’Apprentissage de la ville (1942 ; édition posthume 1945)",
+      "L’Apprentissage de la ville (édition posthume, 1945)",
       "Dialogue de l’amitié (avec Lanza del Vasto, édition posthume)",
       "Poèmes et photographies, publications posthumes"
     ],
@@ -8239,15 +8239,15 @@
     "role_label": "Écriture",
     "bibliography": [
       "Le Bonheur des tristes, Denoël, 1935.",
-      "L’Apprentissage de la ville, Denoël, 1942 ; publication posthume en volume en 1945.",
+      "L’Apprentissage de la ville, Denoël, 1945 (publication posthume).",
       "Dialogue de l’amitié, avec Lanza del Vasto, Gallimard, édition posthume.",
       "Luc Dietrich : cahier onze, sous la direction de Frédéric Richaud, 1998.",
       "Raymond Cousse et Jean-Luc Bitton, La Vie comme une ombre : biographie de Luc Dietrich, Le Castor Astral."
     ],
     "related": [
-      "lanza-del-vasto",
       "emil-cioran",
-      "albert-caraco"
+      "albert-caraco",
+      "emmanuel-bove"
     ]
   },
   {
@@ -8371,9 +8371,9 @@
       "Œuvres complètes, édition critique publiée chez Les Belles Lettres / Hachette BnF selon les volumes."
     ],
     "related": [
-      "alfred-jarry",
-      "jorge-luis-borges",
-      "emmanuel-bove"
+      "jarry",
+      "borges",
+      "kafka"
     ]
   },
   {
@@ -8406,9 +8406,9 @@
       }
     ],
     "related": [
-      "fiodor-dostoievski",
-      "ivan-tourgueniev",
-      "nikolai-gogol"
+      "marcel-schwob",
+      "emmanuel-bove",
+      "cesare-pavese"
     ]
   },
   {
@@ -8449,9 +8449,9 @@
       "Great Demon Kings: A Memoir of Poetry, Sex, Art, Death, and Enlightenment, Farrar, Straus and Giroux, 2020."
     ],
     "related": [
-      "william-s-burroughs",
-      "andy-warhol",
-      "allen-ginsberg"
+      "burroughs",
+      "ginsberg",
+      "yoko-ono"
     ]
   },
   {
@@ -8560,8 +8560,12 @@
     ],
     "sources": [
       {
-        "url": "https://www.nobelprize.org/",
-        "note": "Portail Nobel utilisé comme point d’accès documentaire ; Pavese n’a pas reçu le prix Nobel. Pour les œuvres et archives, privilégier les éditions Einaudi et les catalogues bibliographiques."
+        "url": "https://www.treccani.it/enciclopedia/cesare-pavese_%28Dizionario-Biografico%29/?search=PAVESE%2C+Cesare%2F",
+        "note": "Roberto Gigliucci, Dizionario Biografico degli Italiani, Treccani, 2014 : biographie de référence."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb34869772h",
+        "note": "Notice bibliographique BnF de La Lune et les feux, avec auteur, traduction et édition française."
       }
     ],
     "related": [
@@ -8643,9 +8647,9 @@
       }
     ],
     "related": [
-      "franz-marc",
       "paul-klee",
-      "alexej-jawlensky"
+      "kazimir-malevich",
+      "el-lissitzky"
     ]
   },
   {
@@ -8992,7 +8996,7 @@
       }
     ],
     "related": [
-      "alexei-kruchenykh",
+      "aleksei-kruchenykh",
       "kazimir-malevich",
       "natalia-goncharova"
     ]
