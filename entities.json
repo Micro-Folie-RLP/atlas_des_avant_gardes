@@ -9044,70 +9044,175 @@
     "name": "Nadejda Oudaltsova",
     "years": "1886–1961",
     "group": "Cubofuturisme",
-    "bio": "Peintre, elle participe aux recherches cubistes et futuristes de l’avant-garde moscovite.",
+    "bio": "Peintre russe, Nadejda Oudaltsova se forme à Moscou puis séjourne à Paris en 1912-1913, où elle étudie de près le cubisme avec Lioubov Popova. De retour en Russie, elle participe aux expositions du Valet de carreau et aux recherches cubo-futuristes, avant de rejoindre les expériences suprématistes puis de développer une peinture plus personnelle. Après les bouleversements révolutionnaires, elle enseigne et travaille dans les institutions artistiques soviétiques. Les contraintes idéologiques des années 1930 réduisent progressivement sa visibilité, mais elle poursuit sa pratique jusqu'à la fin de sa vie.",
     "works": [
-      "Composition cubiste",
-      "Intérieur d’atelier"
+      "Autoportrait (1915)",
+      "Cuisine (1915)",
+      "Peintures cubo-futuristes et compositions des années 1910"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Nadezhda Udaltsova, catalogues et essais rétrospectifs consacrés à l'avant-garde russe.",
+      "State Tretyakov Gallery, collections et notices consacrées à Nadezhda Udaltsova.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, éditions révisées."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tretyakovgallery.ru/",
+        "note": "Galerie Tretiakov : collections et ressources sur l’avant-garde russe."
+      },
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : collections et notices d’art moderne russe."
+      }
+    ],
+    "related": [
+      "varvara-stepanova",
+      "kazimir-malevich"
+    ]
   },
   {
     "id": "pavel-filonov",
     "name": "Pavel Filonov",
     "years": "1883–1941",
     "group": "Art analytique",
-    "bio": "Peintre et théoricien, fondateur d’une méthode analytique minutieuse, singulière au sein de l’avant-garde russe.",
+    "bio": "Pavel Filonov est un peintre et théoricien russe qui élabore dès les années 1910 une méthode qu'il nomme « art analytique ». Plutôt que de simplifier les formes, il construit ses images par une accumulation minutieuse de cellules, de détails et de relations internes, comme si chaque partie devait contenir le tout. Il participe aux débats de l'avant-garde et publie en 1914 le Manifeste du « fait accompli » artistique. Après la révolution, il défend une pratique collective et enseigne, mais son indépendance esthétique le marginalise. Il meurt pendant le siège de Leningrad en 1941.",
     "works": [
-      "La Formule du prolétariat de Petrograd",
-      "Visages"
+      "La Fête des rois (1913)",
+      "Formule du printemps (1915)",
+      "Les Premières Fleurs de la floraison mondiale (1915)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Pavel Filonov, The Manifesto of Analytical Art, 1914, traductions et éditions documentaires.",
+      "Pavel Filonov, catalogues de collections du Musée russe de Saint-Pétersbourg.",
+      "John E. Bowlt, Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson."
+    ],
+    "sources": [
+      {
+        "url": "https://rusmuseum.ru/",
+        "note": "Musée russe : collections et documentation sur Filonov."
+      },
+      {
+        "url": "https://www.tate.org.uk/art",
+        "note": "Tate : ressources sur l’art moderne et les avant-gardes."
+      }
+    ],
+    "related": [
+      "kazimir-malevich",
+      "mikhail-matiushin",
+      "natalia-goncharova"
+    ]
   },
   {
     "id": "david-burliuk",
     "name": "David Bourliouk",
     "years": "1882–1967",
     "group": "Cubo-futurisme",
-    "bio": "Poète et peintre, promoteur du futurisme russe et membre du groupe Hylaea.",
+    "bio": "David Bourliouk, peintre, poète et organisateur, est l'une des figures fondatrices du futurisme russe. Né dans l'Empire russe, il fédère au début des années 1910 des artistes et écrivains qui contestent les normes littéraires et picturales héritées. Il participe à la publication de manifestes provocateurs, notamment Une gifle au goût public en 1912, avec Maïakovski, Khlebnikov et Kroutchonykh. Après la révolution, il quitte la Russie, passe par le Japon et s'établit aux États-Unis, où il poursuit une activité de peintre, éditeur et promoteur des avant-gardes.",
     "works": [
-      "Une gifle au goût public",
-      "Tableaux cubo-futuristes"
+      "Une gifle au goût public (manifeste collectif, 1912)",
+      "Peintures cubo-futuristes des années 1910",
+      "Poèmes et publications édités dans les réseaux futuristes"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "David Burliuk, catalogues et études sur le futurisme russe et l’émigration artistique.",
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : collections et ressources sur le futurisme russe."
+      },
+      {
+        "url": "https://www.getty.edu/research/",
+        "note": "Getty Research Institute : catalogues et archives d’histoire de l’art."
+      }
+    ],
+    "related": [
+      "vladimir-mayakovsky",
+      "velimir-khlebnikov",
+      "aleksei-kruchenykh"
+    ]
   },
   {
     "id": "vladimir-mayakovsky",
     "name": "Vladimir Maïakovski",
     "years": "1893–1930",
     "group": "Futurisme russe",
-    "bio": "Poète et dramaturge, voix majeure du futurisme russe, il expérimente la langue et la typographie.",
+    "bio": "Poète et dramaturge, Vladimir Maïakovski devient l'une des voix majeures du futurisme russe. Il contribue aux manifestes qui rompent avec la poésie symboliste, notamment Une gifle au goût public (1912), et donne à ses vers une énergie orale, typographique et politique. Après 1917, il met son talent au service de la révolution dans des poèmes, pièces et affiches réalisées avec ROSTA, tout en conservant une posture provocatrice. Ses relations difficiles avec les institutions soviétiques et sa crise personnelle culminent dans sa mort en 1930. Son œuvre reste centrale pour comprendre l'alliance, puis les tensions, entre avant-garde et pouvoir.",
     "works": [
-      "Une gifle au goût public",
-      "Le Nuage en pantalon"
+      "Un nuage en pantalon (1915)",
+      "La Flûte des vertèbres (1916)",
+      "Mystère-bouffe (1918)",
+      "À pleine voix (1930)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Vladimir Maïakovski, Poèmes, traductions françaises diverses, notamment aux éditions du Seuil et de Gallimard.",
+      "Vladimir Maïakovski, Une gifle au goût public, manifeste collectif, 1912.",
+      "Bengt Jangfeldt, Mayakovsky: A Biography, University of Chicago Press, 2014."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Vladimir-Mayakovsky",
+        "note": "Encyclopaedia Britannica : biographie et œuvre."
+      },
+      {
+        "url": "https://www.tretyakovgallery.ru/",
+        "note": "Galerie Tretiakov : œuvres et contexte de l’avant-garde russe."
+      }
+    ],
+    "related": [
+      "velimir-khlebnikov",
+      "aleksei-kruchenykh",
+      "david-burliuk"
+    ]
   },
   {
     "id": "velimir-khlebnikov",
     "name": "Vélémir Khlebnikov",
     "years": "1885–1922",
     "group": "Futurisme russe",
-    "bio": "Poète expérimental, il invente des jeux sonores et lexicaux et cherche une langue poétique nouvelle.",
+    "bio": "Vélémir Khlebnikov, poète et théoricien, cherche à refonder la langue poétique en explorant les racines des mots, les sonorités et des systèmes de correspondances qu'il imagine universels. Figure du futurisme russe, il participe aux publications collectives des années 1910 et contribue à l'invention du zaoum, langage transmental qui déborde la signification ordinaire. Son œuvre mêle expérimentations verbales, mythes, mathématiques et visions historiques. Souvent itinérant et matériellement précaire, il exerce une influence considérable sur les poètes et artistes d'avant-garde malgré une reconnaissance limitée de son vivant.",
     "works": [
-      "Zanguezi",
-      "La Création verbale"
+      "Zangezi (1922)",
+      "Une gifle au goût public (manifeste collectif, 1912)",
+      "Poèmes et textes zaoum des années 1910"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Velimir Khlebnikov, Œuvres, éditions et traductions françaises à consulter selon les textes.",
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Charlotte Douglas (dir.), Velimir Khlebnikov: A Handbook, études et bibliographies spécialisées."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Velimir-Khlebnikov",
+        "note": "Encyclopaedia Britannica : repères biographiques."
+      },
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : ressources sur les livres et imprimés d’avant-garde."
+      }
+    ],
+    "related": [
+      "vladimir-mayakovsky",
+      "aleksei-kruchenykh",
+      "david-burliuk"
+    ]
   },
   {
     "id": "aleksei-kruchenykh",
@@ -9165,338 +9270,841 @@
     "name": "Mikhaïl Matiouchine",
     "years": "1861–1934",
     "group": "Futurisme russe",
-    "bio": "Compositeur, peintre et théoricien, il collabore aux expériences interdisciplinaires de l’avant-garde russe.",
+    "bio": "Mikhaïl Matiouchine est peintre, musicien, compositeur et théoricien de la perception, associé au futurisme russe et au cercle de Gileia. Avec sa compagne Elena Guro et des collaborateurs comme Kroutchonykh et Khlebnikov, il contribue aux livres expérimentaux qui renouvellent la poésie et l'image. Il compose la musique de l'opéra futuriste Victoire sur le soleil (1913), sur un livret de Kroutchonykh, avec décors de Kazimir Malevitch. Après la révolution, il enseigne et développe des recherches sur l'extension de la perception visuelle et auditive, notamment dans le groupe Zorved.",
     "works": [
-      "Victoire sur le soleil",
-      "Guides de perception élargie"
+      "Victoire sur le soleil (opéra, 1913)",
+      "Manuels et recherches sur la perception élargie",
+      "Livres futuristes illustrés des années 1910"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Viktor Shklovsky et collaborateurs, Victory over the Sun, éditions documentaires de l’opéra de 1913.",
+      "John E. Bowlt, Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson.",
+      "Catalogues du Musée russe et études sur Mikhaïl Matiouchine et Elena Guro."
+    ],
+    "sources": [
+      {
+        "url": "https://rusmuseum.ru/",
+        "note": "Musée russe : ressources sur l’avant-garde de Saint-Pétersbourg."
+      },
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : imprimés et œuvres des avant-gardes russes."
+      }
+    ],
+    "related": [
+      "kazimir-malevich",
+      "aleksei-kruchenykh",
+      "nikolai-kulbin"
+    ]
   },
   {
     "id": "nikolai-kulbin",
     "name": "Nikolaï Koulbine",
     "years": "1868–1917",
     "group": "Avant-garde russe",
-    "bio": "Médecin, peintre et théoricien, il soutient les expérimentations artistiques et musicales à Saint-Pétersbourg.",
+    "bio": "Nikolaï Koulbine, médecin, peintre, théoricien et mécène, joue un rôle de passeur dans les premières avant-gardes russes. Installé à Saint-Pétersbourg, il organise des expositions et des rencontres qui rapprochent arts visuels, musique, poésie et sciences. Ses recherches sur la couleur et l'art libre participent à l'environnement intellectuel dans lequel émergent le futurisme et les expérimentations transdisciplinaires. Il soutient de jeunes artistes et contribue à des publications collectives, sans se confondre avec une seule école. Son importance tient autant à son travail théorique qu'à son rôle d'organisateur.",
     "works": [
-      "Impromptus graphiques",
-      "Écrits sur l’art libre"
+      "Art libre (essais et conférences, années 1910)",
+      "Écrits sur la couleur et la synthèse des arts",
+      "Participation aux expositions d’avant-garde de Saint-Pétersbourg"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "John E. Bowlt, Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson.",
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Études historiques sur les premières expositions futuristes de Saint-Pétersbourg."
+    ],
+    "sources": [
+      {
+        "url": "https://rusmuseum.ru/",
+        "note": "Musée russe : histoire de l’avant-garde russe."
+      },
+      {
+        "url": "https://www.getty.edu/research/",
+        "note": "Getty Research Institute : ressources bibliographiques d’histoire de l’art."
+      }
+    ],
+    "related": [
+      "mikhail-matiushin",
+      "aleksei-kruchenykh",
+      "david-burliuk"
+    ]
   },
   {
     "id": "ivan-puni",
     "name": "Ivan Pouni",
     "years": "1892–1956",
     "group": "Cubo-futurisme",
-    "bio": "Peintre et organisateur d’expositions, il participe aux expérimentations cubo-futuristes avant son exil.",
+    "bio": "Ivan Pouni, peintre d'origine russe, participe aux expérimentations cubo-futuristes et suprématistes avant de poursuivre sa carrière en Europe occidentale. Avec son épouse Ksénia Bogouslavskaïa, il organise à Petrograd en 1915 l'exposition Tramway V, importante pour les échanges entre cubisme, futurisme et abstraction. Il participe ensuite à la promotion de l'art non objectif et aux réseaux constructivistes. Émigré en 1920, il s'installe à Berlin puis à Paris, où il adopte le nom de Jean Pougny et développe une peinture plus figurative, tout en gardant l'héritage formel de l'avant-garde.",
     "works": [
-      "0,10",
-      "Compositions suprématistes"
+      "Exposition Tramway V (organisation, 1915)",
+      "Compositions cubo-futuristes et suprématistes (années 1910)",
+      "Peintures parisiennes sous le nom de Jean Pougny"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Jean Pougny, catalogues d’exposition et études sur son parcours russe et parisien.",
+      "John E. Bowlt, Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson.",
+      "Musée national d’art moderne, notices et catalogues consacrés à Jean Pougny."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Centre Pompidou : collections et notices de Jean Pougny."
+      },
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : collections sur le cubo-futurisme et le suprématisme."
+      }
+    ],
+    "related": [
+      "kazimir-malevich",
+      "nadezhda-udaltsova"
+    ]
   },
   {
     "id": "gustav-klutsis",
     "name": "Gustav Klutsis",
     "years": "1895–1938",
     "group": "Constructivisme",
-    "bio": "Artiste letton-soviétique, pionnier du photomontage politique et du design constructiviste.",
+    "bio": "Gustav Klutsis, artiste letton formé à Riga puis à Moscou, devient l'un des grands inventeurs du photomontage constructiviste. Il conçoit des dispositifs visuels associant photographie, typographie, géométrie et slogans, notamment pour les affiches politiques et les publications soviétiques. Avec Valentina Kulagina, sa compagne et collaboratrice, il participe à la transformation de l'art graphique en outil de communication de masse. Son travail, d'abord expérimental, est progressivement absorbé par la propagande stalinienne. Arrêté pendant les purges, il est exécuté en 1938, puis réhabilité à titre posthume.",
     "works": [
-      "Affiches photomontées",
-      "Agitation visuelle"
+      "Dynamique de la ville (photomontages des années 1920)",
+      "Affiches et photomontages politiques, années 1930",
+      "Projets de tribunes et kiosques de propagande"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Gustav Klutsis, catalogues rétrospectifs consacrés au photomontage constructiviste.",
+      "Erik B. Chandra, études sur Gustav Klutsis et la propagande visuelle soviétique.",
+      "Maria Gough, The Artist as Producer: Russian Constructivism in Revolution, University of California Press, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/",
+        "note": "MoMA : ressources sur le constructivisme et le photomontage."
+      },
+      {
+        "url": "https://www.tate.org.uk/art",
+        "note": "Tate : repères sur l’avant-garde russe et le design soviétique."
+      }
+    ],
+    "related": [
+      "varvara-stepanova",
+      "alexander-vesnin",
+      "moisei-ginzburg"
+    ]
   },
   {
     "id": "vera-ermolaeva",
     "name": "Vera Ermolaïeva",
     "years": "1893–1937",
     "group": "Avant-garde russe",
-    "bio": "Peintre, illustratrice et éditrice, elle soutient les livres expérimentaux et les artistes d’avant-garde.",
+    "bio": "Vera Ermolaïeva est peintre, illustratrice et éditrice, active dans les réseaux de l'avant-garde russe. Elle dirige à Petrograd la coopérative artistique Segodnia, qui produit des livres illustrés, et participe à la vie de l'Institut de culture artistique. Son travail relie abstraction, illustration et pédagogie, avec une attention particulière aux formes simplifiées et à la diffusion de l'art auprès d'un public élargi. Comme plusieurs artistes indépendants de sa génération, elle est prise dans la répression stalinienne : arrêtée, elle est envoyée au Goulag et meurt en 1937. Sa contribution à l'édition expérimentale est aujourd'hui mieux reconnue.",
     "works": [
-      "Livres illustrés pour enfants",
-      "Éditions de Segodnia"
+      "Livres illustrés de la coopérative Segodnia",
+      "Illustrations et gravures pour l’édition d’avant-garde",
+      "Œuvres graphiques et pédagogiques des années 1920"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Catalogues et études sur Vera Ermolaeva et les livres d’avant-garde russes.",
+      "MoMA, publications et collections sur les livres illustrés de l’avant-garde russe.",
+      "John E. Bowlt, Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : livres illustrés et graphisme d’avant-garde."
+      },
+      {
+        "url": "https://rusmuseum.ru/",
+        "note": "Musée russe : collections et ressources sur l’avant-garde russe."
+      }
+    ],
+    "related": [
+      "varvara-stepanova",
+      "nadezhda-udaltsova"
+    ]
   },
   {
     "id": "alexander-vesnin",
     "name": "Alexandre Vesnine",
     "years": "1883–1959",
     "group": "Constructivisme",
-    "bio": "Architecte et scénographe, il participe à la transformation constructiviste du théâtre et de l’architecture.",
+    "bio": "Alexandre Vesnine, architecte, scénographe et peintre, est une figure centrale du constructivisme soviétique. Avec ses frères Leonid et Viktor, il développe une architecture attentive à la fonction, à la structure et aux nouveaux usages collectifs. Ses projets pour le Palais du Travail à Moscou, conçus avec ses frères au début des années 1920, incarnent l'ambition de créer une architecture moderne adaptée à une société transformée. Il participe également au théâtre d'avant-garde et à l'enseignement, reliant scénographie, design et architecture. Son œuvre illustre la collaboration entre artistes et ingénieurs caractéristique du constructivisme.",
     "works": [
-      "Projet pour le Palais du Travail",
-      "Décors de théâtre"
+      "Projet du Palais du Travail, Moscou (1922-1923)",
+      "Décors pour le théâtre constructiviste",
+      "Projets architecturaux et graphiques des années 1920"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Khan-Magomedov, Selim O., Pioneers of Soviet Architecture: The Search for New Solutions in the 1920s and 1930s, Rizzoli, 1987.",
+      "Maria Gough, The Artist as Producer: Russian Constructivism in Revolution, University of California Press, 2005.",
+      "Catalogues d’exposition sur les frères Vesnine et l’architecture constructiviste."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : architecture et design constructivistes."
+      },
+      {
+        "url": "https://www.tate.org.uk/art",
+        "note": "Tate : ressources sur le constructivisme russe."
+      }
+    ],
+    "related": [
+      "moisei-ginzburg",
+      "gustav-klutsis",
+      "varvara-stepanova"
+    ]
   },
   {
     "id": "moisei-ginzburg",
     "name": "Moïsseï Guinzbourg",
     "years": "1892–1946",
     "group": "Constructivisme",
-    "bio": "Architecte théoricien, acteur majeur du constructivisme architectural et du logement collectif moderne.",
+    "bio": "Moïsseï Guinzbourg est un architecte et théoricien soviétique majeur, associé au constructivisme et au groupe OSA, fondé en 1925. Il cherche à concevoir des formes architecturales répondant aux transformations des modes de vie, au logement collectif et aux nouveaux programmes sociaux. Son ouvrage Style et époque (1924) analyse les rapports entre architecture, technique et société moderne. Le bâtiment Narkomfin, conçu avec Ignaty Milinis à Moscou et achevé en 1930, est devenu une référence internationale de l'habitat collectif expérimental. L'évolution politique soviétique freine ensuite les recherches radicales de son groupe.",
     "works": [
-      "Immeuble Narkomfin",
-      "Le Style et l’époque"
+      "Style et époque (1924)",
+      "Immeuble Narkomfin, Moscou (1928-1930, avec Ignaty Milinis)",
+      "Projets d’habitat collectif et recherches du groupe OSA"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Moisei Ginzburg, Style and Epoch, 1924, traductions et éditions critiques.",
+      "Selim O. Khan-Magomedov, Pioneers of Soviet Architecture, Rizzoli, 1987.",
+      "Anna Bokov, avant-gardes et pédagogies architecturales soviétiques, études et catalogues."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : architecture moderne et constructivisme."
+      },
+      {
+        "url": "https://www.archdaily.com/",
+        "note": "ArchDaily : dossiers documentaires sur le Narkomfin et l’architecture soviétique."
+      }
+    ],
+    "related": [
+      "alexander-vesnin",
+      "gustav-klutsis",
+      "varvara-stepanova"
+    ]
   },
   {
     "id": "filippo-tommaso-marinetti",
     "name": "Filippo Tommaso Marinetti",
     "years": "1876–1944",
     "group": "Futurisme italien",
-    "bio": "Poète et fondateur du futurisme italien, il proclame la rupture avec les traditions dans son manifeste de 1909.",
+    "bio": "Filippo Tommaso Marinetti, poète et organisateur culturel, fonde le futurisme en publiant son manifeste dans Le Figaro en février 1909. Il appelle à rompre avec le culte du passé et à célébrer vitesse, machine, ville moderne et énergie agressive. Il développe les « mots en liberté », où typographie, bruit et disposition sur la page deviennent des moyens expressifs. Son activité s'étend au théâtre, à la performance et aux manifestes sur la peinture, la musique et la littérature. Son engagement dans le fascisme italien demeure une dimension essentielle et problématique de son parcours.",
     "works": [
-      "Manifeste du futurisme",
-      "Zang Tumb Tumb"
+      "Manifeste du futurisme (1909)",
+      "Zang Tumb Tuuum (1914)",
+      "Les Mots en liberté futuristes (1919)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "F. T. Marinetti, Le Futurisme, manifestes et textes choisis, éditions françaises diverses.",
+      "F. T. Marinetti, Zang Tumb Tuuum, 1914.",
+      "Günter Berghaus, Futurism and Politics: Between Anarchist Rebellion and Fascist Reaction, 1909–1944, Berghahn, 1996."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : synthèse sur le futurisme et ses manifestes."
+      },
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : contexte historique et artistique du futurisme."
+      }
+    ],
+    "related": [
+      "umberto-boccioni",
+      "giacomo-balla",
+      "francesco-balilla-pratella"
+    ]
   },
   {
     "id": "umberto-boccioni",
     "name": "Umberto Boccioni",
     "years": "1882–1916",
     "group": "Futurisme italien",
-    "bio": "Peintre et sculpteur, il traduit le mouvement et la modernité industrielle dans un langage dynamique.",
+    "bio": "Umberto Boccioni est peintre et sculpteur, l'un des principaux théoriciens du futurisme italien. Après une formation marquée par le divisionnisme, il rejoint le groupe de Marinetti et signe en 1910 le Manifeste des peintres futuristes. Il cherche à représenter le mouvement non comme une simple succession d'images, mais comme une force qui traverse les corps et leur environnement. Ses sculptures expérimentales et son manifeste technique de la sculpture (1912) renouvellent la conception de l'espace plastique. Mobilisé pendant la Première Guerre mondiale, il meurt accidentellement en 1916, à trente-trois ans.",
     "works": [
-      "La Ville qui monte",
-      "Formes uniques de la continuité dans l’espace"
+      "La Ville qui monte (1910)",
+      "États d’âme (1911)",
+      "Formes uniques de la continuité dans l’espace (1913)",
+      "Manifeste technique de la sculpture futuriste (1912)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Umberto Boccioni, Pittura, scultura futuriste (Dinamismo plastico), 1914.",
+      "Ester Coen, études et catalogues sur Boccioni et le futurisme italien.",
+      "Catalogues du Museo del Novecento et du MoMA consacrés à Boccioni."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : mouvement futuriste et œuvres de Boccioni."
+      },
+      {
+        "url": "https://collezionedarte.bancaditalia.it/en/web/guest/-/il-futurismo-1",
+        "note": "Banca d’Italia : histoire et artistes du futurisme."
+      }
+    ],
+    "related": [
+      "filippo-tommaso-marinetti",
+      "carlo-carra",
+      "gino-severini"
+    ]
   },
   {
     "id": "carlo-carra",
     "name": "Carlo Carrà",
     "years": "1881–1966",
     "group": "Futurisme italien",
-    "bio": "Peintre, signataire des manifestes futuristes, il explore le dynamisme avant de se tourner vers la peinture métaphysique.",
+    "bio": "Carlo Carrà passe de la peinture divisionniste au futurisme, qu'il rejoint au début des années 1910. Il signe les manifestes de 1910 et réalise des compositions où la fragmentation des formes cherche à traduire le mouvement et la foule moderne. Les Funérailles de l'anarchiste Galli témoignent de cette énergie politique et visuelle. Après sa rencontre avec le cubisme, il s'éloigne du futurisme et participe à la peinture métaphysique avec Giorgio de Chirico, avant de s'orienter vers une figuration plus classique. Son itinéraire montre les divisions internes et les évolutions rapides des avant-gardes italiennes.",
     "works": [
-      "Les Funérailles de l’anarchiste Galli",
-      "Manifestes des peintres futuristes"
+      "Les Funérailles de l’anarchiste Galli (1910-1911)",
+      "La Galerie de Milan (1912)",
+      "Peintures métaphysiques des années 1910"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Carlo Carrà, La pittura metafisica, 1919.",
+      "Catalogues du Museo del Novecento consacrés à Carlo Carrà.",
+      "Ester Coen, études sur le futurisme italien et ses transformations."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : futurisme et œuvres de Carrà."
+      },
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : artistes, manifestes et évolutions du futurisme."
+      }
+    ],
+    "related": [
+      "umberto-boccioni",
+      "gino-severini",
+      "giacomo-balla"
+    ]
   },
   {
     "id": "gino-severini",
     "name": "Gino Severini",
     "years": "1883–1966",
     "group": "Futurisme italien",
-    "bio": "Peintre italien installé à Paris, il associe les recherches futuristes aux influences cubistes.",
+    "bio": "Gino Severini, peintre italien installé à Paris dès 1906, joue un rôle de médiateur entre le futurisme et les milieux cubistes français. Il signe les manifestes futuristes de 1910 et développe une peinture rythmique, attentive à la danse, aux cafés-concerts et à la fragmentation du mouvement. Ses tableaux associent dynamisme futuriste et recherche structurale, puis évoluent vers des formes plus classiques après la Première Guerre mondiale. Sa trajectoire, entre Milan, Paris et Rome, souligne le caractère transnational des avant-gardes du début du XXe siècle.",
     "works": [
-      "Danse du Pan-Pan au Monico",
-      "Train blindé en action"
+      "La Danse du Pan-Pan au Monico (1909-1911)",
+      "Train blindé en action (1915)",
+      "Mémoires d’un peintre (1946)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Gino Severini, La Vie d’un peintre, autobiographie, 1946.",
+      "Catalogues d’exposition consacrés à Severini et au futurisme italien.",
+      "MoMA, notices de collection sur Train blindé en action et le futurisme."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : futurisme et œuvres de Severini."
+      },
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : contexte et histoire du futurisme italien."
+      }
+    ],
+    "related": [
+      "umberto-boccioni",
+      "carlo-carra",
+      "giacomo-balla"
+    ]
   },
   {
     "id": "giacomo-balla",
     "name": "Giacomo Balla",
     "years": "1871–1958",
     "group": "Futurisme italien",
-    "bio": "Peintre et sculpteur, il explore la vitesse, la lumière et le mouvement avant de concevoir des objets et des vêtements futuristes.",
+    "bio": "Giacomo Balla, peintre italien formé au divisionnisme, devient l'un des pionniers du futurisme. Il expérimente la décomposition du mouvement, la lumière et la vitesse, notamment dans ses études de passants, d'automobiles et d'animaux en déplacement. Avec Fortunato Depero, il rédige en 1915 le manifeste Reconstruction futuriste de l'univers, qui étend l'esthétique futuriste au mobilier, au vêtement, aux objets et à l'environnement quotidien. Son œuvre tardive évolue vers des formes abstraites et géométriques, témoignant de la diversité du mouvement au-delà de ses premiers manifestes.",
     "works": [
-      "Dynamisme d’un chien en laisse",
-      "Mercure passant devant le Soleil"
+      "Dynamisme d’un chien en laisse (1912)",
+      "Les Vitesses abstraites (1913-1914)",
+      "Reconstruction futuriste de l’univers (manifeste avec Depero, 1915)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Giacomo Balla, Fortunato Depero, Ricostruzione futurista dell’universo, 1915.",
+      "Catalogues du Museo del Novecento consacrés à Balla.",
+      "Ester Coen, études sur Balla et le futurisme italien."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : œuvres et contexte du futurisme."
+      },
+      {
+        "url": "https://collezionedarte.bancaditalia.it/en/web/guest/-/il-futurismo-1",
+        "note": "Banca d’Italia : Balla et la reconstruction futuriste."
+      }
+    ],
+    "related": [
+      "fortu-depero",
+      "umberto-boccioni",
+      "filippo-tommaso-marinetti"
+    ]
   },
   {
     "id": "fortu-depero",
     "name": "Fortunato Depero",
     "years": "1892–1960",
     "group": "Futurisme italien",
-    "bio": "Artiste, designer et scénographe, il étend le futurisme à la publicité, aux livres et aux arts appliqués.",
+    "bio": "Fortunato Depero, peintre, sculpteur, scénographe et designer, développe une version du futurisme tournée vers l'objet, la publicité et la culture de masse. Installé à Rovereto puis actif à Rome et New York, il collabore avec Giacomo Balla au manifeste Reconstruction futuriste de l'univers (1915), qui imagine un environnement entièrement renouvelé par l'art. Ses marionnettes, décors, livres typographiques et créations publicitaires étendent l'avant-garde au quotidien. La Maison d'art futuriste Depero, ouverte à Rovereto en 1959, conserve et prolonge cet idéal d'une pratique artistique globale.",
     "works": [
-      "Depero futurista",
-      "Publicités Campari"
+      "Reconstruction futuriste de l’univers (1915, avec Balla)",
+      "Depero futurista / livre boulonné (1927)",
+      "Décors et costumes pour les Ballets russes (années 1910)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Fortunato Depero, Depero futurista, 1927.",
+      "Catalogues du MART et de la Casa d’Arte Futurista Depero.",
+      "Catalogues d’exposition sur Depero et le design futuriste."
+    ],
+    "sources": [
+      {
+        "url": "https://www.mart.tn.it/",
+        "note": "MART, Rovereto : collections et archives de Depero."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : contexte du futurisme et du design."
+      }
+    ],
+    "related": [
+      "giacomo-balla",
+      "enrico-prampolini",
+      "bruno-munari"
+    ]
   },
   {
     "id": "enrico-prampolini",
     "name": "Enrico Prampolini",
     "years": "1894–1956",
     "group": "Futurisme italien",
-    "bio": "Peintre, scénographe et théoricien, il prolonge le futurisme dans l’abstraction, le théâtre et les arts mécaniques.",
+    "bio": "Enrico Prampolini est peintre, scénographe, architecte d'intérieur et théoricien, figure majeure du second futurisme. Son activité traverse les arts plastiques, le théâtre, la scénographie et le design, avec une recherche constante sur l'espace et la matière. Il contribue à renouveler le futurisme après la Première Guerre mondiale, puis s'intéresse à l'abstraction, au biomorphisme et aux réseaux internationaux de l'avant-garde. Ses projets scéniques et ses compositions polymatérielles défendent une conception totale de l'art, où lumière, mouvement, architecture et décor sont conçus ensemble.",
     "works": [
-      "Scénographies futuristes",
-      "Manifestes de l’art mécanique"
+      "Scénographies futuristes des années 1920-1930",
+      "Compositions polymatérielles",
+      "Manifestes et écrits sur le théâtre et l’espace futuristes"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Enrico Prampolini, écrits et manifestes sur l’art et la scénographie futuristes.",
+      "Catalogues du MART consacrés au futurisme et à Prampolini.",
+      "Catalogues d’exposition sur la scénographie d’avant-garde italienne."
+    ],
+    "sources": [
+      {
+        "url": "https://www.mart.tn.it/",
+        "note": "MART : collections et ressources sur le futurisme italien."
+      },
+      {
+        "url": "https://proa.org/eng/exhibition-el-universo-futurista-artistas.php",
+        "note": "Fundación Proa : panorama des artistes futuristes."
+      }
+    ],
+    "related": [
+      "fortu-depero",
+      "antonio-santelia",
+      "giacomo-balla"
+    ]
   },
   {
     "id": "antonio-santelia",
     "name": "Antonio Sant’Elia",
     "years": "1888–1916",
     "group": "Futurisme italien",
-    "bio": "Architecte, il imagine une ville moderne verticale et mécanisée dans ses dessins visionnaires.",
+    "bio": "Antonio Sant’Elia, architecte italien, est surtout connu pour ses dessins visionnaires de La Città Nuova, série de projets urbains et architecturaux réalisés en 1913-1914. Il imagine des villes verticales, des réseaux de circulation superposés, des centrales et des bâtiments industriels où l'architecture exprime vitesse et modernité. Son Manifeste de l'architecture futuriste, publié en 1914, donne une formulation théorique à ces recherches, même si une grande partie de ses projets reste sur le papier. Engagé pendant la Première Guerre mondiale, il meurt au front en 1916.",
     "works": [
-      "La Città Nuova",
-      "Manifestes de l’architecture futuriste"
+      "La Città Nuova (dessins, 1913-1914)",
+      "Manifeste de l’architecture futuriste (1914)",
+      "Études de centrales électriques et de gares"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Antonio Sant’Elia, Manifesto dell’architettura futurista, 1914.",
+      "Catalogues d’architecture moderne consacrés à Sant’Elia et La Città Nuova.",
+      "Selim O. Khan-Magomedov, études sur les avant-gardes architecturales du XXe siècle."
+    ],
+    "sources": [
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : rôle de Sant’Elia et manifeste architectural."
+      },
+      {
+        "url": "https://proa.org/eng/exhibition-el-universo-futurista-artistas.php",
+        "note": "Fundación Proa : artistes et architecture futuristes."
+      }
+    ],
+    "related": [
+      "moisei-ginzburg",
+      "alexander-vesnin",
+      "filippo-tommaso-marinetti"
+    ]
   },
   {
     "id": "anton-giulio-bragaglia",
     "name": "Anton Giulio Bragaglia",
     "years": "1890–1960",
     "group": "Futurisme italien",
-    "bio": "Photographe et théoricien, il développe le photodynamisme pour rendre visibles les trajectoires du mouvement.",
+    "bio": "Anton Giulio Bragaglia est photographe, théoricien, metteur en scène et animateur culturel italien. Il développe le photodynamisme, une approche photographique qui cherche à rendre la continuité du geste et du mouvement plutôt qu'à isoler un instant. Ses expérimentations sont proches du futurisme, même si les relations avec Marinetti et certains peintres futuristes sont parfois tendues. Il fonde à Rome la Casa d'Arte Bragaglia et contribue à la diffusion du théâtre d'avant-garde. Son travail se situe à la croisée de la photographie, du cinéma, de la scène et de la théorie esthétique.",
     "works": [
-      "Photodynamisme futuriste",
-      "Thaïs"
+      "Fotodinamismo futurista (1911)",
+      "Photodynamismes et études du mouvement",
+      "Activités de la Casa d’Arte Bragaglia"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Anton Giulio Bragaglia, Fotodinamismo futurista, 1911.",
+      "Catalogues d’exposition sur le photodynamisme et la photographie futuriste.",
+      "Études sur la photographie expérimentale italienne du début du XXe siècle."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : photographie expérimentale et avant-gardes."
+      },
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : contexte du futurisme et des expérimentations photographiques."
+      }
+    ],
+    "related": [
+      "filippo-tommaso-marinetti",
+      "umberto-boccioni",
+      "giacomo-balla"
+    ]
   },
   {
     "id": "francesco-cangiullo",
     "name": "Francesco Cangiullo",
     "years": "1884–1977",
     "group": "Futurisme italien",
-    "bio": "Poète et artiste, il pousse la poésie visuelle et les mots en liberté vers la performance et le théâtre.",
+    "bio": "Francesco Cangiullo est poète, dramaturge et artiste visuel napolitain, associé au futurisme littéraire. Il développe des poèmes visuels et des compositions typographiques qui transforment les mots en formes graphiques et en actions scéniques. Ses recherches s'inscrivent dans le mouvement des « mots en liberté » lancé par Marinetti, mais se distinguent par un humour burlesque et un intérêt pour la langue parlée et les gestes. Il contribue également au théâtre synthétique futuriste et aux performances publiques, où le texte cesse d'être seulement lu pour devenir événement.",
     "works": [
-      "Piedigrotta",
-      "Manifestes futuristes"
+      "Piedigrotta (1916)",
+      "Poesia pentagrammata (poésie typographique)",
+      "Pièces et interventions du théâtre synthétique futuriste"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Francesco Cangiullo, Piedigrotta, 1916.",
+      "Catalogues et anthologies de poésie visuelle futuriste italienne.",
+      "Günter Berghaus, études sur le théâtre et la performance futuristes."
+    ],
+    "sources": [
+      {
+        "url": "https://proa.org/eng/exhibition-el-universo-futurista-artistas.php",
+        "note": "Fundación Proa : artistes et productions futuristes."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : futurisme et expérimentation typographique."
+      }
+    ],
+    "related": [
+      "filippo-tommaso-marinetti",
+      "francesco-balilla-pratella",
+      "umberto-boccioni"
+    ]
   },
   {
     "id": "ardengo-soffici",
     "name": "Ardengo Soffici",
     "years": "1879–1964",
     "group": "Futurisme italien",
-    "bio": "Peintre, écrivain et critique, il contribue aux échanges entre futurisme italien et avant-gardes parisiennes.",
+    "bio": "Ardengo Soffici est peintre, écrivain, critique et traducteur, acteur des échanges entre les avant-gardes italiennes et françaises. Après un séjour à Paris, où il découvre le cubisme et fréquente les milieux artistiques, il contribue à introduire ces recherches en Italie par ses articles et son activité éditoriale. Il se rapproche du futurisme au début des années 1910, tout en entretenant des rapports ambivalents avec Marinetti et son groupe. Son parcours évolue ensuite vers une peinture plus classique et un engagement politique nationaliste, rappelant la diversité et les contradictions de l'avant-garde italienne.",
     "works": [
-      "BÏF§ZF+18",
-      "Écrits critiques"
+      "BÏF§ZF+18 Simultaneità e chimismi lirici (1915)",
+      "Écrits critiques sur le cubisme et le futurisme",
+      "Peintures et dessins des années 1910"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Ardengo Soffici, BÏF§ZF+18 Simultaneità e chimismi lirici, 1915.",
+      "Catalogues d’exposition sur Soffici, le cubisme et le futurisme.",
+      "Études historiques sur les revues La Voce et Lacerba."
+    ],
+    "sources": [
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : futurisme et réseaux intellectuels italiens."
+      },
+      {
+        "url": "https://proa.org/eng/exhibition-el-universo-futurista-artistas.php",
+        "note": "Fundación Proa : Soffici dans le panorama futuriste."
+      }
+    ],
+    "related": [
+      "filippo-tommaso-marinetti",
+      "carlo-carra",
+      "gino-severini"
+    ]
   },
   {
     "id": "benedetta-cappa",
     "name": "Benedetta Cappa Marinetti",
     "years": "1897–1977",
     "group": "Futurisme italien",
-    "bio": "Peintre et écrivaine futuriste, elle développe notamment l’aéropeinture et les recherches sur la synthèse des arts.",
+    "bio": "Benedetta Cappa Marinetti, peintre et écrivaine, est une figure importante du second futurisme longtemps éclipsée par le nom de son mari, Filippo Tommaso Marinetti. Formée notamment auprès de Giacomo Balla, elle explore les relations entre peinture, littérature, architecture et perception, et participe aux manifestes futuristes consacrés à l'art des femmes et à l'aéropittura. Ses grands cycles muraux et ses compositions dynamiques associent abstraction, paysage et mouvement. Son œuvre témoigne de la place active des femmes dans les réseaux futuristes, malgré les limites et contradictions de leur discours sur le genre.",
     "works": [
-      "Ciclo delle comunicazioni",
-      "Aéropeintures"
+      "Le forze della curva (cycle pictural)",
+      "Cycles décoratifs et peintures d’aéropittura",
+      "Écrits et contributions aux manifestes futuristes"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Benedetta Cappa Marinetti, catalogues d’exposition et études sur l’aéropittura.",
+      "Gigliola De Donato et autres historiennes, études sur les femmes du futurisme italien.",
+      "Catalogues de collections et d’expositions consacrés au second futurisme."
+    ],
+    "sources": [
+      {
+        "url": "https://proa.org/eng/exhibition-el-universo-futurista-artistas.php",
+        "note": "Fundación Proa : Benedetta dans l’histoire du futurisme."
+      },
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : contexte du second futurisme et de l’aéropittura."
+      }
+    ],
+    "related": [
+      "filippo-tommaso-marinetti",
+      "giacomo-balla",
+      "enrico-prampolini"
+    ]
   },
   {
     "id": "bruno-munari",
     "name": "Bruno Munari",
     "years": "1907–1998",
     "group": "Futurisme italien",
-    "bio": "Designer et artiste, il participe jeune au second futurisme avant de devenir une figure majeure du design expérimental.",
+    "bio": "Bruno Munari, artiste, designer, pédagogue et auteur italien, commence sa carrière dans les réseaux du second futurisme avant de développer une pratique indépendante qui traverse graphisme, objets, livres, photographie et pédagogie. Il expérimente les « machines inutiles », les livres illisibles et des dispositifs visuels qui invitent le public à manipuler et explorer plutôt qu'à contempler passivement. Après la Seconde Guerre mondiale, il devient l'une des figures majeures du design italien et de l'éducation créative. Son travail prolonge certains idéaux futuristes tout en les transformant par l'humour, la méthode et l'expérimentation.",
     "works": [
-      "Macchine inutili",
-      "Libri illeggibili"
+      "Macchine inutili (à partir de 1933)",
+      "Libro illeggibile (série, à partir de 1949)",
+      "Da cosa nasce cosa (1981)"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Bruno Munari, Da cosa nasce cosa, Laterza, 1981.",
+      "Bruno Munari, Design e comunicazione visiva, Laterza, 1968.",
+      "Catalogues du Museo del Novecento et de la Fondation Bruno Munari."
+    ],
+    "sources": [
+      {
+        "url": "https://www.munart.org/",
+        "note": "MunArt : archives, œuvres et ressources sur Bruno Munari."
+      },
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : collections de design et livres de Munari."
+      }
+    ],
+    "related": [
+      "fortu-depero",
+      "giacomo-balla",
+      "george-maciunas"
+    ]
   },
   {
     "id": "francesco-balilla-pratella",
     "name": "Francesco Balilla Pratella",
     "years": "1880–1955",
     "group": "Futurisme italien",
-    "bio": "Compositeur et théoricien, il publie des manifestes pour renouveler la musique à partir des sons et du bruit.",
+    "bio": "Francesco Balilla Pratella est compositeur et musicologue, l'un des principaux théoriciens de la musique futuriste italienne. Dans ses manifestes du début des années 1910, il appelle à libérer la musique des conventions académiques et à faire entrer dans la composition les rythmes et sonorités de la vie moderne. Il travaille avec Marinetti et les artistes futuristes, tout en poursuivant une carrière de compositeur et de collecteur de traditions musicales populaires. Ses propositions contribuent au contexte qui mènera Luigi Russolo à imaginer les intonarumori et une musique fondée sur le bruit.",
     "works": [
-      "Musica futurista",
-      "Manifesto dei musicisti futuristi"
+      "Manifeste des musiciens futuristes (1910)",
+      "Manifeste technique de la musique futuriste (1911)",
+      "Compositions et recherches sur la musique populaire italienne"
     ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Francesco Balilla Pratella, Manifesto dei musicisti futuristi, 1910.",
+      "Francesco Balilla Pratella, La musica futurista, 1912.",
+      "Günter Berghaus, études sur le futurisme et la musique expérimentale."
+    ],
+    "sources": [
+      {
+        "url": "https://www.treccani.it/enciclopedia/futurismo/",
+        "note": "Treccani : musique et interdisciplinarité futuristes."
+      },
+      {
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "MoMA : panorama des manifestes futuristes."
+      }
+    ],
+    "related": [
+      "filippo-tommaso-marinetti",
+      "anton-giulio-bragaglia",
+      "george-brecht"
+    ]
   },
   {
     "id": "george-maciunas",
     "name": "George Maciunas",
     "years": "1931–1978",
     "group": "Fluxus",
-    "bio": "Artiste et organisateur lituano-américain, il coordonne Fluxus et en façonne les éditions, festivals et réseaux internationaux.",
+    "bio": "George Maciunas, artiste et organisateur d'origine lituanienne, est le coordinateur central de Fluxus à partir du début des années 1960. Formé à l'architecture et au design, il imagine Fluxus comme un réseau international plutôt que comme une école stylistique : festivals, éditions à bas prix, multiples, partitions et événements remettent en cause les frontières entre art, musique et vie quotidienne. Il travaille avec des artistes de plusieurs pays et défend une pratique collective, anti-élitiste et souvent humoristique. Son rôle d'organisateur et d'éditeur est déterminant, même si les membres de Fluxus ne partagent pas tous ses positions.",
     "works": [
-      "Fluxus Yearboxes",
-      "Fluxus Manifesto"
+      "Fluxus Manifesto (1963)",
+      "Fluxkits et éditions Fluxus",
+      "Fluxus festivals et événements internationaux, années 1960"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Jon Hendricks (dir.), Fluxus Codex, Harry N. Abrams, 1988.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "George Maciunas, manifestes et documents Fluxus, éditions d’archives."
+    ],
+    "sources": [
+      {
+        "url": "https://georgemaciunas.com/about/",
+        "note": "George Maciunas Foundation : biographie et histoire de Fluxus."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie de référence sur Fluxus."
+      }
+    ],
+    "related": [
+      "george-brecht",
+      "dick-higgins",
+      "alison-knowles"
+    ]
   },
   {
     "id": "george-brecht",
     "name": "George Brecht",
     "years": "1926–2008",
     "group": "Fluxus",
-    "bio": "Artiste américain, il crée des event scores qui transforment les gestes ordinaires en partitions ouvertes.",
+    "bio": "George Brecht, né George MacDiarmid, est un artiste américain et compositeur associé à Fluxus. Après des études scientifiques et un travail de chimiste, il rejoint les cours expérimentaux de John Cage à la New School de New York au tournant des années 1960. Il développe les Event Scores, partitions minimales qui proposent des actions ordinaires, ouvertes à des réalisations multiples et parfois mentales. Ses œuvres déplacent l'art de l'objet vers la situation et l'attention, et influencent durablement la performance, l'art conceptuel et les pratiques participatives.",
     "works": [
-      "Drip Music",
-      "Water Yam"
+      "Drip Music (1959-1962)",
+      "Word Event (1961)",
+      "Water Yam (boîte de partitions, 1963)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "George Brecht, Water Yam, éditions Fluxus, 1963.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://hoodmuseum.dartmouth.edu/objects/gm.987.44.1",
+        "note": "Hood Museum : documentation de Fluxus I et des artistes associés."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "dick-higgins",
+      "yoko-ono"
+    ]
   },
   {
     "id": "yoko-ono",
     "name": "Yoko Ono",
     "years": "1933–",
     "group": "Fluxus",
-    "bio": "Artiste conceptuelle et musicienne, elle développe des instructions, performances et œuvres participatives liées aux réseaux Fluxus.",
+    "bio": "Yoko Ono, artiste, musicienne et performeuse née à Tokyo, développe dès les années 1950 des œuvres conceptuelles qui sollicitent l'imagination et l'action du public. Installée à New York, elle fréquente les milieux expérimentaux liés à John Cage et présente des instructions et performances qui seront rapprochées de Fluxus, sans que son travail se réduise à ce mouvement. Grapefruit, publié en 1964, rassemble des « event scores » où une proposition textuelle devient œuvre potentielle. Son parcours traverse art, musique, cinéma expérimental et activisme pacifiste, avec une influence durable sur l'art participatif.",
     "works": [
-      "Grapefruit",
-      "Cut Piece"
+      "Cut Piece (1964)",
+      "Grapefruit (1964)",
+      "Film No. 4 (Bottoms) (1966)"
     ],
     "kind": "person",
     "role_icon": "🎭",
     "role_label": "Performance",
     "groups": [
       "Art conceptuel"
+    ],
+    "bibliography": [
+      "Yoko Ono, Grapefruit, Wunternaum Press, 1964 ; rééditions Simon & Schuster.",
+      "Alexandra Munroe et Jon Hendricks (dir.), Yes Yoko Ono, Japan Society / Harry N. Abrams, 2000.",
+      "Yoko Ono, catalogue de l’exposition One Woman Show, 1960–1971, MoMA, 2015."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/4410",
+        "note": "MoMA : biographie et œuvres de Yoko Ono."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : ressources bibliographiques sur Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "george-brecht",
+      "charlotte-moorman"
     ]
   },
   {
@@ -9504,16 +10112,37 @@
     "name": "Nam June Paik",
     "years": "1932–2006",
     "group": "Fluxus",
-    "bio": "Artiste coréen-américain, pionnier de l’art vidéo, il relie musique expérimentale, performance et technologie.",
+    "bio": "Nam June Paik, artiste coréen devenu l'un des pionniers de l'art vidéo, se forme à la musique et à l'histoire de l'art avant de rejoindre les réseaux Fluxus en Europe au début des années 1960. Ses performances avec piano, télévision et objets détournés remettent en question les conventions du concert et l'autorité de la technologie. Il transforme ensuite les téléviseurs en sculptures et installations, faisant de l'image électronique un matériau plastique. Son travail relie musique expérimentale, performance, médias de masse et culture globale, et joue un rôle essentiel dans la reconnaissance de la vidéo comme art.",
     "works": [
-      "TV Buddha",
-      "Global Groove"
+      "Exposition of Music – Electronic Television (1963)",
+      "TV Buddha (1974)",
+      "Global Groove (1973)"
     ],
     "kind": "person",
     "role_icon": "🎭",
     "role_label": "Performance",
     "groups": [
       "Art vidéo"
+    ],
+    "bibliography": [
+      "John G. Hanhardt (dir.), The Worlds of Nam June Paik, Guggenheim Museum, 2000.",
+      "Hanhardt, Nam June Paik: Global Visionary, Smithsonian American Art Museum, 2012.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://americanart.si.edu/artist/nam-june-paik-3688",
+        "note": "Smithsonian American Art Museum : biographie et œuvres."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "charlotte-moorman",
+      "takehisa-kosugi"
     ]
   },
   {
@@ -9521,86 +10150,212 @@
     "name": "Alison Knowles",
     "years": "1933–2025",
     "group": "Fluxus",
-    "bio": "Artiste américaine, elle explore les performances, les événements, les livres d’artiste et les matériaux du quotidien.",
+    "bio": "Alison Knowles est une artiste américaine et membre fondatrice de Fluxus, connue pour ses performances, ses objets, ses installations et ses livres expérimentaux. Elle conçoit des œuvres à partir d'actions quotidiennes, de nourriture, de sons et de matériaux ordinaires, en accordant une place centrale à la participation et à l'écoute. Make a Salad, réalisé à partir de 1962, transforme la préparation collective d'un repas en événement artistique. Son travail s'étend à la poésie concrète et sonore, aux environnements tactiles et aux éditions, tout en affirmant une voix singulière au sein du réseau Fluxus.",
     "works": [
-      "Make a Salad",
-      "The House of Dust"
+      "Make a Salad (1962)",
+      "The Big Book (1966)",
+      "The House of Dust (1967)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Alison Knowles, The House of Dust, éditions et documentation de l’œuvre, 1967.",
+      "Judith Olch Richards, Oral History Interview with Alison Knowles, Archives of American Art, 2010.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://www.aaa.si.edu/collections/interviews/oral-history-interview-alison-knowles-15822",
+        "note": "Smithsonian Archives of American Art : entretien oral et note biographique."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "dick-higgins",
+      "mieko-shiomi"
+    ]
   },
   {
     "id": "dick-higgins",
     "name": "Dick Higgins",
     "years": "1938–1998",
     "group": "Fluxus",
-    "bio": "Artiste, compositeur et éditeur, il théorise l’intermedia et fonde Something Else Press.",
+    "bio": "Dick Higgins est artiste, compositeur, poète, théoricien et éditeur, l'une des figures essentielles de Fluxus. Il participe aux premiers événements du mouvement et fonde Something Else Press en 1964, maison d'édition qui diffuse des œuvres intermedia, des partitions et des textes expérimentaux. Il forge et théorise le terme « intermedia » pour décrire des pratiques situées entre les disciplines traditionnelles. Son activité d'éditeur, d'organisateur et d'auteur donne à Fluxus une infrastructure intellectuelle et matérielle durable, tout en ouvrant des ponts vers la poésie concrète, la performance et l'art conceptuel.",
     "works": [
-      "Danger Music",
-      "Intermedia"
+      "Danger Music (série, années 1960)",
+      "Intermedia (essai, 1966)",
+      "Something Else Press, publications (1964-1974)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Dick Higgins, Horizons: The Poetics and Theory of the Intermedia, Southern Illinois University Press, 1984.",
+      "Dick Higgins, A Dialectic of Centuries: Notes Towards a Theory of the New Arts, 1978.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://libguides.nypl.org/c.php?g=1023232&p=7411711",
+        "note": "New York Public Library : artistes et ressources de recherche sur Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "george-brecht",
+      "emmett-williams"
+    ]
   },
   {
     "id": "emmett-williams",
     "name": "Emmett Williams",
     "years": "1925–2007",
     "group": "Fluxus",
-    "bio": "Poète et artiste américain, il associe poésie concrète, performance et éditions Fluxus.",
+    "bio": "Emmett Williams est poète américain, interprète et éditeur, associé à Fluxus et à la poésie concrète internationale. Installé en Europe après la Seconde Guerre mondiale, il fréquente les réseaux de poésie expérimentale et travaille avec des artistes qui traitent la lettre, la page et la voix comme des matériaux. Ses poèmes visuels et ses performances exploitent la répétition, le rythme et les contraintes typographiques. Il participe aux festivals Fluxus et contribue à faire connaître la poésie concrète par des anthologies et des éditions. Son travail relie la poésie écrite, la performance et l'art intermedia.",
     "works": [
-      "Theaterstücke",
-      "Sweethearts"
+      "Sweethearts (1966)",
+      "Poèmes concrets et visuels",
+      "Performances et publications Fluxus"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Emmett Williams, An Anthology of Concrete Poetry, Something Else Press, 1967.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://hoodmuseum.dartmouth.edu/objects/gm.987.44.1",
+        "note": "Hood Museum : documentation de Fluxus I et de ses participants."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "dick-higgins",
+      "george-maciunas",
+      "jackson-mac-low"
+    ]
   },
   {
     "id": "mieko-shiomi",
     "name": "Mieko Shiomi",
     "years": "1938–",
     "group": "Fluxus",
-    "bio": "Compositrice et artiste japonaise, elle développe des œuvres participatives et des réseaux de correspondance à l’échelle mondiale.",
+    "bio": "Mieko Shiomi est une artiste japonaise dont la pratique relie musique expérimentale, partitions, performance et art conceptuel. Active dans le groupe Ongaku au Japon, elle entre en contact avec Fluxus au début des années 1960 et participe à ses réseaux internationaux. Son œuvre la plus connue, Spatial Poem, invite des participants de différents pays à réaliser une action simple puis à transmettre le résultat, transformant le réseau postal en espace artistique partagé. Shiomi fait de la distance, de la circulation et de la participation des matériaux de composition, tout en conservant une pratique musicale attentive au son et au silence.",
     "works": [
-      "Spatial Poem",
-      "Boundary Music"
+      "Spatial Poem (1965-1975)",
+      "Events et partitions Fluxus",
+      "Compositions et performances sonores"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Mieko Shiomi, Spatial Poem, documentation et éditions de l’artiste.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://hoodmuseum.dartmouth.edu/objects/gm.987.44.1",
+        "note": "Hood Museum : Mieko Shiomi parmi les artistes Fluxus."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "alison-knowles",
+      "george-maciunas",
+      "takehisa-kosugi"
+    ]
   },
   {
     "id": "robert-filliou",
     "name": "Robert Filliou",
     "years": "1926–1987",
     "group": "Fluxus",
-    "bio": "Artiste français, il mêle poésie, humour et participation, affirmant que l’art peut être une création permanente.",
+    "bio": "Robert Filliou, artiste et poète français, développe une œuvre profondément liée à Fluxus, à l'humour et à une conception non professionnelle de la création. Après une jeunesse marquée par la guerre et des séjours à l'étranger, il imagine des dispositifs qui abolissent la séparation entre art et vie quotidienne. Avec Joachim Pfeufer, il propose en 1963 la « Création permanente », et élabore l'idée que l'art peut être un jeu, une relation ou un processus plutôt qu'un objet fini. Son projet de la Galerie légitime, ouverte en 1962, résume sa volonté de rendre l'art accessible et collectif.",
     "works": [
-      "Le Poïpoïdrome",
-      "La Fête permanente"
+      "La Galerie légitime (1962)",
+      "Le Principe d’équivalence (1968)",
+      "Teaching and Learning as Performing Arts (1970)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Robert Filliou, Teaching and Learning as Performing Arts, Verlag Gebr. König, 1970.",
+      "Robert Filliou, Génie sans talent, éditions et catalogues rétrospectifs.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Centre Pompidou : collections et expositions consacrées à Filliou."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "wolf-vostell",
+      "daniel-spoerri"
+    ]
   },
   {
     "id": "wolf-vostell",
     "name": "Wolf Vostell",
     "years": "1932–1998",
     "group": "Fluxus",
-    "bio": "Artiste allemand, associé à Fluxus et au happening, il intègre télévision, béton et images de la violence contemporaine.",
+    "bio": "Wolf Vostell, artiste allemand, est une figure majeure de Fluxus et un pionnier du happening, du décollage et de l'utilisation artistique de la télévision. Dès les années 1950, il détourne des images imprimées et des objets techniques pour interroger la violence médiatique, la consommation et les conflits politiques. Il organise des événements et participe aux premiers festivals Fluxus, tout en gardant une pratique personnelle centrée sur le choc visuel et l'actualité. Il fonde en 1976 le Museo Vostell Malpartida en Espagne, qui conserve une importante collection d'œuvres et d'archives.",
     "works": [
-      "Dé-coll/age",
-      "TV Dé-coll/age"
+      "Das Theater ist auf der Straße (1958)",
+      "TV Dé-coll/age (série, années 1960)",
+      "Installations et happenings des années 1960-1970"
     ],
     "kind": "person",
     "role_icon": "🎭",
     "role_label": "Performance",
     "groups": [
       "Art vidéo"
+    ],
+    "bibliography": [
+      "Wolf Vostell, catalogues et écrits sur le happening et le dé-collage.",
+      "Museo Vostell Malpartida, catalogues de collection et documentation biographique.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://museovostell.org/",
+        "note": "Museo Vostell Malpartida : biographie, œuvres et archives."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "robert-filliou",
+      "daniel-spoerri"
     ]
   },
   {
@@ -9608,170 +10363,422 @@
     "name": "Daniel Spoerri",
     "years": "1930–2024",
     "group": "Fluxus / Nouveau Réalisme",
-    "bio": "Artiste suisse, membre des réseaux Fluxus puis du Nouveau Réalisme, connu pour ses tableaux-pièges.",
+    "bio": "Daniel Spoerri, artiste suisse d'origine roumaine, est associé à Fluxus et au Nouveau Réalisme. Il transforme des fragments de vie quotidienne en œuvres en fixant sur des supports horizontaux les restes de repas, objets et arrangements trouvés, qu'il redresse ensuite verticalement : les tableaux-pièges conservent ainsi une situation contingente. Il développe également des éditions, des événements culinaires et des projets collectifs, dont le restaurant Spoerri à Düsseldorf. Sa pratique déplace la frontière entre objet artistique, nourriture, mémoire et hasard, avec un humour qui le rapproche de plusieurs artistes Fluxus.",
     "works": [
-      "Tableaux-pièges",
-      "Restaurant Spoerri"
+      "Tableaux-pièges (à partir de 1960)",
+      "Topographie anecdotée du hasard (1962)",
+      "Restaurant Spoerri, Düsseldorf (années 1960)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Daniel Spoerri, Topographie anecdotée du hasard, 1962 ; rééditions et traductions.",
+      "Daniel Spoerri, An Anecdoted Topography of Chance, Atlas Press, éditions révisées.",
+      "Catalogues d’exposition sur Spoerri, Fluxus et le Nouveau Réalisme."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : collections et ressources sur le Nouveau Réalisme et Fluxus."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "robert-filliou",
+      "wolf-vostell",
+      "george-maciunas"
+    ]
   },
   {
     "id": "ay-o",
     "name": "Ay-O",
     "years": "1931–2024",
     "group": "Fluxus",
-    "bio": "Artiste japonais, associé à Fluxus, il crée des œuvres sensorielles et interactives autour de la couleur et du toucher.",
+    "bio": "Ay-O, artiste japonais surnommé le « Finger Box Artist », rejoint les réseaux Fluxus dans les années 1960 et développe une œuvre sensorielle fondée sur le toucher, la couleur et la participation. Ses boîtes tactiles invitent le public à explorer des matériaux invisibles au regard, tandis que ses installations et drapeaux arc-en-ciel utilisent la couleur comme expérience immersive. Il participe aux événements Fluxus et entretient des liens avec les artistes japonais et américains du mouvement. Son travail met en avant l'expérience physique du spectateur et une conception ludique de l'art, sans renoncer à une recherche formelle exigeante.",
     "works": [
-      "Finger Box",
-      "Rainbow Environment"
+      "Finger Box (à partir des années 1960)",
+      "Rainbow Environment et œuvres chromatiques",
+      "Partitions et événements Fluxus"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Ay-O, catalogues rétrospectifs et publications sur les Finger Boxes.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://hoodmuseum.dartmouth.edu/objects/gm.987.44.1",
+        "note": "Hood Museum : documentation sur les artistes Fluxus."
+      }
+    ],
+    "related": [
+      "mieko-shiomi",
+      "george-maciunas",
+      "yoko-ono"
+    ]
   },
   {
     "id": "joe-jones",
     "name": "Joe Jones",
     "years": "1934–1993",
     "group": "Fluxus",
-    "bio": "Musicien et artiste américain, il construit des instruments automatiques et des sculptures sonores.",
+    "bio": "Joe Jones est un artiste et musicien américain associé à Fluxus, connu pour ses « machines musicales » qui produisent des sons par des mécanismes simples, parfois activés par le vent ou le mouvement. Son travail prolonge l'expérimentation de John Cage et les événements Fluxus en déplaçant la musique du concert vers des dispositifs autonomes, souvent fragiles et imprévisibles. Il participe aux réseaux internationaux du mouvement et réalise des objets où le hasard, l'environnement et l'action mécanique deviennent des éléments de composition. Ses œuvres se situent à la frontière entre sculpture, instrument et performance.",
     "works": [
-      "Mechanical Music",
-      "Musical Boxes"
+      "Music Machines (années 1960)",
+      "Dispositifs sonores autonomes",
+      "Performances et objets Fluxus"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Joe Jones, catalogues et documentations d’exposition consacrés aux Music Machines.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://www.aaa.si.edu/",
+        "note": "Smithsonian Archives of American Art : ressources sur les réseaux artistiques américains."
+      }
+    ],
+    "related": [
+      "george-brecht",
+      "takehisa-kosugi",
+      "george-maciunas"
+    ]
   },
   {
     "id": "charlotte-moorman",
     "name": "Charlotte Moorman",
     "years": "1933–1991",
     "group": "Fluxus",
-    "bio": "Violoncelleuse et artiste de performance américaine, elle collabore avec Nam June Paik et brouille les frontières entre musique et art.",
+    "bio": "Charlotte Moorman est une violoncelliste et performeuse américaine qui fait tomber les frontières entre musique contemporaine, performance et arts visuels. Elle collabore étroitement avec Nam June Paik, notamment dans des œuvres qui associent instrument, corps et technologie. Son New York Avant Garde Festival, organisé de 1963 à 1980 dans des lieux variés, présente des centaines d'artistes et de pratiques expérimentales. Ses performances provoquent souvent la controverse en brouillant les conventions du concert et les normes de représentation du corps féminin. Elle joue un rôle essentiel dans la diffusion publique des avant-gardes interdisciplinaires.",
     "works": [
-      "Opera Sextronique",
-      "TV Bra for Living Sculpture"
+      "Opera Sextronique (1967, avec Nam June Paik)",
+      "TV Bra for Living Sculpture (1969, avec Paik)",
+      "New York Avant Garde Festival (1963-1980)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Judith K. Stein et autres, Charlotte Moorman: A Feast of Astonishments, Block Museum / Grey Art Gallery, 2016.",
+      "Catalogues et archives du New York Avant Garde Festival.",
+      "John G. Hanhardt (dir.), The Worlds of Nam June Paik, Guggenheim Museum, 2000."
+    ],
+    "sources": [
+      {
+        "url": "https://www.blockmuseum.northwestern.edu/",
+        "note": "Block Museum : ressources sur Charlotte Moorman et les performances."
+      },
+      {
+        "url": "https://americanart.si.edu/",
+        "note": "Smithsonian American Art Museum : archives et ressources sur l’art vidéo."
+      }
+    ],
+    "related": [
+      "nam-june-paik",
+      "yoko-ono",
+      "george-maciunas"
+    ]
   },
   {
     "id": "ken-friedman",
     "name": "Ken Friedman",
     "years": "1949–",
     "group": "Fluxus",
-    "bio": "Artiste et théoricien américain, il contribue aux réseaux Fluxus, aux éditions et à la réflexion sur les pratiques participatives.",
+    "bio": "Ken Friedman est artiste, théoricien et organisateur, l'une des figures de Fluxus à partir des années 1960. Encore adolescent, il participe aux réseaux du mouvement et contribue à sa diffusion aux États-Unis et en Scandinavie. Il conçoit des event scores, des éditions et des projets collectifs qui interrogent l'organisation sociale de l'art et la relation entre création et quotidien. Parallèlement, il mène une carrière universitaire consacrée au design stratégique et à l'innovation. Son parcours relie ainsi les pratiques expérimentales de Fluxus à des réflexions plus larges sur les systèmes, les organisations et les usages du design.",
     "works": [
-      "Fluxus scores",
-      "Fluxus Reader"
+      "Event Scores et œuvres Fluxus",
+      "Éditions et projets collectifs des années 1960-1970",
+      "Recherches sur le design stratégique et l’innovation"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Ken Friedman, essais et textes sur Fluxus, design et innovation.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://libguides.nypl.org/c.php?g=1023232&p=7411711",
+        "note": "New York Public Library : guide de recherche Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "dick-higgins",
+      "george-brecht"
+    ]
   },
   {
     "id": "takehisa-kosugi",
     "name": "Takehisa Kosugi",
     "years": "1938–2018",
     "group": "Fluxus",
-    "bio": "Compositeur japonais, membre du groupe expérimental Group Ongaku, il participe aux performances et concerts Fluxus.",
+    "bio": "Takehisa Kosugi est compositeur, violoniste et artiste japonais, pionnier de la musique expérimentale et membre des réseaux Fluxus. Cofondateur du groupe Ongaku à Tokyo à la fin des années 1950, il explore les sons trouvés, les gestes simples, les phénomènes acoustiques et les situations d'écoute. Ses partitions ouvertes et performances s'éloignent des formes musicales conventionnelles, accordant une place centrale à l'environnement et à l'attention. Il travaille plus tard avec le Merce Cunningham Dance Company, pour laquelle il compose et interprète de la musique, reliant ainsi improvisation, danse et art sonore.",
     "works": [
-      "Anima 7",
-      "Catch-Wave"
+      "Anima 7 (1964)",
+      "Partitions et performances expérimentales",
+      "Compositions pour la Merce Cunningham Dance Company"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Takehisa Kosugi, catalogues et éditions documentant ses partitions et performances.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://hoodmuseum.dartmouth.edu/objects/gm.987.44.1",
+        "note": "Hood Museum : contexte international des artistes Fluxus."
+      }
+    ],
+    "related": [
+      "mieko-shiomi",
+      "nam-june-paik",
+      "joe-jones"
+    ]
   },
   {
     "id": "shigeko-kubota",
     "name": "Shigeko Kubota",
     "years": "1937–2015",
     "group": "Fluxus",
-    "bio": "Artiste japonaise, pionnière de la vidéo et participante aux événements Fluxus à New York.",
+    "bio": "Shigeko Kubota est une artiste japonaise pionnière de la vidéo, associée à Fluxus et à l'avant-garde new-yorkaise. Après avoir rejoint les réseaux Fluxus dans les années 1960, elle s'intéresse à la vidéo comme matériau sculptural et à la relation entre image enregistrée, mémoire et espace. Sa sculpture vidéo Duchampiana: Nude Descending a Staircase transforme un motif de Marcel Duchamp en séquence électronique, créant un dialogue entre avant-garde historique et nouveaux médias. Son travail, longtemps éclipsé par celui de ses collègues masculins, est aujourd'hui reconnu comme une contribution majeure à l'art vidéo.",
     "works": [
-      "Vagina Painting",
-      "Duchampiana"
+      "Vagina Painting (1965)",
+      "Duchampiana: Nude Descending a Staircase (1976)",
+      "Video Sculpture: River (1979-1981)"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Shigeko Kubota, catalogues d’exposition et écrits sur la vidéo sculpture.",
+      "Barbara London (dir.), Video Art: The First Fifty Years, Phaidon, 2020.",
+      "Catalogues du MoMA et du Whitney consacrés à Shigeko Kubota."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/",
+        "note": "MoMA : collections et ressources sur l’art vidéo."
+      },
+      {
+        "url": "https://whitney.org/",
+        "note": "Whitney Museum : collections et documentation sur les artistes vidéo."
+      }
+    ],
+    "related": [
+      "nam-june-paik",
+      "charlotte-moorman",
+      "yoko-ono"
+    ]
   },
   {
     "id": "jackson-mac-low",
     "name": "Jackson Mac Low",
     "years": "1922–2004",
     "group": "Fluxus",
-    "bio": "Poète et artiste américain, il utilise des procédures aléatoires et des partitions ouvertes dans sa poésie et ses performances.",
+    "bio": "Jackson Mac Low est poète, compositeur et artiste de performance américain, proche de Fluxus et des expérimentations de John Cage. Il développe des textes générés par des procédures aléatoires, des opérations sur des mots préexistants et des partitions qui délèguent une partie de la composition au hasard ou aux interprètes. Ses lectures et performances mettent en jeu la voix, le rythme et la pluralité des réalisations possibles. Il relie poésie concrète, théâtre expérimental, musique et art conceptuel, en défendant une pratique où l'auteur renonce en partie au contrôle de l'œuvre.",
     "works": [
-      "Stanzas for Iris Lezak",
-      "Words nd Ends from Ez"
+      "5 biblical poems (1965)",
+      "The Pronouns (1964)",
+      "Poèmes et performances génératives des années 1960"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Jackson Mac Low, Representative Works: 1938–1985, éd. William Carlos Williams Center, 1986.",
+      "Jackson Mac Low, Thing of Beauty: New and Selected Works, University of California Press, 2008.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://poetryfoundation.org/",
+        "note": "Poetry Foundation : ressources sur la poésie expérimentale américaine."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "dick-higgins",
+      "emmett-williams",
+      "george-brecht"
+    ]
   },
   {
     "id": "geoffrey-hendricks",
     "name": "Geoffrey Hendricks",
     "years": "1931–2018",
     "group": "Fluxus",
-    "bio": "Artiste américain, membre de Fluxus, connu pour ses performances et ses œuvres autour du ciel et des nuages.",
+    "bio": "Geoffrey Hendricks est un artiste américain associé à Fluxus, connu pour ses œuvres sur le ciel, les nuages et les expériences quotidiennes. Il participe aux événements Fluxus des années 1960 et développe des performances, installations, peintures et actions qui invitent à percevoir l'environnement comme un matériau artistique. Ses toiles peintes de nuages et ses interventions dans l'espace public relient l'humour Fluxus à une sensibilité contemplative et écologique. Professeur au Rutgers College pendant plusieurs décennies, il contribue aussi à transmettre l'histoire et les méthodes de l'art expérimental à de nouvelles générations.",
     "works": [
-      "Sky Project",
-      "Sky Boots"
+      "Sky Boots (1965)",
+      "Sky pieces et peintures de nuages",
+      "Performances et événements Fluxus"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Geoffrey Hendricks, catalogues d’exposition et publications sur les Sky pieces.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://libguides.nypl.org/c.php?g=1023232&p=7411711",
+        "note": "New York Public Library : ressources sur les artistes Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "robert-filliou",
+      "ken-friedman"
+    ]
   },
   {
     "id": "arthur-koepcke",
     "name": "Arthur Köpcke",
     "years": "1928–1977",
     "group": "Fluxus",
-    "bio": "Artiste et écrivain allemand, il associe textes, instructions et participation du spectateur dans des œuvres conceptuelles.",
+    "bio": "Arthur Köpcke est un artiste et organisateur allemand, associé à Fluxus et à l'art conceptuel. Installé à Copenhague, il dirige la galerie Köpcke, qui devient un lieu important pour la diffusion des pratiques expérimentales en Europe du Nord. Ses œuvres utilisent souvent textes, instructions et partitions, invitant le spectateur à compléter ou réaliser l'œuvre plutôt qu'à la recevoir comme un objet achevé. Son activité de galeriste et de médiateur est essentielle à l'histoire internationale de Fluxus, dont les réseaux reposaient autant sur les espaces d'exposition et les correspondances que sur les performances.",
     "works": [
-      "Reading / Work-Pieces",
-      "Wörterbuch"
+      "Reading/Work-Pieces (série)",
+      "Partitions et œuvres textuelles Fluxus",
+      "Activités de la Galerie Köpcke à Copenhague"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Arthur Köpcke, catalogues et archives de la Galerie Köpcke.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://libguides.nypl.org/c.php?g=1023232&p=7411711",
+        "note": "New York Public Library : artistes et histoire de Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "eric-andersen",
+      "milan-knizak"
+    ]
   },
   {
     "id": "eric-andersen",
     "name": "Eric Andersen",
     "years": "1940–",
     "group": "Fluxus",
-    "bio": "Artiste danois lié à Fluxus, il crée des actions, événements et œuvres participatives souvent conçus pour être réinterprétés.",
+    "bio": "Eric Andersen est un artiste danois lié à Fluxus depuis les années 1960. Ses œuvres prennent souvent la forme de partitions et de situations qui changent selon les lieux, les participants et les circonstances. Il explore le caractère instable de l'œuvre, l'action collective et les limites entre art et vie quotidienne, tout en contribuant à l'organisation d'événements et à la circulation de Fluxus en Scandinavie. Sa pratique, parfois désignée comme art des événements, met l'accent sur le processus et l'expérience plutôt que sur la production d'un objet durable.",
     "works": [
-      "Opus series",
-      "Event scores"
+      "Opus (série d’événements)",
+      "Partitions et actions Fluxus des années 1960-1970",
+      "Projets collectifs et événements en Scandinavie"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Eric Andersen, partitions, textes et catalogues consacrés à l’art des événements.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://vanabbemuseum.nl/en/collection-research/library/publications/fluxus-at",
+        "note": "Van Abbemuseum : notice bibliographique de Fluxus at 50."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "arthur-koepcke",
+      "milan-knizak"
+    ]
   },
   {
     "id": "milan-knizak",
     "name": "Milan Knížák",
     "years": "1940–",
     "group": "Fluxus",
-    "bio": "Artiste tchèque, associé à Fluxus et au mouvement underground, il travaille sur la performance, la musique et les objets altérés.",
+    "bio": "Milan Knížák est un artiste, musicien et organisateur tchèque qui rejoint Fluxus au milieu des années 1960, alors qu'il mène des actions provocatrices dans l'espace public de Prague. Il fonde le groupe Aktual et développe des « démonstrations » mêlant sons, objets, interventions urbaines et comportements perturbateurs. Ses liens avec Fluxus l'inscrivent dans un réseau international, mais son travail reste marqué par le contexte politique tchécoslovaque et une pratique autonome. Après 1989, il occupe des fonctions institutionnelles importantes, notamment à la tête de la Galerie nationale de Prague, tout en poursuivant son activité artistique.",
     "works": [
-      "Broken Music",
-      "Demonstrations for All Senses"
+      "Broken Music (actions et compositions, années 1960)",
+      "Demonstrations et événements du groupe Aktual",
+      "Partitions et objets Fluxus"
     ],
     "kind": "person",
     "role_icon": "🎭",
     "role_label": "Performance",
     "groups": [
       "Art conceptuel"
+    ],
+    "bibliography": [
+      "Milan Knížák, Broken Music, éditions et catalogues sur ses expérimentations sonores.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Catalogues d’exposition consacrés à Milan Knížák et à l’art expérimental tchèque."
+    ],
+    "sources": [
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      },
+      {
+        "url": "https://vanabbemuseum.nl/en/collection-research/library/publications/fluxus-at",
+        "note": "Van Abbemuseum : ressources bibliographiques sur Fluxus."
+      }
+    ],
+    "related": [
+      "george-maciunas",
+      "eric-andersen",
+      "arthur-koepcke"
     ]
   },
   {
@@ -9779,14 +10786,35 @@
     "name": "Robert Watts",
     "years": "1923–1988",
     "group": "Fluxus",
-    "bio": "Artiste américain, participant aux premiers événements Fluxus, il mêle objets, assemblage, humour et actions quotidiennes.",
+    "bio": "Robert Watts est un artiste américain, professeur et membre des réseaux Fluxus, dont la pratique traverse peinture, sculpture, photographie et objets trouvés. Il participe aux événements new-yorkais des années 1960 et réalise des œuvres qui déplacent l'attention vers les signes ordinaires, les mécanismes de consommation et les systèmes de représentation. Ses collaborations avec George Brecht et d'autres artistes expérimentaux montrent comment Fluxus s'est construit par échanges, éditions et actions partagées. Son travail, souvent discret et conceptuel, participe à l'élargissement de l'art vers les objets, les situations et les processus.",
     "works": [
-      "Yam Festival",
-      "Events"
+      "Fluxus I (contribution à l’édition collective)",
+      "Objets et œuvres conceptuelles des années 1960",
+      "Séries photographiques et assemblages"
     ],
     "kind": "person",
     "role_icon": "🎭",
-    "role_label": "Performance"
+    "role_label": "Performance",
+    "bibliography": [
+      "Robert Watts, catalogues et archives d’exposition sur Fluxus et l’art conceptuel américain.",
+      "A. Klar, S. Fricke et S. Maske (dir.), Fluxus at 50, Kerber Verlag, 2012.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002."
+    ],
+    "sources": [
+      {
+        "url": "https://hoodmuseum.dartmouth.edu/objects/gm.987.44.1",
+        "note": "Hood Museum : Fluxus I et ses contributeurs."
+      },
+      {
+        "url": "https://post.moma.org/a-fluxus-bibliography/",
+        "note": "MoMA post : bibliographie Fluxus."
+      }
+    ],
+    "related": [
+      "george-brecht",
+      "george-maciunas",
+      "dick-higgins"
+    ]
   },
   {
     "id": "ben-vautier",
