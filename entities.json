@@ -2673,26 +2673,29 @@
     "group": "Beat Generation",
     "bio": "Ray Bremser est un poète américain associé à la Beat Generation, dont la trajectoire fut marquée par les déplacements, les séjours en prison et une existence souvent précaire. Son écriture emprunte au jazz sa pulsation, ses ruptures et son goût de l'improvisation; elle mêle argot, oralité, fragments autobiographiques et visions de la route. Il appartient au versant le plus marginal et contre-culturel du mouvement, loin de l'image parfois romantisée du voyage beat. Sa poésie, notamment dans Angel, transforme l'expérience de l'enfermement et de l'errance en matière rythmique et lyrique. Il fut également lié à la scène poétique new-yorkaise et aux réseaux de petites presses.",
     "works": [
-      "Angel",
-      "The Boderline"
+      "Blowing Mouth: The Jazz Poems, 1957–1972",
+      "Poems of Madness & Angel",
+      "The Conquerors",
+      "The Dying of Children"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poetryfoundation.org/",
-        "note": "Portail de référence pour contextualiser la poésie américaine; notice individuelle et éditions à compléter."
+        "url": "https://stockton.edu/sjchc/publications/documents/BibliographySJ_Poetry2015_2022.pdf",
+        "note": "Bibliographie de poésie du South Jersey Culture & History Center : éditions de Blowing Mouth, Poems of Madness & Angel, The Conquerors et The Dying of Children."
       },
       {
-        "url": "https://www.worldcat.org/search?q=Ray+Bremser",
-        "note": "Catalogue collectif pour vérifier les éditions et variantes bibliographiques."
+        "url": "https://oac.cdlib.org/findaid/ark:/13030/tf5c6004hb",
+        "note": "Inventaire des Allen Ginsberg Papers, avec manuscrits et correspondance de Ray Bremser."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "bibliography": [
-      "Angel (1965)",
-      "The Boderline (1966)",
-      "Blowing Mouth (197吹)"
+      "Blowing Mouth: The Jazz Poems, 1957–1972 (1978)",
+      "Poems of Madness & Angel (1986)",
+      "The Conquerors (1998)",
+      "The Dying of Children (1999)"
     ]
   },
   {
@@ -2940,27 +2943,39 @@
     "group": "Proches des Beats",
     "bio": "Helen Adam, poétesse et dramaturge née en Écosse, s'installe aux États-Unis après une enfance passée entre l'Europe et l'Amérique. Elle se fait connaître très jeune par des poèmes narratifs et ballades gothiques, puis s'établit à San Francisco où elle devient une présence singulière de la Renaissance poétique locale. Son œuvre, nourrie de folklore, de chansons, de sorcellerie et de récits macabres, tranche avec le réalisme urbain souvent associé aux Beats. Elle collabore avec des poètes et artistes de la côte Ouest, notamment dans des performances et projets collectifs. Son livret de ballades The Word of the Witch et son travail théâtral montrent une pratique où la poésie retrouve la voix, la scène et la tradition orale.",
     "works": [
-      "The Word of the Witch",
-      "Selected Poems and Ballads",
-      "San Francisco's Burning"
+      "The Queen O'Crow Castle",
+      "San Francisco's Burning",
+      "Ballads",
+      "Turn Again to Me and Other Poems",
+      "Gone Sailing",
+      "The Bells of Dis"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poetryfoundation.org/",
-        "note": "Ressource de référence à compléter par une notice individuelle et les catalogues d'archives."
+        "url": "https://writing.upenn.edu/epc/authors/adam/adam_pub.html",
+        "note": "Electronic Poetry Center, University of Pennsylvania : bibliographie détaillée des livres et travaux critiques."
       },
       {
-        "url": "https://www.worldcat.org/search?q=Helen+Adam+poet",
-        "note": "Catalogue collectif pour vérifier les éditions et titres."
+        "url": "https://www.scottishpoetrylibrary.org.uk/poet/helen-adam/",
+        "note": "Scottish Poetry Library, notice et bibliographie sélective."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poets/helen-adam",
+        "note": "Poetry Foundation, biographie et repères bibliographiques."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "bibliography": [
-      "The Word of the Witch (195 witch-era; édition à vérifier)",
-      "Selected Poems and Ballads (197 Adam-era; édition à vérifier)",
-      "San Francisco's Burning (197 burning; avec des contributions de la scène locale)"
+      "The Queen O'Crow Castle (1958)",
+      "San Francisco's Burning (1963, avec Pat Adam)",
+      "Ballads (1964)",
+      "Selected Poems and Ballads (1974)",
+      "Turn Again to Me and Other Poems (1977)",
+      "Gone Sailing (1980)",
+      "The Bells of Dis (1985)",
+      "A Helen Adam Reader (2007/2008, éd. Kristin Prevallet)"
     ]
   },
   {
@@ -2969,57 +2984,60 @@
     "years": "1903–1979",
     "group": "Proches des Beats",
     "bio": "Madeline Gleason fut poétesse, dramaturge et organisatrice culturelle, pionnière de la scène littéraire moderne de San Francisco. Dans les années 1930 et 1940, elle participe à la vie théâtrale et poétique de la ville, puis organise en 1947 le San Francisco Poetry Festival, souvent présenté comme l'un des premiers grands rassemblements publics de poésie moderne sur la côte Ouest. Elle défend une poésie vivante, destinée à la lecture et à la performance, et contribue à créer les conditions institutionnelles et collectives dont bénéficieront les générations suivantes, dont les poètes beat. Son travail de dramaturge et son engagement dans les réseaux artistiques locaux font d'elle une médiatrice importante, longtemps moins visible que les auteurs qu'elle a aidé à réunir.",
-    "works": [
-      "The Green Lion",
-      "Poems",
-      "The Metaphysical Needle"
-    ],
+    "works": [],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.sflibrary.org/",
-        "note": "San Francisco Public Library, ressources patrimoniales sur les scènes littéraires locales."
+        "url": "https://www.worldcat.org/search?q=Madeline+Gleason",
+        "note": "Catalogue collectif pour identifier les éditions attribuées à Madeline Gleason; les références restent à contrôler."
       },
       {
-        "url": "https://www.worldcat.org/search?q=Madeline+Gleason",
-        "note": "Catalogue collectif pour contrôler les éditions et titres."
+        "url": "https://www.sflibrary.org/",
+        "note": "San Francisco Public Library, ressources patrimoniales locales."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "bibliography": [
-      "The Green Lion (poésie et théâtre; édition à préciser)",
-      "The Metaphysical Needle (recueil; référence éditoriale à vérifier)"
+      "Bibliographie des livres de Madeline Gleason à établir à partir de catalogues de bibliothèques et d'archives : les titres parfois attribués en ligne ne sont pas suffisamment corroborés pour être repris ici."
     ]
   },
   {
     "id": "de-angulo",
     "name": "Gui de Angulo",
-    "years": "1888–1970",
+    "years": "1887–1950",
     "group": "Proches des Beats",
     "bio": "Jaime de Angulo, souvent désigné sous le nom de Jaime ou Gui de Angulo, fut écrivain, linguiste, anthropologue amateur et collecteur de récits autochtones de Californie. Né en Espagne, il s'installe aux États-Unis et mène des recherches de terrain auprès de communautés amérindiennes, notamment en Californie du Nord. Son travail, aujourd'hui relu avec attention critique quant aux conditions historiques de collecte et de représentation, mêle linguistique, ethnographie, littérature et narration orale. Il fréquente les milieux intellectuels de la côte Ouest et exerce une influence sur des écrivains attirés par les formes non académiques du récit et les traditions orales. Indian Tales demeure l'un de ses livres les plus connus.",
     "works": [
       "Indian Tales",
-      "Coyote Man and Old Doctor Loon",
+      "Indians in Overalls",
+      "Coyote Man & Old Doctor Loon",
+      "Coyote's Bones",
       "The Lariat"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.oac.cdlib.org/",
-        "note": "Online Archive of California, catalogues des fonds et collections californiennes."
+        "url": "https://www.si.edu/es/search/collection",
+        "note": "Smithsonian Libraries, notices de catalogue pour plusieurs éditions de Jaime de Angulo."
       },
       {
-        "url": "https://www.worldcat.org/search?q=Jaime+de+Angulo",
-        "note": "Catalogue collectif pour les éditions et études consacrées à l'auteur."
+        "url": "https://openlibrary.org/authors/OL406449A/Jaime_de_Angulo",
+        "note": "Open Library, catalogue des œuvres et éditions."
+      },
+      {
+        "url": "https://www.persee.fr/authority/55176",
+        "note": "Persée et BnF, autorité et publications scientifiques de Jaime de Angulo."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "bibliography": [
-      "Indian Tales (1953)",
-      "The Lariat (1940)",
-      "Coyote Man and Old Doctor Loon (197 angulo; édition à vérifier)"
+      "Indian Tales (1953, publication posthume)",
+      "Indians in Overalls (1950)",
+      "Coyote Man & Old Doctor Loon (1973)",
+      "Coyote's Bones: Selected Poetry and Prose (1974)",
+      "Lariat: And Other Writings (1974)"
     ]
   },
   {
