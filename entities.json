@@ -3948,7 +3948,7 @@
     "group": "Surréalisme belge",
     "bio": "Écrivain et poète belge, Louis Scutenaire est l’une des voix les plus reconnaissables du surréalisme bruxellois. Proche de Paul Nougé, Camille Goemans, Marcel Lecomte et René Magritte, il participe dès les années 1920 aux pratiques collectives de détournement, aux tracts et aux expérimentations de langage. Son œuvre la plus connue, Mes inscriptions, rassemble des aphorismes, observations et traits d’humour qui déjouent les automatismes de la pensée. Compagnon d’Irène Hamoir, il forme avec elle un foyer important de la vie surréaliste belge. Il entretient aussi des relations suivies avec Marcel Mariën, Jane Graverol et les générations ultérieures du mouvement.",
     "works": [
-      "Les secours de la religion (193救)",
+      "Les secours de la religion (1936)",
       "Mes inscriptions (1945 et éditions augmentées)",
       "La Cuisinière de Bismarck (1957)",
       "Le Surréalisme en Belgique (textes et entretiens)"
@@ -4365,34 +4365,41 @@
   {
     "id": "servais",
     "name": "Max Servais",
-    "years": "1904–1940",
+    "years": "1904–1990",
     "group": "Surréalisme belge",
-    "bio": "Peintre belge, Max Servais est associé aux milieux surréalistes de Bruxelles et à leurs prolongements d’après-guerre. Son parcours demeure moins abondamment documenté que celui de Magritte ou Graverol ; les notices et publications collectives le situent toutefois dans un réseau où se croisent Louis Scutenaire, Marcel Mariën, Jane Graverol et Rachel Baes. Ses œuvres et ses participations doivent être replacées dans les expositions et les revues qui ont maintenu le surréalisme belge vivant après 1945. La bibliographie reste volontairement prudente : elle renvoie aux ressources collectives et aux archives plutôt que d’aligner des titres non vérifiés.",
+    "bio": "Écrivain, dessinateur, peintre, collagiste et journaliste belge, Max Servais participe dès 1934 aux activités du surréalisme bruxellois et se rapproche un temps du groupe du Hainaut. Compagnon de René Magritte, Paul Nougé et Louis Scutenaire, il développe une pratique du collage et du dessin nourrie par la satire sociale. Il travaille également comme journaliste et caricaturiste, puis comme romancier populaire, notamment dans le domaine policier. Pendant l’Occupation, il distribue le journal clandestin La Voix des Belges et est arrêté en 1941. Sa trajectoire relie les réseaux artistiques et littéraires du surréalisme à l’engagement dans la presse clandestine. Ses liens avec Scutenaire, Marcel Mariën, Jane Graverol et Rachel Baes éclairent les sociabilités du groupe belge.",
     "works": [
-      "Peintures et œuvres graphiques associées au surréalisme belge ; titres individuels à confirmer par catalogue raisonné"
+      "Défense d’aimer (collage, 1936)",
+      "Chambre garnie (roman policier, 1943)",
+      "La Gueule du loup (roman policier, 1944)",
+      "La Reine du bal (roman policier, 1946)",
+      "Les Dieux ne nous aiment pas (roman policier, 1950)",
+      "C’est un peu de rêve… (collage, vers 1934)"
     ],
-    "url": "https://www.dailybul.be/archibul/items/show/4537",
+    "url": "https://www.academieroyale.be/academie/documents/FichierPDFNouvelleBiographieNational2106.pdf",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.dailybul.be/archibul/items/show/4537",
-        "note": "Centre Daily-Bul : repères sur les auteurs et artistes du surréalisme belge."
+        "url": "https://www.academieroyale.be/academie/documents/FichierPDFNouvelleBiographieNational2106.pdf",
+        "note": "Nouvelle Biographie nationale, Académie royale de Belgique : notice biographique détaillée, dates, activités et bibliographie."
       },
       {
-        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
-        "note": "Mélusine : bibliographie collective du surréalisme belge."
+        "url": "https://objectifplumes.be/wp-content/uploads/2021/10/Le-Policier-dans-la-collection-Espace-nord-Fiches-p%C3%A9dagogiques.pdf",
+        "note": "Objectif Plumes / Espace Nord : repères biographiques et bibliographie sélective des romans policiers."
       },
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Bozar : contexte des réseaux surréalistes bruxellois."
+        "url": "https://www.ledelarge.fr/5746_artiste_SERVAIS_Max",
+        "note": "Le Delarge : pratique du collage, peinture, photographie et œuvre surréaliste."
       }
     ],
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "bibliography": [
-      "Max Servais, notices et références dans les anthologies du surréalisme belge.",
-      "Anthologie du surréalisme en Belgique, éd. Christian Bussy, Gallimard, 1972.",
-      "Le Groupe surréaliste en Belgique, André Blavier, Phantomas, 1971."
+      "Chambre garnie, 1943.",
+      "La Gueule du loup, 1944 ; réédition Espace Nord, 2006.",
+      "La Reine du bal, 1946.",
+      "Les Dieux ne nous aiment pas, 1950.",
+      "Notice biographique dans la Nouvelle Biographie nationale, Académie royale de Belgique, vol. 7."
     ],
     "related": [
       "scutenaire",
