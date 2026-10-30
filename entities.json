@@ -4,80 +4,178 @@
     "name": "René Daumal",
     "years": "1908–1944",
     "group": "Grand Jeu",
-    "bio": "Poète, traducteur du sanskrit et cofondateur du Grand Jeu. Auteur du Mont Analogue.",
+    "bio": "Poète, essayiste, dramaturge et indianiste, René Daumal rencontre Roger Gilbert-Lecomte, Roger Vailland et Robert Meyrat au lycée de Reims. Ensemble, ils fondent en 1924 la fraternité des « Phrères simplistes », dont les expérimentations littéraires et existentielles préparent la naissance du Grand Jeu en 1927-1928. Daumal explore les états de conscience, la critique du rationalisme et une « métaphysique expérimentale », tout en se consacrant à l'étude du sanskrit et des traditions de l'Inde. Sa rencontre avec l'enseignement de Gurdjieff marque la dernière partie de sa vie. Atteint de tuberculose, il meurt en 1944 avant d'avoir achevé Le Mont Analogue.",
     "works": [
-      "Le Contre-Ciel",
-      "Le Mont Analogue"
+      "Le Contre-Ciel (1936)",
+      "La Grande Beuverie (1938)",
+      "Poésie noire, poésie blanche (1938)",
+      "Les Dernières Paroles du poète (193 마지막)",
+      "Le Mont Analogue (inachevé, publication posthume, 1952)",
+      "Les Pouvoirs de la parole (posthume, 1972)",
+      "La Guerre sainte (posthume)",
+      "Correspondance, notamment Lettres à ses amis"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Le Contre-Ciel, Paris, 1936.",
+      "La Grande Beuverie, Paris, 1938.",
+      "Le Mont Analogue, Gallimard, 1952 (posthume, inachevé).",
+      "Les Pouvoirs de la parole, Gallimard, 1972 (posthume).",
+      "Lettres à ses amis, 1958."
+    ]
   },
   {
     "id": "gilbert",
     "name": "Roger Gilbert-Lecomte",
     "years": "1907–1943",
     "group": "Grand Jeu",
-    "bio": "Poète et cofondateur du groupe des Simplistes et de la revue Le Grand Jeu.",
+    "bio": "Poète rémois, Roger Gilbert-Lecomte est l'une des figures fondatrices du Grand Jeu. Ami de René Daumal depuis le lycée, il participe avec lui, Roger Vailland et Robert Meyrat aux expériences des « Phrères simplistes » au milieu des années 1920. Il prend une part centrale à la fondation de la revue Le Grand Jeu, dont il devient le directeur. Sa poésie, traversée par la quête d'une expérience intérieure radicale, l'angoisse métaphysique et la fascination pour les états-limites, se développe dans une existence marquée par la dépendance aux drogues et la précarité. Il meurt à Paris en 1943, à trente-six ans.",
     "works": [
-      "La Vie l'Amour la Mort le Vide et le Vent"
+      "La Vie, l'Amour, la Mort, le Vide et le Vent (1933)",
+      "Le Miroir noir (1937/1938)",
+      "Testament (posthume, 1955)",
+      "Monsieur Morphée, empoisonneur public (posthume, 1966)",
+      "Tétanos mystique (posthume, 1972)",
+      "L'Horrible Révélation, la seule… (posthume, 1973)",
+      "Caves en plein ciel (posthume, 1977)",
+      "Neuf haï-kaï (posthume, 1977)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "La Vie, l'Amour, la Mort, le Vide et le Vent, Cahiers libres, 1933.",
+      "Le Miroir noir, 1937-1938 (selon les éditions).",
+      "Testament, Gallimard, 1955 (posthume).",
+      "Monsieur Morphée, empoisonneur public, Fata Morgana, 1966 (posthume).",
+      "Œuvres complètes, 2 vol., Gallimard, 1974-1977.",
+      "Correspondance, Gallimard, 1971."
+    ]
   },
   {
     "id": "vailland",
     "name": "Roger Vailland",
     "years": "1907–1965",
     "group": "Grand Jeu",
-    "bio": "Écrivain et journaliste, compagnon des Simplistes à Reims.",
+    "bio": "Écrivain, journaliste, essayiste et dramaturge, Roger Vailland appartient avec René Daumal et Roger Gilbert-Lecomte au noyau des « Phrères simplistes » formé à Reims. Il participe ensuite à l'aventure du Grand Jeu, tout en poursuivant très tôt une carrière de journaliste à Paris-Midi puis Paris-Soir. Après des années de reportages, de voyages et de recherches littéraires, il s'engage dans la Résistance pendant la Seconde Guerre mondiale. Drôle de jeu, inspiré de cette expérience, obtient le prix Interallié en 1945. Son œuvre romanesque et critique explore les rapports entre liberté individuelle, morale, politique et formes du libertinage. Il reçoit le prix Goncourt pour La Loi en 1957.",
     "works": [
-      "Drôle de jeu"
+      "Drôle de jeu (1945)",
+      "Les Mauvais Coups (1948)",
+      "Bon pied, bon œil (1950)",
+      "Un jeune homme seul (1951)",
+      "Beau Masque (1954)",
+      "325 000 francs (1955)",
+      "La Loi (1957)",
+      "Les Mauvais coups (1959, adaptation théâtrale)",
+      "La Truite (1964)",
+      "Le Regard froid (1963)",
+      "Éloge du Cardinal de Bernis (1956)"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Drôle de jeu, Corrêa, 1945.",
+      "Les Mauvais Coups, 1948.",
+      "Bon pied, bon œil, 1950.",
+      "Un jeune homme seul, 1951.",
+      "Beau Masque, 1954.",
+      "325 000 francs, 1955.",
+      "La Loi, 1957 (prix Goncourt).",
+      "Le Regard froid, 1963."
+    ]
   },
   {
     "id": "sima",
     "name": "Josef Šíma",
     "years": "1891–1971",
     "group": "Arts",
-    "bio": "Peintre d'origine tchèque associé à l'aventure du Grand Jeu.",
-    "works": [],
+    "bio": "Peintre, dessinateur, graveur et illustrateur tchèque, Josef Šíma se forme à Prague avant de s'installer en France en 1921. Il participe à la fondation du groupe d'avant-garde Devětsil en 1920, puis rejoint les réseaux parisiens et rémois qui donnent naissance au Grand Jeu. Cofondateur du groupe et de sa revue à la fin des années 1920, il développe une peinture singulière où formes organiques, lumière, espace et références mythologiques composent des paysages mentaux. Son œuvre entretient des rapports avec le surréalisme sans s'y réduire. Après la guerre, il reprend une place importante dans les échanges artistiques entre la France et la Tchécoslovaquie.",
+    "works": [
+      "Orphée (peinture, œuvre représentative de son univers mythologique)",
+      "Peintures et dessins liés à l'esthétique du Grand Jeu",
+      "Illustrations et travaux graphiques pour les milieux littéraires d'avant-garde"
+    ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Josef Šíma, catalogue de l'exposition organisée par l'Ambassade de la République tchèque à Paris, 2021.",
+      "Joseph Sima, monographie et études consacrées à l'artiste, à compléter selon les éditions disponibles."
+    ]
   },
   {
     "id": "paulhan",
     "name": "Jean Paulhan",
     "years": "1884–1968",
     "group": "Revues",
-    "bio": "Écrivain et animateur de La Nouvelle Revue française, correspondant de Daumal.",
+    "bio": "Écrivain, critique et éditeur, Jean Paulhan joue un rôle majeur dans la vie littéraire française du XXe siècle. Après un séjour à Madagascar où il recueille et traduit des hain-teny, poèmes populaires malgaches, il publie ses premiers récits puis devient, en 1925, secrétaire et bientôt rédacteur en chef de La Nouvelle Revue française. Il y exerce jusqu'en 1940, puis de 1953 à 1963, une influence décisive sur la publication et la reconnaissance de nombreux écrivains. Sa relation épistolaire avec René Daumal témoigne de son attention au Grand Jeu. Ses essais interrogent le langage, la rhétorique, les lieux communs et les conditions de la création littéraire.",
     "works": [
-      "Les Fleurs de Tarbes"
+      "Les Hain-Tenys Merinas (1913)",
+      "Le Guerrier appliqué (1917)",
+      "Le Pont traversé (1921)",
+      "La Guérison sévère (1925)",
+      "Entretiens sur des faits divers (1930)",
+      "Les Fleurs de Tarbes ou La Terreur dans les lettres (1941)",
+      "Clef de la poésie (1944)",
+      "Braque le patron (1946)",
+      "De la paille et du grain (1948)",
+      "Les Causes célèbres (1950)",
+      "Petite préface à toute critique (1951)",
+      "Lettre aux directeurs de la Résistance (1952)"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Le Guerrier appliqué, 1917.",
+      "Le Pont traversé, 1921.",
+      "La Guérison sévère, 1925.",
+      "Les Fleurs de Tarbes ou La Terreur dans les lettres, 1941.",
+      "Clef de la poésie, 1944.",
+      "Braque le patron, 1946.",
+      "De la paille et du grain, 1948.",
+      "Petite préface à toute critique, 1951.",
+      "Lettre aux directeurs de la Résistance, 1952."
+    ]
   },
   {
     "id": "leiris",
     "name": "Michel Leiris",
     "years": "1901–1990",
     "group": "Sciences humaines",
-    "bio": "Écrivain et ethnologue, collaborateur du Grand Jeu et de Documents, cofondateur du Collège de sociologie.",
+    "bio": "Écrivain, poète, critique d'art et ethnologue, Michel Leiris fréquente les milieux surréalistes avant de devenir secrétaire de rédaction de la revue Documents, dirigée par Georges Bataille, en 1929. Il participe à la mission ethnographique Dakar-Djibouti (1931-1933), expérience dont il tire L'Afrique fantôme, journal de terrain qui bouleverse les frontières entre récit autobiographique et écriture ethnographique. Il travaille ensuite au Musée de l'Homme et poursuit une œuvre où l'exploration de soi, le langage, le sacré, la tauromachie et l'observation des sociétés se répondent. Il est également une figure du Collège de sociologie et un compagnon intellectuel de Bataille.",
     "works": [
-      "L'Afrique fantôme",
-      "L'Âge d'homme"
+      "Simulacre (1925)",
+      "Aurora (1927)",
+      "L'Afrique fantôme (1934)",
+      "L'Âge d'homme (1939)",
+      "Haut mal (1943)",
+      "Biffures (1948)",
+      "Fourbis (1955)",
+      "Fibrilles (1966)",
+      "Nuits sans nuit et quelques jours sans jour (1961)",
+      "Frêle bruit (1976)",
+      "Le Ruban au cou d'Olympia (1981)",
+      "Langage tangage (1985)",
+      "À cor et à cri (1988)"
     ],
     "kind": "person",
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "L'Afrique fantôme, Gallimard, 1934.",
+      "L'Âge d'homme, Gallimard, 1939.",
+      "Biffures, Gallimard, 1948.",
+      "Fourbis, Gallimard, 1955.",
+      "Fibrilles, Gallimard, 1966.",
+      "Frêle bruit, Gallimard, 1976.",
+      "Miroir de l'Afrique, édition établie par Jean Jamin, Quarto Gallimard, 1996."
     ]
   },
   {
@@ -85,13 +183,26 @@
     "name": "André Masson",
     "years": "1896–1987",
     "group": "Arts",
-    "bio": "Peintre associé au surréalisme et proche de Michel Leiris.",
-    "works": [],
+    "bio": "Peintre, dessinateur et illustrateur, André Masson est une figure majeure du surréalisme et de ses marges. Après sa formation à Bruxelles et à Paris, puis une grave blessure pendant la Première Guerre mondiale, il s'installe rue Blomet à Paris au début des années 1920, dans un atelier voisin de celui de Joan Miró. Il expérimente le dessin automatique, le sable, les gestes spontanés et des compositions traversées par la violence, l'érotisme et les mythes. Proche de Michel Leiris, il contribue à la revue Documents et participe à plusieurs réseaux intellectuels autour de Bataille. Son parcours, marqué par des séjours aux États-Unis et en Provence, ne se confond jamais entièrement avec l'orthodoxie surréaliste.",
+    "works": [
+      "Les Villageois (1927)",
+      "La Métamorphose des amants (1930)",
+      "Massacre (1932-1933)",
+      "Gradiva (1937-1939)",
+      "Les Constellations (série, années 1930)",
+      "Le Labyrinthe (1938)",
+      "L'Atelier de Marseille (1940-1941)"
+    ],
     "kind": "person",
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "André Masson, catalogue raisonné et monographies à consulter selon les périodes de l'œuvre.",
+      "André Masson : une mythologie de l'être et de la nature, études et catalogues d'exposition.",
+      "Dawn Ades, biographie chronologique publiée sur le site officiel André Masson."
     ]
   },
   {
@@ -99,15 +210,36 @@
     "name": "Georges Bataille",
     "years": "1897–1962",
     "group": "Sciences humaines",
-    "bio": "Écrivain et penseur du sacré, animateur de Documents et du Collège de sociologie.",
+    "bio": "Écrivain, essayiste, bibliothécaire et penseur, Georges Bataille développe une œuvre transversale consacrée à l'érotisme, la dépense, le sacré, la mort, la souveraineté et les limites de la connaissance. Archiviste paléographe de formation, il travaille dans plusieurs bibliothèques avant de fonder la revue Documents en 1929, laboratoire critique où se croisent art, ethnographie, philosophie et iconographie. En marge du surréalisme d'André Breton, avec lequel il entretient une polémique durable, il anime le groupe et la revue Acéphale puis le Collège de sociologie (1937-1939). Son œuvre associe essais théoriques, récits fictionnels et textes d'expérience.",
     "works": [
-      "L'Expérience intérieure"
+      "Histoire de l'œil (1928, sous le pseudonyme Lord Auch)",
+      "Documents (revue, 1929-1930)",
+      "L'Anus solaire (1931)",
+      "La Notion de dépense (1933)",
+      "Madame Edwarda (1941, sous le pseudonyme Pierre Angélique)",
+      "L'Expérience intérieure (1943)",
+      "La Part maudite (1949)",
+      "Théorie de la religion (posthume, 1973)",
+      "L'Érotisme (1957)",
+      "La Littérature et le mal (1957)",
+      "Les Larmes d'Éros (1961)"
     ],
     "kind": "person",
     "role_icon": "📖",
     "role_label": "Écriture",
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Histoire de l'œil, 1928 (sous le pseudonyme Lord Auch).",
+      "L'Expérience intérieure, Gallimard, 1943.",
+      "La Part maudite, Éditions de Minuit, 1949.",
+      "L'Abbé C., 1950.",
+      "La Souveraineté, texte rédigé dans les années 1950, publication posthume.",
+      "L'Érotisme, Éditions de Minuit, 1957.",
+      "La Littérature et le mal, Gallimard, 1957.",
+      "Les Larmes d'Éros, 1961.",
+      "Œuvres complètes, 12 volumes, Gallimard, 1970-1988."
     ]
   },
   {
@@ -115,27 +247,66 @@
     "name": "André Breton",
     "years": "1896–1966",
     "group": "Surréalisme",
-    "bio": "Écrivain et principal animateur du mouvement surréaliste.",
+    "bio": "Poète, écrivain et théoricien, André Breton est l'un des principaux fondateurs du surréalisme, qu'il conçoit comme une transformation de la vie autant que de la littérature. Étudiant en médecine mobilisé pendant la Première Guerre mondiale, il découvre la psychiatrie et les associations libres, rencontre Jacques Vaché, puis se rapproche de Dada. Avec Philippe Soupault, il expérimente l'écriture automatique dans Les Champs magnétiques (1920). Le Manifeste du surréalisme (1924) donne au mouvement son premier cadre théorique. Animateur de revues, organisateur d'expositions et auteur d'une œuvre poétique et narrative, il entretient une relation conflictuelle avec le Grand Jeu, dont il tente un temps le rapprochement avec le surréalisme.",
     "works": [
-      "Manifeste du surréalisme",
-      "Nadja"
+      "Les Champs magnétiques (avec Philippe Soupault, 1920)",
+      "Clair de terre (1923)",
+      "Manifeste du surréalisme (1924)",
+      "Poisson soluble (1924)",
+      "Nadja (1928)",
+      "Second Manifeste du surréalisme (1930)",
+      "Les Vases communicants (1932)",
+      "L'Amour fou (1937)",
+      "Anthologie de l'humour noir (1940)",
+      "Arcane 17 (1944)",
+      "La Clé des champs (1953)"
     ],
     "kind": "person",
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Les Champs magnétiques, avec Philippe Soupault, 1920.",
+      "Manifeste du surréalisme, 1924.",
+      "Nadja, Gallimard, 1928.",
+      "Second Manifeste du surréalisme, 1930.",
+      "Les Vases communicants, 1932.",
+      "L'Amour fou, 1937.",
+      "Anthologie de l'humour noir, 1940.",
+      "Arcane 17, 1944.",
+      "Œuvres complètes, édition Marguerite Bonnet, Bibliothèque de la Pléiade, Gallimard, 1988-2008."
+    ]
   },
   {
     "id": "desnos",
     "name": "Robert Desnos",
     "years": "1900–1945",
     "group": "Surréalisme",
-    "bio": "Poète lié au surréalisme, contributeur à la revue Le Grand Jeu.",
+    "bio": "Poète, journaliste, critique de cinéma et résistant, Robert Desnos rejoint les milieux dadaïstes puis devient l'un des acteurs les plus remarquables du premier surréalisme. Sa pratique de l'écriture automatique, ses expériences de sommeil hypnotique et ses jeux verbaux donnent naissance à des textes comme Rrose Sélavy et L'Aumonyme. En désaccord avec l'orientation politique imposée par André Breton, il rompt avec le groupe au début des années 1930. Il poursuit une œuvre poétique ouverte à la chanson, au rêve, au merveilleux populaire et à l'imaginaire cinématographique. Engagé dans la Résistance au sein du réseau AGIR, il est arrêté en 1944, déporté et meurt au camp de Theresienstadt en juin 1945.",
     "works": [
-      "Corps et biens"
+      "Deuil pour deuil (1924)",
+      "La Liberté ou l'amour ! (1927)",
+      "Corps et biens (1930)",
+      "The Night of Loveless Nights / Les Nuits sans amour (1930)",
+      "Fortunes (1942)",
+      "État de veille (1943)",
+      "Le Bain avec Andromède (1944)",
+      "Destinée arbitraire (posthume, 197 destiny)",
+      "Rrose Sélavy (textes, 1922-1923)",
+      "L'Aumonyme (1923)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Deuil pour deuil, 1924.",
+      "La Liberté ou l'amour !, 1927.",
+      "Corps et biens, Gallimard, 1930.",
+      "Fortunes, 1942.",
+      "État de veille, 1943.",
+      "Destinée arbitraire, Gallimard, 197 destiny (posthume).",
+      "Nouvelles Hébrides et autres textes, 1922-1930, Gallimard, 1978.",
+      "Écrits sur les peintres, Flammarion, 1984, édition revue 2011."
+    ]
   },
   {
     "id": "michaux",
