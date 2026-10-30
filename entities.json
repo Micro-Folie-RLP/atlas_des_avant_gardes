@@ -313,29 +313,66 @@
     "name": "Henri Michaux",
     "years": "1899–1984",
     "group": "Indépendants",
-    "bio": "Poète et peintre, explorateur des états de conscience et des possibilités du langage.",
+    "bio": "Poète, essayiste et peintre né à Namur, Henri Michaux s'installe à Paris en 1924 et devient français en 1955. Ses premiers livres, nourris de voyages et d'une défiance envers les identités fixes, inventent une prose poétique faite de fragments, de visions et de personnages instables. Ecuador (1929) et Un barbare en Asie (1933) mêlent récit de voyage, observation critique et invention. À partir des années 1950, il mène une exploration singulière des états de conscience, notamment dans Misérable miracle et L'Infini turbulent, tout en développant une œuvre graphique autonome : encres, signes et figures semblent prolonger visuellement ses recherches sur le langage et le mouvement intérieur. Refusant les écoles et les classifications, Michaux maintient une position indépendante à l'égard des avant-gardes auxquelles son œuvre reste pourtant étroitement apparentée.",
     "works": [
-      "Un certain Plume",
-      "La Nuit remue"
+      "Qui je fus (1927)",
+      "Ecuador (1929)",
+      "Un certain Plume (1930)",
+      "Un barbare en Asie (1933)",
+      "La Nuit remue (1935)",
+      "Plume précédé de Lointain intérieur (1938)",
+      "Ailleurs (1948)",
+      "La Vie dans les plis (1949)",
+      "Face aux verrous (1954)",
+      "Misérable miracle (1956)",
+      "L'Infini turbulent (1957)",
+      "Connaissance par les gouffres (1961)",
+      "Émergences-résurgences (1972)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Œuvres complètes, éd. Raymond Bellour et Ysé Tran, Bibliothèque de la Pléiade, Gallimard, 3 vol., 1998-2004.",
+      "Henri Michaux, Un certain Plume, Gallimard, 1930.",
+      "Henri Michaux, Ecuador, Gallimard, 1929.",
+      "Henri Michaux, Misérable miracle, Éditions du Rocher, 1956.",
+      "Raymond Bellour, Henri Michaux ou une mesure de l'être, Gallimard, 1965.",
+      "Centre Pompidou, dossier et notices d'œuvres consacrés à Henri Michaux."
+    ]
   },
   {
     "id": "caillois",
     "name": "Roger Caillois",
     "years": "1913–1978",
     "group": "Sciences humaines",
-    "bio": "Écrivain et sociologue du sacré, cofondateur du Collège de sociologie.",
+    "bio": "Écrivain, essayiste, sociologue et critique, Roger Caillois naît à Reims et rencontre au lycée Roger Gilbert-Lecomte ainsi que les futurs membres du Grand Jeu. Installé à Paris, il fréquente brièvement les surréalistes avant de s'en éloigner en 1934. Avec Georges Bataille et Michel Leiris, il participe en 1937 à la fondation du Collège de sociologie, qui étudie les formes du sacré, les mythes et les forces collectives. La guerre le conduit en Argentine, où il anime la revue Les Lettres françaises et noue des liens avec les milieux intellectuels latino-américains. De retour en France en 1945, il dirige chez Gallimard la collection « La Croix du Sud », qui contribue à faire connaître la littérature latino-américaine. Son œuvre associe sociologie, anthropologie, esthétique et réflexion sur le jeu, le fantastique et les sciences naturelles. Élu à l'Académie française en 1971, il reçoit le prix Marcel-Proust en 1978.",
     "works": [
-      "L'Homme et le sacré"
+      "Le Mythe et l'Homme (1938)",
+      "L'Homme et le Sacré (1939)",
+      "Les impostures de la poésie (1945)",
+      "Babel (1948)",
+      "Les Jeux et les Hommes (1958)",
+      "Méduse et Cie (1960)",
+      "Bellone ou la pente de la guerre (1963)",
+      "Pierres (1966)",
+      "L'Écriture des pierres (1970)",
+      "Cases d'un échiquier (1970)"
     ],
     "kind": "person",
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Le Mythe et l'Homme, Gallimard, 1938.",
+      "L'Homme et le Sacré, Leroux, 1939 ; rééd. Gallimard, 1950.",
+      "Les Jeux et les Hommes : le masque et le vertige, Gallimard, 1958.",
+      "Méduse et Cie, Gallimard, 1960.",
+      "Roger Caillois, Œuvres, éd. Dominique Rabaté, Quarto Gallimard, 2008.",
+      "Notice biographique et bibliographie, Académie française, « Roger Caillois ».",
+      "Notice d'autorité et catalogue bibliographique, Bibliothèque nationale de France."
     ]
   },
   {
@@ -343,99 +380,225 @@
     "name": "Paul Nougé",
     "years": "1895–1967",
     "group": "Surréalisme belge",
-    "bio": "Poète et théoricien, figure majeure du surréalisme bruxellois.",
-    "works": [],
+    "bio": "Poète, théoricien et expérimentateur du langage, Paul Nougé est l'une des figures fondatrices du surréalisme belge. Formé à la chimie biologique, il travaille durant plusieurs décennies dans un laboratoire médical, tout en menant une activité littéraire et politique clandestine ou collective. En 1924, il fonde avec Camille Goemans et Marcel Lecomte la revue Correspondance : ses tracts, pastiches et détournements mettent à l'épreuve les automatismes de la littérature et les conventions du langage. Nougé se méfie de l'écriture automatique et privilégie des dispositifs construits, destinés à produire des effets de déstabilisation dans la vie quotidienne. Il collabore étroitement avec René Magritte, dont il oriente plusieurs expériences et dont il accompagne la réflexion sur les rapports entre mots et images. Peu soucieux de publier des livres de son vivant, il laisse une œuvre longtemps dispersée dans les revues, les tracts et les manuscrits.",
+    "works": [
+      "Correspondance (tracts, 1924-1925)",
+      "Quelques Écrits et quelques dessins (1927)",
+      "Histoire de ne pas rire (1956)",
+      "L'Expérience continue (1966)",
+      "Journal (1941-1950, publication posthume)",
+      "Des mots à la rumeur publique (1983, posthume)",
+      "Au palais des images, les spectres sont rois (œuvres complètes, 2017)"
+    ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Histoire de ne pas rire, Les Lèvres nues, Bruxelles, 1956.",
+      "L'Expérience continue, Les Lèvres nues, Bruxelles, 1966.",
+      "Journal (1941-1950), Les Lèvres nues, Bruxelles, 1968 ; rééd. Didier Devillez, 1995.",
+      "Des mots à la rumeur publique, L'Âge d'homme, 1983.",
+      "Au palais des images, les spectres sont rois : œuvres complètes, éd. Geneviève Michel, Allia, 2017.",
+      "La Conférence de Charleroi, Allia, 2020.",
+      "Notice biographique et bibliographie, Maison de la poésie et de la langue française de Namur."
+    ]
   },
   {
     "id": "magritte",
     "name": "René Magritte",
     "years": "1898–1967",
     "group": "Surréalisme belge",
-    "bio": "Peintre surréaliste belge, proche de Paul Nougé.",
-    "works": [],
+    "bio": "Peintre belge, René Magritte est l'un des principaux représentants du surréalisme. Après des études à l'Académie royale des beaux-arts de Bruxelles, il travaille dans la publicité et réalise ses premières œuvres dans un langage encore marqué par le cubisme et le futurisme. La découverte de Giorgio de Chirico, au début des années 1920, joue un rôle décisif dans l'élaboration de son vocabulaire d'objets déplacés, de rencontres impossibles et d'images énigmatiques. Installé à Paris en 1927, il rejoint le groupe surréaliste et se lie notamment à Paul Nougé, qui contribue à définir la singularité du surréalisme bruxellois. De retour en Belgique en 1930, il développe une peinture volontairement lisible dans ses formes mais déroutante dans ses associations. La série des tableaux-mots, dont La Trahison des images (1929), interroge les rapports entre représentation, langage et réalité. Son influence s'étend bien au-delà de la peinture, notamment sur l'art conceptuel et la culture visuelle contemporaine.",
+    "works": [
+      "Le Jockey perdu (1926)",
+      "Le Double Secret (1927)",
+      "Les Amants (1928)",
+      "La Trahison des images (1929)",
+      "La Condition humaine (1933)",
+      "La Reproduction interdite (1937)",
+      "Le Domaine d'Arnheim (1938)",
+      "L'Empire des lumières (1953-1954)",
+      "Les Mémoires d'un saint (1960)"
+    ],
     "kind": "person",
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "René Magritte, Écrits complets, éd. André Blavier, Flammarion, 1979.",
+      "René Magritte, Les Mots et les images : choix d'écrits, Espace Nord / Labor, 2000.",
+      "David Sylvester et Sarah Whitfield, René Magritte : Catalogue raisonné, 5 vol., Fonds Mercator / Flammarion, 1992-1997.",
+      "Michel Draguet, Magritte, Gallimard, coll. « Folio biographies », 2014.",
+      "René Magritte : La trahison des images, catalogue d'exposition, Centre Pompidou, 2016.",
+      "Notice d'autorité, Bibliothèque nationale de France."
+    ]
   },
   {
     "id": "fondane",
     "name": "Benjamin Fondane",
     "years": "1898–1944",
     "group": "Indépendants",
-    "bio": "Poète, essayiste et philosophe, lecteur de Léon Chestov.",
+    "bio": "Né Benjamin Wechsler à Iași, en Roumanie, Benjamin Fondane écrit d'abord en roumain sous le nom de B. Fundoianu avant de s'installer à Paris en 1923 et d'adopter son nom français. Poète, dramaturge, essayiste, philosophe et cinéaste, il traverse plusieurs langues et traditions culturelles sans se laisser enfermer dans une école. À Paris, il se rapproche de Léon Chestov, dont la critique du rationalisme et des systèmes philosophiques marque profondément sa pensée. Ses essais, notamment La Conscience malheureuse et Faux traité d'esthétique, défendent l'expérience singulière contre les constructions abstraites. Dans Rimbaud le voyou, il conteste les lectures qui transforment le poète en figure exemplaire ou en simple précurseur littéraire. Mobilisé puis démobilisé, il est arrêté en 1944 avec sa sœur Line et déporté à Auschwitz-Birkenau, où il est assassiné. Son œuvre poétique, philosophique et critique a été largement redécouverte grâce aux éditions posthumes et au travail de la Société d'études Benjamin Fondane.",
     "works": [
-      "La Conscience malheureuse"
+      "Trois scenarii : ciné-poèmes (1928)",
+      "Ulysse (1933)",
+      "La Conscience malheureuse (1936)",
+      "Rimbaud le voyou (1936)",
+      "Faux traité d'esthétique (1938)",
+      "Titanic (1937)",
+      "Baudelaire et l'expérience du gouffre (1947, posthume)",
+      "Le Mal des fantômes (1980, posthume)",
+      "Le Lundi existentiel et le dimanche de l'histoire (posthume)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "La Conscience malheureuse, Denoël, 1936 ; éd. revue, Verdier, 2013.",
+      "Rimbaud le voyou, Denoël, 1936 ; rééd. Non Lieu, 2011.",
+      "Faux traité d'esthétique, Denoël, 1938.",
+      "Le Mal des fantômes, Verdier, 2006 ; nouvelle édition revue, 2025.",
+      "Écrits pour le cinéma, Verdier, 2007.",
+      "Jérusalem et Athènes, éd. revue et corrigée sous la direction de Monique Jutrin, Cerf, 2024.",
+      "Site de la Société d'études Benjamin Fondane : chronologie, bibliographies et Cahiers Benjamin Fondane."
+    ]
   },
   {
     "id": "rimbaud",
     "name": "Arthur Rimbaud",
     "years": "1854–1891",
     "group": "Lectures",
-    "bio": "Poète du XIXe siècle, référence majeure pour les membres du Grand Jeu.",
+    "bio": "Arthur Rimbaud compose l'essentiel de son œuvre poétique entre quinze et vingt ans, dans une succession d'expériences formelles qui bouleversent la poésie française. Né à Charleville, il fugue à plusieurs reprises, découvre Paris pendant la Commune et écrit à ses correspondants les lettres dites « du voyant » en 1871, où il formule une conception radicale de la poésie comme dérèglement de tous les sens. Après les poèmes en vers des Cahiers de Douai, il publie à compte d'auteur Une saison en enfer en 1873 ; les proses des Illuminations, écrites principalement entre 1872 et 1875, ne paraissent qu'après sa période d'écriture. Sa relation tumultueuse avec Paul Verlaine, puis son abandon de la littérature vers 1875, ouvrent une seconde existence faite de voyages, de commerce et d'activités en Afrique et au Moyen-Orient. Atteint d'une tumeur à la jambe, il revient en France et meurt à Marseille en 1891. Son œuvre brève devient l'une des matrices majeures de la modernité poétique, du symbolisme aux avant-gardes du XXe siècle.",
     "works": [
-      "Une saison en enfer",
-      "Illuminations"
+      "Cahiers de Douai (poèmes de 1870)",
+      "Le Bateau ivre (1871)",
+      "Les Lettres du voyant (1871)",
+      "Une saison en enfer (1873)",
+      "Illuminations (publication posthume, 1886)",
+      "Les Déserts de l'amour (publication posthume)",
+      "Album zutique (collectif, 1871)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Œuvres complètes, éd. André Guyaux et Aurélia Cervoni, Bibliothèque de la Pléiade, Gallimard, 2009.",
+      "Jean-Jacques Lefrère, Arthur Rimbaud, Fayard, 2001 ; rééd. Robert Laffont, coll. « Bouquins », 2020.",
+      "Jean-Luc Steinmetz, Arthur Rimbaud : une question de présence, Tallandier, 2009.",
+      "Steve Murphy, Stratégies de Rimbaud, Honoré Champion, 2009.",
+      "Yves Bonnefoy, Rimbaud par lui-même, Seuil, 1961 ; rééd. 1994.",
+      "Benjamin Fondane, Rimbaud le voyou, 1936.",
+      "Parade sauvage, revue d'études rimbaldiennes, Musée Arthur Rimbaud / Société des amis de Rimbaud.",
+      "Bibliothèque nationale de France, dossier Rimbaud et ressources Gallica."
+    ]
   },
   {
     "id": "tzara",
     "name": "Tristan Tzara",
     "years": "1896–1963",
     "group": "Dada",
-    "bio": "Poète et fondateur du mouvement Dada à Zurich.",
+    "bio": "Né Samuel Rosenstock en Roumanie, Tristan Tzara adopte son nom de plume avant son installation à Zurich en 1915. Avec Hugo Ball, Emmy Hennings, Jean Arp, Sophie Taeuber et Marcel Janco, il participe à l'ouverture du Cabaret Voltaire en 1916, lieu fondateur de Dada. Animateur de la revue Dada, organisateur de soirées et auteur de manifestes, il contribue à faire de ce mouvement une constellation internationale plutôt qu'une école unifiée. Installé à Paris en 1920, il prend part aux manifestations dadaïstes et aux conflits qui traversent l'avant-garde, avant de se rapprocher du surréalisme à la fin des années 1920. L'Homme approximatif (1931) marque une étape majeure de sa poésie, où le montage d'images et la dislocation syntaxique ouvrent une voie singulière. Engagé contre le fascisme, il rejoint la Résistance pendant la Seconde Guerre mondiale et adhère ensuite au Parti communiste français, tout en poursuivant une œuvre poétique et critique qui dépasse largement les provocations des débuts dadaïstes.",
     "works": [
-      "Sept manifestes Dada"
+      "La Première Aventure céleste de Monsieur Antipyrine (1916)",
+      "Vingt-cinq poèmes (1918)",
+      "Le Cœur à gaz (1921)",
+      "L'Antitête (1923)",
+      "Sept manifestes Dada (1924)",
+      "L'Homme approximatif (1931)",
+      "Où boivent les loups (1933)",
+      "Midis gagnés (1939)",
+      "Le Signe de vie (1946)",
+      "La Face intérieure (1953)",
+      "Le Fruit permis (1956)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Œuvres complètes, éd. Henri Béhar, Flammarion, 6 vol., 1975-1991.",
+      "Sept manifestes Dada, 1924 ; nombreuses rééditions.",
+      "L'Homme approximatif, 1931.",
+      "Henri Béhar, Tristan Tzara, Oxus, 2005.",
+      "Michel Sanouillet, Dada à Paris, CNRS Éditions, éd. revue et augmentée, 2005.",
+      "Notice biographique, Centre Pompidou, ressources Tristan Tzara.",
+      "Historisches Lexikon der Schweiz, notice « Tristan Tzara », Ingrid Bigler-Marschall."
+    ]
   },
   {
     "id": "reneville",
     "name": "André Rolland de Renéville",
     "years": "1903–1962",
     "group": "Grand Jeu",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
+    "bio": "Poète, essayiste et critique, André Rolland de Renéville est l'un des théoriciens du Grand Jeu. Avocat puis magistrat, il s'intéresse très tôt à l'ésotérisme, à la théosophie et aux traditions spirituelles, qu'il cherche à mettre en relation avec l'expérience poétique. Introduit auprès de Roger Gilbert-Lecomte et de René Daumal par Léon Pierre-Quint, il rejoint le groupe au moment de sa constitution et contribue à la revue Le Grand Jeu. Son livre Rimbaud le voyant (1929) propose une lecture de Rimbaud comme initié et visionnaire, plutôt que comme simple poète de la révolte. Après l'éclatement du groupe, il poursuit une œuvre critique où la poésie est pensée comme une voie de connaissance et d'expérience intérieure. Il publie notamment L'Expérience poétique et L'Univers de la parole, puis fonde en 1947 la revue Les Cahiers de l'Hermès, consacrée aux traditions symboliques et spirituelles.",
+    "works": [
+      "Les Ténèbres peintes (1927)",
+      "Rimbaud le voyant (1929)",
+      "L'Expérience poétique (1938)",
+      "L'Univers de la parole (1944)",
+      "La Nuit, l'esprit (1946)",
+      "Les Cahiers de l'Hermès (revue fondée en 1947)"
+    ],
     "verification": "a_completer",
     "kind": "person",
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Les Ténèbres peintes, 1927.",
+      "Rimbaud le voyant, 1929.",
+      "L'Expérience poétique, Gallimard, 1938.",
+      "L'Univers de la parole, Gallimard, 1944.",
+      "La Nuit, l'esprit, 1946.",
+      "Fonds André Rolland de Renéville, Institut Mémoires de l'édition contemporaine (IMEC), notice archivistique.",
+      "Michel Random, Grand Jeu et surréalisme : Reims-Paris-Prague, Ludion / Musée des beaux-arts de Reims, 2003."
+    ]
   },
   {
     "id": "meyrat",
     "name": "Robert Meyrat",
-    "years": "1908–1997",
+    "years": "1907–1997",
     "group": "Grand Jeu",
-    "bio": "Notice biographique à documenter et enrichir. Décédé le 22 janvier 1997.",
-    "works": [],
+    "bio": "Robert Meyrat, surnommé « le Stryge », appartient au premier cercle des quatre lycéens rémois qui fondent le groupe des Phrères simplistes au début des années 1920, avec René Daumal, Roger Gilbert-Lecomte et Roger Vailland. Leur amitié se construit autour de lectures communes, notamment Rimbaud, Jarry et les poètes symbolistes, et d'une volonté de pousser l'expérience poétique et existentielle au-delà des conventions. À la différence de ses trois compagnons, Meyrat demeure à Reims lorsque les autres gagnent Paris. Il se retire du groupe avant la publication du premier numéro de la revue Le Grand Jeu en 1928 et ne participe pas à son activité éditoriale ultérieure. Les sources disponibles le documentent surtout à travers les archives du lycée de Reims, les photographies et les témoignages consacrés aux Phrères simplistes. Sa trajectoire personnelle et son éventuelle production écrite restent peu étudiées ; il serait donc abusif de lui attribuer une œuvre littéraire constituée sur la seule foi de son appartenance au groupe.",
+    "works": [
+      "Participation au groupe des Phrères simplistes (vers 1922-1927)",
+      "Textes de jeunesse et documents scolaires conservés dans les fonds consacrés aux Phrères simplistes ; œuvre autonome publiée non identifiée à ce jour"
+    ],
     "verification": "a_completer",
     "kind": "person",
     "death_date": "1997-01-22",
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Michel Random, Grand Jeu et surréalisme : Reims-Paris-Prague, Ludion / Musée des beaux-arts de Reims, 2003, notamment p. 27.",
+      "« Les Phrères simplistes », dossier d'archives, Bibliothèque Carnegie de Reims, signalé au Catalogue collectif de France (CCFr).",
+      "« Les insoumis du Grand Jeu », Le Monde des livres, 13 mars 2003.",
+      "Fonds et documentation sur Le Grand Jeu, Bibliothèque Carnegie de Reims / patrimoine des bibliothèques de Reims."
+    ]
   },
   {
     "id": "minet",
     "name": "Pierre Minet",
     "years": "1909–1975",
     "group": "Grand Jeu",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
+    "bio": "Poète et mémorialiste, Pierre Minet est une figure importante du Grand Jeu et l'un des premiers compagnons rémois de René Daumal et de Roger Gilbert-Lecomte. Arrivé à Paris en 1926, il mène une existence précaire entre Montmartre et Montparnasse et se lie aux membres du groupe, dont il partage les recherches poétiques et spirituelles sans être l'un de ses fondateurs historiques. Il publie des poèmes dans la revue Le Grand Jeu, puis plusieurs livres au croisement de la poésie et de l'autobiographie, notamment Circoncision du cœur, L'Homme-Mithridate et Histoire d'Eugène. Après une longue période de retrait de l'écriture, il travaille à la radio et revient à la littérature avec La Défaite (1947), vaste récit de formation et de désillusion. Son journal, tenu pendant près d'un demi-siècle, paraît après sa mort sous le titre En mal d'aurore. Il joue également un rôle éditorial dans la redécouverte de Roger Gilbert-Lecomte.",
+    "works": [
+      "Circoncision du cœur (1928)",
+      "L'Homme-Mithridate (1928)",
+      "Histoire d'Eugène (1930)",
+      "La Défaite (1947)",
+      "En mal d'aurore : journal (publication posthume, 2002)"
+    ],
     "verification": "a_completer",
     "kind": "person",
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Circoncision du cœur, 1928.",
+      "L'Homme-Mithridate, 1928.",
+      "Histoire d'Eugène, 1930.",
+      "La Défaite, 1947.",
+      "En mal d'aurore, journal, édition posthume, 2002.",
+      "Fonds Pierre Minet (1909-1975), Institut Mémoires de l'édition contemporaine (IMEC), notice archivistique.",
+      "Zéno Bianu (éd.), Les Poètes du Grand Jeu, Poésie/Gallimard, 2003."
+    ]
   },
   {
     "id": "henry",
