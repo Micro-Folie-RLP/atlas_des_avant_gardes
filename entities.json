@@ -2001,381 +2001,642 @@
     "name": "John Clellon Holmes",
     "years": "1926–1988",
     "group": "Beat Generation",
-    "bio": "Romancier et essayiste souvent associé à la première génération beat; son article de 1952 contribua à faire connaître l'expression « Beat Generation ».",
+    "bio": "John Clellon Holmes est un romancier, poète et essayiste américain associé aux débuts de la Beat Generation. Il rencontre Jack Kerouac et Allen Ginsberg à New York au début des années 1940. Son roman Go (1952), nourri par la vie des écrivains de son cercle, est l’un des premiers romans à décrire de l’intérieur ce milieu. Son article « This Is the Beat Generation », publié la même année dans le New York Times Magazine, contribue à populariser l’expression. Holmes explore la quête spirituelle, le jazz et les désillusions de l’après-guerre, tout en gardant une distance critique vis-à-vis de la mythologie beat.",
     "works": [
-      "Go"
+      "Go (1952)",
+      "The Horn (1958)",
+      "Get Home Free (1964)",
+      "Nothing More to Declare (1967)",
+      "The Bowling Green Poems (1977)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/John_Clellon_Holmes",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://academic.oup.com/american-national-biography/reference/63042/reference-article-abstract/570404167",
+        "note": "Notice de référence, American National Biography / Oxford Academic."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Go, Scribner, 1952.",
+      "The Horn, Random House, 1958.",
+      "Get Home Free, Random House, 1964.",
+      "Nothing More to Declare, Random House, 1967.",
+      "Edward L. Lach Jr., « Holmes, John Clellon (1926–1988) », American National Biography, Oxford University Press."
+    ]
   },
   {
     "id": "snyder",
     "name": "Gary Snyder",
     "years": "1930–",
     "group": "Beat Generation",
-    "bio": "Poète, traducteur et écologiste; associé aux Beats et à la Renaissance de San Francisco.",
+    "bio": "Gary Snyder est un poète, traducteur, essayiste et militant écologiste américain dont l’œuvre relie poésie moderniste, cultures du Pacifique et bouddhisme zen. Formé à Reed College puis à Berkeley, il travaille comme bûcheron et guetteur d’incendie avant de rejoindre la scène de San Francisco. Sa participation à la lecture de la Six Gallery en 1955 l’inscrit dans l’histoire beat, mais ses séjours au Japon et sa pratique du zen lui donnent une trajectoire singulière. Riprap et Myths & Texts associent observation du paysage, travail manuel et expérimentation formelle. Dans The Practice of the Wild, il défend une pensée écologique attentive aux langues, aux territoires et aux savoirs autochtones.",
     "works": [
-      "Riprap",
-      "Turtle Island"
+      "Riprap (1959)",
+      "Myths & Texts (1960)",
+      "The Back Country (1967)",
+      "Earth House Hold (1969)",
+      "Turtle Island (1974)",
+      "The Practice of the Wild (1990)",
+      "Mountains and Rivers Without End (1996)",
+      "A Place in Space (1995)",
+      "The Gary Snyder Reader (1999)",
+      "Danger on Peaks (2004)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/poets/gary-snyder",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Biographie et bibliographie sélective, Poetry Foundation."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Riprap, Kyoto: Printed Matter Press, 1959.",
+      "Myths & Texts, New Directions, 1960.",
+      "Turtle Island, New Directions, 1974 (prix Pulitzer de poésie, 1975).",
+      "The Practice of the Wild, North Point Press, 1990.",
+      "Mountains and Rivers Without End, Counterpoint, 1996.",
+      "The Gary Snyder Reader: Prose, Poetry, and Translations, 1952–1998, Counterpoint, 1999."
+    ]
   },
   {
     "id": "orlovsky",
     "name": "Peter Orlovsky",
     "years": "1933–2010",
     "group": "Beat Generation",
-    "bio": "Poète et acteur, compagnon de longue date d'Allen Ginsberg et participant aux communautés beat.",
+    "bio": "Peter Orlovsky est un poète, interprète et musicien américain, connu pour sa relation personnelle et artistique avec Allen Ginsberg. Né à New York dans une famille ouvrière, il exerce divers métiers avant de rencontrer Ginsberg en 1954 à San Francisco. Il accompagne celui-ci dans ses voyages en Inde et participe à la circulation internationale de la poésie beat, tout en développant une voix propre, orale, spontanée et volontiers irrévérencieuse. Ses poèmes et lectures brouillent les frontières entre écriture, performance et vie quotidienne. Les archives du Harry Ransom Center de l’Université du Texas à Austin documentent ses manuscrits, sa correspondance et ses réseaux littéraires.",
     "works": [
-      "Clean Asshole Poems & Smiling Vegetable Songs"
+      "Clean Asshole Poems & Smiling Vegetable Songs (1967)",
+      "Straight Hearts' Delight: Love Poems and Selected Letters (2001, avec Allen Ginsberg)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://sexualities.history.columbia.edu/content/beat-writers",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00103",
+        "note": "Inventaire archivistique et notice biographique du fonds Peter Orlovsky."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Clean Asshole Poems & Smiling Vegetable Songs, City Lights, 1967.",
+      "Straight Hearts' Delight: Love Poems and Selected Letters, éd. Bill Morgan, Penguin, 2001.",
+      "Peter Orlovsky papers, Harry Ransom Center, The University of Texas at Austin."
+    ]
   },
   {
     "id": "mcclure",
     "name": "Michael McClure",
     "years": "1932–2020",
     "group": "Beat Generation",
-    "bio": "Poète et dramaturge de la scène de San Francisco; l'un des poètes présents à la lecture historique de la Six Gallery en 1955.",
+    "bio": "Michael McClure est un poète, dramaturge et essayiste américain associé à la Renaissance de San Francisco. En 1955, il contribue à organiser la lecture de la Six Gallery où Allen Ginsberg lit publiquement un extrait de Howl. McClure y présente un texte sur la mort des baleines, annonçant son intérêt durable pour l’animalité et l’écologie. Sa poésie associe spontanéité, expérimentation typographique et énergie corporelle; ses performances avec des musiciens, notamment Terry Riley et Ray Manzarek, prolongent sa recherche sur la voix. Il écrit également des pièces, des romans et des essais. The Beard, pièce controversée des années 1960, le place au centre des débats sur la censure et la liberté artistique.",
     "works": [
-      "Ghost Tantras"
+      "Passage (1956)",
+      "The New Book / A Book of Torture (1961)",
+      "Ghost Tantras (1964)",
+      "The Beard (1965)",
+      "Scratching the Beat Surface (1982)",
+      "Of Indigo and Saffron: New and Selected Poems (1991)",
+      "Mephistos and Other Poems (2016)",
+      "Persian Pony (2017)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poets.org/",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/poets/michael-mcclure",
+        "note": "Notice biographique et bibliographie, Poetry Foundation."
+      },
+      {
+        "url": "https://poets.org/poet/michael-mcclure",
+        "note": "Academy of American Poets : parcours et publications."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The New Book / A Book of Torture, Auerhahn Press, 1961.",
+      "Ghost Tantras, Auerhahn Press, 1964.",
+      "The Beard, 1965.",
+      "Scratching the Beat Surface: Essays on New Vision from Blake to Kerouac, North Atlantic Books, 1982.",
+      "Of Indigo and Saffron: New and Selected Poems, University of California Press, 1991.",
+      "Mephistos and Other Poems, City Lights, 2016.",
+      "Persian Pony, Ekstasis Editions, 2017."
+    ]
   },
   {
     "id": "whalen",
     "name": "Philip Whalen",
     "years": "1923–2002",
     "group": "Beat Generation",
-    "bio": "Poète et moine zen, associé à la Renaissance de San Francisco et à la scène beat.",
+    "bio": "Philip Whalen est un poète américain associé à la Renaissance de San Francisco et à la Beat Generation. Après son service militaire, il étudie à Reed College, où il se lie d’amitié avec Gary Snyder et Lew Welch. Sa poésie mêle observation quotidienne, humour, références littéraires, notation de la conscience et intérêt pour les philosophies asiatiques. Il participe à la lecture de la Six Gallery en 1955, scène fondatrice de la poésie beat. Ses livres alternent poèmes, prose et fragments méditatifs; il devient prêtre bouddhiste zen en 1973 et exerce ensuite à San Francisco et au Nouveau-Mexique. Son œuvre a durablement influencé la poésie expérimentale américaine.",
     "works": [
-      "Memoirs of an Interglacial Age"
+      "Memoirs of an Interglacial Age (1960)",
+      "Every Day (1965)",
+      "On Bear's Head (1969)",
+      "Severance Pay (1970)",
+      "Decompressions (1977)",
+      "Heavy Breathing (1980)",
+      "Canoeing Up Cabarga Creek: Buddhist Poems, 1955–1986 (1996)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Philip_Whalen",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://poets.org/index.php/poet/philip-whalen",
+        "note": "Biographie et bibliographie, Academy of American Poets."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Memoirs of an Interglacial Age, Auerhahn Press, 1960.",
+      "Every Day, Coyote's Journal, 1965.",
+      "On Bear's Head, Harcourt, Brace & World, 1969.",
+      "Decompressions, Grey Fox Press, 1977.",
+      "Heavy Breathing: Poems, 1967–1980, Four Seasons Foundation, 1980.",
+      "Canoeing Up Cabarga Creek: Buddhist Poems, 1955–1986, Parallax Press, 1996."
+    ]
   },
   {
     "id": "welch",
     "name": "Lew Welch",
     "years": "1926–1971",
     "group": "Beat Generation",
-    "bio": "Poète américain lié à Gary Snyder, Philip Whalen et à la scène poétique de San Francisco.",
+    "bio": "Lew Welch est un poète américain de la génération beat, étroitement lié à Gary Snyder et Philip Whalen depuis leurs années à Reed College. Il travaille dans la publicité à Chicago avant de revenir sur la côte Ouest et de rejoindre les cercles poétiques de San Francisco. Sa poésie ramassée, attentive aux objets ordinaires, au paysage et à la parole quotidienne, conjugue sobriété, ironie et recherche spirituelle. Il participe à la lecture de la Six Gallery en 1955. Ses poèmes font de l’observation du monde naturel une forme de méditation sans emphase. Sa disparition en 1971 a nourri sa légende, mais son œuvre mérite d’abord d’être lue pour sa précision formelle et son refus des effets rhétoriques.",
     "works": [
-      "Ring of Bone"
+      "Wobbly Rock (1960)",
+      "Hermit Poems (1965)",
+      "Ring of Bone: Collected Poems (1973, posthume)",
+      "I Remain: The Letters of Lew Welch & Friends (2001)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Lew_Welch",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Repère biographique et bibliographique secondaire, à recouper avec les éditions originales."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Wobbly Rock, Auerhahn Press, 1960.",
+      "Hermit Poems, Four Seasons Foundation, 1965.",
+      "Ring of Bone: Collected Poems, éd. Donald Allen, Grey Fox Press, 1973.",
+      "I Remain: The Letters of Lew Welch & Friends, éd. Donald Allen, Grey Fox Press, 2001."
+    ]
   },
   {
     "id": "kaufman",
     "name": "Bob Kaufman",
     "years": "1925–1986",
     "group": "Beat Generation",
-    "bio": "Poète afro-américain et figure majeure de la poésie beat de San Francisco, souvent associé au jazz et à l'improvisation.",
+    "bio": "Bob Kaufman est un poète afro-américain né à La Nouvelle-Orléans, dont l’écriture associe jazz, improvisation orale, surréalisme et expérience politique. Après avoir navigué dans la marine marchande et vécu entre New York et la côte Ouest, il s’installe dans les milieux littéraires de San Francisco. Il y devient une voix majeure de la poésie beat, avec une pratique qui tient autant de la performance que de la page. Son écriture syncopée est nourrie par le bebop et par une critique de la violence raciale et sociale. Il refuse souvent les mécanismes de la célébrité littéraire; cette discrétion ne doit pas masquer l’importance de ses recueils dans la poésie afro-américaine d’après-guerre.",
     "works": [
-      "Solitudes Crowded with Loneliness"
+      "Abomunist Manifesto (1959)",
+      "Solitudes Crowded with Loneliness (1965)",
+      "Golden Sardine (1967)",
+      "The Ancient Rain: Poems 1956–1978 (1981)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Bob_Kaufman",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://academic.oup.com/american-national-biography/reference/63042/reference-article-abstract/570442036",
+        "note": "Notice biographique de référence, American National Biography / Oxford Academic."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Abomunist Manifesto, City Lights, 1959.",
+      "Solitudes Crowded with Loneliness, New Directions, 1965.",
+      "Golden Sardine, City Lights, 1967.",
+      "The Ancient Rain: Poems 1956–1978, New Directions, 1981.",
+      "Stuart D. Hobbs, « Kaufman, Bob (1925–1986) », American National Biography, Oxford University Press."
+    ]
   },
   {
     "id": "diprima",
     "name": "Diane di Prima",
     "years": "1934–2020",
     "group": "Beat Generation",
-    "bio": "Poétesse, éditrice et militante; figure essentielle de la Beat Generation et coéditrice de la revue Floating Bear.",
+    "bio": "Diane di Prima est une poétesse, éditrice et militante américaine qui a contribué à élargir la place des femmes dans l’histoire de la Beat Generation. Après Swarthmore College, elle rejoint Greenwich Village dans les années 1950 et travaille avec des écrivains et artistes de la scène new-yorkaise. Avec Amiri Baraka, elle coédite The Floating Bear, bulletin littéraire diffusant des textes expérimentaux. Installée à San Francisco à partir de 1968, elle fonde des structures éditoriales et des espaces de soutien aux poètes. Sa poésie associe expérience vécue, spiritualité, engagement politique et invention formelle; Loba, vaste poème en expansion, compte parmi ses projets majeurs. Ses mémoires éclairent l’autonomie revendiquée par les femmes de la contre-culture.",
     "works": [
-      "Mémoires d'une beatnik",
-      "Revolutionary Letters"
+      "This Kind of Bird Flies Backward (1958)",
+      "Dinners and Nightmares (1960)",
+      "The New Handbook of Heaven (1963)",
+      "Revolutionary Letters (1971)",
+      "Loba (1978; édition augmentée en 1998)",
+      "Pieces of a Song: Selected Poems (2001)",
+      "Recollections of My Life as a Woman (2001)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://www.poetryfoundation.org/poets/diane-di-prima",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Biographie et publications principales, Poetry Foundation."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "This Kind of Bird Flies Backward, Totem Press, 1958.",
+      "Dinners and Nightmares, Corinth Books, 1960.",
+      "Revolutionary Letters, première édition 1971; éditions augmentées ultérieures.",
+      "Loba, première édition 1978; édition augmentée 1998.",
+      "Pieces of a Song: Selected Poems, City Lights, 2001.",
+      "Recollections of My Life as a Woman: The New York Years, Viking, 2001."
+    ]
   },
   {
     "id": "cowen",
     "name": "Elise Cowen",
     "years": "1933–1962",
     "group": "Beat Generation",
-    "bio": "Poétesse new-yorkaise associée au cercle beat; ses écrits ont longtemps circulé de façon confidentielle.",
-    "works": [],
+    "bio": "Elise Cowen est une poétesse new-yorkaise associée au cercle beat des années 1950, dont la trajectoire éditoriale fut interrompue par sa mort précoce. Elle fréquente Columbia University et se lie à Allen Ginsberg et à d’autres écrivains de Greenwich Village. Ses poèmes abordent religion, sexualité, maladie mentale et contraintes imposées aux femmes. Une grande partie de ses papiers fut détruite après sa mort; le corpus aujourd’hui accessible demeure donc fragmentaire et repose notamment sur un carnet préservé. Il faut distinguer les textes effectivement conservés des récits biographiques spéculatifs. Sa redécouverte critique participe à une réévaluation des femmes et des voix marginalisées dans l’histoire beat.",
+    "works": [
+      "Elise Cowen: Poems and Fragments (2014)"
+    ],
     "kind": "person",
     "sources": [
       {
+        "url": "https://search.worldcat.org/title/859252938",
+        "note": "Notice de catalogue de l’édition Poems and Fragments, Ahsahta Press, 2014."
+      },
+      {
         "url": "https://en.wikipedia.org/wiki/Elise_Cowen",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Repère biographique secondaire; le corpus publié reste fragmentaire."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Elise Cowen: Poems and Fragments, éd. Tony Trigilio, Ahsahta Press, 2014.",
+      "Notice de catalogue WorldCat pour l’édition de 2014; voir également les études universitaires sur les femmes de la Beat Generation."
+    ]
   },
   {
     "id": "johnson",
     "name": "Joyce Johnson",
     "years": "1935–",
     "group": "Beat Generation",
-    "bio": "Romancière et mémorialiste liée à la scène beat new-yorkaise; son travail a aussi contribué à documenter la place des femmes dans ce milieu.",
+    "bio": "Joyce Johnson est une romancière, mémorialiste et éditrice américaine qui a documenté de l’intérieur la scène beat new-yorkaise. Elle commence à publier jeune et fréquente Greenwich Village dans les années 1950; sa relation avec Jack Kerouac constitue l’un des fils de Minor Characters, mémoire récompensé par le National Book Critics Circle Award en 1983. Johnson ne se limite pas au rôle de témoin d’un mouvement masculin : elle analyse les possibilités et les contraintes rencontrées par les femmes qui voulaient écrire dans ce milieu. Ses romans explorent indépendance, sexualité et attentes sociales dans l’Amérique d’après-guerre. Ses mémoires et sa biographie de Kerouac ont contribué à renouveler le regard porté sur les Beats.",
     "works": [
-      "Minor Characters",
-      "Come and Join the Dance"
+      "Come and Join the Dance (1962)",
+      "Bad Connections (1978)",
+      "Minor Characters (1983)",
+      "In the Night Café (1987)",
+      "Door Wide Open: A Beat Love Affair in Letters, 1957–1958 (2000, avec Jack Kerouac)",
+      "The Voice Is All: The Lonely Victory of Jack Kerouac (2012)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Joyce_Johnson",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.joycejohnsonbooks.net/about-the-author/",
+        "note": "Biographie officielle de Joyce Johnson."
+      },
+      {
+        "url": "https://www.joycejohnsonbooks.net/minor-characters/",
+        "note": "Présentation de Minor Characters et de son prix littéraire."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Come and Join the Dance, Random House, 1962.",
+      "Minor Characters, Houghton Mifflin, 1983.",
+      "Door Wide Open: A Beat Love Affair in Letters, 1957–1958, Viking, 2000.",
+      "The Voice Is All: The Lonely Victory of Jack Kerouac, Viking, 2012.",
+      "Bibliographie et biographie de l’autrice sur son site officiel."
+    ]
   },
   {
     "id": "hettie-jones",
     "name": "Hettie Jones",
     "years": "1934–",
     "group": "Beat Generation",
-    "bio": "Poétesse, éditrice et mémorialiste; cofondatrice avec LeRoi Jones de la revue littéraire Yugen.",
+    "bio": "Hettie Jones est une poétesse, éditrice et mémorialiste américaine importante pour les réseaux de la poésie d’avant-garde new-yorkaise. Avec LeRoi Jones, futur Amiri Baraka, elle cofonde la revue Yugen et contribue à faire circuler des textes expérimentaux. Elle participe également à Totem Press, qui publie des écrivains associés à la Beat Generation. Son mémoire How I Became Hettie Jones revient sur la vie intellectuelle, les rapports de race, les tensions conjugales et les choix personnels dans cette scène. Son œuvre rappelle combien l’histoire des revues et des petites maisons d’édition dépendait du travail souvent peu reconnu des femmes.",
     "works": [
-      "How I Became Hettie Jones"
+      "How I Became Hettie Jones (1990)",
+      "Drive (1998)",
+      "Doing 70 (2007)",
+      "Love, H (2016)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Hettie_Jones",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Repère biographique secondaire; compléter par les éditions de ses mémoires et les archives de Yugen."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "How I Became Hettie Jones, Grove Press, 1990.",
+      "Drive, Hanging Loose Press, 1998.",
+      "Doing 70, Hanging Loose Press, 2007.",
+      "Love, H, Hanging Loose Press, 2016.",
+      "Notice biographique et bibliographique à recouper avec les catalogues éditoriaux."
+    ]
   },
   {
     "id": "kyger",
     "name": "Joanne Kyger",
     "years": "1934–2017",
     "group": "Beat Generation",
-    "bio": "Poétesse américaine liée à la Renaissance de San Francisco et aux réseaux beat; son œuvre dialogue avec le bouddhisme zen.",
+    "bio": "Joanne Kyger est une poétesse américaine liée à la Renaissance de San Francisco, au cercle de Jack Spicer et Robert Duncan, ainsi qu’aux réseaux beat. Installée à San Francisco en 1957, elle étudie le bouddhisme zen et développe une poésie attentive aux gestes ordinaires, aux paysages du nord de la Californie et aux transformations de la conscience. Son séjour au Japon et ses voyages en Inde avec Gary Snyder, Allen Ginsberg et Peter Orlovsky nourrissent ses journaux et ses poèmes. Elle s’établit ensuite à Bolinas, où elle reste une figure centrale de la communauté poétique locale. Son œuvre relie plusieurs générations de poésie expérimentale américaine.",
     "works": [
-      "The Tapestry and the Web"
+      "The Tapestry and the Web (1965)",
+      "Places to Go (1970)",
+      "Going On: Selected Poems 1958–1980 (1983)",
+      "Japan and India Journals, 1960–1964 (1981)",
+      "As Ever: Selected Poems (2002)",
+      "About Now: Collected Poems (2007)",
+      "On Time (2005)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Joanne_Kyger",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://poets.org/poet/joanne-kyger",
+        "note": "Biographie et bibliographie, Academy of American Poets."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poets/joanne-kyger",
+        "note": "Biographie et publications complémentaires, Poetry Foundation."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The Tapestry and the Web, Four Seasons Foundation, 1965.",
+      "Places to Go, Black Sparrow Press, 1970.",
+      "Japan and India Journals, 1960–1964, Tombouctou Books, 1981.",
+      "Going On: Selected Poems 1958–1980, Dutton, 1983.",
+      "As Ever: Selected Poems, Penguin, 2002.",
+      "About Now: Collected Poems, National Poetry Foundation, 2007."
+    ]
   },
   {
     "id": "pommy-vega",
     "name": "Janine Pommy Vega",
     "years": "1942–2010",
     "group": "Beat Generation",
-    "bio": "Poétesse américaine de la génération beat plus tardive, associée aux communautés poétiques et aux voyages.",
+    "bio": "Janine Pommy Vega est une poétesse américaine associée à la génération beat et à ses communautés itinérantes. Elle rejoint jeune les cercles littéraires de New York et part en Europe au début des années 1960; cette expérience nourrit Poems to Fernando, lié à son séjour en Espagne. Elle fréquente ensuite les réseaux de poésie communautaire, la contre-culture et les pratiques de méditation. Sa poésie mêle expérience personnelle, attention aux paysages, quête spirituelle et solidarité avec les personnes marginalisées. Elle anime également des ateliers d’écriture en prison et participe à des projets culturels auprès de publics éloignés des institutions littéraires.",
     "works": [
-      "Poems to Fernando"
+      "Poems to Fernando (1968)",
+      "Journal of a Hermit (1974)",
+      "The Bard Owl (1980)",
+      "Tracking the Serpent: Journeys to Four Continents (1997)",
+      "The Green Piano (2005)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Janine_Pommy_Vega",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Repère biographique et bibliographique secondaire."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Poems to Fernando, City Lights, 1968.",
+      "Journal of a Hermit, City Lights, 1974.",
+      "Tracking the Serpent: Journeys to Four Continents, 1997.",
+      "The Green Piano, 2005.",
+      "Repères bibliographiques à recouper avec les catalogues d’édition et les archives de poésie beat."
+    ]
   },
   {
     "id": "ruth-weiss",
     "name": "ruth weiss",
     "years": "1928–2020",
     "group": "Beat Generation",
-    "bio": "Poétesse et performeuse, pionnière de la poésie beat, mêlant lecture, jazz et performance.",
+    "bio": "ruth weiss, qui signait son nom en minuscules, était une poétesse, dramaturge et performeuse née en Allemagne et réfugiée aux États-Unis avec sa famille pour fuir le nazisme. Installée à San Francisco après la guerre, elle développe une forme singulière de jazz-poetry où voix, souffle, improvisation et musique font partie intégrante de l’écriture. Elle fréquente les milieux beat de la côte Ouest tout en gardant une position indépendante, travaillant aussi pour le théâtre et le cinéma. Ses performances avec des musiciens font de la poésie un événement collectif. Son parcours a été redécouvert grâce à ses livres, ses archives et les documentaires consacrés à son travail.",
     "works": [
-      "Desert Journal"
+      "Steps (1958)",
+      "Gallery of Women (1959)",
+      "Blue in Green (1960)",
+      "Light and Other Poems (1976)",
+      "Desert Journal (1977; réédition 2012)",
+      "Can't Stop the Beat: The Life and Words of a Beat Poet (2011)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ruth_Weiss",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.ruthweissfoundation.org/resources",
+        "note": "Bibliographie des livres, performances et films consacrés à l’autrice, fondation dédiée à sa mémoire."
+      },
+      {
+        "url": "https://www.ruthweissfoundation.org/",
+        "note": "Notice biographique de la ruth weiss Foundation."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Steps, 1958.",
+      "Gallery of Women, 1959.",
+      "Blue in Green, 1960.",
+      "Desert Journal, 1977; nouvelle édition, Trembling Pillow Press, 2012.",
+      "Can't Stop the Beat: The Life and Words of a Beat Poet, Divine Arts, 2011.",
+      "Ressources bibliographiques conservées par la ruth weiss Foundation."
+    ]
   },
   {
     "id": "kandel",
     "name": "Lenore Kandel",
     "years": "1932–2009",
     "group": "Beat Generation",
-    "bio": "Poétesse américaine associée à la scène beat de San Francisco; son recueil The Love Book fut au centre d'une affaire de censure.",
+    "bio": "Lenore Kandel est une poétesse américaine liée à la scène beat de San Francisco. Son écriture, directe et sensuelle, revendique une liberté de parole sur le corps, le désir et la spiritualité. Son recueil The Love Book, publié en 1966, déclenche une procédure pour obscénité à San Francisco et devient un épisode emblématique des débats sur la censure littéraire. Malgré un corpus publié relativement restreint, Kandel occupe une place importante dans l’histoire des femmes de la Beat Generation : son œuvre met en jeu les limites imposées à la parole féminine et à la représentation du désir. Elle poursuit une vie discrète après les années 1960.",
     "works": [
-      "The Love Book"
+      "An Exquisite Navel (1965)",
+      "The Love Book (1966)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Lenore_Kandel",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Notice biographique et liste des œuvres, source secondaire."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "An Exquisite Navel, 1965.",
+      "The Love Book, San Francisco, 1966.",
+      "Études sur la poésie beat de San Francisco et les procès pour obscénité des années 1960."
+    ]
   },
   {
     "id": "waldman",
     "name": "Anne Waldman",
     "years": "1945–",
     "group": "Beat Generation",
-    "bio": "Poétesse et performeuse de la génération suivante, proche d'Allen Ginsberg et cofondatrice de l'école de poésie de Naropa.",
+    "bio": "Anne Waldman est une poétesse, performeuse, éditrice et militante américaine qui prolonge l’héritage beat tout en le transformant par une pratique féministe, politique et orale de la poésie. Active à New York dès les années 1960, elle contribue à fonder et diriger The Poetry Project à St. Mark’s Church. En 1974, elle cofonde avec Allen Ginsberg et Diane di Prima la Jack Kerouac School of Disembodied Poetics à Naropa University, où enseignement, performance et archive deviennent complémentaires. Fast Speaking Woman incarne son travail sur le rythme, le souffle et l’incantation; The Iovis Trilogy constitue un long poème féministe et antimilitariste. Elle demeure une figure majeure de la transmission des avant-gardes poétiques.",
     "works": [
-      "Fast Speaking Woman"
+      "Fast Speaking Woman (1974)",
+      "The West Indies Poems (1972)",
+      "Marriage: A Sentence (2000)",
+      "Vow to Poetry (2001)",
+      "Manatee/Humanity (2009)",
+      "The Iovis Trilogy (2011)",
+      "Trickster Feminism (2018)",
+      "Sanctuary (2020)",
+      "Bard, Kinetic (2023)",
+      "Mesopotopia (2025)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.poetryfoundation.org/poets/anne-waldman",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.annewaldman.org/publications",
+        "note": "Bibliographie complète maintenue par l’autrice."
+      },
+      {
+        "url": "https://www.annewaldman.org/about",
+        "note": "Biographie officielle et parcours institutionnel."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Fast Speaking Woman, City Lights, 1974; édition révisée en 1996.",
+      "Vow to Poetry: Essays, Interviews, & Manifestos, Coffee House Press, 2001.",
+      "Marriage: A Sentence, Penguin Poets, 2000.",
+      "The Iovis Trilogy: Colors in the Mechanism of Concealment, Coffee House Press, 2011.",
+      "Trickster Feminism, Penguin Books, 2018.",
+      "Bard, Kinetic, Coffee House Press, 2023.",
+      "Bibliographie complète tenue par l’autrice sur son site officiel."
+    ]
   },
   {
     "id": "baraka",
     "name": "Amiri Baraka",
     "years": "1934–2014",
     "group": "Beat Generation",
-    "bio": "Poète, dramaturge et essayiste; d'abord lié à la scène beat new-yorkaise, il devient ensuite une figure majeure du Black Arts Movement.",
+    "bio": "Amiri Baraka, né LeRoi Jones, est un poète, dramaturge, essayiste et militant politique afro-américain. Installé à New York après ses études et son service militaire, il fréquente Greenwich Village et participe à la vie éditoriale de l’avant-garde, notamment avec Totem Press et la revue Yugen, codirigée avec Hettie Jones. Son premier recueil paraît en 1961; Dutchman lui apporte une reconnaissance théâtrale en 1964. Après l’assassinat de Malcolm X en 1965, son engagement se transforme profondément : il fonde le Black Arts Repertory Theatre/School et devient une figure centrale du Black Arts Movement. Son parcours ultérieur, marqué par le nationalisme noir puis le marxisme, demande de distinguer ses différentes périodes politiques et esthétiques.",
     "works": [
-      "Preface to a Twenty Volume Suicide Note"
+      "Preface to a Twenty Volume Suicide Note (1961)",
+      "Blues People (1963)",
+      "Dutchman (1964)",
+      "The Dead Lecturer (1964)",
+      "Black Magic (1969)",
+      "The Autobiography of LeRoi Jones/Amiri Baraka (1984)",
+      "The Music: Reflections on Jazz and Blues (1987)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Amiri_Baraka",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://poets.org/poet/amiri-baraka",
+        "note": "Notice biographique et bibliographique, Academy of American Poets."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poets/amiri-baraka",
+        "note": "Biographie complémentaire, Poetry Foundation."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Preface to a Twenty Volume Suicide Note, Totem Press, 1961.",
+      "Blues People: Negro Music in White America, William Morrow, 1963.",
+      "Dutchman and The Slave, William Morrow, 1964.",
+      "The Dead Lecturer, Grove Press, 1964.",
+      "The Autobiography of LeRoi Jones/Amiri Baraka, Freundlich Books, 1984.",
+      "The Music: Reflections on Jazz and Blues, William Morrow, 1987."
+    ]
   },
   {
     "id": "joans",
     "name": "Ted Joans",
     "years": "1928–2003",
     "group": "Beat Generation",
-    "bio": "Poète, peintre et performeur afro-américain, lié au jazz, au surréalisme et aux réseaux beat internationaux.",
+    "bio": "Ted Joans est un poète, peintre, performeur et musicien afro-américain dont l’œuvre relie jazz, surréalisme et poésie beat. Installé à New York dans les années 1950, il fréquente les cercles beat tout en revendiquant une identité indépendante. Son mot d’ordre « jazz is my religion » résume une conception improvisée et transnationale de la poésie. Il voyage largement, vit notamment à Paris et en Afrique, et entretient des liens avec les surréalistes européens et les poètes de la diaspora noire. Son œuvre comprend poèmes, collages, peintures et performances. Teducation rassemble une sélection rétrospective de ses poèmes et constitue un point d’entrée utile dans un corpus dispersé entre livres et livrets parfois rares.",
     "works": [
-      "Black Pow-Wow"
+      "Beat (1959)",
+      "The Hipsters (1961)",
+      "Black Pow-Wow: Jazz Poems (1969)",
+      "Afrodisia: New Poems (1970)",
+      "Teducation: Selected Poems, 1949–1999 (1999)",
+      "Our Thang (2001)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ted_Joans",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "url": "https://www.poetryfoundation.org/poetrymagazine/articles/1815037/introduction-on-the-poem-life-of-ted-joans",
+        "note": "Essai récent de la Poetry Foundation présentant son parcours, ses publications et ses archives."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Beat, Corinth Books, 1959.",
+      "The Hipsters, Corinth Books, 1961.",
+      "Black Pow-Wow: Jazz Poems, 1969.",
+      "Afrodisia: New Poems, 1970.",
+      "Teducation: Selected Poems, 1949–1999, Coffee House Press, 1999.",
+      "Our Thang, Ekstasis Editions, 2001."
+    ]
   },
   {
     "id": "norse",
     "name": "Harold Norse",
     "years": "1916–2009",
     "group": "Beat Generation",
-    "bio": "Poète américain associé aux Beats, traducteur et figure de l'avant-garde littéraire internationale.",
+    "bio": "Harold Norse est un poète américain associé à la Beat Generation et à l’avant-garde internationale. Né à Brooklyn, il étudie au Brooklyn College et fréquente les milieux littéraires new-yorkais avant de vivre en Europe, notamment à Paris et à Rome, où il rencontre des écrivains modernistes. Traducteur et expérimentateur du cut-up, il développe une écriture provocatrice attentive au désir, à l’homosexualité et aux normes sociales. Son parcours cosmopolite le distingue des récits centrés sur New York et San Francisco; il contribue également à faire connaître des traditions poétiques européennes dans le monde anglophone. Hotel Nirvana rassemble une part importante de son œuvre et rappelle la dimension autobiographique et transgressive de son écriture.",
     "works": [
-      "Hotel Nirvana"
+      "The Dancing Beasts (1945)",
+      "Hotel Nirvana (1974)",
+      "Carnivorous Saint: Gay Poems 1941–1976 (1976)",
+      "Memoirs of a Bastard Angel (1989)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Harold_Norse",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Repère biographique et bibliographique secondaire; les éditions originales sont à privilégier."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "The Dancing Beasts, New Directions, 1945.",
+      "Hotel Nirvana, City Lights, 1974.",
+      "Carnivorous Saint: Gay Poems 1941–1976, 1976.",
+      "Memoirs of a Bastard Angel, William Morrow, 1989."
+    ]
   },
   {
     "id": "lamantia",
     "name": "Philip Lamantia",
     "years": "1927–2005",
     "group": "Beat Generation",
-    "bio": "Poète surréaliste américain dont l'œuvre relie le surréalisme européen à la poésie beat de San Francisco.",
+    "bio": "Philip Lamantia est un poète américain dont l’écriture surréaliste relie l’avant-garde européenne aux scènes poétiques de San Francisco. Il découvre très jeune les textes surréalistes et publie dans des revues avant de rejoindre les réseaux de New York et de la côte Ouest. Il lit des poèmes lors de la Six Gallery en 1955, mais son imaginaire reste marqué par le rêve, l’automatisme et les visions hallucinées. Ses voyages, son intérêt pour le mysticisme et ses expérimentations formelles traversent une œuvre publiée sur plusieurs décennies. Lamantia ne se laisse pas réduire à la Beat Generation : il constitue un relais important entre surréalisme, poésie visionnaire et contre-culture américaine.",
     "works": [
-      "Erotic Poems"
+      "Erotic Poems (1946)",
+      "Touch of the Marvelous (1955)",
+      "Ekstasis (1959)",
+      "The Blood of the Air",
+      "Bed of Sphinxes: New and Selected Poems",
+      "Preserving Fire: Selected Prose (2013)"
     ],
     "kind": "person",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Philip_Lamantia",
-        "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
+        "note": "Repère biographique et liste d’œuvres, source secondaire; compléter avec les éditions City Lights."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Erotic Poems, Berkeley Renaissance, 1946.",
+      "Touch of the Marvelous, City Lights, 1955.",
+      "Ekstasis, City Lights, 1959.",
+      "The Blood of the Air, City Lights Publishers.",
+      "Bed of Sphinxes: New and Selected Poems, City Lights Publishers.",
+      "Preserving Fire: Selected Prose, éd. Garrett Caples, City Lights, 2013."
+    ]
   },
   {
     "id": "micheline",
