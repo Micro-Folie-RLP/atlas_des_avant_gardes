@@ -7495,5 +7495,33 @@
         "note": "Ajout dans le prolongement du repérage consacré aux avant-gardes russes; l'acméisme constitue un courant distinct du futurisme. Références biographiques individuelles à consolider."
       }
     ]
+  },
+  {
+    "id": "marina_tsvetaieva",
+    "name": "Marina Tsvetaïeva",
+    "years": "1892–1941",
+    "group": "Littérature russe",
+    "groups": [
+      "Avant-garde russe",
+      "Littérature russe",
+      "Poésie / modernités"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Acteur",
+    "bio": "Poétesse russe majeure du XXe siècle, dont l'œuvre lyrique se distingue par une syntaxe heurtée, un rythme fortement accentué et une grande liberté formelle. En dialogue avec les modernismes de son temps sans appartenir durablement à une école, elle entretient notamment des liens avec les milieux futuristes et avec Maïakovski et Pasternak.",
+    "works": [
+      "Le Camp des cygnes",
+      "Poème de la montagne",
+      "Poème de la fin",
+      "Le Gars"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Ajout dans le prolongement du repérage consacré aux avant-gardes russes; la poétesse est rattachée aux modernités littéraires plutôt qu'à un mouvement unique. Références biographiques individuelles à consolider."
+      }
+    ]
   }
 ]
