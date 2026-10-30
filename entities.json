@@ -6736,214 +6736,578 @@
     "name": "D. H. Lawrence",
     "years": "1885–1930",
     "group": "Modernismes",
-    "bio": "Romancier et poète anglais dont l'œuvre interroge les normes sociales, les relations humaines et la modernité industrielle.",
+    "bio": "Romancier, poète et essayiste anglais, David Herbert Lawrence fait de la sexualité, du désir, des rapports de classe et de l’industrialisation les lieux d’une interrogation sur la vie moderne. Fils d’un mineur et d’une institutrice, il grandit dans le Nottinghamshire, milieu social et géographique qui nourrit Sons and Lovers (1913). The Rainbow (1915), saisi pour obscénité, puis Women in Love (1920) explorent les tensions entre individualité, couple, communauté et civilisation mécanique. La relation avec Frieda Weekley l’entraîne dans une vie de déplacements, notamment en Italie, en Australie, au Mexique et aux États-Unis. Essayiste incisif, il relit Melville, Whitman et la tradition américaine dans Studies in Classic American Literature. Sa prose lyrique, sensuelle et souvent polémique fait de lui un moderniste singulier, peu réductible aux expérimentations formelles de ses contemporains. Pour mettre en regard son rapport au corps, à la nature et à la crise de la modernité, comparer ses lignes de vie à celles de Hermann Hesse, Henry Miller et Virginia Woolf.",
     "works": [
-      "Sons and Lovers",
-      "L'Amant de Lady Chatterley"
+      "Sons and Lovers (1913)",
+      "The Rainbow (1915)",
+      "Women in Love (1920)",
+      "Aaron’s Rod (1922)",
+      "Lady Chatterley’s Lover (1928)",
+      "Studies in Classic American Literature (1923)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "D. H. Lawrence, Sons and Lovers, 1913.",
+      "D. H. Lawrence, The Rainbow, 1915.",
+      "D. H. Lawrence, Women in Love, 1920.",
+      "D. H. Lawrence, Lady Chatterley’s Lover, 1928.",
+      "Mark Kinkead-Weekes, D. H. Lawrence: Triumph to Exile, Cambridge University Press, 1996."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bl.uk/people/d-h-lawrence",
+        "note": "British Library : repères biographiques et ressources sur l’écrivain."
+      },
+      {
+        "url": "https://www.gutenberg.org/files/70398/70398-h/70398-h.htm",
+        "note": "Bibliographie historique numérisée de ses écrits, utile pour repérer les genres et premières éditions."
+      }
+    ],
+    "related": [
+      "hermann-hesse",
+      "henry-miller",
+      "virginia-woolf"
+    ]
   },
   {
     "id": "hermann-hesse",
     "name": "Hermann Hesse",
     "years": "1877–1962",
     "group": "Littératures internationales",
-    "bio": "Écrivain germanophone dont les romans explorent la crise de l'individu, la spiritualité et la quête de soi.",
+    "bio": "Écrivain germanophone né en 1877 à Calw, dans le royaume de Wurtemberg, Hermann Hesse rompt très tôt avec le destin religieux auquel sa famille le prépare. Après des emplois de libraire et ses premiers récits, Peter Camenzind (1904) lui apporte la reconnaissance. Son œuvre suit les crises de formation d’individus qui cherchent une voie propre face aux institutions, à la bourgeoisie et aux doctrines toutes faites. Demian (1919), Siddhartha (1922) et Le Loup des steppes (1927) associent introspection, mythes de transformation et lectures des philosophies indiennes, sans se réduire à un enseignement spirituel. Installé en Suisse, il traverse les deux guerres mondiales en prenant position contre le nationalisme et en défendant une responsabilité humaniste de l’écrivain. Il reçoit le prix Nobel de littérature en 1946. Le Jeu des perles de verre (1943) synthétise ses interrogations sur la culture, l’érudition et le retrait du monde. Comparer sa trajectoire à celles de D. H. Lawrence, Thomas Mann et Carl Gustav Jung éclaire des réponses très différentes à la crise de l’individu moderne.",
     "works": [
-      "Le Loup des steppes",
-      "Le Jeu des perles de verre"
+      "Peter Camenzind (1904)",
+      "Demian (1919)",
+      "Siddhartha (1922)",
+      "Le Loup des steppes (1927)",
+      "Narcisse et Goldmund (1930)",
+      "Le Jeu des perles de verre (1943)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Hermann Hesse, Peter Camenzind, 1904.",
+      "Hermann Hesse, Demian, 1919.",
+      "Hermann Hesse, Siddhartha, 1922.",
+      "Hermann Hesse, Le Loup des steppes, 1927.",
+      "Hermann Hesse, Le Jeu des perles de verre, 1943.",
+      "Ralph Freedman, Hermann Hesse: Pilgrim of Crisis, Pantheon Books, 1978."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1946/hesse/biographical/",
+        "note": "Fondation Nobel : notice biographique du lauréat de 1946."
+      },
+      {
+        "url": "https://www.hesse.de/",
+        "note": "Hermann-Hesse-Höri-Museum / ressources consacrées à l’auteur et à son œuvre."
+      }
+    ],
+    "related": [
+      "dh-lawrence",
+      "thomas-bernhard",
+      "bruno-schulz"
+    ]
   },
   {
     "id": "thomas-bernhard",
     "name": "Thomas Bernhard",
     "years": "1931–1989",
     "group": "Littératures internationales",
-    "bio": "Écrivain et dramaturge autrichien, connu pour sa prose obsessionnelle et sa critique radicale de la société autrichienne.",
+    "bio": "Né en 1931 à Heerlen, aux Pays-Bas, et élevé en Autriche, Thomas Bernhard devient l’une des voix les plus reconnaissables de la littérature germanophone d’après-guerre. Une grave maladie pulmonaire, contractée dans sa jeunesse, marque durablement son rapport à la mort et à la fragilité du corps. Formé à la musique au Mozarteum de Salzbourg, il publie d’abord de la poésie avant de s’imposer avec Gel (1963), puis La Plâtrière (1970). Ses romans et ses pièces reposent souvent sur de longues tirades, la répétition, l’hyperbole et une parole qui se retourne contre elle-même. Il attaque avec une férocité comique les institutions culturelles, la famille, le catholicisme et les accommodements de l’Autriche avec son passé nazi. Le Naufragé (1983), Des arbres à abattre (1984), Maîtres anciens (1985) et Place des Héros (1988) condensent cette esthétique de la rumination et de l’invective. Son théâtre provoque de vives controverses, notamment lors de la création de Heldenplatz. Comparer ses lignes de vie à celles de Witold Gombrowicz, Bruno Schulz et Hermann Hesse permet de situer plusieurs formes de dissidence littéraire en Europe centrale.",
     "works": [
-      "Extinction",
-      "Le Naufragé"
+      "Gel (1963)",
+      "La Plâtrière (1970)",
+      "Le Souffle (1978)",
+      "Le Naufragé (1983)",
+      "Des arbres à abattre (1984)",
+      "Maîtres anciens (1985)",
+      "Place des Héros (1988)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Thomas Bernhard, Gel, 1963.",
+      "Thomas Bernhard, Le Naufragé, 1983.",
+      "Thomas Bernhard, Des arbres à abattre, 1984.",
+      "Thomas Bernhard, Maîtres anciens, 1985.",
+      "Thomas Bernhard, Place des Héros, 1988.",
+      "Gitta Honegger, Thomas Bernhard: The Making of an Austrian, Yale University Press, 2001."
+    ],
+    "sources": [
+      {
+        "url": "https://www.austria.info/fr/portraits/thomas-bernhard/",
+        "note": "Austria.info : repères biographiques, lieux de vie et œuvres."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Thomas_Bernhard/171612",
+        "note": "Larousse : notice littéraire sur la formation et l’œuvre."
+      }
+    ],
+    "related": [
+      "hermann-hesse",
+      "witold-gombrowicz",
+      "bruno-schulz"
+    ]
   },
   {
     "id": "witold-gombrowicz",
     "name": "Witold Gombrowicz",
     "years": "1904–1969",
     "group": "Littératures internationales",
-    "bio": "Écrivain polonais dont l'œuvre subversive explore la forme, l'immaturité et les conventions sociales.",
+    "bio": "Écrivain polonais né en 1904 à Małoszyce, Witold Gombrowicz étudie le droit à Varsovie mais se tourne rapidement vers les cafés littéraires et l’écriture. Ses premiers récits, réunis dans Mémoires du temps de l’immaturité (1933), annoncent une œuvre hostile aux identités figées et aux formes culturelles imposées. Ferdydurke (1937) fait de l’immaturité, de la grimace sociale et de la fabrication de soi le moteur d’une satire philosophique. Parti en Argentine en 1939, il y reste jusqu’en 1963, période décisive d’exil et de relative marginalité éditoriale. Trans-Atlantique (1953), Le Mariage et La Pornographie poursuivent sa critique des mythologies nationales, de l’autorité et des conventions. Installé ensuite en Europe, puis à Vence, il compose Cosmos (1965), roman d’enquête où les signes et les coïncidences deviennent une machine à produire du sens. Son Journal constitue aussi une œuvre majeure, mêlant autoportrait, polémique et réflexion esthétique. Comparer ses lignes de vie à celles de Bruno Schulz, Thomas Bernhard et Hermann Hesse permet de rapprocher des modernités d’Europe centrale sans effacer leurs différences.",
     "works": [
-      "Ferdydurke",
-      "Trans-Atlantique"
+      "Mémoires du temps de l’immaturité (1933)",
+      "Ferdydurke (1937)",
+      "Yvonne, princesse de Bourgogne (1938)",
+      "Trans-Atlantique (1953)",
+      "Le Mariage (1953)",
+      "La Pornographie (1960)",
+      "Cosmos (1965)",
+      "Journal (1953–1969)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Witold Gombrowicz, Ferdydurke, 1937.",
+      "Witold Gombrowicz, Trans-Atlantique, 1953.",
+      "Witold Gombrowicz, La Pornographie, 1960.",
+      "Witold Gombrowicz, Cosmos, 1965.",
+      "Witold Gombrowicz, Journal, 1953–1969.",
+      "Rita Gombrowicz, Gombrowicz en Europe, 1963–1969, Denoël, 1988."
+    ],
+    "sources": [
+      {
+        "url": "https://www.witoldgombrowicz.com/fr/wgbio/breve-biographie-wg",
+        "note": "Site de référence consacré à Gombrowicz : chronologie biographique détaillée."
+      },
+      {
+        "url": "https://www.muzeumgombrowicza.pl/en/czytaj/18/13/witold-gombrowicz/published-works/",
+        "note": "Musée Witold Gombrowicz : liste des œuvres publiées."
+      }
+    ],
+    "related": [
+      "bruno-schulz",
+      "thomas-bernhard",
+      "claude-simon"
+    ]
   },
   {
     "id": "bruno-schulz",
     "name": "Bruno Schulz",
     "years": "1892–1942",
     "group": "Littératures internationales",
-    "bio": "Écrivain et dessinateur polonais, auteur d'une œuvre brève et visionnaire à la frontière du mythe et du quotidien.",
+    "bio": "Né en 1892 à Drohobycz, alors en Galicie austro-hongroise, Bruno Schulz est écrivain, dessinateur et professeur de dessin. Il passe presque toute sa vie dans sa ville natale, dont les rues, les commerces et les figures familiales deviennent la matière d’un univers littéraire métamorphosé. Les Boutiques de cannelle (1934) et Le Sanatorium au croque-mort (1937) composent une mythologie intime où l’enfance, le rêve, la mémoire et le grotesque transforment le quotidien en théâtre cosmique. Sa prose, dense et visionnaire, fait proliférer les images et brouille la frontière entre récit, peinture et légende. Parallèlement, ses dessins et gravures développent un imaginaire érotique et inquiétant, notamment dans Le Livre idolâtre. En 1939, l’occupation soviétique puis l’occupation allemande bouleversent sa vie. Assigné à des travaux forcés et placé sous la protection ambiguë d’un officier nazi qui l’emploie comme peintre, il est assassiné dans le ghetto de Drohobycz en novembre 1942. Son œuvre brève exerce une influence considérable sur les écrivains de l’imaginaire et de la modernité. Comparer ses lignes de vie à celles de Witold Gombrowicz, Franz Kafka et Thomas Bernhard fait apparaître des affinités de forme et des histoires radicalement différentes.",
     "works": [
-      "Les Boutiques de cannelle",
-      "Le Sanatorium au croque-mort"
+      "Les Boutiques de cannelle (1934)",
+      "Le Sanatorium au croque-mort (1937)",
+      "Le Livre idolâtre (cycle graphique, années 1920)",
+      "Le Messie (roman inachevé, perdu)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Bruno Schulz, Les Boutiques de cannelle, 1934.",
+      "Bruno Schulz, Le Sanatorium au croque-mort, 1937.",
+      "Bruno Schulz, Le Livre idolâtre, cycle de gravures, années 1920.",
+      "Jerzy Ficowski, Regions of the Great Heresy: Bruno Schulz, A Biographical Portrait, 2003.",
+      "David A. Goldfarb (dir.), Bruno Schulz: New Documents and Interpretations, 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://schulzforum.pl/en",
+        "note": "Bruno Schulz Festival / forum : ressources documentaires sur l’écrivain et l’artiste."
+      },
+      {
+        "url": "https://www.bnf.fr/fr",
+        "note": "BnF : catalogue général et ressources d’autorité pour les éditions françaises de Schulz."
+      }
+    ],
+    "related": [
+      "witold-gombrowicz",
+      "thomas-bernhard",
+      "claude-simon"
+    ]
   },
   {
     "id": "boris-vian",
     "name": "Boris Vian",
     "years": "1920–1959",
     "group": "Littérature / jazz / pataphysique",
-    "bio": "Écrivain, musicien et ingénieur français, figure de Saint-Germain-des-Prés et du Collège de 'Pataphysique.",
+    "bio": "Ingénieur de formation, trompettiste de jazz, romancier, dramaturge, traducteur, chroniqueur et chansonnier, Boris Vian mène en moins de vingt ans une activité d’une diversité exceptionnelle. Né à Ville-d’Avray en 1920, il fréquente après la guerre les caves de Saint-Germain-des-Prés et les milieux du jazz, tout en travaillant comme ingénieur à l’AFNOR. L’Écume des jours (1947) mêle invention verbale, fantaisie amoureuse et mélancolie ; L’Automne à Pékin (1947) et L’Herbe rouge (1950) prolongent cette veine d’absurde métaphysique. Sous le pseudonyme Vernon Sullivan, il publie des romans noirs qui provoquent scandale et procès, tandis que son nom propre signe des textes pataphysiques, des pièces et des chansons. Il traduit notamment Raymond Chandler et A. E. van Vogt, écrit sur le jazz et compose près de cinq cents chansons. Membre du Collège de 'Pataphysique, il cultive le paradoxe entre jeu et gravité. Sa mort en 1959, à trente-neuf ans, survient après une santé fragile et une carrière traversée de malentendus critiques. Comparer ses lignes de vie à celles de Henri-Pierre Roché, Raymond Queneau et Jean-Pierre Martinet éclaire les croisements entre littérature, musique et humour noir.",
     "works": [
-      "L'Écume des jours",
-      "L'Automne à Pékin"
+      "L’Écume des jours (1947)",
+      "L’Automne à Pékin (1947)",
+      "J’irai cracher sur vos tombes (1946, sous Vernon Sullivan)",
+      "L’Herbe rouge (1950)",
+      "L’Arrache-cœur (1953)",
+      "Je voudrais pas crever (poèmes, publication posthume 1962)",
+      "En avant la zizique… (1958)"
     ],
     "role_icon": "🎷",
     "role_label": "Musique et écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Boris Vian, L’Écume des jours, 1947.",
+      "Boris Vian, L’Automne à Pékin, 1947.",
+      "Boris Vian, L’Herbe rouge, 1950.",
+      "Boris Vian, L’Arrache-cœur, 1953.",
+      "Boris Vian, Je voudrais pas crever, 1962.",
+      "Marc Lapprand, Boris Vian, la vie contre, Presses de l’Université de Laval, 1993.",
+      "Anne Mary (dir.), Boris Vian, catalogue d’exposition, BnF / Gallimard, 2011."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/boris-vian-1920-1959-bibliographie",
+        "note": "BnF : bibliographie institutionnelle et présentation de l’œuvre protéiforme."
+      },
+      {
+        "url": "https://www.borisvian.org/ouvrages.html",
+        "note": "Catalogue des œuvres, romans, poésie, théâtre, chansons et traductions."
+      }
+    ],
+    "related": [
+      "jean-pierre-martinet",
+      "claude-simon",
+      "henri-chopin"
+    ]
   },
   {
     "id": "jean-pierre-martinet",
     "name": "Jean-Pierre Martinet",
     "years": "1944–1993",
     "group": "Littératures singulières",
-    "bio": "Romancier français à l'œuvre noire et marginale, longtemps resté en dehors des circuits littéraires dominants.",
+    "bio": "Né en 1944 à Libourne, où il revient vivre et meurt en 1993, Jean-Pierre Martinet est un romancier français dont l’œuvre, longtemps confidentielle, s’inscrit dans une littérature de la solitude, de la déchéance et de l’obsession. D’abord assistant-réalisateur à l’ORTF, il renonce au cinéma et se consacre à la critique littéraire et cinématographique. Son premier roman, La Somnolence (1975), attire l’attention de quelques lecteurs, puis Jérôme (1978) impose une voix d’une noirceur singulière, entre grotesque, cruauté et compassion. La Grande Vie, texte bref paru en revue en 1979, condense son humour désespéré ; L’Ombre des forêts (1987) et Ceux qui n’en mènent pas large (1986) prolongent une œuvre marquée par l’isolement et la difficulté d’habiter le monde. Il cesse progressivement d’écrire et connaît une longue période de marginalité, avant que plusieurs éditeurs ne rééditent ses livres à partir des années 2000. Sa redécouverte a fait apparaître l’originalité d’une œuvre sans équivalent facile, à la fois burlesque et profondément sombre. Comparer sa ligne de vie à celles de Pierre Guyotat, Boris Vian et Thomas Bernhard permet de situer différentes formes de radicalité littéraire.",
     "works": [
-      "La Grande Vie",
-      "Jérôme"
+      "La Somnolence (1975)",
+      "Jérôme (1978)",
+      "La Grande Vie (texte paru en revue en 1979)",
+      "L’Ombre des forêts (1987)",
+      "Ceux qui n’en mènent pas large (1986)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Jean-Pierre Martinet, La Somnolence, Pauvert, 1975.",
+      "Jean-Pierre Martinet, Jérôme, Le Sagittaire, 1978.",
+      "Jean-Pierre Martinet, Ceux qui n’en mènent pas large, Le Dilettante, 1986.",
+      "Jean-Pierre Martinet, L’Ombre des forêts, La Table ronde, 1987.",
+      "Jean-Pierre Martinet, La Grande Vie, texte paru en revue en 1979, réédition L’Arbre vengeur.",
+      "Éric Dussert, préfaces et notices des rééditions de Jean-Pierre Martinet."
+    ],
+    "sources": [
+      {
+        "url": "https://www.finitude.fr/jean-pierre-martinet/",
+        "note": "Éditions Finitude : biographie et repères sur La Somnolence, Jérôme et la trajectoire de l’auteur."
+      },
+      {
+        "url": "https://www.arbre-vengeur.fr/?p=1438",
+        "note": "L’Arbre vengeur : notice biographique et bibliographie détaillée."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb47196555k",
+        "note": "BnF : notice bibliographique de La Grande Vie."
+      }
+    ],
+    "related": [
+      "pierre-guyotat",
+      "boris-vian",
+      "thomas-bernhard"
+    ]
   },
   {
     "id": "pierre-guyotat",
     "name": "Pierre Guyotat",
     "years": "1940–2020",
     "group": "Littérature expérimentale",
-    "bio": "Écrivain français dont le travail radical sur le corps, la langue et la violence a repoussé les limites du roman.",
+    "bio": "Né en 1940 à Bourg-Argental, Pierre Guyotat est l’un des écrivains français qui ont le plus radicalement transformé la langue romanesque après 1960. Engagé très jeune dans la guerre d’Algérie, il fait de cette expérience un matériau central de Tombeau pour cinq cent mille soldats (1967), fresque de violence et de domination qui rompt avec les conventions narratives. Éden, Éden, Éden (1970), frappé d’interdictions administratives jusqu’en 1981, pousse plus loin la désarticulation de la syntaxe, la matérialité des corps et l’invention d’un lexique. Prostitution (1975), Le Livre (1984) et Progénitures (2000) poursuivent ce travail où la langue semble se composer par blocs, rythmes, souffles et visions. À partir de Coma (2006), Formation (2007), Arrière-fond (2010) et Idiotie (2018), il entreprend une exploration autobiographique de la formation de l’écrivain et de ses crises physiques et psychiques. Il dessine également et travaille la lecture publique comme une expérience vocale. Ses archives ont été données à la BnF en 2004, qui lui décerne son prix en 2010. Comparer sa ligne de vie à celles de Jean-Pierre Martinet, Ghérasim Luca et Bernard Heidsieck met en évidence des conceptions très différentes de la langue comme matière.",
     "works": [
-      "Tombeau pour cinq cent mille soldats",
-      "Éden, Éden, Éden"
+      "Tombeau pour cinq cent mille soldats (1967)",
+      "Éden, Éden, Éden (1970)",
+      "Prostitution (1975)",
+      "Le Livre (1984)",
+      "Progénitures (2000)",
+      "Coma (2006)",
+      "Formation (2007)",
+      "Idiotie (2018)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Pierre Guyotat, Tombeau pour cinq cent mille soldats, Gallimard, 1967.",
+      "Pierre Guyotat, Éden, Éden, Éden, Gallimard, 1970.",
+      "Pierre Guyotat, Prostitution, Gallimard, 1975.",
+      "Pierre Guyotat, Coma, Mercure de France, 2006.",
+      "Pierre Guyotat, Formation, Gallimard, 2007.",
+      "Pierre Guyotat, Idiotie, Grasset, 2018.",
+      "Stephen Barber, Pierre Guyotat: Revolution and Aberration, 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/pierre-guyotat-ressources-en-ligne",
+        "note": "BnF : ressources en ligne, archives, bibliographie et entretiens."
+      },
+      {
+        "url": "https://www.bnf.fr/fr/actualites/hommage-lecrivain-pierre-guyotat-1940-2020",
+        "note": "BnF : hommage retraçant les principales étapes et œuvres."
+      }
+    ],
+    "related": [
+      "jean-pierre-martinet",
+      "gherasim-luca",
+      "bernard-heidsieck"
+    ]
   },
   {
     "id": "claude-simon",
     "name": "Claude Simon",
     "years": "1913–2005",
     "group": "Nouveau Roman / modernités",
-    "bio": "Écrivain français associé au Nouveau Roman, prix Nobel de littérature, dont l'écriture déconstruit la chronologie et la mémoire.",
+    "bio": "Né en 1913 à Antananarivo, alors Tananarive, Claude Simon grandit à Perpignan après la mort de son père pendant la Première Guerre mondiale. Il étudie à Paris et à Oxford, pratique la peinture et voyage en Europe avant d’être mobilisé en 1939. Fait prisonnier en 1940, il s’évade et rejoint ensuite la Résistance. Ces expériences nourrissent une œuvre qui interroge la mémoire, la perception et la discontinuité du temps. Après Le Tricheur (1946), La Route des Flandres (1960) impose une écriture faite de reprises, de longues phrases, de montages et de glissements entre présent, souvenirs et images. Associé au Nouveau Roman, Simon refuse la progression linéaire et la psychologie explicative au profit d’une composition proche du montage cinématographique et du travail pictural. Histoire (1967), Les Géorgiques (1981) et Le Jardin des Plantes (1997) poursuivent cette exploration des strates historiques et familiales. Le prix Nobel de littérature lui est attribué en 1985. Comparer ses lignes de vie à celles de Pierre Guyotat, Witold Gombrowicz et D. H. Lawrence aide à distinguer plusieurs voies du modernisme narratif.",
     "works": [
-      "La Route des Flandres",
-      "Histoire"
+      "Le Tricheur (1946)",
+      "La Route des Flandres (1960)",
+      "Histoire (1967)",
+      "Les Géorgiques (1981)",
+      "L’Acacia (1989)",
+      "Le Jardin des Plantes (1997)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Claude Simon, La Route des Flandres, Minuit, 1960.",
+      "Claude Simon, Histoire, Minuit, 1967.",
+      "Claude Simon, Les Géorgiques, Minuit, 1981.",
+      "Claude Simon, L’Acacia, Minuit, 1989.",
+      "Claude Simon, Le Jardin des Plantes, Minuit, 1997.",
+      "Alastair B. Duncan (dir.), Claude Simon: A Retrospective, 2000."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/laureate/662",
+        "note": "Fondation Nobel : biographie, repères de carrière et présentation de l’œuvre."
+      },
+      {
+        "url": "https://www.leseditionsdeminuit.fr/",
+        "note": "Éditions de Minuit : catalogue éditorial des œuvres de Claude Simon."
+      }
+    ],
+    "related": [
+      "pierre-guyotat",
+      "witold-gombrowicz",
+      "dh-lawrence"
+    ]
   },
   {
     "id": "bernard-heidsieck",
     "name": "Bernard Heidsieck",
     "years": "1928–2014",
-    "bio": "Poète et plasticien français, pionnier de la poésie sonore et de la poésie-action. Il fait du magnétophone un outil d’écriture et développe les Poèmes-partitions, Biopsies et Passe-partout.",
+    "bio": "Né à Paris en 1928, Bernard Heidsieck est poète, plasticien et l’un des principaux fondateurs de la poésie-action. Après des études à Sciences Po, il mène une longue carrière dans la banque tout en développant une œuvre qui conteste la poésie confinée à la page imprimée. La découverte de la musique concrète et de Gesang der Jünglinge de Stockhausen en 1956 accélère son recours au magnétophone, au montage et à la spatialisation de la voix. Ses Poèmes-partitions, Biopsies et Passe-partout font entrer dans le poème des matériaux prélevés dans la vie quotidienne, des voix enregistrées, des annonces et des rythmes urbains. Il conçoit la lecture comme un événement sonore et corporel, où le texte se déploie dans l’espace et dans le temps. Son travail dialogue avec les expérimentations de Henri Chopin, François Dufrêne et Brion Gysin, mais aussi avec les pratiques radiophoniques et musicales. Il organise des rencontres internationales et contribue à faire connaître la poésie sonore en France et à l’étranger. Comparer sa ligne de vie à celles de Henri Chopin, François Dufrêne et Sten Hanson permet de suivre l’émergence d’un réseau international de poésie sonore.",
     "works": [
-      "Poèmes-partitions",
-      "Biopsies",
-      "Vaduz"
+      "Sitôt dit (1955)",
+      "Poèmes-partitions (à partir de 1955)",
+      "Biopsies (1966–1969)",
+      "Passe-partout (années 1970)",
+      "Vaduz (1974)"
     ],
     "sources": [
-      "https://brahms.ircam.fr/fr/composer/bernard-heidsieck/biography"
+      {
+        "url": "https://brahms.ircam.fr/fr/composer/bernard-heidsieck/biography",
+        "note": "IRCAM : biographie, repères esthétiques et bibliographie."
+      }
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Bernard Heidsieck, Poèmes-partitions, éditions diverses.",
+      "Bernard Heidsieck, Biopsies, 1966–1969.",
+      "Bernard Heidsieck, Vaduz, 1974.",
+      "Bernard Heidsieck, La Poésie en action, textes et entretiens.",
+      "Jean-Pierre Bobillot, Bernard Heidsieck, poésie-action, éditions Al Dante."
+    ],
+    "related": [
+      "henri-chopin",
+      "francois-dufrene",
+      "sten-hanson"
+    ]
   },
   {
     "id": "henri-chopin",
     "name": "Henri Chopin",
     "years": "1922–2008",
-    "bio": "Poète sonore et éditeur français, il explore les possibilités électroacoustiques de la voix et dirige la revue-disque expérimentale OU-Cinquième Saison.",
+    "bio": "Né à Paris en 1922, Henri Chopin est poète sonore, éditeur, typographe et expérimentateur des médias. Après avoir été prisonnier de guerre et avoir connu l’expérience des camps de travail, il s’oriente vers une poésie qui ne considère plus le langage comme un simple véhicule de sens. À partir des années 1950, il utilise le magnétophone, les microphones et les manipulations électroacoustiques pour isoler, amplifier et transformer souffle, bouche, gorge et phonèmes. Il fonde la revue-disque OU-Cinquième Saison, qui devient un laboratoire international de poésie visuelle et sonore, accueillant des artistes de nombreux pays. Ses audiopoèmes font du corps un instrument et de l’enregistrement un espace de composition. Il publie également des livres, des revues et des objets typographiques, articulant recherche sonore et poésie concrète. Son travail se situe au croisement de la poésie, de la musique expérimentale et des arts visuels, en dialogue avec Bernard Heidsieck, François Dufrêne et Bob Cobbing. Comparer leurs lignes de vie permet de mesurer la diversité des scènes de poésie sonore des années 1950 à 1980.",
     "works": [
-      "OU-Cinquième Saison",
-      "Le Soleil est mécanique"
+      "OU-Cinquième Saison (revue-disque, 1964–1974)",
+      "Audiopoèmes (années 1960–1990)",
+      "Le Soleil est mécanique (poème et enregistrement)",
+      "Poésie sonore internationale (anthologie, 1979)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Henri Chopin, Poésie sonore internationale, Jean-Michel Place, 1979.",
+      "Henri Chopin, Le Soleil est mécanique, enregistrement sonore.",
+      "Henri Chopin, revue OU-Cinquième Saison, 1964–1974.",
+      "Henri Chopin, audiopoèmes, éditions et enregistrements, notamment chez Alga Marghen."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/",
+        "note": "BnF : catalogue des éditions, revues et enregistrements d’Henri Chopin."
+      },
+      {
+        "url": "https://www.ubu.com/sound/chopin.html",
+        "note": "UbuWeb : corpus d’enregistrements et documents de poésie sonore."
+      }
+    ],
+    "related": [
+      "bernard-heidsieck",
+      "francois-dufrene",
+      "bob-cobbing"
+    ]
   },
   {
     "id": "philip-corner",
     "name": "Philip Corner",
     "years": "1933–",
-    "bio": "Compositeur, performeur et artiste américain associé à Fluxus. Ses pratiques expérimentales croisent musique, geste, texte et performance.",
+    "bio": "Né à New York en 1933, Philip Corner est compositeur, pianiste, interprète et artiste associé à Fluxus. Formé à l’Université Columbia puis au Conservatoire de Paris, où il suit notamment les cours d’Olivier Messiaen, il découvre pendant son service militaire en Corée les traditions musicales et calligraphiques est-asiatiques. Cette rencontre marque durablement son rapport au geste, à la notation et à l’écoute. De retour à New York, il rejoint le réseau Fluxus au début des années 1960. Piano Activities (1962), partition collective qui transforme un piano en objet d’actions et de destructions, devient emblématique de l’esprit de l’époque, mais son travail ne se limite pas au happening : il explore les sons prolongés, les résonances, les instruments non conventionnels, la méditation et l’improvisation. Il participe à des ensembles et collectifs expérimentaux, notamment avec Alison Knowles et le groupe Tone Roads. Son œuvre fait dialoguer Cage, les pratiques conceptuelles et des traditions musicales extra-européennes. Comparer sa ligne de vie à celles de Ben Patterson, John Cage et Juan Hidalgo permet de replacer son travail dans la constellation internationale de Fluxus.",
     "works": [
-      "Fluxus performances"
+      "Piano Activities (1962)",
+      "One Note More or Less (1960s)",
+      "作品 pour instruments et gestes prolongés",
+      "Actions et partitions Fluxus"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Philip Corner, The Piano Activities, partition Fluxus, 1962.",
+      "Philip Corner, œuvres et partitions éditées par Edition Wandelweiser et les archives Fluxus.",
+      "Ken Friedman (dir.), The Fluxus Reader, Academy Editions, 1998.",
+      "Fondation du doute, dossiers et ressources sur Philip Corner."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondationdudoute.fr/artiste/6/1585-les-artistes.htm",
+        "note": "Fondation du doute : biographie et présentation des œuvres Fluxus."
+      },
+      {
+        "url": "https://brahms.ircam.fr/fr/composer/philip-corner/biography",
+        "note": "IRCAM : notice biographique du compositeur."
+      }
+    ],
+    "related": [
+      "ben-patterson",
+      "juan-hidalgo",
+      "john-cage"
+    ]
   },
   {
     "id": "sten-hanson",
     "name": "Sten Hanson",
     "years": "1936–2013",
-    "bio": "Poète, compositeur et artiste sonore suédois, figure majeure de la poésie text-sound et des expérimentations radiophoniques.",
+    "bio": "Poète, compositeur et artiste sonore suédois, Sten Hanson (1936–2013) est une figure importante du mouvement international de text-sound composition. Il travaille à la frontière de la poésie, de la musique électroacoustique, de la performance et de la radio. Ses pièces associent voix parlée, phonèmes, sons enregistrés, montage et traitements électroniques, souvent dans des compositions où la langue devient matériau acoustique plutôt que véhicule d’un récit. Il participe à la scène expérimentale suédoise et aux échanges internationaux qui se structurent autour des festivals de poésie sonore et des radios publiques nordiques. Son travail s’inscrit dans une constellation où figurent Åke Hodell, Bengt Emil Johnson, Henri Chopin et Bernard Heidsieck. L’expression text-sound souligne cette indécision féconde entre texte et son, et l’importance du support enregistré dans la création. Comparer sa ligne de vie à celles de Hodell, Johnson et Heidsieck aide à comprendre les circulations entre les scènes scandinaves et continentales.",
     "works": [
-      "Text-Sound compositions"
+      "Text-Sound compositions (années 1960–2000)",
+      "Pièces radiophoniques et électroacoustiques",
+      "Poèmes et performances sonores"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb13960094j"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb13960094j",
+        "note": "BnF : notice d’autorité et références discographiques."
+      },
+      {
+        "url": "https://www.ubu.com/sound/",
+        "note": "UbuWeb : archives sonores internationales, à parcourir pour les documents de text-sound."
+      }
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Sten Hanson, enregistrements et compositions text-sound, collections de Sveriges Radio.",
+      "Text-Sound Texts, anthologies et documents de la scène suédoise de poésie sonore.",
+      "Lars-Gunnar Bodin et Bengt Emil Johnson (dir.), anthologies de text-sound poetry."
+    ],
+    "related": [
+      "ake-hodell",
+      "bengt-emil-johnson",
+      "bernard-heidsieck"
+    ]
   },
   {
     "id": "ake-hodell",
     "name": "Åke Hodell",
     "years": "1919–2000",
-    "bio": "Poète sonore, compositeur et artiste suédois. Il développe des œuvres text-sound où langage, montage, bruit et critique politique se mêlent.",
+    "bio": "Né en 1919 à Stockholm, Åke Hodell est poète, compositeur, artiste sonore et ancien pilote de chasse. Un accident d’avion survenu pendant la Seconde Guerre mondiale le laisse gravement blessé ; cette expérience nourrit une œuvre profondément antimilitariste. Il commence par la poésie imprimée avant de développer, dans les années 1960, des pièces de text-sound où voix, slogans, bruits, répétitions et montage électronique deviennent des outils de critique politique. General Bussig détourne les discours militaires et l’imaginaire de l’obéissance ; Where is the police? et ses autres compositions interrogent les mécanismes de pouvoir, la propagande et la violence institutionnelle. Hodell participe à la scène expérimentale suédoise, notamment autour de Fylkingen et des studios de musique électronique, et contribue à l’essor de la poésie sonore nordique. Il écrit aussi pour la scène et réalise des œuvres visuelles. Comparer sa ligne de vie à celles de Sten Hanson, Bengt Emil Johnson et Henri Chopin éclaire la dimension politique de la poésie sonore.",
     "works": [
-      "Where is the police?",
-      "General Bussig"
+      "General Bussig (1960s)",
+      "Where is the police? (1960s)",
+      "Mr. Smith in Rhodesia (1970)",
+      "220 Volt Buddha (1970s)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Åke Hodell, General Bussig, pièce text-sound.",
+      "Åke Hodell, Mr. Smith in Rhodesia, 1970.",
+      "Åke Hodell, œuvres sonores et textes, éditions Fylkingen.",
+      "Anthologies de text-sound poetry suédoise, Fylkingen et Sveriges Radio."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fylkingen.se/",
+        "note": "Fylkingen : institution historique des musiques et arts expérimentaux suédois."
+      },
+      {
+        "url": "https://www.ubu.com/sound/",
+        "note": "UbuWeb : archives de poésie sonore et de composition text-sound."
+      }
+    ],
+    "related": [
+      "sten-hanson",
+      "bengt-emil-johnson",
+      "henri-chopin"
+    ]
   },
   {
     "id": "jose-luis-castillejo",
     "name": "José Luis Castillejo",
     "years": "1930–2014",
-    "bio": "Écrivain expérimental, diplomate et membre du groupe Zaj. Il explore une écriture autonome, à la frontière du texte, de l’image, du son et du livre d’artiste.",
+    "bio": "Diplomate espagnol né à Séville en 1930, José Luis Castillejo devient l’un des représentants les plus radicaux de l’écriture expérimentale espagnole. Proche du groupe Zaj, fondé en 1964 avec Juan Hidalgo et Walter Marchetti, il refuse de considérer le livre comme un simple contenant du texte. Ses ouvrages explorent la lettre, le signe, la répétition, le blanc, la matérialité du papier et les possibilités d’une écriture qui ne se laisse pas ramener à la lecture conventionnelle. The Book of i’s, The Book of Eighteen Letters et The Unwritten Writing déplacent l’attention de la signification vers l’acte même d’écrire et de regarder. Castillejo développe parallèlement une réflexion théorique sur l’écriture non signifiante et sur les limites du langage verbal. Son œuvre, longtemps peu diffusée hors de cercles spécialisés, est aujourd’hui reconnue dans l’histoire du livre d’artiste et de la poésie conceptuelle. Comparer sa ligne de vie à celles de Juan Hidalgo, Bob Cobbing et François Dufrêne permet de confronter différentes manières de faire sortir la poésie du livre traditionnel.",
     "works": [
-      "The Book of i’s",
-      "The Book of Eighteen Letters",
-      "The Unwritten Writing"
+      "The Book of i’s (1969)",
+      "The Book of Eighteen Letters (1972)",
+      "The Unwritten Writing (1996)",
+      "La escritura no escrita"
     ],
     "sources": [
-      "https://www.archivioconz.com/collection/artists/jose-luis-castillejo/"
+      {
+        "url": "https://www.archivioconz.com/collection/artists/jose-luis-castillejo/",
+        "note": "Archivo Conz : biographie, publications, correspondance et documents d’archives."
+      },
+      {
+        "url": "https://www.museoreinasofia.es/",
+        "note": "Museo Reina Sofía : collections et ressources sur l’avant-garde espagnole et Zaj."
+      }
     ],
     "kind": "person",
     "group": "Poésie sonore",
@@ -6952,30 +7316,67 @@
     "groups": [
       "ZAJ",
       "Poésie sonore"
+    ],
+    "bibliography": [
+      "José Luis Castillejo, The Book of i’s, 1969.",
+      "José Luis Castillejo, The Book of Eighteen Letters, 1972.",
+      "José Luis Castillejo, The Unwritten Writing, 1996.",
+      "José Luis Castillejo, publications et documents conservés dans l’Archivo Conz."
+    ],
+    "related": [
+      "juan-hidalgo",
+      "bob-cobbing",
+      "francois-dufrene"
     ]
   },
   {
     "id": "gil-j-wolman",
     "name": "Gil J. Wolman",
     "years": "1929–1995",
-    "bio": "Poète, artiste et cinéaste français, lié au lettrisme puis à l’Internationale lettriste. Son mégapneumie fait de la respiration et de la voix une matière poétique.",
+    "bio": "Né à Paris en 1929, Gil Joseph Wolman est poète, artiste et cinéaste. Il rejoint le lettrisme d’Isidore Isou au début des années 1950, avant de participer à l’Internationale lettriste aux côtés de Guy Debord et d’autres dissidents. Il invente la mégapneumie, pratique poétique qui substitue aux mots articulés des émissions de souffle, des cris et des sons produits par l’appareil respiratoire. Son film L’Anticoncept (1951), projeté sur un ballon-sonde et accompagné d’une bande sonore, rompt avec le cinéma narratif et l’image photographique stable. Après sa rupture avec l’Internationale lettriste, il développe des œuvres fondées sur le détournement, le collage, les affiches lacérées et les signes prélevés dans l’espace urbain. Son parcours relie ainsi lettrisme, poésie sonore, cinéma expérimental et pratiques proches du Nouveau Réalisme. Il demeure une figure essentielle des avant-gardes parisiennes d’après-guerre. Comparer sa ligne de vie à celles de François Dufrêne, Guy Debord et Mimmo Rotella permet de suivre les passages entre poésie, cinéma et art de l’affiche.",
     "works": [
-      "L’Anticoncept",
-      "Mégapneumies"
+      "L’Anticoncept (film, 1951)",
+      "Mégapneumies (à partir de 1951)",
+      "L’Internationale lettriste et ses publications",
+      "Œuvres de détournement et d’affichisme"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Gil J. Wolman, L’Anticoncept, film et bande sonore, 1951.",
+      "Gil J. Wolman, mégapneumies et textes lettristes, années 1950.",
+      "K. G. Pontus Hultén (dir.), Le Nouveau Réalisme, 1970 (contexte des pratiques d’affiches et de détournement).",
+      "Archives et catalogues d’exposition consacrés au lettrisme et à l’Internationale lettriste."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Centre Pompidou : collections et dossiers sur le lettrisme et les avant-gardes d’après-guerre."
+      },
+      {
+        "url": "https://www.ubu.com/film/wolman.html",
+        "note": "UbuWeb : documents et filmographie expérimentale de Wolman."
+      }
+    ],
+    "related": [
+      "francois-dufrene",
+      "mimmo-rotella",
+      "juan-hidalgo"
+    ]
   },
   {
     "id": "juan-hidalgo",
     "name": "Juan Hidalgo",
     "years": "1927–2018",
-    "bio": "Compositeur et artiste espagnol, cofondateur du groupe Zaj. Ses œuvres mêlent musique expérimentale, action, langage et performance.",
+    "bio": "Né à Las Palmas en 1927, Juan Hidalgo est compositeur, artiste conceptuel et performeur espagnol. Il étudie la musique à Barcelone, Paris, Genève et Milan, où il travaille notamment auprès de Bruno Maderna, puis découvre les recherches de John Cage. Ses premières œuvres sérielles et électroniques comptent parmi les jalons de la musique expérimentale espagnole. En 1959, il fonde Música Abierta à Barcelone ; en 1964, il crée avec Walter Marchetti et Ramón Barce le groupe Zaj, collectif qui introduit en Espagne les pratiques de performance, de partition ouverte, d’action et de poésie visuelle. Ses pièces déplacent la frontière entre musique et événement, en intégrant gestes quotidiens, objets, silence et hasard. Il participe également à la diffusion de Fluxus et des pratiques conceptuelles dans la péninsule Ibérique. Son œuvre traverse plusieurs décennies et de nombreux médiums, de la composition au livre d’artiste. Comparer sa ligne de vie à celles de José Luis Castillejo, Philip Corner et Ben Patterson permet de situer Zaj dans le réseau international des avant-gardes performatives.",
     "works": [
-      "Zaj",
-      "Piano preparado"
+      "Ukanga (1957)",
+      "Étude de stage (1961)",
+      "Música Abierta (fondation, 1959)",
+      "Zaj (fondation, 1964)",
+      "Partitions et actions conceptuelles"
     ],
     "kind": "person",
     "group": "Poésie sonore",
@@ -6983,43 +7384,103 @@
     "role_label": "Poésie sonore",
     "groups": [
       "ZAJ"
+    ],
+    "bibliography": [
+      "Juan Hidalgo, partitions et écrits publiés autour du groupe Zaj.",
+      "José Antonio Sarmiento (dir.), Zaj, Museo Reina Sofía / archives et catalogues.",
+      "Juan Hidalgo, œuvres sonores et performances, documentation du groupe Zaj."
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/musdico/Juan_Hidalgo_Codorniu/168308",
+        "note": "Larousse : formation musicale, premières œuvres et fondation du groupe Zaj."
+      },
+      {
+        "url": "https://www.museoreinasofia.es/",
+        "note": "Museo Reina Sofía : collections et archives de l’avant-garde espagnole."
+      }
+    ],
+    "related": [
+      "jose-luis-castillejo",
+      "philip-corner",
+      "ben-patterson"
     ]
   },
   {
     "id": "arrigo-lora-totino",
     "name": "Arrigo Lora-Totino",
     "years": "1928–2016",
-    "bio": "Poète expérimental italien, performeur et éditeur. Il explore la poésie sonore, la poésie visuelle et les transformations de la voix.",
+    "bio": "Né à Turin en 1928, Arrigo Lora-Totino est poète, performeur, éditeur et théoricien de la poésie concrète et sonore italienne. Il participe à la néo-avant-garde et développe, à partir des années 1960, des recherches où la voix devient matière plastique : modulation, accélération, ralentissement, souffle et articulation sont travaillés comme des formes. Ses performances, parfois accompagnées de dispositifs visuels et de machines, explorent les possibilités physiques du langage. Il organise des rencontres et des festivals internationaux, publie des anthologies et contribue à faire circuler les œuvres des poètes sonores européens et américains. Sa pratique se situe au croisement de la poésie concrète, de la poésie visuelle et de la performance vocale. Il entretient des liens avec Henri Chopin, Bernard Heidsieck, François Dufrêne et les poètes italiens de la poésie visuelle. Comparer sa ligne de vie à celles de Henri Chopin, Bob Cobbing et François Dufrêne permet de replacer ses expérimentations dans un réseau transnational.",
     "works": [
-      "Futura: Poesia sonora"
+      "Futura: Poesia sonora (anthologie / enregistrements)",
+      "Verbigerazioni (performances)",
+      "Poèmes visuels et partitions vocales",
+      "Manifestations internationales de poésie sonore"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Arrigo Lora-Totino, Futura: Poesia sonora, anthologie sonore.",
+      "Arrigo Lora-Totino, publications et enregistrements conservés à la Fondazione Morra.",
+      "Caterina Gualco et archives de poésie visuelle italienne : catalogues et anthologies."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondazionemorra.org/en/archivi/arrigo-lora-totino/",
+        "note": "Fondazione Morra : biographie, publications, correspondance et archives sonores."
+      }
+    ],
+    "related": [
+      "henri-chopin",
+      "bob-cobbing",
+      "francois-dufrene"
+    ]
   },
   {
     "id": "francois-dufrene",
     "name": "François Dufrêne",
     "years": "1930–1982",
-    "bio": "Poète lettriste français et pionnier de la poésie sonore. Ses crirythmes et ses enregistrements travaillent la voix, le souffle et les sons non lexicaux.",
+    "bio": "Né à Paris en 1930, François Dufrêne est poète, plasticien et cinéaste, d’abord proche du lettrisme d’Isidore Isou, puis membre des Nouveaux Réalistes. Dès 1953, il utilise le magnétophone pour enregistrer et transformer la voix, avant que la poésie sonore ne soit identifiée comme un champ international. Il invente les crirythmes, compositions vocales qui font du souffle, du cri, de la gorge et des sons non lexicaux une matière poétique. Ses œuvres à mots, comme Tombeau de Pierre Larousse et Cantate des mots camés, jouent avec la décomposition et la recomposition du langage. Parallèlement, il réalise des dessous d’affiches et des œuvres d’affichisme, où les couches arrachées de l’espace urbain deviennent des images autonomes. Sa participation au Nouveau Réalisme et aux festivals de poésie sonore relie les scènes plastiques et sonores. Comparer sa ligne de vie à celles de Bernard Heidsieck, Henri Chopin et Gil J. Wolman permet de suivre les transformations du lettrisme vers la poésie-action.",
     "works": [
-      "Crirythmes",
-      "U47"
+      "Crirythmes (à partir des années 1950)",
+      "Tombeau de Pierre Larousse",
+      "Cantate des mots camés",
+      "Comptinuum",
+      "Dessous d’affiches et œuvres d’affichisme"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "François Dufrêne, Œuvre désintégrale, Alga Marghen / Guy Schraenen, 2010, 3 CD et livret.",
+      "François Dufrêne, Archi-Made, ENSBA, 2005.",
+      "François Dufrêne, catalogues d’exposition, Musée d’Art moderne de Villeneuve-d’Ascq, 1988."
+    ],
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/francois-dufrene",
+        "note": "IRCAM : biographie détaillée, chronologie, œuvres et bibliographie."
+      }
+    ],
+    "related": [
+      "bernard-heidsieck",
+      "henri-chopin",
+      "gil-j-wolman"
+    ]
   },
   {
     "id": "mimmo-rotella",
     "name": "Mimmo Rotella",
     "years": "1918–2006",
-    "bio": "Artiste italien du Nouveau Réalisme, connu pour ses affiches lacérées, également engagé dans des expérimentations phonétiques et sonores.",
+    "bio": "Né à Catanzaro en 1918, Mimmo Rotella étudie à Naples puis s’installe à Rome après la Seconde Guerre mondiale. Après une première période d’abstraction, il invente au début des années 1950 le décollage : au lieu d’ajouter des fragments comme dans le collage traditionnel, il arrache les affiches placardées dans la rue, puis les recompose sur toile. Les déchirures, les couches de papier et les restes de publicité deviennent les traces matérielles de la ville moderne et de sa consommation d’images. Il rejoint le Nouveau Réalisme de Pierre Restany à la fin des années 1950 et développe ensuite des procédés mêlant photographie, impression et interventions sur affiches. Son activité ne se limite pas aux arts visuels : il compose aussi des poèmes phonétiques et développe l’épistaltisme, langage inventé fait de sons, de mots et d’onomatopées. Son œuvre établit un lien singulier entre culture de masse, abstraction et expérimentation sonore. Comparer sa ligne de vie à celles de Gil J. Wolman, François Dufrêne et Ben Patterson permet de rapprocher décollage, affichisme et pratiques Fluxus.",
     "works": [
-      "Poèmes phonétiques",
-      "Décollages"
+      "Décollages d’affiches (à partir de 1953)",
+      "Poèmes épistaltiques",
+      "Mec-Art (années 1960)",
+      "Art-typo et Blanks (années 1970–1980)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
@@ -7027,146 +7488,384 @@
     "role_label": "Poésie sonore",
     "groups": [
       "Art vidéo"
+    ],
+    "bibliography": [
+      "Mimmo Rotella, catalogues des premières expositions de décollages, années 1950.",
+      "Mimmo Rotella, œuvres et écrits sur l’épistaltisme, éditions et archives de la Fondazione Mimmo Rotella.",
+      "Fabrizio D’Amico, études et notices sur Mimmo Rotella, collection d’art de la Banca d’Italia."
+    ],
+    "sources": [
+      {
+        "url": "https://collezionedarte.bancaditalia.it/en/web/guest/-/mimmo-rotella-1",
+        "note": "Banca d’Italia : notice biographique et analyse des décollages et expérimentations."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/peinture/Mimmo_Rotella/154183",
+        "note": "Larousse : repères sur les affiches lacérées et le Nouveau Réalisme."
+      }
+    ],
+    "related": [
+      "gil-j-wolman",
+      "francois-dufrene",
+      "ben-patterson"
     ]
   },
   {
     "id": "paul-de-vree",
     "name": "Paul De Vree",
     "years": "1909–1982",
-    "bio": "Poète belge, éditeur et figure de la poésie concrète et expérimentale. Il contribue à la circulation internationale de la poésie sonore.",
+    "bio": "Né à Anvers en 1909 et mort en 1982, Paul De Vree est poète, critique et éditeur belge, acteur important de la diffusion de la poésie concrète en Europe. Après une première poésie de langue néerlandaise, il s’oriente vers les recherches visuelles et typographiques qui font de la page un espace de composition. Il dirige la revue De Tafelronde, plateforme internationale où se croisent poésie concrète, poésie visuelle, expérimentations sonores et arts graphiques. Son travail d’éditeur et de passeur est essentiel : il met en relation les scènes belge, néerlandaise, allemande, italienne et latino-américaine, et contribue à la reconnaissance de la poésie expérimentale comme champ transnational. Ses propres poèmes associent signes, lettres, images et parfois matériaux sonores, dans une réflexion sur les limites du langage verbal. Comparer sa ligne de vie à celles de Bob Cobbing, Arrigo Lora-Totino et Henri Chopin permet de suivre les réseaux éditoriaux et artistiques de la poésie concrète.",
     "works": [
-      "De Tafelronde"
+      "De Tafelronde (revue, direction et édition)",
+      "Poèmes visuels et concrets (années 1950–1970)",
+      "Anthologies internationales de poésie concrète"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Paul De Vree, poèmes et essais publiés dans De Tafelronde.",
+      "De Tafelronde, revue internationale de poésie concrète et visuelle.",
+      "Mary Ellen Solt (dir.), Concrete Poetry: A World View, Indiana University Press, 1968."
+    ],
+    "sources": [
+      {
+        "url": "https://www.dbnl.org/",
+        "note": "Digitale Bibliotheek voor de Nederlandse Letteren : textes et repères sur la littérature néerlandaise."
+      },
+      {
+        "url": "https://www.ubu.com/",
+        "note": "UbuWeb : ressources historiques sur la poésie concrète et expérimentale."
+      }
+    ],
+    "related": [
+      "bob-cobbing",
+      "arrigo-lora-totino",
+      "henri-chopin"
+    ]
   },
   {
     "id": "bob-cobbing",
     "name": "Bob Cobbing",
     "years": "1920–2002",
-    "bio": "Poète et performeur britannique, figure centrale de la poésie sonore anglaise. Il explore la voix, le souffle, la typographie et la performance collective.",
+    "bio": "Né à Enfield en 1920, Bob Cobbing est poète, performeur, éditeur et figure centrale de la poésie expérimentale britannique. Formé comme comptable puis enseignant, il développe une pratique où la langue est envisagée comme matière visuelle et sonore : lettres, signes, empreintes, souffle, cris et bruits peuvent devenir poème. Il fonde et anime Writers Forum, structure éditoriale qui publie pendant plusieurs décennies des centaines de livres et de brochures d’avant-garde. Il joue également un rôle majeur dans la scène londonienne des années 1960, notamment à la librairie Better Books, lieu de rencontres entre poètes, musiciens et artistes. Ses performances et ses partitions visuelles, telles que ABC in Sound, Kurrirrurriri et So: Six Sound Poems, déplacent les frontières entre écriture et oralité. Il contribue à l’organisation de conférences et de festivals internationaux de poésie sonore. Comparer sa ligne de vie à celles de Henri Chopin, Bernard Heidsieck et Paul De Vree permet de relier la scène britannique aux réseaux internationaux de poésie sonore et concrète.",
     "works": [
-      "ABC in Sound",
-      "Konkrete Canticle"
+      "ABC in Sound (1964)",
+      "Kurrirrurriri (1967)",
+      "So: Six Sound Poems (1968)",
+      "Whisper Piece (1969)",
+      "Etcetera: A New Collection of Found and Sound Poems (1970)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Bob Cobbing, ABC in Sound, Writers Forum, 1964.",
+      "Bob Cobbing, So: Six Sound Poems, 1968.",
+      "Bob Cobbing, Etcetera, Writers Forum, 1970.",
+      "Bob Cobbing, Some Statements on Sound Poetry, texte théorique.",
+      "Robert Sheppard, The Poetry of Saying: British Poetry and Its Discontents, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/bob-cobbing",
+        "note": "Poetry Foundation : biographie, pratique éditoriale et principales œuvres."
+      },
+      {
+        "url": "https://www.writersforum.org.uk/",
+        "note": "Writers Forum : histoire de la maison d’édition fondée par Cobbing."
+      }
+    ],
+    "related": [
+      "henri-chopin",
+      "bernard-heidsieck",
+      "paul-de-vree"
+    ]
   },
   {
     "id": "ladislav-novak",
     "name": "Ladislav Novák",
     "years": "1925–1999",
-    "bio": "Poète et artiste tchèque, associé à la poésie expérimentale, aux enregistrements sonores et aux transformations de la voix.",
+    "bio": "Né en 1925 à Turnov et mort en 1999, Ladislav Novák est poète, traducteur et artiste tchèque associé aux avant-gardes expérimentales de l’après-guerre. D’abord enseignant et spécialiste de littérature, il développe à partir des années 1950 une pratique qui traverse poésie visuelle, collage, froissage, frottage, traduction automatique et poésie phonétique. Ses « alogismes » et ses textes expérimentaux déplacent la langue hors de ses usages ordinaires, tandis que ses œuvres plastiques font intervenir hasard, matière et transformation du support. Il participe à la scène d’avant-garde tchécoslovaque malgré les contraintes politiques et institutionnelles du régime communiste. Son travail entretient des liens avec la poésie concrète internationale et les recherches sonores de l’Europe centrale. Il est également traducteur de poésie française et anglaise, ce qui contribue aux circulations culturelles de son époque. Comparer sa ligne de vie à celles de Bob Cobbing, Paul De Vree et Ghérasim Luca éclaire les correspondances entre poésie visuelle, phonétique et expérimentations de l’Europe centrale.",
     "works": [
-      "Two Poems"
+      "Alogismes et poèmes phonétiques (années 1960)",
+      "Poèmes visuels et froissages",
+      "Collages et frottages expérimentaux",
+      "Traductions de poésie moderne"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Ladislav Novák, textes et poèmes visuels, éditions tchèques des années 1960–1990.",
+      "Ladislav Novák, œuvres dans les anthologies internationales de poésie concrète et expérimentale.",
+      "Mary Ellen Solt (dir.), Concrete Poetry: A World View, Indiana University Press, 1968."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artlist.cz/",
+        "note": "Artlist : base documentaire consacrée aux artistes tchèques et à leurs œuvres."
+      },
+      {
+        "url": "https://www.ubu.com/",
+        "note": "UbuWeb : archives et anthologies de poésie expérimentale internationale."
+      }
+    ],
+    "related": [
+      "bob-cobbing",
+      "paul-de-vree",
+      "gherasim-luca"
+    ]
   },
   {
     "id": "hugh-davies",
     "name": "Hugh Davies",
     "years": "1943–2005",
-    "bio": "Compositeur, musicologue et improvisateur britannique. Il conçoit des instruments électroniques expérimentaux et participe aux croisements entre texte, son et performance.",
+    "bio": "Né en 1943 et mort en 2005, Hugh Davies est compositeur, musicologue, improvisateur et inventeur d’instruments électroniques. Après des études à Oxford, il travaille auprès de Karlheinz Stockhausen à Cologne au milieu des années 1960, puis s’intéresse aux pratiques expérimentales, à l’improvisation et aux nouvelles lutheries. Il construit des instruments électroacoustiques à partir d’objets ordinaires, de matériaux récupérés et de dispositifs amplifiés, dont le shozyg, instrument miniature conçu pour produire des sons inattendus. Il participe à des ensembles de musique improvisée et développe une réflexion théorique sur les instruments nouveaux et les pratiques sonores non conventionnelles. Son activité de chercheur et de documentaliste contribue également à l’histoire des musiques expérimentales. Il fait partie des artistes qui ont déplacé la création musicale hors du cadre instrumental classique, en rapprochant geste, objet, bruit et composition. Comparer sa ligne de vie à celles de Philip Corner, Charles Amirkhanian et Henri Chopin permet de situer les échanges entre musique expérimentale et poésie sonore.",
     "works": [
-      "Shozyg",
+      "Shozyg (instrument inventé)",
+      "Instruments électroacoustiques faits maison",
+      "Pièces pour improvisation et objets amplifiés",
       "Sound Texts"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Hugh Davies, International Electronic Music Catalog, 1967.",
+      "Hugh Davies, répertoires et textes sur les instruments nouveaux et la musique électronique.",
+      "Hugh Davies, enregistrements et documents d’archives, British Library Sound Archive."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bl.uk/collection-guides/sound",
+        "note": "British Library : collections sonores et archives de musique expérimentale."
+      },
+      {
+        "url": "https://www.ubu.com/sound/",
+        "note": "UbuWeb : enregistrements et documents de musique expérimentale."
+      }
+    ],
+    "related": [
+      "philip-corner",
+      "charles-amirkhanian",
+      "henri-chopin"
+    ]
   },
   {
     "id": "bengt-emil-johnson",
     "name": "Bengt Emil Johnson",
     "years": "1936–2010",
-    "bio": "Poète, compositeur et producteur de radio suédois, associé au mouvement text-sound et aux expérimentations entre langage et musique.",
+    "bio": "Né en Suède en 1936 et mort en 2010, Bengt Emil Johnson est poète, compositeur, critique et producteur de radio. Il joue un rôle important dans l’émergence de la poésie text-sound scandinave, où la voix, le bruit, le montage et les structures musicales deviennent des éléments constitutifs du poème. Son travail s’inscrit dans un environnement de collaboration entre écrivains, musiciens et producteurs radiophoniques, notamment autour de Fylkingen et de Sveriges Radio. Il contribue à la théorisation et à la diffusion de ces recherches, en organisant des émissions, des rencontres et des publications. Ses compositions explorent les potentialités rythmiques et phonétiques de la parole, tout en maintenant un rapport à l’écriture et à la poésie imprimée. Il travaille en relation avec Lars-Gunnar Bodin, Sten Hanson et Åke Hodell, au sein d’une scène qui fait de la radio un véritable laboratoire de création. Comparer sa ligne de vie à celles de ces deux derniers et de Bernard Heidsieck permet de suivre la structuration du mouvement text-sound.",
     "works": [
-      "(Among)",
-      "Text-Sound compositions"
+      "Poèmes et compositions text-sound",
+      "Œuvres radiophoniques pour Sveriges Radio",
+      "Anthologies et textes théoriques sur la poésie sonore"
     ],
     "sources": [
-      "https://catalogue.bnf.fr/ark:/12148/cb12138677d"
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb12138677d",
+        "note": "BnF : notice d’autorité et références bibliographiques."
+      },
+      {
+        "url": "https://www.fylkingen.se/",
+        "note": "Fylkingen : archives et histoire de la scène expérimentale suédoise."
+      }
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Bengt Emil Johnson, poèmes et compositions radiophoniques, Sveriges Radio.",
+      "Bengt Emil Johnson et Lars-Gunnar Bodin, anthologies et textes sur la text-sound composition.",
+      "Text-Sound Texts, documents et anthologies de la scène suédoise."
+    ],
+    "related": [
+      "sten-hanson",
+      "ake-hodell",
+      "bernard-heidsieck"
+    ]
   },
   {
     "id": "jacques-bekaert",
     "name": "Jacques Bekaert",
     "years": "Dates à vérifier",
-    "bio": "Écrivain, journaliste et expérimentateur belge, présent dans les anthologies historiques de poésie sonore, notamment autour de la revue-disque OU. Ses dates biographiques restent à confirmer.",
+    "bio": "Jacques Bekaert apparaît dans les réseaux de poésie sonore et de poésie expérimentale liés à la revue-disque OU et aux anthologies internationales de l’après-guerre. Les sources biographiques aisément accessibles restent lacunaires et ne permettent pas, à ce stade, d’établir avec sûreté ses dates, sa formation ou l’ensemble de son parcours. Il convient donc de le présenter prudemment comme un auteur et expérimentateur associé à cette circulation internationale des pratiques sonores, plutôt que de lui attribuer une biographie détaillée non vérifiée. La pièce The Day After, répertoriée dans les données de l’Atlas, constitue un point d’entrée pour documenter sa présence dans ce corpus. Sa notice devra être précisée à mesure que des catalogues, archives sonores ou fonds personnels permettront d’identifier plus solidement son activité. Les comparaisons avec Henri Chopin, Bernard Heidsieck et Sten Hanson sont ici des rapprochements de contexte éditorial et de réseau, non l’affirmation de collaborations directes.",
     "works": [
-      "The Day After"
+      "The Day After (œuvre répertoriée dans le corpus de l’Atlas)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Jacques Bekaert, The Day After, référence à documenter à partir des archives de la revue-disque OU.",
+      "OU-Cinquième Saison, revue-disque : exemplaires et sommaires à consulter dans les catalogues patrimoniaux."
+    ],
+    "sources": [
+      {
+        "url": "https://esatheque.esaaix.fr/opac_css/index.php?id=9951&lvl=author_see",
+        "note": "Catalogue de l’École supérieure d’art d’Aix-en-Provence : notice de l’anthologie OU, qui attribue The Day After à Jacques Bekaert."
+      },
+      {
+        "url": "https://www.ubu.com/",
+        "note": "UbuWeb : corpus d’archives de poésie sonore et documents historiques à confronter aux enregistrements originaux."
+      }
+    ],
+    "related": [
+      "henri-chopin",
+      "bernard-heidsieck",
+      "sten-hanson"
+    ]
   },
   {
     "id": "ja-da-silva",
     "name": "J. A. da Silva",
     "years": "1909–1996",
-    "bio": "Artiste et poète sonore référencé dans l’anthologie OU, où son Audio-poem témoigne des échanges internationaux de la poésie expérimentale.",
+    "bio": "La notice de J. A. da Silva demeure particulièrement difficile à documenter : les références disponibles le signalent dans le corpus historique de poésie sonore associé à la revue-disque OU, notamment avec un Audio-poem, mais ne permettent pas encore d’établir une identité complète ni une biographie assurée. Les dates 1909–1996 conservées dans l’Atlas doivent donc être considérées comme provisoires tant qu’elles n’ont pas été recoupées avec une notice d’autorité ou les archives originales. Plutôt que de transformer cette lacune en récit conjectural, il est préférable de retenir ce qui est attesté : sa présence dans un réseau international de diffusion de la poésie sonore et l’existence d’une pièce audio répertoriée. Cette prudence est importante pour une histoire des avant-gardes qui a souvent laissé des artistes périphériques dans l’ombre, mais ne doit pas conduire à leur inventer des affiliations ou des parcours. Les comparaisons avec Henri Chopin, Bernard Heidsieck et Sten Hanson signalent uniquement le contexte de circulation des œuvres dans les anthologies et revues sonores.",
     "works": [
-      "Audio-poem"
+      "Audio-poem (référence attribuée dans le corpus OU, identification à confirmer)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "J. A. da Silva, Audio-poem, référence à vérifier sur l’exemplaire original de la revue-disque OU.",
+      "OU-Cinquième Saison, revue-disque : sommaires, notices de disques et archives à dépouiller."
+    ],
+    "sources": [
+      {
+        "url": "https://esatheque.esaaix.fr/opac_css/index.php?id=9951&lvl=author_see",
+        "note": "Catalogue de l’École supérieure d’art d’Aix-en-Provence : notice de l’anthologie OU, qui attribue Audio-poem à J. A. da Silva."
+      },
+      {
+        "url": "https://www.ubu.com/",
+        "note": "UbuWeb : piste de dépouillement des anthologies sonores et documents historiques."
+      }
+    ],
+    "related": [
+      "henri-chopin",
+      "bernard-heidsieck",
+      "sten-hanson"
+    ]
   },
   {
     "id": "charles-amirkhanian",
     "name": "Charles Amirkhanian",
     "years": "1945–",
-    "bio": "Compositeur, poète sonore et producteur de radio américain. Il travaille les phonèmes, les jeux verbaux, le montage et les structures électroacoustiques.",
+    "bio": "Né en 1945 à Fresno, en Californie, Charles Amirkhanian est compositeur, poète sonore, percussionniste et producteur radiophonique. Il étudie la musique et la percussion, puis s’intéresse aux possibilités du montage sur bande, de la répétition et de la manipulation phonétique. Ses œuvres utilisent la parole comme matériau sonore : phonèmes, fragments de conversations, jeux de mots et rythmes de la langue sont organisés selon des procédés proches de la musique concrète. Il travaille à la radio publique de Berkeley, où il contribue à diffuser les musiques nouvelles et les pratiques expérimentales de la côte Ouest américaine. Des pièces comme Lexical Music et The Great American Piano Sonata témoignent de son goût pour les structures verbales, l’humour et les assemblages sonores. Il participe aussi à des réseaux internationaux de poésie sonore et de musique électroacoustique. Comparer sa ligne de vie à celles de Hugh Davies, Philip Corner et Henri Chopin permet de situer son travail entre radiophonie, poésie et composition.",
     "works": [
+      "Lexical Music",
       "Daisy",
-      "Lexical Music"
+      "The Great American Piano Sonata",
+      "Compositions électroacoustiques et pièces radiophoniques"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Charles Amirkhanian, Lexical Music, enregistrements et partitions.",
+      "Charles Amirkhanian, œuvres publiées par Other Minds et New World Records.",
+      "Douglas Kahn, Noise, Water, Meat: A History of Sound in the Arts, MIT Press, 1999."
+    ],
+    "sources": [
+      {
+        "url": "https://www.otherminds.org/",
+        "note": "Other Minds : biographie, catalogue et archives du compositeur."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "New World Records : enregistrements et notices de musique expérimentale américaine."
+      }
+    ],
+    "related": [
+      "hugh-davies",
+      "philip-corner",
+      "henri-chopin"
+    ]
   },
   {
     "id": "ben-patterson",
     "name": "Ben Patterson",
     "years": "1934–2016",
-    "bio": "Compositeur, performeur et artiste américain, membre fondateur de Fluxus. Ses partitions et actions brouillent les frontières entre musique, humour et événement.",
+    "bio": "Né à Pittsburgh en 1934, Ben Patterson est compositeur, contrebassiste, performeur et l’un des membres fondateurs de Fluxus. Formé à la musique, il travaille comme contrebassiste dans des orchestres avant de rejoindre les réseaux d’avant-garde européens au début des années 1960. Il participe aux premiers festivals Fluxus de Wiesbaden, Copenhague et Paris, où ses partitions ouvertes transforment des gestes ordinaires, des objets et des situations en événements artistiques. Paper Piece, Variations for Double-Bass et ses nombreuses actions jouent de l’humour, de la surprise et de l’économie de moyens pour contester les frontières entre musique, théâtre et arts visuels. Son parcours est international : il travaille en Allemagne, en France et aux États-Unis, puis reprend une activité artistique plus visible à partir des années 1980. Il demeure l’une des figures importantes de la mémoire de Fluxus. Comparer sa ligne de vie à celles de Philip Corner, Juan Hidalgo et Nam June Paik permet de situer les pratiques performatives au sein du mouvement.",
     "works": [
-      "Paper Piece",
-      "Variations for Double-Bass"
+      "Paper Piece (1960)",
+      "Variations for Double-Bass (1961)",
+      "Lick Piece",
+      "Actions et partitions Fluxus"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Ben Patterson, Paper Piece, partition Fluxus, 1960.",
+      "Ben Patterson, Variations for Double-Bass, 1961.",
+      "Hannah Higgins, Fluxus Experience, University of California Press, 2002.",
+      "Ken Friedman (dir.), The Fluxus Reader, Academy Editions, 1998."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/4527",
+        "note": "MoMA : notice d’artiste et œuvres de Ben Patterson."
+      },
+      {
+        "url": "https://www.fluxus.org/",
+        "note": "Fluxus.org : ressources historiques sur le mouvement et ses participants."
+      }
+    ],
+    "related": [
+      "philip-corner",
+      "juan-hidalgo",
+      "nam-june-paik"
+    ]
   },
   {
     "id": "gherasim-luca",
     "name": "Ghérasim Luca",
     "years": "1913–1994",
-    "bio": "Poète d’origine roumaine installé en France, il pousse la langue vers le bégaiement, les torsions phonétiques et une oralité physique devenue emblématique.",
+    "bio": "Né à Bucarest en 1913, Ghérasim Luca est poète d’expression française d’origine roumaine, proche dans sa jeunesse des avant-gardes roumaines et du surréalisme. Il participe aux groupes d’avant-garde de Bucarest, notamment autour de la revue Alge, puis développe avec Gellu Naum et d’autres artistes une pratique poétique qui mêle surréalisme, matérialisme et expérimentation du langage. Installé à Paris à partir de 1952, il invente une poésie où la répétition, le bégaiement, les déplacements phonétiques et les torsions syntaxiques font entendre le désir et l’impossibilité de dire. Héros-Limite (1953), La Voici la voie silanxieuse et Passionnément comptent parmi ses textes majeurs. Ses lectures publiques, notamment l’interprétation de Passionnément, font de la voix un événement physique, à la fois comique, tendu et bouleversant. Son œuvre influence la poésie sonore et plusieurs générations de poètes et d’artistes. Il meurt à Paris en 1994. Comparer sa ligne de vie à celles de Bernard Heidsieck, Henri Chopin et Pierre Guyotat permet de confronter des conceptions du langage comme matière corporelle.",
     "works": [
-      "La voici la voie silanxieuse",
-      "Passionnément"
+      "Héros-Limite (1953)",
+      "La Voici la voie silanxieuse (1960)",
+      "Le Chant de la carpe (1973)",
+      "Passionnément (1985)",
+      "Apostroph’Apocalypse (1988)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
     "role_icon": "📼",
-    "role_label": "Poésie sonore"
+    "role_label": "Poésie sonore",
+    "bibliography": [
+      "Ghérasim Luca, Héros-Limite, 1953.",
+      "Ghérasim Luca, Le Chant de la carpe, 1973.",
+      "Ghérasim Luca, Passionnément, 1985.",
+      "Ghérasim Luca, La Voici la voie silanxieuse, éditions et rééditions diverses.",
+      "Dominique Carlat, Ghérasim Luca l’intempestif, José Corti, 1998."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Centre Pompidou : collections et ressources sur Ghérasim Luca et les avant-gardes."
+      },
+      {
+        "url": "https://www.bnf.fr/fr",
+        "note": "BnF : catalogues, enregistrements et ressources bibliographiques."
+      }
+    ],
+    "related": [
+      "bernard-heidsieck",
+      "henri-chopin",
+      "pierre-guyotat"
+    ]
   },
   {
     "id": "simone-forti",
