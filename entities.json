@@ -6482,5 +6482,566 @@
         "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
       }
     ]
+  },
+  {
+    "kind": "person",
+    "id": "charles-ives",
+    "name": "Charles Ives",
+    "years": "1874–1954",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Précurseur",
+    "bio": "Compositeur américain dont les superpositions de fanfares, citations populaires, polyrythmies et clusters ouvrent des voies décisives à la modernité musicale. Son indépendance esthétique précède plusieurs courants de la musique expérimentale américaine.",
+    "works": [
+      "The Unanswered Question",
+      "Central Park in the Dark",
+      "Concord Sonata"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ircam.fr/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "david-tudor",
+    "name": "David Tudor",
+    "years": "1926–1996",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Pianiste et compositeur américain, interprète majeur de John Cage puis figure centrale de la musique électronique en direct. Il conçoit des circuits et dispositifs qui font de l’interprétation une activité de composition.",
+    "works": [
+      "Rainforest",
+      "Bandoneon!"
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/5995",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "henry-cowell",
+    "name": "Henry Cowell",
+    "years": "1897–1965",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain pionnier, il explore les clusters, le jeu directement sur les cordes du piano et les rythmes non occidentaux. Éditeur de New Music, il structure les réseaux de la nouvelle musique américaine.",
+    "works": [
+      "The Tides of Manaunaun",
+      "Aeolian Harp"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Henry-Cowell",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "harry-partch",
+    "name": "Harry Partch",
+    "years": "1901–1974",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain qui bâtit un univers fondé sur des divisions microtonales de l’octave. Il invente ses propres instruments et associe musique, théâtre, geste et scénographie.",
+    "works": [
+      "Delusion of the Fury",
+      "The Bewitched",
+      "Genesis of a Music"
+    ],
+    "sources": [
+      {
+        "url": "https://www.harrypartch.com/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "conlon-nancarrow",
+    "name": "Conlon Nancarrow",
+    "years": "1912–1997",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain installé au Mexique, il compose pour piano mécanique afin de réaliser des rythmes et tempos d’une complexité presque impraticable pour un interprète humain.",
+    "works": [
+      "Studies for Player Piano"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Conlon-Nancarrow",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "cornelius-cardew",
+    "name": "Cornelius Cardew",
+    "years": "1936–1981",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur britannique, membre fondateur de l’AMM et du Scratch Orchestra. Il développe partitions ouvertes et improvisation collective, avant de lier plus explicitement sa musique à son engagement politique.",
+    "works": [
+      "Treatise",
+      "The Great Learning",
+      "The Tiger’s Mind"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tate.org.uk/art/artists/cornelius-cardew-2802",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "pauline-oliveros",
+    "name": "Pauline Oliveros",
+    "years": "1932–2016",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositrice et accordéoniste américaine, pionnière de la musique électronique et de l’improvisation. Elle développe le Deep Listening, qui fait de l’écoute une pratique artistique, corporelle et collective.",
+    "works": [
+      "Bye Bye Butterfly",
+      "Sonic Meditations",
+      "Deep Listening"
+    ],
+    "sources": [
+      {
+        "url": "https://www.paulineoliveros.us/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "frederic-rzewski",
+    "name": "Frederic Rzewski",
+    "years": "1938–2021",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur et pianiste américain, cofondateur de Musica Elettronica Viva à Rome. Son œuvre associe improvisation, expérimentation, virtuosité et références politiques.",
+    "works": [
+      "The People United Will Never Be Defeated!",
+      "Coming Together",
+      "Les Moutons de Panurge"
+    ],
+    "sources": [
+      {
+        "url": "https://www.boosey.com/composer/Frederic+Rzewski",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "ruth-crawford-seeger",
+    "name": "Ruth Crawford Seeger",
+    "years": "1901–1953",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Précurseur",
+    "bio": "Compositrice américaine associée au modernisme et aux ultramodernes. Son Quatuor à cordes de 1931 pousse très loin le contrepoint dissonant et les transformations de timbre; elle se consacra ensuite aussi à la collecte de chants populaires.",
+    "works": [
+      "String Quartet 1931",
+      "Andante for Strings"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Ruth-Crawford-Seeger",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "carl-ruggles",
+    "name": "Carl Ruggles",
+    "years": "1876–1971",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Précurseur",
+    "bio": "Compositeur américain indépendant, proche de Charles Ives et Henry Cowell. Son langage contrapuntique dissonant, élaboré sur un petit nombre d’œuvres, en fait une figure singulière du modernisme américain.",
+    "works": [
+      "Sun-Treader",
+      "Men and Mountains"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Carl-Ruggles",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "lou-harrison",
+    "name": "Lou Harrison",
+    "years": "1917–2003",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain, élève de Henry Cowell et proche de John Cage. Il explore accordages alternatifs, percussions et instruments non occidentaux, notamment les gamelans.",
+    "works": [
+      "Concerto for Violin with Five Percussion",
+      "Suite for Violin and American Gamelan"
+    ],
+    "sources": [
+      {
+        "url": "https://www.louharrisonhouse.org/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "gordon-mumma",
+    "name": "Gordon Mumma",
+    "years": "1935–",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain et pionnier de l’électronique en direct. Cofondateur de ONCE et membre de la compagnie de Merce Cunningham, il conçoit des circuits spécifiques pour transformer les sons instrumentaux en temps réel.",
+    "works": [
+      "Mesa",
+      "Hornpipe",
+      "Cybersonic Cantilevers"
+    ],
+    "sources": [
+      {
+        "url": "https://www.gordonmumma.com/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "alvin-lucier",
+    "name": "Alvin Lucier",
+    "years": "1931–2021",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain dont les œuvres rendent audibles des phénomènes acoustiques et physiques. Il travaille sur résonances, ondes cérébrales, interférences et propriétés des espaces.",
+    "works": [
+      "I Am Sitting in a Room",
+      "Music on a Long Thin Wire",
+      "Vespers"
+    ],
+    "sources": [
+      {
+        "url": "https://www.alucier.com/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "robert-ashley",
+    "name": "Robert Ashley",
+    "years": "1930–2014",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur américain, figure de l’opéra expérimental et cofondateur du collectif ONCE. Il développe une œuvre où voix parlée, électronique, langage et narration deviennent les matériaux d’un théâtre musical singulier.",
+    "works": [
+      "Perfect Lives",
+      "Automatic Writing",
+      "The Wolfman"
+    ],
+    "sources": [
+      {
+        "url": "https://www.robertashley.org/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "james-tenney",
+    "name": "James Tenney",
+    "years": "1934–2006",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur et théoricien américain, pionnier de l’informatique musicale. Proche de Cage, il explore processus, textures, systèmes d’accord et relations entre perception auditive et composition.",
+    "works": [
+      "For Ann (rising)",
+      "Koan",
+      "Postal Pieces"
+    ],
+    "sources": [
+      {
+        "url": "https://www.jamestenney.com/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "tony-conrad",
+    "name": "Tony Conrad",
+    "years": "1940–2016",
+    "group": "Musique expérimentale",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Artiste, cinéaste et musicien américain, associé à La Monte Young et au minimalisme expérimental new-yorkais. Ses drones au violon et ses films structurels brouillent les frontières entre musique, cinéma et arts visuels.",
+    "works": [
+      "The Flicker",
+      "Four Violins",
+      "Outside the Dream Syndicate"
+    ],
+    "sources": [
+      {
+        "url": "https://www.eai.org/artists/tony-conrad/biography",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "henry-david-thoreau",
+    "name": "Henry David Thoreau",
+    "years": "1817–1862",
+    "group": "Pensée et précurseurs",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Précurseur",
+    "bio": "Écrivain, naturaliste et penseur américain de la désobéissance civile et de la vie volontairement simplifiée. Son rapport à la nature et à l’autonomie nourrit des traditions écologiques, libertaires et artistiques ultérieures; Ives lui rend hommage dans la Concord Sonata.",
+    "works": [
+      "Walden",
+      "Civil Disobedience",
+      "A Week on the Concord and Merrimack Rivers"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Henry-David-Thoreau",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "ludwig-wittgenstein",
+    "name": "Ludwig Wittgenstein",
+    "years": "1889–1951",
+    "group": "Pensée et précurseurs",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Figure de pensée",
+    "bio": "Philosophe austro-britannique dont les travaux sur la logique, le langage et les limites de la représentation ont profondément marqué la pensée du XXe siècle. Sa présence relève d’un arrière-plan théorique, non d’une appartenance aux avant-gardes artistiques.",
+    "works": [
+      "Tractatus logico-philosophicus",
+      "Recherches philosophiques"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Ludwig-Wittgenstein",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "alphonse-allais",
+    "name": "Alphonse Allais",
+    "years": "1854–1905",
+    "group": "Pensée et précurseurs",
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Précurseur",
+    "bio": "Écrivain, humoriste et fumiste français, maître de l’absurde et du détournement des conventions. Ses monochromes et propositions parodiques annoncent certains gestes repris par Dada, sans qu’il soit membre de ce mouvement.",
+    "works": [
+      "Album primo-avrilesque",
+      "À se tordre",
+      "Le Parapluie de l’escouade"
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "elisee-reclus",
+    "name": "Élisée Reclus",
+    "years": "1830–1905",
+    "group": "Pensée et précurseurs",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Figure de pensée",
+    "bio": "Géographe et militant anarchiste français, auteur d’une œuvre majeure sur les rapports entre sociétés humaines et milieux naturels. Son anarchisme, son internationalisme et sa géographie humaine constituent un arrière-plan des traditions libertaires et écologiques.",
+    "works": [
+      "Nouvelle Géographie universelle",
+      "L’Homme et la Terre"
+    ],
+    "sources": [
+      {
+        "url": "https://www.reclus.info/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "john-cowper-powys",
+    "name": "John Cowper Powys",
+    "years": "1872–1963",
+    "group": "Pensée et précurseurs",
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Figure de pensée",
+    "bio": "Romancier, essayiste et conférencier britannique, auteur d’une œuvre où se mêlent individualisme, panthéisme, mythologie et expérience sensible. Figure indépendante plutôt que membre d’une avant-garde constituée.",
+    "works": [
+      "Wolf Solent",
+      "A Glastonbury Romance",
+      "The Meaning of Culture"
+    ],
+    "sources": [
+      {
+        "url": "https://www.powys-society.org/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "george-orwell",
+    "name": "George Orwell",
+    "years": "1903–1950",
+    "group": "Pensée et précurseurs",
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Figure de pensée",
+    "bio": "Écrivain et journaliste britannique, critique du totalitarisme, de la propagande et des mécanismes de domination. Son inclusion relève de l’histoire des idées politiques et de la critique sociale, plus que de l’expérimentation formelle des avant-gardes.",
+    "works": [
+      "Homage to Catalonia",
+      "Animal Farm",
+      "Nineteen Eighty-Four"
+    ],
+    "sources": [
+      {
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/biography/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "gunther-anders",
+    "name": "Günther Anders",
+    "years": "1902–1992",
+    "group": "Pensée et précurseurs",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Figure de pensée",
+    "bio": "Philosophe et essayiste austro-allemand, critique de la technique, de la société industrielle et de l’âge atomique. Sa réflexion sur le décalage entre puissance technologique et imagination humaine éclaire les dimensions critiques des pratiques artistiques d’après-guerre.",
+    "works": [
+      "Die Antiquiertheit des Menschen",
+      "L’Obsolescence de l’homme",
+      "Nous, fils d’Eichmann"
+    ],
+    "sources": [
+      {
+        "url": "https://www.deutsche-biographie.de/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "panait-istrati",
+    "name": "Panait Istrati",
+    "years": "1884–1935",
+    "group": "Pensée et précurseurs",
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Figure de pensée",
+    "bio": "Écrivain roumain d’expression française, autodidacte et voyageur, dont les récits donnent une place centrale aux marginaux, aux solidarités et aux révoltes sociales. Proche de milieux libertaires, il constitue une figure littéraire indépendante.",
+    "works": [
+      "Kyra Kyralina",
+      "Les Chardons du Baragan",
+      "Vers l’autre flamme"
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "karl-marx",
+    "name": "Karl Marx",
+    "years": "1818–1883",
+    "group": "Pensée et précurseurs",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Figure de pensée",
+    "bio": "Philosophe, économiste et théoricien politique allemand, dont la critique du capitalisme et l’analyse des rapports sociaux ont marqué les mouvements révolutionnaires, ouvriers et artistiques. Référence intellectuelle majeure, sans affiliation artistique directe.",
+    "works": [
+      "Le Manifeste du parti communiste",
+      "Le Capital",
+      "L’Idéologie allemande"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Karl-Marx",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
+  },
+  {
+    "kind": "person",
+    "id": "nestor-makhno",
+    "name": "Nestor Makhno",
+    "years": "1888–1934",
+    "group": "Pensée et précurseurs",
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Figure de pensée",
+    "bio": "Militant et organisateur anarchiste ukrainien, figure de l’insurrection révolutionnaire en Ukraine pendant la guerre civile russe. Son inclusion documente l’arrière-plan libertaire et révolutionnaire de certains milieux intellectuels, sans en faire un acteur de l’avant-garde esthétique.",
+    "works": [
+      "Mémoires"
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Nestor-Makhno",
+        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+      }
+    ]
   }
 ]
