@@ -979,62 +979,189 @@
     "name": "Philippe Soupault",
     "years": "1897–1990",
     "group": "Surréalisme",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, romancier, essayiste, journaliste et homme de radio, Philippe Soupault est l’un des fondateurs du dadaïsme parisien et du surréalisme. Avec André Breton, il expérimente l’écriture automatique dans Les Champs magnétiques, publié en 1920 et considéré comme l’un des textes fondateurs du surréalisme. Il cofonde en 1919 la revue Littérature avec Breton et Louis Aragon. En désaccord avec l’orientation prise par le groupe, il en est exclu en 1926. Il poursuit une œuvre très diverse, faite de poésie, de romans, de reportages, de critique d’art et de cinéma. Grand reporter, il anime également Radio-Tunis pendant la période du Front populaire, est emprisonné par les autorités vichystes, puis rejoint l’Algérie. Son activité radiophonique et ses récits de voyage prolongent son goût de l’expérimentation et de la découverte.",
+    "works": [
+      "Aquarium (1917)",
+      "Les Champs magnétiques, avec André Breton (1920)",
+      "Westwego (1922)",
+      "Les Frères Durandeau (1924)",
+      "Les Dernières Nuits de Paris (1928)",
+      "Charlot (1931)",
+      "Le Temps des assassins (1945)",
+      "Écrits de cinéma, 1918-1931 (1979)",
+      "Mémoires de l’oubli (1981-1987)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🪶",
+    "role_label": "Poésie et journalisme",
+    "bibliography": [
+      "Les Champs magnétiques, avec André Breton, Au Sans Pareil, 1920.",
+      "Les Dernières Nuits de Paris, 1928.",
+      "Le Temps des assassins, La Maison française, New York, 1945.",
+      "Portrait(s) de Philippe Soupault, dir. Mauricette Berne et Jacqueline Chénieux-Gendron, BnF, 1997.",
+      "Fonds Philippe Soupault, IMEC."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11925251x.public",
+        "note": "Notice d’autorité BnF et bibliographie."
+      },
+      {
+        "url": "https://www.imec-archives.com/archives/collection/AU/FR_145875401_P042SPT",
+        "note": "Notice du fonds d’archives et biographie."
+      },
+      {
+        "url": "https://www.metmuseum.org/ko/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/soupault",
+        "note": "Notice biographique du Metropolitan Museum of Art."
+      }
+    ]
   },
   {
     "id": "peret",
     "name": "Benjamin Péret",
     "years": "1899–1959",
     "group": "Surréalisme",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, essayiste et pamphlétaire, Benjamin Péret est l’une des figures les plus intransigeantes du surréalisme. Après avoir participé à Dada, il rejoint le groupe surréaliste dès sa fondation en 1924 et défend une poésie fondée sur l’image libre, l’humour noir, le merveilleux et la révolte. Son engagement politique le conduit au Parti communiste, puis à l’opposition trotskiste et à l’anarchisme. Il séjourne au Brésil, participe à la guerre d’Espagne dans les rangs républicains, puis vit au Mexique pendant la Seconde Guerre mondiale. Dans Le Déshonneur des poètes, il refuse l’instrumentalisation patriotique de la poésie et défend l’autonomie de l’imaginaire. Son œuvre associe radicalité politique, goût des mythes et invention verbale.",
+    "works": [
+      "Le Passager du transatlantique (1921)",
+      "Dormir, dormir dans les pierres (1927)",
+      "Les Rouilles encagées (1928; publié en tirage limité en 1954)",
+      "De derrière les fagots (1934)",
+      "Je ne mange pas de ce pain-là (1936)",
+      "Le Déshonneur des poètes (1945)",
+      "Anthologie de l’amour sublime (1956)",
+      "Le Gigot, sa vie et son œuvre (1957)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🪶",
+    "role_label": "Poésie et politique",
+    "bibliography": [
+      "Le Passager du transatlantique, 1921.",
+      "Le Déshonneur des poètes, Mexico, 1945.",
+      "Anthologie de l’amour sublime, Albin Michel, 1956.",
+      "Œuvres complètes, 7 volumes parus, éditions Losfeld et José Corti, sous l’égide de l’Association des amis de Benjamin Péret.",
+      "Cahiers Benjamin Péret, publication annuelle depuis 2012."
+    ],
+    "sources": [
+      {
+        "url": "https://patrimonia.nantes.fr/fiches-encyclopediques/benjamin-peret-1899-1959/",
+        "note": "Notice historique de Nantes Métropole."
+      },
+      {
+        "url": "https://benjamin-peret.org/qui-sommes-nous.html",
+        "note": "Association des amis de Benjamin Péret et édition des œuvres complètes."
+      },
+      {
+        "url": "https://www.benjamin-peret.org/qui-sommes-nous/publications/cahiers-benjamin-peret.html",
+        "note": "Cahiers et documents d’archives."
+      }
+    ]
   },
   {
     "id": "einstein",
     "name": "Carl Einstein",
     "years": "1885–1940",
     "group": "Documents",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Historien et théoricien de l’art, écrivain et critique allemand, Carl Einstein est une figure essentielle des échanges entre les avant-gardes littéraires et artistiques européennes. Son livre Negerplastik (1915), consacré à la sculpture africaine, contribue à transformer le regard des artistes modernes sur les arts non européens, même si son vocabulaire et son cadre historique doivent aujourd’hui être replacés dans leur contexte colonial. Il publie également Bebuquin, roman expérimental qui rompt avec les conventions narratives, et développe une réflexion majeure sur le cubisme dans Die Kunst des 20. Jahrhunderts. Installé à Paris, il collabore à la revue Documents aux côtés de Georges Bataille et Michel Leiris. Engagé dans la guerre d’Espagne auprès des républicains, il se suicide en 1940 alors qu’il fuit l’avancée allemande.",
+    "works": [
+      "Bebuquin oder die Dilettanten des Wunders (1912)",
+      "Negerplastik (1915)",
+      "Die Kunst des 20. Jahrhunderts (1926)",
+      "Afrikanische Plastik (1921)",
+      "Documents (collaborations, 1929-1930)",
+      "Georges Braque (1934)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🧠",
+    "role_label": "Critique et théorie de l’art",
+    "bibliography": [
+      "Negerplastik, Verlag der weißen Bücher, 1915.",
+      "Die Kunst des 20. Jahrhunderts, Propyläen, 1926.",
+      "Georges Braque, 1934.",
+      "Carl Einstein, Werke, édition critique établie par divers spécialistes, Fannei & Walz / Philo Fine Arts.",
+      "Charles W. Haxthausen, « Carl Einstein: avant-garde and art history », études sur l’auteur et Documents."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/",
+        "note": "Collections et ressources sur l’art moderne et le cubisme."
+      },
+      {
+        "url": "https://www.bnf.fr/fr/le-dictionnaire-de-biographie-francaise",
+        "note": "Outil biographique de référence pour les personnalités liées à la France."
+      }
+    ]
   },
   {
     "id": "boiffard",
     "name": "Jacques-André Boiffard",
     "years": "1902–1961",
     "group": "Documents",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Photographe et médecin, Jacques-André Boiffard est l’un des principaux praticiens de la photographie surréaliste à la fin des années 1920. Il rejoint le groupe en 1924, travaille comme assistant dans l’atelier de Man Ray et contribue au premier numéro de La Révolution surréaliste. Ses photographies illustrent Nadja d’André Breton, dont les vues de rues, de vitrines et de lieux ordinaires participent à l’atmosphère du livre. Après sa rupture avec Breton, il se rapproche de Georges Bataille et contribue à la revue Documents, où ses images prennent souvent une dimension clinique, fragmentaire ou déconcertante. Il ouvre ensuite un studio avec Eli Lotar, puis reprend des études de médecine et exerce comme radiologue. Cette double activité éclaire la tension entre regard documentaire et construction surréaliste dans son œuvre.",
+    "works": [
+      "Photographies pour Nadja d’André Breton (1928)",
+      "Photographies publiées dans Documents (1929-1930)",
+      "Photographies et travaux avec Eli Lotar aux Studios unis (à partir de 1929)",
+      "Les Mystères du château de Dé, film de Man Ray (1929; participation photographique et technique)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "📷",
+    "role_label": "Photographie",
+    "bibliography": [
+      "André Breton, Nadja, Gallimard, 1928, photographies de Jacques-André Boiffard et d’autres contributeurs.",
+      "Documents, revue, 1929-1930.",
+      "Jacques-André Boiffard, notice d’artiste, MoMA, Object:Photo.",
+      "Dawn Ades (dir.), Surrealism, catalogue d’exposition, Tate / Thames & Hudson, 2001."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/interactives/objectphoto/artists/24425.html",
+        "note": "Notice biographique et repères sur sa carrière photographique."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Collections photographiques et ressources sur Documents."
+      }
+    ]
   },
   {
     "id": "peignot",
     "name": "Colette Peignot",
     "years": "1903–1938",
     "group": "Acéphale",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Écrivaine connue sous le nom de Laure, Colette Peignot laisse une œuvre brève, fragmentaire et largement publiée après sa mort. Issue d’un milieu bourgeois, elle rompt avec les valeurs familiales et s’engage dans des milieux révolutionnaires, notamment auprès de Boris Souvarine. Elle rencontre Georges Bataille au début des années 1930 et prend part à l’environnement intellectuel qui conduit à la fondation d’Acéphale, sans que son rôle puisse être réduit à celui de compagne de Bataille. Ses textes, souvent autobiographiques, mêlent révolte politique, expérience de la maladie, critique de la religion et recherche d’une parole dépouillée. Elle écrit sous le pseudonyme de Laure, ainsi que sous celui de Claude Araxe. Atteinte de tuberculose, elle meurt en 1938. Ses manuscrits, longtemps restés dispersés et en partie occultés, ont été publiés de manière posthume.",
+    "works": [
+      "Histoire d’une petite fille (texte autobiographique, publication posthume)",
+      "Le Sacré (texte, publication posthume)",
+      "Écrits de Laure (1977)",
+      "Une rupture. 1934. Correspondance croisée avec Boris Souvarine, sa famille et Georges Bataille (1999)",
+      "Écrits retrouvés (1987)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre",
+    "role_icon": "📖",
+    "role_label": "Écriture",
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Écrits de Laure, textes réunis par le collectif Change, 1977.",
+      "Écrits retrouvés, Laure, préface de Jérôme Peignot, 1987.",
+      "Une rupture. 1934. Correspondance croisée de Laure avec Boris Souvarine, sa famille, Georges Bataille…, éd. Anne Roche et Jérôme Peignot, Éditions des Cendres, 1999.",
+      "Histoire d’une petite fille, Colette Peignot dite Laure, Éditions de la Lanterne, 2024."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb181700973",
+        "note": "Notice d’autorité BnF et pseudonyme Laure."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Colette_Peignot_dite_Laure/174756",
+        "note": "Notice littéraire et histoire de la publication des écrits."
+      },
+      {
+        "url": "https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Ab79236011",
+        "note": "Inventaire de documents et photographies de Colette Peignot."
+      }
     ]
   },
   {
@@ -1042,55 +1169,170 @@
     "name": "E. L. T. Mesens",
     "years": "1903–1971",
     "group": "Surréalisme belge",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, peintre, éditeur, galeriste et organisateur, Édouard-Léon-Théodore Mesens est l’un des principaux animateurs du surréalisme en Belgique et en Grande-Bretagne. D’abord proche de l’avant-garde bruxelloise et de René Magritte, il participe à la diffusion du dadaïsme et du surréalisme par les revues, les expositions et les éditions. Il fonde et dirige plusieurs périodiques, dont Œsophage et Variétés, qui contribuent à mettre en relation les scènes belge, française et internationale. Installé à Londres pendant la Seconde Guerre mondiale, il devient une figure majeure de la promotion du surréalisme britannique et organise des expositions déterminantes. Son activité de poète et de créateur de collages reste étroitement liée à son travail d’éditeur et de passeur.",
+    "works": [
+      "Œsophage (revue, 1925)",
+      "Variétés (revue, 1928-1930)",
+      "Correspondances et collaborations avec René Magritte et les surréalistes belges",
+      "Collages et poèmes (années 1920-1960)",
+      "Belgium, 1944 (anthologie / publication liée à l’exil londonien)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "🖼️",
+    "role_label": "Arts visuels et édition",
+    "bibliography": [
+      "Édouard-Léon-Théodore Mesens, écrits et collages, catalogues et études consacrés au surréalisme belge.",
+      "Irène Hamoir et Louis Scutenaire, documentation sur le groupe surréaliste bruxellois.",
+      "Le Surréalisme en Belgique, catalogues d’exposition et études historiques, Musées royaux des Beaux-Arts de Belgique."
+    ],
+    "sources": [
+      {
+        "url": "https://www.musee-magritte-museum.be/",
+        "note": "Ressources sur le surréalisme belge et ses réseaux."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/",
+        "note": "Ressources sur les revues et les avant-gardes européennes."
+      }
+    ]
   },
   {
     "id": "goemans",
     "name": "Camille Goemans",
     "years": "1900–1960",
     "group": "Surréalisme belge",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Poète, galeriste et éditeur belge, Camille Goemans est une figure importante du premier surréalisme bruxellois. Médecin de formation, il participe aux réseaux d’avant-garde qui se structurent autour de Correspondance et de la revue Œsophage, puis s’associe à René Magritte et Paul Nougé dans les activités du groupe surréaliste de Bruxelles. Il contribue à organiser des expositions et à diffuser les œuvres de ses proches, notamment à Paris, où il ouvre une galerie. Son rôle est autant celui d’un écrivain et d’un expérimentateur que celui d’un médiateur entre les scènes belge et française. Sa production poétique, volontairement restreinte, doit être replacée dans cette activité collective et éditoriale.",
+    "works": [
+      "Correspondance (tracts, 1924-1925)",
+      "Œsophage (revue, 1925)",
+      "Textes et poèmes publiés dans les périodiques surréalistes belges",
+      "Activité de galerie et d’édition à Paris (années 1930)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "📖",
+    "role_label": "Poésie et édition",
+    "bibliography": [
+      "Paul Nougé, Histoire de ne pas rire, L’Âge d’Homme, 1980.",
+      "Le Surréalisme en Belgique, catalogues et études sur le groupe de Bruxelles.",
+      "Documents et périodiques du groupe surréaliste belge, Archives et Musées de la Littérature, Bruxelles."
+    ],
+    "sources": [
+      {
+        "url": "https://www.aml-cfwb.be/",
+        "note": "Archives et Musées de la Littérature, fonds et ressources sur les avant-gardes belges."
+      },
+      {
+        "url": "https://www.musee-magritte-museum.be/",
+        "note": "Ressources sur les réseaux surréalistes bruxellois."
+      }
+    ]
   },
   {
     "id": "cahun",
     "name": "Claude Cahun",
     "years": "1894–1954",
     "group": "Photographie",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Photographe, écrivaine et artiste, Claude Cahun (née Lucy Schwob) développe une œuvre singulière où l’autoportrait, le travestissement, la mise en scène et l’ambiguïté des identités deviennent des moyens de contestation des normes sociales et sexuelles. Proche des milieux surréalistes, elle travaille avec Marcel Moore (Suzanne Malherbe), sa compagne et collaboratrice essentielle, qui participe à la conception et à la réalisation de nombreuses images. Installée à Jersey à partir de 1937, elle s’engage avec Moore dans une activité clandestine de résistance à l’occupation allemande, diffusant des tracts destinés aux soldats. Arrêtées en 1944 et condamnées à mort, elles échappent à l’exécution à la Libération. Son œuvre photographique et littéraire, longtemps peu connue, est aujourd’hui reconnue pour sa portée politique et expérimentale.",
+    "works": [
+      "Vues et visions (avec Marcel Moore, 1914)",
+      "Héroïnes (1925)",
+      "Aveux non avenus (1930)",
+      "Photographies et autoportraits (années 1920-1930)",
+      "Photomontages et tracts de résistance à Jersey (1940-1944)",
+      "Confidences au miroir (textes, publication posthume)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "📷",
+    "role_label": "Photographie et écriture",
+    "bibliography": [
+      "Aveux non avenus, éditions du Carrefour, 1930.",
+      "Claude Cahun, catalogue d’exposition, Musée d’Art moderne de la Ville de Paris, 1995.",
+      "Claude Cahun, catalogue d’exposition, Jeu de Paume, 2011.",
+      "François Leperlier, Claude Cahun. L’exotisme intérieur, Fayard, 2006.",
+      "Tate, Claude Cahun, ressources et notices de collection."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tate.org.uk/art/artists/claude-cahun-876",
+        "note": "Notice biographique et œuvres de Claude Cahun."
+      },
+      {
+        "url": "https://www.moma.org/",
+        "note": "Collections et ressources photographiques."
+      },
+      {
+        "url": "https://www.jeudepaume.org/",
+        "note": "Archives d’exposition et documentation sur la photographie."
+      }
+    ]
   },
   {
     "id": "jolas",
     "name": "Eugène Jolas",
     "years": "1894–1952",
     "group": "Revues",
-    "bio": "Notice biographique à documenter et enrichir.",
-    "works": [],
-    "verification": "a_completer",
+    "bio": "Écrivain, poète, traducteur et éditeur franco-américain, Eugène Jolas est l’un des principaux acteurs du modernisme littéraire transatlantique. Né en Lorraine, élevé dans un environnement multilingue puis installé aux États-Unis, il travaille comme journaliste avant de revenir en Europe. Avec Maria McDonald et Elliot Paul, il fonde à Paris la revue transition en 1927, qui publie des auteurs expérimentaux majeurs, notamment James Joyce, Gertrude Stein et Samuel Beckett. Son manifeste « The Revolution of the Word » défend une littérature affranchie des conventions linguistiques et nationales. Jolas contribue à faire de transition un laboratoire international où se croisent poésie, prose, typographie, traduction et arts visuels.",
+    "works": [
+      "transition (revue, fondée en 1927)",
+      "« The Revolution of the Word » (manifeste, 1929)",
+      "Vertigral (poèmes, 1927)",
+      "Man from Balkans (roman, 1939)",
+      "I Have Seen Monsters and Angels (mémoires, 195seen)"
+    ],
     "kind": "person",
-    "role_icon": "✦",
-    "role_label": "Autre"
+    "role_icon": "📰",
+    "role_label": "Revues et théorie littéraire",
+    "bibliography": [
+      "transition, revue internationale, Paris, 1927-1938.",
+      "Eugène Jolas, « The Revolution of the Word », transition, no 16-17, 1929.",
+      "Eugène Jolas, Man from Balkans, 1939.",
+      "Eugène Jolas, Man from Babel, Yale University Press, 1998.",
+      "Dougald McMillan, transition: The History of a Literary Era, 1927-1938, George Braziller, 1975."
+    ],
+    "sources": [
+      {
+        "url": "https://www.jstor.org/",
+        "note": "Études sur transition et le modernisme littéraire."
+      },
+      {
+        "url": "https://www.bnf.fr/fr/la-bibliographie-nationale-francaise",
+        "note": "Références bibliographiques des périodiques et éditions."
+      }
+    ]
   },
   {
     "id": "revue-grandjeu",
     "name": "Le Grand Jeu",
     "years": "1928–1932",
     "kind": "journal",
-    "bio": "Revue à documenter numéro par numéro."
+    "bio": "Revue littéraire et artistique fondée à Paris en 1928, Le Grand Jeu est l’expression éditoriale d’un groupe constitué autour de René Daumal, Roger Gilbert-Lecomte, Roger Vailland et Josef Šíma, avec la participation de Maurice Henry, Artür Harfaux, Pierre Minet, André Rolland de Renéville et d’autres collaborateurs. La revue défend une recherche existentielle et métaphysique radicale, que ses membres désignent notamment comme une « métaphysique expérimentale ». Elle entretient des rapports complexes avec le surréalisme d’André Breton, dont elle partage certaines pratiques tout en refusant de se laisser réduire à une école littéraire. Trois numéros paraissent effectivement, en 1928, 1929 et 1930. Un quatrième numéro est préparé pour l’automne 1932, mais ne paraît pas; ses épreuves et éléments sont reproduits dans certaines rééditions. La dissolution du groupe intervient en 1932.",
+    "works": [
+      "Le Grand Jeu, no 1, été 1928",
+      "Le Grand Jeu, no 2, printemps 1929",
+      "Le Grand Jeu, no 3, automne 1930",
+      "Le Grand Jeu, no 4, épreuves et éléments préparatoires, automne 1932 (non paru)"
+    ],
+    "bibliography": [
+      "Le Grand Jeu, nos 1-3, Paris, 1928-1930.",
+      "Le Grand Jeu, réédition en fac-similé des trois numéros et reconstitution partielle du no 4, Jean-Michel Place, 1977.",
+      "Le Grand Jeu, textes, L’Herne, cahier no 10, 1968.",
+      "Claudio Rugafiori, présentation de l’édition fac-similé, Jean-Michel Place, 1977.",
+      "Fonds Grand Jeu, Bibliothèque Carnegie, Reims, Catalogue collectif de France."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb34358138c",
+        "note": "Notice bibliographique BnF du périodique, numérotation et dates de parution."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/site/Le-Grand-Jeu",
+        "note": "Présentation de Claudio Rugafiori et accès aux trois numéros et à la reconstitution du quatrième."
+      },
+      {
+        "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/006FRFONDS-514546101-4252",
+        "note": "Notice du fonds spécialisé conservé à la Bibliothèque Carnegie de Reims."
+      }
+    ]
   },
   {
     "id": "revue-bifur",
