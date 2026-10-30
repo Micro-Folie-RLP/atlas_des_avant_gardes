@@ -639,8 +639,8 @@
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
     ],
-    "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
   },
   {
     "id": "corso",
@@ -1173,8 +1173,8 @@
         "note": "Repère biographique à vérifier et compléter avec une source éditoriale ou archivistique."
       }
     ],
-    "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
   },
   {
     "id": "bowles",
@@ -1420,8 +1420,8 @@
         "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
       }
     ],
-    "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
   },
   {
     "id": "hoch",
@@ -2528,8 +2528,8 @@
       "Strumming Music"
     ],
     "kind": "person",
-    "role_icon": "𝄞",
-    "role_label": "Musique",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore",
     "sources": [
       {
         "url": "https://www.charlemagnepalestine.org/",
@@ -3097,8 +3097,8 @@
         "note": "Ressources biographiques de l'IRCAM."
       }
     ],
-    "role_icon": "✦",
-    "role_label": "Arts et théorie",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore",
     "kind": "person"
   },
   {
@@ -3392,5 +3392,389 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person"
+  },
+  {
+    "id": "bernard-heidsieck",
+    "name": "Bernard Heidsieck",
+    "years": "1928–2014",
+    "bio": "Poète et plasticien français, pionnier de la poésie sonore et de la poésie-action. Il fait du magnétophone un outil d’écriture et développe les Poèmes-partitions, Biopsies et Passe-partout.",
+    "works": [
+      "Poèmes-partitions",
+      "Biopsies",
+      "Vaduz"
+    ],
+    "sources": [
+      "https://brahms.ircam.fr/fr/composer/bernard-heidsieck/biography"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "henri-chopin",
+    "name": "Henri Chopin",
+    "years": "1922–2008",
+    "bio": "Poète sonore et éditeur français, il explore les possibilités électroacoustiques de la voix et dirige la revue-disque expérimentale OU-Cinquième Saison.",
+    "works": [
+      "OU-Cinquième Saison",
+      "Le Soleil est mécanique"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "philip-corner",
+    "name": "Philip Corner",
+    "years": "1933–",
+    "bio": "Compositeur, performeur et artiste américain associé à Fluxus. Ses pratiques expérimentales croisent musique, geste, texte et performance.",
+    "works": [
+      "Fluxus performances"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "sten-hanson",
+    "name": "Sten Hanson",
+    "years": "1936–2013",
+    "bio": "Poète, compositeur et artiste sonore suédois, figure majeure de la poésie text-sound et des expérimentations radiophoniques.",
+    "works": [
+      "Text-Sound compositions"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb13960094j"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "ake-hodell",
+    "name": "Åke Hodell",
+    "years": "1919–2000",
+    "bio": "Poète sonore, compositeur et artiste suédois. Il développe des œuvres text-sound où langage, montage, bruit et critique politique se mêlent.",
+    "works": [
+      "Where is the police?",
+      "General Bussig"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "jose-luis-castillejo",
+    "name": "José Luis Castillejo",
+    "years": "1930–2014",
+    "bio": "Écrivain expérimental, diplomate et membre du groupe Zaj. Il explore une écriture autonome, à la frontière du texte, de l’image, du son et du livre d’artiste.",
+    "works": [
+      "The Book of i’s",
+      "The Book of Eighteen Letters",
+      "The Unwritten Writing"
+    ],
+    "sources": [
+      "https://www.archivioconz.com/collection/artists/jose-luis-castillejo/"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "gil-j-wolman",
+    "name": "Gil J. Wolman",
+    "years": "1929–1995",
+    "bio": "Poète, artiste et cinéaste français, lié au lettrisme puis à l’Internationale lettriste. Son mégapneumie fait de la respiration et de la voix une matière poétique.",
+    "works": [
+      "L’Anticoncept",
+      "Mégapneumies"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "juan-hidalgo",
+    "name": "Juan Hidalgo",
+    "years": "1927–2018",
+    "bio": "Compositeur et artiste espagnol, cofondateur du groupe Zaj. Ses œuvres mêlent musique expérimentale, action, langage et performance.",
+    "works": [
+      "Zaj",
+      "Piano preparado"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "arrigo-lora-totino",
+    "name": "Arrigo Lora-Totino",
+    "years": "1928–2016",
+    "bio": "Poète expérimental italien, performeur et éditeur. Il explore la poésie sonore, la poésie visuelle et les transformations de la voix.",
+    "works": [
+      "Futura: Poesia sonora"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "francois-dufrene",
+    "name": "François Dufrêne",
+    "years": "1930–1982",
+    "bio": "Poète lettriste français et pionnier de la poésie sonore. Ses crirythmes et ses enregistrements travaillent la voix, le souffle et les sons non lexicaux.",
+    "works": [
+      "Crirythmes",
+      "U47"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "mimmo-rotella",
+    "name": "Mimmo Rotella",
+    "years": "1918–2006",
+    "bio": "Artiste italien du Nouveau Réalisme, connu pour ses affiches lacérées, également engagé dans des expérimentations phonétiques et sonores.",
+    "works": [
+      "Poèmes phonétiques",
+      "Décollages"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "paul-de-vree",
+    "name": "Paul De Vree",
+    "years": "1909–1982",
+    "bio": "Poète belge, éditeur et figure de la poésie concrète et expérimentale. Il contribue à la circulation internationale de la poésie sonore.",
+    "works": [
+      "De Tafelronde"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "bob-cobbing",
+    "name": "Bob Cobbing",
+    "years": "1920–2002",
+    "bio": "Poète et performeur britannique, figure centrale de la poésie sonore anglaise. Il explore la voix, le souffle, la typographie et la performance collective.",
+    "works": [
+      "ABC in Sound",
+      "Konkrete Canticle"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "ladislav-novak",
+    "name": "Ladislav Novák",
+    "years": "1925–1999",
+    "bio": "Poète et artiste tchèque, associé à la poésie expérimentale, aux enregistrements sonores et aux transformations de la voix.",
+    "works": [
+      "Two Poems"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "hugh-davies",
+    "name": "Hugh Davies",
+    "years": "1943–2005",
+    "bio": "Compositeur, musicologue et improvisateur britannique. Il conçoit des instruments électroniques expérimentaux et participe aux croisements entre texte, son et performance.",
+    "works": [
+      "Shozyg",
+      "Sound Texts"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "bengt-emil-johnson",
+    "name": "Bengt Emil Johnson",
+    "years": "1936–2010",
+    "bio": "Poète, compositeur et producteur de radio suédois, associé au mouvement text-sound et aux expérimentations entre langage et musique.",
+    "works": [
+      "(Among)",
+      "Text-Sound compositions"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb12138677d"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "jacques-bekaert",
+    "name": "Jacques Bekaert",
+    "years": "1928–",
+    "bio": "Écrivain, journaliste et expérimentateur belge, présent dans les anthologies historiques de poésie sonore, notamment autour de la revue-disque OU.",
+    "works": [
+      "The Day After"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "ja-da-silva",
+    "name": "J. A. da Silva",
+    "years": "1909–1996",
+    "bio": "Artiste et poète sonore référencé dans l’anthologie OU, où son Audio-poem témoigne des échanges internationaux de la poésie expérimentale.",
+    "works": [
+      "Audio-poem"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "charles-amirkhanian",
+    "name": "Charles Amirkhanian",
+    "years": "1945–",
+    "bio": "Compositeur, poète sonore et producteur de radio américain. Il travaille les phonèmes, les jeux verbaux, le montage et les structures électroacoustiques.",
+    "works": [
+      "Daisy",
+      "Lexical Music"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "ben-patterson",
+    "name": "Ben Patterson",
+    "years": "1934–2016",
+    "bio": "Compositeur, performeur et artiste américain, membre fondateur de Fluxus. Ses partitions et actions brouillent les frontières entre musique, humour et événement.",
+    "works": [
+      "Paper Piece",
+      "Variations for Double-Bass"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "gher asim-luca",
+    "name": "Ghérasim Luca",
+    "years": "1913–1994",
+    "bio": "Poète d’origine roumaine installé en France, il pousse la langue vers le bégaiement, les torsions phonétiques et une oralité physique devenue emblématique.",
+    "works": [
+      "La voici la voie silanxieuse",
+      "Passionnément"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "simone-forti",
+    "name": "Simone Forti",
+    "years": "1935–2025",
+    "bio": "Danseuse, chorégraphe et artiste américaine, pionnière de la danse postmoderne. Ses recherches vocales et ses « News Animations » croisent mouvement, langage et écoute.",
+    "works": [
+      "News Animations",
+      "Huddle"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "jean-louis-brau",
+    "name": "Jean-Louis Brau",
+    "years": "1930–1985",
+    "bio": "Poète, artiste et activiste français, lié au lettrisme et aux avant-gardes d’après-guerre. Il participe aux expérimentations de poésie phonétique et sonore.",
+    "works": [
+      "Poésie lettriste"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "maurice-lemaitre",
+    "name": "Maurice Lemaître",
+    "years": "1926–2018",
+    "bio": "Artiste, poète et cinéaste français, figure majeure du lettrisme. Il expérimente avec les lettres, les phonèmes, la performance et le cinéma discrépant.",
+    "works": [
+      "Le film est déjà commencé?",
+      "Œuvres lettristes"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "ulises-carrion",
+    "name": "Ulises Carrión",
+    "years": "1941–1989",
+    "bio": "Artiste et écrivain mexicain installé aux Pays-Bas, théoricien du livre d’artiste et de l’art postal. Son travail expérimental déplace le langage vers la structure, le son et l’action.",
+    "works": [
+      "The New Art of Making Books",
+      "Gossip, Scandal and Good Manners"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "anton-bruhin",
+    "name": "Anton Bruhin",
+    "years": "1949–",
+    "bio": "Artiste suisse, poète sonore et plasticien. Il explore les possibilités visuelles et phonétiques du langage, notamment par les palindromes et les compositions vocales.",
+    "works": [
+      "Machenschaften",
+      "Lauter Wörter"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
+  },
+  {
+    "id": "eduardo-kac",
+    "name": "Eduardo Kac",
+    "years": "1962–",
+    "bio": "Artiste brésilien-américain, pionnier de l’art télécommunicationnel, de la poésie holographique et de la bio-art. Il élargit la poésie expérimentale aux médias technologiques.",
+    "works": [
+      "Holopoetry",
+      "Genesis"
+    ],
+    "kind": "person",
+    "group": "Poésie sonore",
+    "role_icon": "📼",
+    "role_label": "Poésie sonore"
   }
 ]
