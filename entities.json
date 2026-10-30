@@ -1062,12 +1062,12 @@
     "name": "Carl Einstein",
     "years": "1885–1940",
     "group": "Documents",
-    "bio": "Historien et théoricien de l’art, écrivain et critique allemand, Carl Einstein est une figure essentielle des échanges entre les avant-gardes littéraires et artistiques européennes. Son livre Negerplastik (1915), consacré à la sculpture africaine, contribue à transformer le regard des artistes modernes sur les arts non européens, même si son vocabulaire et son cadre historique doivent aujourd’hui être replacés dans leur contexte colonial. Il publie également Bebuquin, roman expérimental qui rompt avec les conventions narratives, et développe une réflexion majeure sur le cubisme dans Die Kunst des 20. Jahrhunderts. Installé à Paris, il collabore à la revue Documents aux côtés de Georges Bataille et Michel Leiris. Engagé dans la guerre d’Espagne auprès des républicains, il se suicide en 1940 alors qu’il fuit l’avancée allemande.",
+    "bio": "Historien et théoricien de l’art, écrivain et critique allemand, Carl Einstein est une figure essentielle des échanges entre les avant-gardes littéraires et artistiques européennes. Son livre Negerplastik (1915), consacré à la sculpture africaine, contribue à transformer le regard des artistes modernes sur les arts non européens, même si son vocabulaire et son cadre doivent aujourd’hui être replacés dans leur contexte colonial. Il publie Bebuquin, roman expérimental qui rompt avec les conventions narratives, et développe une réflexion majeure sur le cubisme dans Die Kunst des 20. Jahrhunderts. Installé à Paris, il collabore à la revue Documents aux côtés de Georges Bataille et Michel Leiris. Engagé auprès des républicains pendant la guerre d’Espagne, il se suicide en 1940 alors qu’il fuit l’avancée allemande.",
     "works": [
       "Bebuquin oder die Dilettanten des Wunders (1912)",
       "Negerplastik (1915)",
-      "Die Kunst des 20. Jahrhunderts (1926)",
       "Afrikanische Plastik (1921)",
+      "Die Kunst des 20. Jahrhunderts (1926)",
       "Documents (collaborations, 1929-1930)",
       "Georges Braque (1934)"
     ],
@@ -1075,20 +1075,20 @@
     "role_icon": "🧠",
     "role_label": "Critique et théorie de l’art",
     "bibliography": [
+      "Bebuquin, 1912.",
       "Negerplastik, Verlag der weißen Bücher, 1915.",
       "Die Kunst des 20. Jahrhunderts, Propyläen, 1926.",
       "Georges Braque, 1934.",
-      "Carl Einstein, Werke, édition critique établie par divers spécialistes, Fannei & Walz / Philo Fine Arts.",
-      "Charles W. Haxthausen, « Carl Einstein: avant-garde and art history », études sur l’auteur et Documents."
+      "Carl Einstein, Werke, édition critique, Fannei & Walz / Philo Fine Arts."
     ],
     "sources": [
       {
-        "url": "https://www.moma.org/",
-        "note": "Collections et ressources sur l’art moderne et le cubisme."
+        "url": "https://www.metmuseum.org/pt/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/einstein",
+        "note": "Notice biographique et étude de Negerplastik."
       },
       {
         "url": "https://www.bnf.fr/fr/le-dictionnaire-de-biographie-francaise",
-        "note": "Outil biographique de référence pour les personnalités liées à la France."
+        "note": "Outil biographique de référence."
       }
     ]
   },
@@ -1169,30 +1169,40 @@
     "name": "E. L. T. Mesens",
     "years": "1903–1971",
     "group": "Surréalisme belge",
-    "bio": "Poète, peintre, éditeur, galeriste et organisateur, Édouard-Léon-Théodore Mesens est l’un des principaux animateurs du surréalisme en Belgique et en Grande-Bretagne. D’abord proche de l’avant-garde bruxelloise et de René Magritte, il participe à la diffusion du dadaïsme et du surréalisme par les revues, les expositions et les éditions. Il fonde et dirige plusieurs périodiques, dont Œsophage et Variétés, qui contribuent à mettre en relation les scènes belge, française et internationale. Installé à Londres pendant la Seconde Guerre mondiale, il devient une figure majeure de la promotion du surréalisme britannique et organise des expositions déterminantes. Son activité de poète et de créateur de collages reste étroitement liée à son travail d’éditeur et de passeur.",
+    "bio": "Poète, musicien, compositeur, collagiste, éditeur, galeriste et marchand d’art, Édouard-Léon-Théodore Mesens est l’un des principaux promoteurs du dadaïsme et du surréalisme en Belgique et en Grande-Bretagne. D’abord formé à la musique, il met en musique des textes de Benjamin Péret et Philippe Soupault avant de se tourner vers la poésie et les arts plastiques. Ami de René Magritte, il défend très tôt son travail et organise des expositions, tout en participant à la vie des revues Œsophage et Variétés. Il contribue à l’organisation de l’Exposition internationale du surréalisme à Londres en 1936, puis s’installe en Grande-Bretagne en 1938 où il dirige la London Gallery et édite le London Bulletin avec Roland Penrose. Son activité de passeur, de collectionneur et de promoteur est indissociable de sa propre production de poèmes et de collages.",
     "works": [
       "Œsophage (revue, 1925)",
       "Variétés (revue, 1928-1930)",
-      "Correspondances et collaborations avec René Magritte et les surréalistes belges",
-      "Collages et poèmes (années 1920-1960)",
-      "Belgium, 1944 (anthologie / publication liée à l’exil londonien)"
+      "Alphabet sourd-aveugle (1933)",
+      "London Bulletin (revue, 1938-1940; coéditeur)",
+      "Poèmes 1923-1948 (1959)",
+      "Collages, dont Le Baiser (1961)"
     ],
     "kind": "person",
     "role_icon": "🖼️",
     "role_label": "Arts visuels et édition",
     "bibliography": [
-      "Édouard-Léon-Théodore Mesens, écrits et collages, catalogues et études consacrés au surréalisme belge.",
-      "Irène Hamoir et Louis Scutenaire, documentation sur le groupe surréaliste bruxellois.",
-      "Le Surréalisme en Belgique, catalogues d’exposition et études historiques, Musées royaux des Beaux-Arts de Belgique."
+      "Poèmes 1923-48, Le Terrain Vague, 1959.",
+      "The Star Alphabet of E. L. T. Mesens, 2013.",
+      "Fonds E. L. T. Mesens, Getty Research Institute, papers 1917-1976.",
+      "Études sur le surréalisme belge et l’Exposition internationale de Londres, 1936."
     ],
     "sources": [
       {
-        "url": "https://www.musee-magritte-museum.be/",
-        "note": "Ressources sur le surréalisme belge et ses réseaux."
+        "url": "https://www.larousse.fr/encyclopedie/peinture/%C3%89douard_L%C3%A9on_Th%C3%A9odore_Mesens/153438",
+        "note": "Notice biographique Larousse."
       },
       {
-        "url": "https://www.centrepompidou.fr/",
-        "note": "Ressources sur les revues et les avant-gardes européennes."
+        "url": "https://www.metmuseum.org/ko/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/mesens",
+        "note": "Notice du Metropolitan Museum of Art."
+      },
+      {
+        "url": "https://oac.cdlib.org/findaid/ark%3A%2F13030%2Ftf267n98mf",
+        "note": "Inventaire du fonds E. L. T. Mesens, Getty Research Institute."
+      },
+      {
+        "url": "https://www.fondationeltmesens.com/en/gallery",
+        "note": "Notice et ressources de la Fondation E. L. T. Mesens."
       }
     ]
   },
@@ -1201,29 +1211,36 @@
     "name": "Camille Goemans",
     "years": "1900–1960",
     "group": "Surréalisme belge",
-    "bio": "Poète, galeriste et éditeur belge, Camille Goemans est une figure importante du premier surréalisme bruxellois. Médecin de formation, il participe aux réseaux d’avant-garde qui se structurent autour de Correspondance et de la revue Œsophage, puis s’associe à René Magritte et Paul Nougé dans les activités du groupe surréaliste de Bruxelles. Il contribue à organiser des expositions et à diffuser les œuvres de ses proches, notamment à Paris, où il ouvre une galerie. Son rôle est autant celui d’un écrivain et d’un expérimentateur que celui d’un médiateur entre les scènes belge et française. Sa production poétique, volontairement restreinte, doit être replacée dans cette activité collective et éditoriale.",
+    "bio": "Poète, écrivain, photographe et galeriste belge, Camille Goemans est un acteur important du surréalisme bruxellois. Il participe avec Paul Nougé et Marcel Lecomte à la revue Correspondance, série de tracts publiée en 1924, puis à la revue Œsophage. Proche de René Magritte, il contribue à la constitution du groupe surréaliste belge et accompagne la diffusion de ses idées par son activité éditoriale et ses galeries, notamment à Paris. Sa poésie, faite de jeux verbaux, d’aphorismes et de déplacements de sens, reste volontairement peu abondante mais témoigne d’une sensibilité proche du dadaïsme et d’un goût pour l’absurde. Son rôle de médiateur et de chroniqueur de l’œuvre de Magritte est aussi important que sa production littéraire.",
     "works": [
-      "Correspondance (tracts, 1924-1925)",
+      "Correspondance (tracts avec Paul Nougé et Marcel Lecomte, 1924)",
       "Œsophage (revue, 1925)",
-      "Textes et poèmes publiés dans les périodiques surréalistes belges",
-      "Activité de galerie et d’édition à Paris (années 1930)"
+      "Distances (1928)",
+      "Le Sens propre (texte pour une exposition de René Magritte, 1929)",
+      "Poèmes pour la guerre (publication posthume, 1968)",
+      "Grand comme une image (1968)"
     ],
     "kind": "person",
     "role_icon": "📖",
     "role_label": "Poésie et édition",
     "bibliography": [
-      "Paul Nougé, Histoire de ne pas rire, L’Âge d’Homme, 1980.",
-      "Le Surréalisme en Belgique, catalogues et études sur le groupe de Bruxelles.",
-      "Documents et périodiques du groupe surréaliste belge, Archives et Musées de la Littérature, Bruxelles."
+      "Distances, D. Devillez, Bruxelles, 1928.",
+      "Le Sens propre, texte pour l’exposition de René Magritte, D. Devillez, 1929.",
+      "Œuvre poétique 1922-1957, De Rache, Bruxelles, 1970.",
+      "Écrits : anthologie, Labor, Bruxelles, 1992."
     ],
     "sources": [
       {
-        "url": "https://www.aml-cfwb.be/",
-        "note": "Archives et Musées de la Littérature, fonds et ressources sur les avant-gardes belges."
+        "url": "https://www.centrepompidou.fr/fr/ressources/personne/cKxLqkx",
+        "note": "Notice du Centre Pompidou et œuvres collectives."
       },
       {
-        "url": "https://www.musee-magritte-museum.be/",
-        "note": "Ressources sur les réseaux surréalistes bruxellois."
+        "url": "https://maisondelapoesie.be/poetes-list/goemans-camille/",
+        "note": "Bibliographie et textes de Camille Goemans."
+      },
+      {
+        "url": "https://www.encyclopedia.com/arts/educational-magazines/goemans-camille-constant-ghislain-1900-1960",
+        "note": "Repères biographiques et bibliographie des écrits."
       }
     ]
   },
@@ -1232,37 +1249,42 @@
     "name": "Claude Cahun",
     "years": "1894–1954",
     "group": "Photographie",
-    "bio": "Photographe, écrivaine et artiste, Claude Cahun (née Lucy Schwob) développe une œuvre singulière où l’autoportrait, le travestissement, la mise en scène et l’ambiguïté des identités deviennent des moyens de contestation des normes sociales et sexuelles. Proche des milieux surréalistes, elle travaille avec Marcel Moore (Suzanne Malherbe), sa compagne et collaboratrice essentielle, qui participe à la conception et à la réalisation de nombreuses images. Installée à Jersey à partir de 1937, elle s’engage avec Moore dans une activité clandestine de résistance à l’occupation allemande, diffusant des tracts destinés aux soldats. Arrêtées en 1944 et condamnées à mort, elles échappent à l’exécution à la Libération. Son œuvre photographique et littéraire, longtemps peu connue, est aujourd’hui reconnue pour sa portée politique et expérimentale.",
+    "bio": "Photographe, écrivaine, artiste de théâtre et militante, Claude Cahun (née Lucy Schwob) développe une œuvre où l’autoportrait, le travestissement, la mise en scène et l’ambiguïté des identités deviennent des moyens de contestation des normes sociales. Elle travaille étroitement avec Marcel Moore (Suzanne Malherbe), sa compagne et collaboratrice essentielle, qui participe à la conception et à la réalisation de nombreuses images et photomontages. Proche des surréalistes à partir de 1932, Cahun mêle photographie, poésie, essais et performances. Installées à Jersey, Cahun et Moore mènent pendant l’Occupation une campagne clandestine de résistance contre les troupes allemandes, diffusant des tracts sous une identité fictive. Arrêtées en 1944 et condamnées à mort, elles échappent à l’exécution après la capitulation allemande. Longtemps méconnue, son œuvre est aujourd’hui reconnue pour sa portée artistique et politique.",
     "works": [
       "Vues et visions (avec Marcel Moore, 1914)",
       "Héroïnes (1925)",
       "Aveux non avenus (1930)",
-      "Photographies et autoportraits (années 1920-1930)",
-      "Photomontages et tracts de résistance à Jersey (1940-1944)",
-      "Confidences au miroir (textes, publication posthume)"
+      "Les Paris sont ouverts (1934)",
+      "Le Cœur de Pic (1937)",
+      "Photomontages et tracts de résistance à Jersey (1940-1944)"
     ],
     "kind": "person",
     "role_icon": "📷",
     "role_label": "Photographie et écriture",
     "bibliography": [
       "Aveux non avenus, éditions du Carrefour, 1930.",
+      "Les Paris sont ouverts, José Corti, 1934.",
       "Claude Cahun, catalogue d’exposition, Musée d’Art moderne de la Ville de Paris, 1995.",
-      "Claude Cahun, catalogue d’exposition, Jeu de Paume, 2011.",
-      "François Leperlier, Claude Cahun. L’exotisme intérieur, Fayard, 2006.",
-      "Tate, Claude Cahun, ressources et notices de collection."
+      "François Leperlier, Claude Cahun : l’exotisme intérieur, Fayard, 2006.",
+      "Claude Cahun, catalogue d’exposition, Jeu de Paume, Hazan, 2011.",
+      "Claude Cahun et ses doubles, catalogue, Nantes, 2015."
     ],
     "sources": [
       {
-        "url": "https://www.tate.org.uk/art/artists/claude-cahun-876",
-        "note": "Notice biographique et œuvres de Claude Cahun."
+        "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/les-femmes-artistes-sortent-de-leur-reserve/icones/Cahun-Claude",
+        "note": "Biographie du ministère de la Culture et bibliographie."
       },
       {
-        "url": "https://www.moma.org/",
-        "note": "Collections et ressources photographiques."
+        "url": "https://www.moma.org/artists/8195-claude-cahun",
+        "note": "Notice du MoMA sur les pratiques artistiques et la résistance."
       },
       {
-        "url": "https://www.jeudepaume.org/",
-        "note": "Archives d’exposition et documentation sur la photographie."
+        "url": "https://www.jerseyheritage.org/research-and-collections/object-in-focus/resistance-notes/",
+        "note": "Documents d’archives sur la campagne de résistance avec Marcel Moore."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/personne/cej4AGn",
+        "note": "Notice d’artiste et œuvres conservées."
       }
     ]
   },
@@ -1271,32 +1293,37 @@
     "name": "Eugène Jolas",
     "years": "1894–1952",
     "group": "Revues",
-    "bio": "Écrivain, poète, traducteur et éditeur franco-américain, Eugène Jolas est l’un des principaux acteurs du modernisme littéraire transatlantique. Né en Lorraine, élevé dans un environnement multilingue puis installé aux États-Unis, il travaille comme journaliste avant de revenir en Europe. Avec Maria McDonald et Elliot Paul, il fonde à Paris la revue transition en 1927, qui publie des auteurs expérimentaux majeurs, notamment James Joyce, Gertrude Stein et Samuel Beckett. Son manifeste « The Revolution of the Word » défend une littérature affranchie des conventions linguistiques et nationales. Jolas contribue à faire de transition un laboratoire international où se croisent poésie, prose, typographie, traduction et arts visuels.",
+    "bio": "Écrivain, poète, traducteur et éditeur franco-américain, Eugène Jolas est l’un des principaux acteurs du modernisme littéraire transatlantique. Né dans une famille lorraine, il grandit entre plusieurs langues et poursuit une carrière de journaliste avant de s’installer à Paris. Avec Maria McDonald et Elliot Paul, il fonde la revue transition en 1927, laboratoire international qui publie des auteurs expérimentaux majeurs, notamment James Joyce, Gertrude Stein et Samuel Beckett. Son manifeste « The Revolution of the Word » défend une littérature affranchie des conventions linguistiques et nationales. Jolas accompagne la publication de Work in Progress de Joyce, futur Finnegans Wake, et cherche à faire de transition un espace de rencontre entre poésie, prose, typographie, traduction et arts visuels. Il meurt à Paris en 1952.",
     "works": [
       "transition (revue, fondée en 1927)",
       "« The Revolution of the Word » (manifeste, 1929)",
-      "Vertigral (poèmes, 1927)",
-      "Man from Balkans (roman, 1939)",
-      "I Have Seen Monsters and Angels (mémoires, 195seen)"
+      "Cinema: Poems (1926)",
+      "Anthologie de la nouvelle poésie américaine (1928)",
+      "I Have Seen Monsters and Angels (1938)",
+      "Man from Babel (autobiographie, publication posthume, 1998)"
     ],
     "kind": "person",
     "role_icon": "📰",
     "role_label": "Revues et théorie littéraire",
     "bibliography": [
       "transition, revue internationale, Paris, 1927-1938.",
-      "Eugène Jolas, « The Revolution of the Word », transition, no 16-17, 1929.",
-      "Eugène Jolas, Man from Balkans, 1939.",
-      "Eugène Jolas, Man from Babel, Yale University Press, 1998.",
-      "Dougald McMillan, transition: The History of a Literary Era, 1927-1938, George Braziller, 1975."
+      "« The Revolution of the Word », transition, nos 16-17, 1929.",
+      "I Have Seen Monsters and Angels, Transition Press, Paris, 1938.",
+      "Man from Babel, éd. Andreas Kramer et Rainer Rumold, Yale University Press, 1998.",
+      "Eugene Jolas: Critical Writings, 1924-1951, Northwestern University Press, 2009."
     ],
     "sources": [
       {
-        "url": "https://www.jstor.org/",
-        "note": "Études sur transition et le modernisme littéraire."
+        "url": "https://yalebooks.yale.edu/book/9780300075366/man-from-babel/",
+        "note": "Notice éditoriale de l’autobiographie et repères biographiques."
       },
       {
-        "url": "https://www.bnf.fr/fr/la-bibliographie-nationale-francaise",
-        "note": "Références bibliographiques des périodiques et éditions."
+        "url": "https://ead-pdfs.library.yale.edu/532.pdf",
+        "note": "Instrument de recherche des archives Eugène et Maria Jolas."
+      },
+      {
+        "url": "https://www.jstor.org/stable/j.ctt32bq84",
+        "note": "Notice bibliographique de Man from Babel."
       }
     ]
   },
