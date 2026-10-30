@@ -2536,5 +2536,861 @@
         "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
       }
     ]
+  },
+  {
+    "id": "rabelais",
+    "name": "François Rabelais",
+    "years": "v. 1483–1553",
+    "group": "Humanisme / précurseurs",
+    "bio": "Écrivain humaniste de la Renaissance, précurseur par sa liberté de langue, son goût du grotesque et sa critique des institutions.",
+    "works": [
+      "Pantagruel",
+      "Gargantua"
+    ],
+    "verification": "date_naissance_controversee",
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "borges",
+    "name": "Jorge Luis Borges",
+    "years": "1899–1986",
+    "group": "Littératures internationales",
+    "bio": "Écrivain argentin dont les labyrinthes, bibliothèques imaginaires et jeux métaphysiques ont marqué la littérature du XXe siècle.",
+    "works": [
+      "Fictions",
+      "L'Aleph"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "musil",
+    "name": "Robert Musil",
+    "years": "1880–1942",
+    "group": "Littératures internationales",
+    "bio": "Romancier autrichien de la modernité, observateur des crises intellectuelles et politiques de l'Europe.",
+    "works": [
+      "L'Homme sans qualités"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "kafka",
+    "name": "Franz Kafka",
+    "years": "1883–1924",
+    "group": "Littératures internationales",
+    "bio": "Écrivain pragois dont l'œuvre explore l'absurde, la bureaucratie, la culpabilité et l'étrangeté du quotidien.",
+    "works": [
+      "Le Procès",
+      "Le Château",
+      "La Métamorphose"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "jarry",
+    "name": "Alfred Jarry",
+    "years": "1873–1907",
+    "group": "Pataphysique / précurseurs",
+    "bio": "Écrivain et dramaturge, créateur du Père Ubu et inventeur de la pataphysique, influence majeure des avant-gardes.",
+    "works": [
+      "Ubu roi",
+      "Gestes et opinions du docteur Faustroll"
+    ],
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "kind": "person"
+  },
+  {
+    "id": "gracq",
+    "name": "Julien Gracq",
+    "years": "1910–2007",
+    "group": "Surréalisme et héritages",
+    "bio": "Écrivain français proche du surréalisme, dont les paysages et l'attente composent une œuvre singulière.",
+    "works": [
+      "Le Rivage des Syrtes",
+      "Au château d'Argol"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "mallarme",
+    "name": "Stéphane Mallarmé",
+    "years": "1842–1898",
+    "group": "Symbolisme / précurseurs",
+    "bio": "Poète symboliste dont le travail sur la suggestion, la page et la matérialité du langage annonce plusieurs avant-gardes.",
+    "works": [
+      "Un coup de dés jamais n'abolira le hasard",
+      "L'Après-midi d'un faune"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "pessoa",
+    "name": "Fernando Pessoa",
+    "years": "1888–1935",
+    "group": "Modernismes",
+    "bio": "Poète portugais qui a inventé de multiples hétéronymes, brouillant les frontières entre identité, voix et œuvre.",
+    "works": [
+      "Le Livre de l'intranquillité"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "rene-char",
+    "name": "René Char",
+    "years": "1907–1988",
+    "group": "Surréalisme et héritages",
+    "bio": "Poète français passé par le surréalisme, dont l'œuvre associe densité aphoristique, résistance et réflexion sur la poésie.",
+    "works": [
+      "Fureur et mystère",
+      "Feuillets d'Hypnos"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "walser",
+    "name": "Robert Walser",
+    "years": "1878–1956",
+    "group": "Littératures internationales",
+    "bio": "Écrivain suisse de langue allemande, maître des formes brèves et de l'effacement, admiré par Kafka et les écrivains modernes.",
+    "works": [
+      "Les Enfants Tanner",
+      "La Promenade"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "walter-benjamin",
+    "name": "Walter Benjamin",
+    "years": "1892–1940",
+    "group": "Philosophie / critique",
+    "bio": "Philosophe et critique allemand dont les essais sur la modernité, les images, la technique et la mémoire ont profondément marqué la pensée contemporaine.",
+    "works": [
+      "L'Œuvre d'art à l'époque de sa reproductibilité technique",
+      "Paris, capitale du XIXe siècle"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "kind": "person"
+  },
+  {
+    "id": "genet",
+    "name": "Jean Genet",
+    "years": "1910–1986",
+    "group": "Littératures et dissidences",
+    "bio": "Écrivain et dramaturge français dont l'œuvre renverse les normes morales, sociales et esthétiques.",
+    "works": [
+      "Notre-Dame-des-Fleurs",
+      "Les Bonnes",
+      "Journal du voleur"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "henri-lefebvre",
+    "name": "Henri Lefebvre",
+    "years": "1901–1991",
+    "group": "Philosophie / critique",
+    "bio": "Philosophe et sociologue français, critique de la vie quotidienne et penseur de l'espace social, proche de plusieurs milieux d'avant-garde.",
+    "works": [
+      "Critique de la vie quotidienne",
+      "Le Droit à la ville"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "kind": "person"
+  },
+  {
+    "id": "leon-pierre-quint",
+    "name": "Léon Pierre-Quint",
+    "years": "1895–1958",
+    "group": "Revues et édition",
+    "bio": "Écrivain, critique et éditeur, directeur des éditions du Sagittaire et soutien important des avant-gardes littéraires.",
+    "works": [
+      "Le Comte de Lautréamont et Dieu"
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb12361713q",
+        "note": "Notice d'autorité de la Bibliothèque nationale de France : 1895–1958."
+      }
+    ],
+    "role_icon": "📚",
+    "role_label": "Édition et critique",
+    "kind": "person"
+  },
+  {
+    "id": "john-fante",
+    "name": "John Fante",
+    "years": "1909–1983",
+    "group": "Littératures américaines",
+    "bio": "Romancier américain à l'écriture directe et nerveuse, devenu une référence majeure pour plusieurs générations d'écrivains.",
+    "works": [
+      "Demande à la poussière",
+      "Bandini"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "jacques-rigaut",
+    "name": "Jacques Rigaut",
+    "years": "1898–1929",
+    "group": "Dada",
+    "bio": "Poète dadaïste français, figure radicale de la négation et de la révolte, dont les textes sont restés peu nombreux.",
+    "works": [
+      "Écrits"
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Jacques_Rigaut/176496",
+        "note": "Notice du Dictionnaire mondial des littératures, Larousse."
+      }
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "jacques-vache",
+    "name": "Jacques Vaché",
+    "years": "1895–1919",
+    "group": "Dada / précurseurs du surréalisme",
+    "bio": "Écrivain et dessinateur, figure nantaise dont l'humour noir et le refus des conventions ont marqué André Breton.",
+    "works": [
+      "Lettres de guerre"
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb119273881.public",
+        "note": "Notice d'autorité de la Bibliothèque nationale de France : 1895–1919."
+      }
+    ],
+    "role_icon": "🪶",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "stanislas-rodanski",
+    "name": "Stanislas Rodanski",
+    "years": "1927–1981",
+    "group": "Surréalisme d'après-guerre",
+    "bio": "Poète et romancier surréaliste français, associé au groupe de la rue du Dragon et à une poétique de la disparition.",
+    "works": [
+      "La Victoire à l'ombre des ailes",
+      "Des proies aux chimères"
+    ],
+    "sources": [
+      {
+        "url": "https://entities.oclc.org/worldcat/entity/E39PBJfRBXvbcvvfJ3CqCCX8G3.html",
+        "note": "Notice d'autorité WorldCat : 1927–1981."
+      }
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "marcel-proust",
+    "name": "Marcel Proust",
+    "years": "1871–1922",
+    "group": "Modernismes / précurseurs",
+    "bio": "Romancier français dont la recherche sur la mémoire, le temps et la perception a transformé le roman moderne.",
+    "works": [
+      "À la recherche du temps perdu"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "james-joyce",
+    "name": "James Joyce",
+    "years": "1882–1941",
+    "group": "Modernismes",
+    "bio": "Écrivain irlandais dont les innovations narratives et linguistiques ont profondément renouvelé le roman du XXe siècle.",
+    "works": [
+      "Ulysse",
+      "Finnegans Wake",
+      "Dubliners"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "samuel-beckett",
+    "name": "Samuel Beckett",
+    "years": "1906–1989",
+    "group": "Théâtre et modernités",
+    "bio": "Écrivain et dramaturge irlandais, figure majeure du théâtre moderne et de l'épuisement des formes narratives.",
+    "works": [
+      "En attendant Godot",
+      "Molloy"
+    ],
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "kind": "person"
+  },
+  {
+    "id": "lautreamont",
+    "name": "Comte de Lautréamont",
+    "years": "1846–1870",
+    "group": "Précurseurs du surréalisme",
+    "bio": "Pseudonyme d'Isidore Ducasse, poète dont Les Chants de Maldoror deviendront une référence fondatrice pour les surréalistes.",
+    "works": [
+      "Les Chants de Maldoror",
+      "Poésies"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "raymond-roussel",
+    "name": "Raymond Roussel",
+    "years": "1877–1933",
+    "group": "Précurseurs / expérimentations",
+    "bio": "Écrivain français inventeur de procédés formels singuliers, admiré par les surréalistes et de nombreux artistes expérimentaux.",
+    "works": [
+      "Impressions d'Afrique",
+      "Locus Solus"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "raymond-queneau",
+    "name": "Raymond Queneau",
+    "years": "1903–1976",
+    "group": "Oulipo / expérimentations",
+    "bio": "Écrivain et poète, ancien proche du surréalisme puis cofondateur de l'Oulipo, explorateur des contraintes et des jeux de langage.",
+    "works": [
+      "Exercices de style",
+      "Zazie dans le métro",
+      "Cent mille milliards de poèmes"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "georges-perec",
+    "name": "Georges Perec",
+    "years": "1936–1982",
+    "group": "Oulipo / expérimentations",
+    "bio": "Écrivain de l'Oulipo, maître des contraintes formelles, de l'inventaire et de l'exploration du quotidien.",
+    "works": [
+      "La Disparition",
+      "Espèces d'espaces",
+      "La Vie mode d'emploi"
+    ],
+    "sources": [
+      {
+        "url": "https://www.associationgeorgesperec.fr/georges-perec/",
+        "note": "Association Georges Perec : Paris, 1936–1982."
+      }
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "maurice-blanchot",
+    "name": "Maurice Blanchot",
+    "years": "1907–2003",
+    "group": "Littérature / théorie",
+    "bio": "Écrivain et critique dont les récits et essais ont profondément marqué la pensée littéraire contemporaine.",
+    "works": [
+      "L'Espace littéraire",
+      "Le Livre à venir"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "kind": "person"
+  },
+  {
+    "id": "joe-bousquet",
+    "name": "Joë Bousquet",
+    "years": "1897–1950",
+    "group": "Surréalisme et poésie",
+    "bio": "Poète et écrivain français, marqué par une blessure de guerre, dont l'œuvre explore l'expérience intérieure et le langage.",
+    "works": [
+      "Traduit du silence",
+      "Le Meneur de lune"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "julien-torma",
+    "name": "Julien Torma",
+    "years": "1902–1933",
+    "group": "Pataphysique / dissidences",
+    "bio": "Écrivain et poète associé à la pataphysique, dont la vie et l'œuvre demeurent entourées de mystère.",
+    "works": [
+      "Euphorismes",
+      "Le Bétrou"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "rene-crevel",
+    "name": "René Crevel",
+    "years": "1900–1935",
+    "group": "Surréalisme",
+    "bio": "Écrivain surréaliste français, auteur de romans et d'essais traversés par la révolte et la critique sociale.",
+    "works": [
+      "Mon corps et moi",
+      "Êtes-vous fous?"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "roger-vitrac",
+    "name": "Roger Vitrac",
+    "years": "1899–1952",
+    "group": "Surréalisme / théâtre",
+    "bio": "Poète et dramaturge, membre du mouvement surréaliste à ses débuts et auteur d'un théâtre subversif.",
+    "works": [
+      "Victor ou les Enfants au pouvoir"
+    ],
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "kind": "person"
+  },
+  {
+    "id": "andre-malraux",
+    "name": "André Malraux",
+    "years": "1901–1976",
+    "group": "Littérature et engagement",
+    "bio": "Romancier, essayiste et homme d'action, lié aux débats politiques et esthétiques du XXe siècle.",
+    "works": [
+      "La Condition humaine",
+      "Les Voix du silence"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "francis-ponge",
+    "name": "Francis Ponge",
+    "years": "1899–1988",
+    "group": "Poésie / modernités",
+    "bio": "Poète français attentif aux objets et aux mots, qui renouvelle la description et la matérialité du langage.",
+    "works": [
+      "Le Parti pris des choses"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "celine",
+    "name": "Louis-Ferdinand Céline",
+    "years": "1894–1961",
+    "group": "Littérature moderne",
+    "bio": "Romancier français dont la langue orale et syncopée a profondément influencé la prose moderne, dans une œuvre indissociable de son antisémitisme et de son engagement collaborationniste.",
+    "works": [
+      "Voyage au bout de la nuit",
+      "Mort à crédit"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "max-jacob",
+    "name": "Max Jacob",
+    "years": "1876–1944",
+    "group": "Modernités / précurseurs",
+    "bio": "Poète, romancier et peintre, proche de l'avant-garde parisienne et figure de la transition entre symbolisme et modernités.",
+    "works": [
+      "Le Cornet à dés",
+      "Le Laboratoire central"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "pierre-reverdy",
+    "name": "Pierre Reverdy",
+    "years": "1889–1960",
+    "group": "Poésie / cubisme",
+    "bio": "Poète français associé au cubisme et aux avant-gardes, théoricien de l'image poétique et animateur de revues.",
+    "works": [
+      "La Guitare endormie",
+      "Nord-Sud"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "tristan-corbiere",
+    "name": "Tristan Corbière",
+    "years": "1845–1875",
+    "group": "Précurseurs",
+    "bio": "Poète du XIXe siècle dont l'ironie, les ruptures de ton et la liberté formelle ont inspiré les modernités poétiques.",
+    "works": [
+      "Les Amours jaunes"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "jean-pierre-brisset",
+    "name": "Jean-Pierre Brisset",
+    "years": "1837–1919",
+    "group": "Précurseurs / outsiders",
+    "bio": "Écrivain et penseur autodidacte devenu une figure culte pour les avant-gardes en raison de ses théories linguistiques singulières.",
+    "works": [
+      "La Grande Nouvelle",
+      "Les Origines humaines"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "kind": "person"
+  },
+  {
+    "id": "isidore-isou",
+    "name": "Isidore Isou",
+    "years": "1925–2007",
+    "group": "Lettrisme",
+    "bio": "Artiste et théoricien d'origine roumaine, fondateur du lettrisme et promoteur d'une avant-garde radicale du signe et du son.",
+    "works": [
+      "Introduction à une nouvelle poésie et à une nouvelle musique"
+    ],
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/isidore-isou",
+        "note": "Ressources biographiques de l'IRCAM."
+      }
+    ],
+    "role_icon": "✦",
+    "role_label": "Arts et théorie",
+    "kind": "person"
+  },
+  {
+    "id": "guy-debord",
+    "name": "Guy Debord",
+    "years": "1931–1994",
+    "group": "Situationnisme",
+    "bio": "Théoricien et cinéaste, figure centrale de l'Internationale situationniste et de la critique de la société du spectacle.",
+    "works": [
+      "La Société du spectacle",
+      "Mémoires"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "kind": "person"
+  },
+  {
+    "id": "gilles-deleuze",
+    "name": "Gilles Deleuze",
+    "years": "1925–1995",
+    "group": "Philosophie / critique",
+    "bio": "Philosophe français dont les travaux sur la différence, le désir, le cinéma et la création ont marqué la pensée contemporaine.",
+    "works": [
+      "Différence et répétition",
+      "L'Anti-Œdipe"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "kind": "person"
+  },
+  {
+    "id": "georges-limbour",
+    "name": "Georges Limbour",
+    "years": "1900–1970",
+    "group": "Surréalisme / dissidences",
+    "bio": "Poète, romancier et critique d'art, proche du Grand Jeu puis du surréalisme, également associé à la revue Documents.",
+    "works": [
+      "Soleil bas",
+      "La Pie voleuse"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "pierre-albert-birot",
+    "name": "Pierre Albert-Birot",
+    "years": "1876–1967",
+    "group": "Avant-gardes / théâtre",
+    "bio": "Poète, dramaturge et éditeur, fondateur de la revue SIC et acteur important des avant-gardes autour de la Première Guerre mondiale.",
+    "works": [
+      "Les Amusements naturels",
+      "Grabinoulor"
+    ],
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "kind": "person"
+  },
+  {
+    "id": "alfred-doblin",
+    "name": "Alfred Döblin",
+    "years": "1878–1957",
+    "group": "Modernismes",
+    "bio": "Romancier allemand, figure de l'expressionnisme et du roman urbain moderne.",
+    "works": [
+      "Berlin Alexanderplatz"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "robert-antelme",
+    "name": "Robert Antelme",
+    "years": "1917–1990",
+    "group": "Littérature / témoignage",
+    "bio": "Écrivain français, auteur d'un témoignage majeur sur les camps nazis et proche de Marguerite Duras et Dionys Mascolo.",
+    "works": [
+      "L'Espèce humaine"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "henry-miller",
+    "name": "Henry Miller",
+    "years": "1891–1980",
+    "group": "Littératures américaines",
+    "bio": "Romancier américain dont l'écriture autobiographique et transgressive a marqué la littérature du XXe siècle.",
+    "works": [
+      "Tropique du Cancer",
+      "Tropique du Capricorne"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "william-blake",
+    "name": "William Blake",
+    "years": "1757–1827",
+    "group": "Précurseurs",
+    "bio": "Poète, graveur et visionnaire anglais, dont l'œuvre indépendante a nourri plusieurs traditions artistiques modernes.",
+    "works": [
+      "Songs of Innocence and of Experience",
+      "The Marriage of Heaven and Hell"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "ezra-pound",
+    "name": "Ezra Pound",
+    "years": "1885–1972",
+    "group": "Modernismes",
+    "bio": "Poète et critique américain, acteur central du modernisme littéraire, dont l'héritage esthétique doit être distingué de son soutien au fascisme et de son antisémitisme.",
+    "works": [
+      "The Cantos"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "ts-eliot",
+    "name": "T. S. Eliot",
+    "years": "1888–1965",
+    "group": "Modernismes",
+    "bio": "Poète et critique anglo-américain, figure majeure du modernisme littéraire.",
+    "works": [
+      "The Waste Land",
+      "Four Quartets"
+    ],
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "kind": "person"
+  },
+  {
+    "id": "gertrude-stein",
+    "name": "Gertrude Stein",
+    "years": "1874–1946",
+    "group": "Modernismes",
+    "bio": "Écrivaine américaine, collectionneuse et figure centrale des avant-gardes parisiennes, dont l'écriture expérimente répétition et syntaxe.",
+    "works": [
+      "Tender Buttons",
+      "The Autobiography of Alice B. Toklas"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "virginia-woolf",
+    "name": "Virginia Woolf",
+    "years": "1882–1941",
+    "group": "Modernismes",
+    "bio": "Romancière et essayiste anglaise, figure majeure du modernisme et de l'exploration de la conscience.",
+    "works": [
+      "Mrs Dalloway",
+      "Les Vagues",
+      "Une chambre à soi"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "dh-lawrence",
+    "name": "D. H. Lawrence",
+    "years": "1885–1930",
+    "group": "Modernismes",
+    "bio": "Romancier et poète anglais dont l'œuvre interroge les normes sociales, les relations humaines et la modernité industrielle.",
+    "works": [
+      "Sons and Lovers",
+      "L'Amant de Lady Chatterley"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "hermann-hesse",
+    "name": "Hermann Hesse",
+    "years": "1877–1962",
+    "group": "Littératures internationales",
+    "bio": "Écrivain germanophone dont les romans explorent la crise de l'individu, la spiritualité et la quête de soi.",
+    "works": [
+      "Le Loup des steppes",
+      "Le Jeu des perles de verre"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "thomas-bernhard",
+    "name": "Thomas Bernhard",
+    "years": "1931–1989",
+    "group": "Littératures internationales",
+    "bio": "Écrivain et dramaturge autrichien, connu pour sa prose obsessionnelle et sa critique radicale de la société autrichienne.",
+    "works": [
+      "Extinction",
+      "Le Naufragé"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "witold-gombrowicz",
+    "name": "Witold Gombrowicz",
+    "years": "1904–1969",
+    "group": "Littératures internationales",
+    "bio": "Écrivain polonais dont l'œuvre subversive explore la forme, l'immaturité et les conventions sociales.",
+    "works": [
+      "Ferdydurke",
+      "Trans-Atlantique"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "bruno-schulz",
+    "name": "Bruno Schulz",
+    "years": "1892–1942",
+    "group": "Littératures internationales",
+    "bio": "Écrivain et dessinateur polonais, auteur d'une œuvre brève et visionnaire à la frontière du mythe et du quotidien.",
+    "works": [
+      "Les Boutiques de cannelle",
+      "Le Sanatorium au croque-mort"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "boris-vian",
+    "name": "Boris Vian",
+    "years": "1920–1959",
+    "group": "Littérature / jazz / pataphysique",
+    "bio": "Écrivain, musicien et ingénieur français, figure de Saint-Germain-des-Prés et du Collège de 'Pataphysique.",
+    "works": [
+      "L'Écume des jours",
+      "L'Automne à Pékin"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Musique et écriture",
+    "kind": "person"
+  },
+  {
+    "id": "jean-pierre-martinet",
+    "name": "Jean-Pierre Martinet",
+    "years": "1944–1993",
+    "group": "Littératures singulières",
+    "bio": "Romancier français à l'œuvre noire et marginale, longtemps resté en dehors des circuits littéraires dominants.",
+    "works": [
+      "La Grande Vie",
+      "Jérôme"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "pierre-guyotat",
+    "name": "Pierre Guyotat",
+    "years": "1940–2020",
+    "group": "Littérature expérimentale",
+    "bio": "Écrivain français dont le travail radical sur le corps, la langue et la violence a repoussé les limites du roman.",
+    "works": [
+      "Tombeau pour cinq cent mille soldats",
+      "Éden, Éden, Éden"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
+  },
+  {
+    "id": "claude-simon",
+    "name": "Claude Simon",
+    "years": "1913–2005",
+    "group": "Nouveau Roman / modernités",
+    "bio": "Écrivain français associé au Nouveau Roman, prix Nobel de littérature, dont l'écriture déconstruit la chronologie et la mémoire.",
+    "works": [
+      "La Route des Flandres",
+      "Histoire"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "kind": "person"
   }
 ]
