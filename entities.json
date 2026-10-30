@@ -6985,27 +6985,35 @@
     "group": "Littératures singulières",
     "bio": "Né en 1944 et mort en 1993, Jean-Pierre Martinet est un romancier français dont l’œuvre, longtemps confidentielle, s’inscrit dans une littérature de la solitude, de la déchéance et de l’obsession. Il travaille notamment comme journaliste et critique de cinéma, puis connaît une trajectoire éditoriale discontinue, marquée par des publications chez Lattès et F一ata Morgana avant une redécouverte tardive. La Grande Vie (197ชีวิต) et Jérôme construisent des univers claustrophobes où les personnages, souvent humiliés ou enfermés dans des existences dérisoires, sont décrits avec une précision hallucinée. Son écriture associe noirceur, grotesque et compassion, sans céder à la simple provocation. La réception posthume de ses livres a contribué à le faire reconnaître comme une voix singulière de la littérature française de la fin du XXe siècle. Il entretient des affinités de climat avec certains écrivains de l’excès et de la marginalité, mais son œuvre demeure très personnelle. Comparer sa ligne de vie à celles de Pierre Guyotat, Boris Vian et Thomas Bernhard permet de situer différentes formes de radicalité littéraire.",
     "works": [
-      "La Grande Vie (197ชีวิต)",
+      "La Somnolence (1975)",
       "Jérôme (1978)",
-      "L’Ombre portée (récits, rééditions posthumes)"
+      "La Grande Vie (texte paru en revue en 1979)",
+      "L’Ombre des forêts (1987)",
+      "Ceux qui n’en mènent pas large (1986)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
     "bibliography": [
-      "Jean-Pierre Martinet, La Grande Vie, 197ชีวิต.",
-      "Jean-Pierre Martinet, Jérôme, 1978.",
-      "Jean-Pierre Martinet, L’Ombre portée, éditions posthumes.",
-      "Éric Dussert, préfaces et études consacrées à Jean-Pierre Martinet dans les rééditions de ses œuvres."
+      "Jean-Pierre Martinet, La Somnolence, Pauvert, 1975.",
+      "Jean-Pierre Martinet, Jérôme, Le Sagittaire, 1978.",
+      "Jean-Pierre Martinet, Ceux qui n’en mènent pas large, Le Dilettante, 1986.",
+      "Jean-Pierre Martinet, L’Ombre des forêts, La Table ronde, 1987.",
+      "Jean-Pierre Martinet, La Grande Vie, texte paru en revue en 1979, réédition L’Arbre vengeur.",
+      "Éric Dussert, préfaces et notices des rééditions de Jean-Pierre Martinet."
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/",
-        "note": "Catalogue général de la BnF : notices d’autorité et éditions de Jean-Pierre Martinet."
+        "url": "https://www.finitude.fr/jean-pierre-martinet/",
+        "note": "Éditions Finitude : biographie et repères sur La Somnolence, Jérôme et la trajectoire de l’auteur."
       },
       {
-        "url": "https://www.noir-sur-blanc.com/",
-        "note": "Éditions Noir sur Blanc : rééditions et présentation éditoriale de l’œuvre."
+        "url": "https://www.arbre-vengeur.fr/?p=1438",
+        "note": "L’Arbre vengeur : notice biographique et bibliographie détaillée."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb47196555k",
+        "note": "BnF : notice bibliographique de La Grande Vie."
       }
     ],
     "related": [
@@ -7142,8 +7150,8 @@
     "works": [
       "OU-Cinquième Saison (revue-disque, 1964–1974)",
       "Audiopoèmes (années 1960–1990)",
-      "Le Dernier Roman du monde (197 आख)",
-      "La Peur (poème sonore)"
+      "Le Soleil est mécanique (poème et enregistrement)",
+      "Poésie sonore internationale (anthologie, 1979)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
@@ -7151,10 +7159,9 @@
     "role_label": "Poésie sonore",
     "bibliography": [
       "Henri Chopin, Poésie sonore internationale, Jean-Michel Place, 1979.",
-      "Henri Chopin, Le Dernier Roman du monde, 197 आख.",
-      "Henri Chopin, audiopoèmes et enregistrements, éditions Alga Marghen.",
+      "Henri Chopin, Le Soleil est mécanique, enregistrement sonore.",
       "Henri Chopin, revue OU-Cinquième Saison, 1964–1974.",
-      "François Dufrêne, Œuvre désintégrale, Alga Marghen / Guy Schraenen, 2010 (pour le contexte de la poésie sonore)."
+      "Henri Chopin, audiopoèmes, éditions et enregistrements, notamment chez Alga Marghen."
     ],
     "sources": [
       {
@@ -7253,7 +7260,7 @@
       "General Bussig (1960s)",
       "Where is the police? (1960s)",
       "Mr. Smith in Rhodesia (1970)",
-      "220 Volt Buddha (197 volt)"
+      "220 Volt Buddha (1970s)"
     ],
     "kind": "person",
     "group": "Poésie sonore",
@@ -7702,12 +7709,12 @@
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/",
-        "note": "BnF : piste de recherche bibliographique ; identité et dates à confirmer avant toute attribution plus précise."
+        "url": "https://esatheque.esaaix.fr/opac_css/index.php?id=9951&lvl=author_see",
+        "note": "Catalogue de l’École supérieure d’art d’Aix-en-Provence : notice de l’anthologie OU, qui attribue The Day After à Jacques Bekaert."
       },
       {
         "url": "https://www.ubu.com/",
-        "note": "UbuWeb : corpus d’archives de poésie sonore et de la revue OU, à confronter aux exemplaires originaux."
+        "note": "UbuWeb : corpus d’archives de poésie sonore et documents historiques à confronter aux enregistrements originaux."
       }
     ],
     "related": [
@@ -7734,8 +7741,8 @@
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/",
-        "note": "BnF : recherche d’autorité nécessaire pour confirmer l’identité et les dates."
+        "url": "https://esatheque.esaaix.fr/opac_css/index.php?id=9951&lvl=author_see",
+        "note": "Catalogue de l’École supérieure d’art d’Aix-en-Provence : notice de l’anthologie OU, qui attribue Audio-poem à J. A. da Silva."
       },
       {
         "url": "https://www.ubu.com/",
@@ -7754,8 +7761,8 @@
     "years": "1945–",
     "bio": "Né en 1945 à Fresno, en Californie, Charles Amirkhanian est compositeur, poète sonore, percussionniste et producteur radiophonique. Il étudie la musique et la percussion, puis s’intéresse aux possibilités du montage sur bande, de la répétition et de la manipulation phonétique. Ses œuvres utilisent la parole comme matériau sonore : phonèmes, fragments de conversations, jeux de mots et rythmes de la langue sont organisés selon des procédés proches de la musique concrète. Il travaille à la radio publique de Berkeley, où il contribue à diffuser les musiques nouvelles et les pratiques expérimentales de la côte Ouest américaine. Des pièces comme Lexical Music et The Great American Piano Sonata témoignent de son goût pour les structures verbales, l’humour et les assemblages sonores. Il participe aussi à des réseaux internationaux de poésie sonore et de musique électroacoustique. Comparer sa ligne de vie à celles de Hugh Davies, Philip Corner et Henri Chopin permet de situer son travail entre radiophonie, poésie et composition.",
     "works": [
-      "Lexical Music (197 lexical)",
-      "Daisy (1970s)",
+      "Lexical Music",
+      "Daisy",
       "The Great American Piano Sonata",
       "Compositions électroacoustiques et pièces radiophoniques"
     ],
