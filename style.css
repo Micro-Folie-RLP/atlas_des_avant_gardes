@@ -23,3 +23,6 @@ body{padding-bottom:30px}.timeline-scroll{scrollbar-width:none}.timeline-scroll:
 /* Les étiquettes doivent masquer la frise pendant le défilement horizontal. */
 .life-row{background:#f7f0e2}
 .life-row:nth-child(odd){background:#eee4ce}
+
+/* Zébrage recalculé sur les seules lignes visibles après filtrage. */
+.life-row.zebra-alt:not(.active):not(:hover){background:#eee4ce}
