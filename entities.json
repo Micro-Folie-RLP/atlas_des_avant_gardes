@@ -7043,5 +7043,429 @@
         "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
       }
     ]
+  },
+  {
+    "id": "arseni_avraamov",
+    "name": "Arseni Avraamov",
+    "years": "1886–1944",
+    "group": "Musique expérimentale",
+    "groups": [
+      "Avant-garde russe",
+      "Musique expérimentale"
+    ],
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur et théoricien russe, pionnier de l'expérimentation sonore. Il conçoit la Symphonie des sirènes, créée à Bakou en 1922, vaste composition pour sirènes d'usines, navires, canons et chœurs.",
+    "works": [
+      "Symphonie des sirènes"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "dziga_vertov",
+    "name": "Dziga Vertov",
+    "years": "1896–1954",
+    "group": "Cinéma expérimental",
+    "groups": [
+      "Avant-garde russe",
+      "Cinéma expérimental"
+    ],
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "statut": "Acteur",
+    "bio": "Cinéaste et théoricien soviétique, promoteur du Ciné-Œil et d'un cinéma fondé sur le montage, le mouvement et l'observation du réel. Il expérimente aussi la composition sonore à partir des bruits industriels.",
+    "works": [
+      "L'Homme à la caméra",
+      "Enthousiasme (Symphonie du Donbass)"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "nikolai_foregger",
+    "name": "Nikolai Foregger",
+    "years": "1892–1939",
+    "group": "Théâtre expérimental",
+    "groups": [
+      "Avant-garde russe",
+      "Théâtre et modernités"
+    ],
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "statut": "Acteur",
+    "bio": "Metteur en scène, chorégraphe et théoricien du mouvement russe. Son atelier théâtral développe la machine-théâtre, la biomécanique et des formes scéniques inspirées par le rythme industriel.",
+    "works": [
+      "Atelier de Foregger (Mastfor)"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "alexander_mossolov",
+    "name": "Alexander Mossolov",
+    "years": "1900–1973",
+    "group": "Musique expérimentale",
+    "groups": [
+      "Avant-garde russe",
+      "Musique expérimentale"
+    ],
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "statut": "Acteur",
+    "bio": "Compositeur soviétique associé à l'avant-garde musicale des années 1920. Son écriture moderniste explore les rythmes mécaniques, les ostinatos et les sonorités industrielles.",
+    "works": [
+      "Les Fonderies d'acier",
+      "Concerto pour piano no 1"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "ivan_ignatyev",
+    "name": "Ivan Ignatyev",
+    "years": "1892–1914",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Acteur",
+    "bio": "Poète et éditeur russe, animateur de l'égo-futurisme à Saint-Pétersbourg. Fondateur des éditions et du cercle Pétersbourg Herald, il défend les expérimentations typographiques et verbales du futurisme.",
+    "works": [
+      "Pétersbourg Herald (édition et revue)"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "igor_severyanin",
+    "name": "Igor Severyanin",
+    "years": "1887–1941",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Acteur",
+    "bio": "Poète russe, fondateur et figure la plus connue de l'égo-futurisme. Sa poésie cultive néologismes, musicalité, luxe artificiel et jeux de langue.",
+    "works": [
+      "Le Grelot bouillonnant de coupes",
+      "Ananas dans le champagne"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "vasilisk_gnedov",
+    "name": "Vasilisk Gnedov",
+    "years": "1890–1978",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe",
+      "Poésie sonore"
+    ],
+    "role_icon": "📼",
+    "role_label": "Poésie sonore",
+    "statut": "Acteur",
+    "bio": "Poète futuriste russe associé à la poésie zaoum et aux expérimentations radicales sur le langage. Son Poème de la fin, réduit à un geste silencieux, pousse la poésie au-delà du texte.",
+    "works": [
+      "Poème de la fin"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "alexei_kruchenykh",
+    "name": "Alexeï Kroutchenykh",
+    "years": "1886–1968",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe",
+      "Poésie sonore"
+    ],
+    "role_icon": "📼",
+    "role_label": "Poésie sonore",
+    "statut": "Acteur",
+    "bio": "Poète russe, théoricien de la zaoum et l'un des principaux inventeurs du langage transmental futuriste. Il collabore à l'opéra futuriste Victoire sur le soleil.",
+    "works": [
+      "Victoire sur le soleil",
+      "Dyr bul shchyl"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "vasily_kamensky",
+    "name": "Vassili Kamenski",
+    "years": "1884–1961",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Acteur",
+    "bio": "Poète, dramaturge et peintre russe, membre du groupe futuriste Hylaea. Il expérimente les poèmes visuels, la disposition typographique et les formes de poésie en béton.",
+    "works": [
+      "Tango avec les vaches",
+      "Stenka Razine"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "igor_terentiev",
+    "name": "Igor Terentiev",
+    "years": "1892–1937",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe",
+      "Théâtre et modernités"
+    ],
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "statut": "Acteur",
+    "bio": "Poète, metteur en scène et théoricien russe lié au futurisme et à la zaoum. Actif à Tiflis au sein de l'avant-garde géorgienne, il expérimente le théâtre, la performance et le langage.",
+    "works": [
+      "Théâtre zaoum et performances de Tiflis"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "daniil_kharms",
+    "name": "Daniil Harms",
+    "years": "1905–1942",
+    "group": "Littérature expérimentale",
+    "groups": [
+      "Avant-garde russe",
+      "Littérature expérimentale"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Acteur",
+    "bio": "Écrivain et poète russe, cofondateur du collectif OBERIOU. Ses textes brefs, absurdes et discontinus rompent avec les conventions narratives et la logique réaliste.",
+    "works": [
+      "Élizabeth Bam",
+      "Incidents"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "roman_jakobson",
+    "name": "Roman Jakobson",
+    "years": "1896–1982",
+    "group": "Littérature / théorie",
+    "groups": [
+      "Avant-garde russe",
+      "Littérature / théorie"
+    ],
+    "role_icon": "🧠",
+    "role_label": "Pensée et critique",
+    "statut": "Figure de pensée",
+    "bio": "Linguiste et théoricien russo-américain, membre du Cercle linguistique de Moscou puis du Cercle linguistique de Prague. Ses travaux sur le langage, la poésie et les fonctions du discours influencent profondément le formalisme et le structuralisme.",
+    "works": [
+      "Questions de poétique",
+      "Essais de linguistique générale"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "naum_gabo",
+    "name": "Naum Gabo",
+    "years": "1890–1977",
+    "group": "Constructivisme",
+    "groups": [
+      "Avant-garde russe",
+      "Constructivisme"
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "statut": "Acteur",
+    "bio": "Sculpteur et théoricien russo-américain, pionnier du constructivisme. Avec son frère Antoine Pevsner, il publie le Manifeste réaliste de 1920 et développe une sculpture ouverte, cinétique et spatiale.",
+    "works": [
+      "Tête construite no 2",
+      "Manifeste réaliste"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "antoine_pevsner",
+    "name": "Antoine Pevsner",
+    "years": "1884–1962",
+    "group": "Constructivisme",
+    "groups": [
+      "Avant-garde russe",
+      "Constructivisme"
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "statut": "Acteur",
+    "bio": "Sculpteur russo-français, figure du constructivisme et frère de Naum Gabo. Il défend une sculpture abstraite fondée sur l'espace, les volumes et les rythmes dynamiques.",
+    "works": [
+      "Manifeste réaliste",
+      "Construction dans l'espace"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "georgy_yakulov",
+    "name": "Gueorgui Yakoulov",
+    "years": "1884–1928",
+    "group": "Arts",
+    "groups": [
+      "Avant-garde russe",
+      "Arts",
+      "Théâtre et modernités"
+    ],
+    "role_icon": "🎨",
+    "role_label": "Arts visuels",
+    "statut": "Acteur",
+    "bio": "Peintre et scénographe arménien-russe, actif dans les milieux artistiques de Moscou. Il développe une esthétique de la lumière et du mouvement et travaille pour le théâtre et les Ballets russes.",
+    "works": [
+      "Le Pas d'acier (décors et costumes)"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "elena_guro",
+    "name": "Elena Gouro",
+    "years": "1877–1913",
+    "group": "Futurisme russe",
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe",
+      "Poésie / modernités"
+    ],
+    "role_icon": "📖",
+    "role_label": "Écriture",
+    "statut": "Précurseur",
+    "bio": "Poétesse, peintre et dessinatrice russe, proche des premiers futuristes de Saint-Pétersbourg. Son œuvre mêle poésie, dessin, fragments narratifs et attention aux formes élémentaires du vivant.",
+    "works": [
+      "L'Orgue de Barbarie",
+      "Rêves célestes"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
+  },
+  {
+    "id": "konstantin_melnikov",
+    "name": "Konstantin Melnikov",
+    "years": "1890–1974",
+    "group": "Constructivisme",
+    "groups": [
+      "Avant-garde russe",
+      "Constructivisme"
+    ],
+    "role_icon": "🏛️",
+    "role_label": "Architecture",
+    "statut": "Acteur",
+    "bio": "Architecte soviétique majeur du constructivisme. Ses bâtiments des années 1920, aux volumes géométriques audacieux et aux dispositifs spatiaux inventifs, comptent parmi les réalisations les plus singulières de l'avant-garde architecturale.",
+    "works": [
+      "Pavillon soviétique de l'Exposition des arts décoratifs (Paris, 1925)",
+      "Maison Melnikov"
+    ],
+    "kind": "person",
+    "sources": [
+      {
+        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
+        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+      }
+    ]
   }
 ]
