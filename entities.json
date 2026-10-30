@@ -3260,64 +3260,135 @@
     "name": "George Grosz",
     "years": "1893–1959",
     "group": "Dada",
-    "bio": "Peintre et dessinateur allemand, membre du Dada berlinois. Ses caricatures acérées attaquent le militarisme, la bourgeoisie et les élites de l'Allemagne d'après-guerre.",
+    "bio": "Peintre, dessinateur et caricaturiste né à Berlin, George Grosz devient l’une des figures les plus incisives du Dada berlinois. Après ses études à Dresde et à Berlin, son expérience de la guerre nourrit un dessin satirique dirigé contre le militarisme, les profiteurs et les hiérarchies sociales. Avec John Heartfield et Wieland Herzfelde, il participe à l’édition de revues radicales comme Die Neue Jugend, puis à la Première Foire internationale Dada de 1920. Ses portfolios Gott mit uns, Ecce Homo et Hintergrund donnent une forme acérée à la violence politique de la République de Weimar. Il émigre aux États-Unis en 1933, enseigne à New York et revient vivre à Berlin après la guerre. Ses liens avec Raoul Hausmann, Hannah Höch et Otto Dix situent son travail dans un réseau plus large de critique visuelle, sans réduire son œuvre à Dada.",
     "works": [
-      "Ecce Homo",
-      "Les Piliers de la société"
+      "Gott mit uns (1920)",
+      "Mit Pinsel und Schere (1922)",
+      "Ecce Homo (1923)",
+      "Die Räuber (1922)",
+      "Les Piliers de la société (1926)",
+      "Hintergrund (1928)",
+      "Un petit oui et un grand non (autobiographie, 1946)"
     ],
-    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/grosz.htm",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/grosz.htm",
+        "note": "University of Iowa, International Dada Archive : dates, parcours berlinois et bibliographie de l’artiste."
+      },
+      {
+        "url": "https://www.moma.org/artists/2384",
+        "note": "MoMA : notice de collection et œuvres de George Grosz."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/peinture/Georg_Grosz/152426",
+        "note": "Larousse : biographie, formation, rencontre avec Heartfield et participation à Dada."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Gott mit uns, Malik-Verlag, 1920.",
+      "Ecce Homo, Malik-Verlag, 1923.",
+      "Hintergrund, Malik-Verlag, 1928.",
+      "A Little Yes and a Big No, autobiographie, 1946 ; trad. fr. Un petit oui et un grand non, 1990.",
+      "George Grosz: The Years in Berlin, catalogue et études sur l’œuvre dadaïste."
+    ],
+    "related": [
+      "heartfield",
+      "hausmann",
+      "hoch"
+    ]
   },
   {
     "id": "heartfield",
     "name": "John Heartfield",
     "years": "1891–1968",
     "group": "Dada",
-    "bio": "Artiste allemand, pionnier du photomontage politique et membre du Dada berlinois. Il transforme les images imprimées en armes contre le nationalisme et le nazisme.",
+    "bio": "Né Helmut Herzfeld, John Heartfield adopte son nom anglophone en 1916 comme geste de protestation contre le nationalisme allemand. Graphiste et photomonteur, il travaille avec son frère Wieland Herzfelde aux éditions Malik et fréquente George Grosz dans les milieux dadaïstes de Berlin. Il fait du montage photographique une arme politique : détourner les images de presse et la publicité permet de révéler les mécanismes de propagande, le pouvoir du capital et la montée du nazisme. Ses photomontages publiés dans Arbeiter-Illustrierte-Zeitung deviennent des images emblématiques de l’antifascisme. Contraint à l’exil en 1933, il passe par Prague puis Londres avant de revenir en Allemagne de l’Est en 1950. Son parcours croise ceux de Hannah Höch, Raoul Hausmann et George Grosz, mais son usage militant du photomontage possède une cohérence propre.",
     "works": [
-      "Adolf le surhomme avale de l'or et débite des fadaises"
+      "Adolf le surhomme avale de l’or et débite des fadaises (1932)",
+      "Le sens du salut hitlérien (1932)",
+      "La signification de Genève, où vit le capital (1932)",
+      "Photomontages pour AIZ (1930–1938)"
     ],
-    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa, International Dada Archive : Heartfield et les réseaux du Dada berlinois."
+      },
+      {
+        "url": "https://www.adk.de/en/archives/",
+        "note": "Akademie der Künste, Berlin : fonds et archives liés à John Heartfield."
+      },
+      {
+        "url": "https://www.moma.org/collection/works/",
+        "note": "MoMA : collections et dossiers de photomontage du XXe siècle."
       }
     ],
     "role_icon": "✦",
-    "role_label": "Autre"
+    "role_label": "Autre",
+    "bibliography": [
+      "Photomontages politiques, publiés notamment dans Arbeiter-Illustrierte-Zeitung, 1930–1938.",
+      "John Heartfield, catalogue raisonné et études sur le photomontage antifasciste, Akademie der Künste.",
+      "David Evans (dir.), John Heartfield: AIZ/VI 1930–38, Kent, 1992."
+    ],
+    "related": [
+      "grosz",
+      "hausmann",
+      "hoch",
+      "schwitters"
+    ]
   },
   {
     "id": "schwitters",
     "name": "Kurt Schwitters",
     "years": "1887–1948",
     "group": "Dada",
-    "bio": "Artiste allemand associé à Dada, créateur du Merz, pratique d'assemblage à partir de rebuts, imprimés et objets ordinaires. Il développe aussi poésie, typographie et installation.",
+    "bio": "Kurt Schwitters développe à Hanovre une pratique qu’il nomme Merz, à partir d’un fragment du mot Kommerz : une méthode d’assemblage qui absorbe papiers, tickets, déchets, typographie, peinture, poésie et architecture. Refusé par le Dada berlinois, il entretient néanmoins des liens avec Raoul Hausmann, Hannah Höch et Hans Arp, et participe aux réseaux internationaux du mouvement. Son poème sonore Ursonate, ses collages et son Merzbau font de l’œuvre un environnement total, sans frontière stable entre art et vie. Après l’arrivée des nazis au pouvoir, il fuit la Norvège puis l’Angleterre, où il meurt en exil. Sa trajectoire éclaire aussi les échanges entre Dada, constructivisme et poésie expérimentale.",
     "works": [
-      "Merzbau",
-      "Anna Blume"
+      "An Anna Blume (1919)",
+      "Merzbild 1A (Der Irrenarzt) (1919)",
+      "Ursonate (1922–1932)",
+      "Merzbau (1923–1937, détruit)",
+      "Die Scheuche (avec Käte Steinitz et Theo van Doesburg, 1925)"
     ],
-    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : dossier Schwitters et ressources du Dada international."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/artists/kurt-schwitters-1912",
+        "note": "Tate : parcours artistique, Merz et œuvres majeures."
+      },
+      {
+        "url": "https://www.moma.org/artists/5322",
+        "note": "MoMA : notice de collection Kurt Schwitters."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "groups": [
       "Dada"
+    ],
+    "bibliography": [
+      "An Anna Blume, 1919.",
+      "Die Sonate in Urlauten (Ursonate), publiée en revue puis en édition, 1932.",
+      "Merz, revue, 1923–1932.",
+      "Kurt Schwitters, Merz. Écrits choisis, éd. Marc Dachy, Daniel Lelong, 1990.",
+      "Kurt Schwitters: Catalogue raisonné, Hatje Cantz, 2000."
+    ],
+    "related": [
+      "hausmann",
+      "hoch",
+      "arp",
+      "janco"
     ]
   },
   {
@@ -3325,525 +3396,1109 @@
     "name": "Elsa von Freytag-Loringhoven",
     "years": "1874–1927",
     "group": "Dada",
-    "bio": "Poétesse et artiste allemande installée à New York, figure radicale du proto-Dada. Performances, assemblages et poésie expérimentale mettent en crise les normes sociales et artistiques.",
+    "bio": "Née Else Hildegard Plötz en Poméranie, Elsa von Freytag-Loringhoven mène une existence itinérante avant de devenir l’une des figures les plus singulières de l’avant-garde new-yorkaise. Poétesse, performeuse et créatrice d’assemblages, elle transforme vêtements, objets trouvés et gestes quotidiens en interventions provocatrices. À Greenwich Village, elle fréquente Marcel Duchamp, Man Ray, Beatrice Wood et le cercle de la revue The Blind Man ; son travail brouille les limites entre sculpture, costume, poésie et performance. Son importance a longtemps été minimisée par les récits dominés par les hommes, notamment autour de l’histoire de Fountain. Ses poèmes, longtemps dispersés dans les périodiques, ont été redécouverts et édités tardivement. Elle partage avec Mina Loy et Beatrice Wood une position expérimentale, mais son œuvre reste irréductiblement personnelle.",
     "works": [
-      "God",
-      "Body Sweats"
+      "Enduring Ornament (1913)",
+      "God (vers 1917)",
+      "Portrait of Marcel Duchamp (1919)",
+      "Poèmes publiés dans The Little Review et autres revues"
     ],
-    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : Elsa von Freytag-Loringhoven dans l’archive internationale Dada."
+      },
+      {
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "University of Edinburgh : recherche sur les femmes de Dada et leurs héritages."
+      },
+      {
+        "url": "https://www.moma.org/artists/1974",
+        "note": "MoMA : repères sur l’artiste et son contexte new-yorkais."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Body Sweats: The Uncensored Writings of Elsa von Freytag-Loringhoven, éd. Irene Gammel et Suzanne Zelazo, MIT Press, 2011.",
+      "Baroness Elsa: Gender, Dada, and Everyday Modernity, MIT Press, 2002.",
+      "The Blind Man, nos 1–2, New York, 1917."
+    ],
+    "related": [
+      "manray",
+      "wood",
+      "duchamp"
+    ]
   },
   {
     "id": "manray",
     "name": "Man Ray",
     "years": "1890–1976",
     "group": "Dada / Surréalisme",
-    "bio": "Artiste américain installé à Paris, il participe au Dada parisien avant de devenir une figure majeure du surréalisme. Il expérimente photographie, rayogrammes, peinture et objets.",
+    "bio": "Né Emmanuel Radnitzky à Philadelphie, Man Ray étudie l’architecture, l’ingénierie et les arts avant de s’installer à New York, où il fréquente Alfred Stieglitz, Marcel Duchamp et le cercle dadaïste de la galerie 291. Installé à Paris en 1921, il rejoint le Dada parisien puis le surréalisme, tout en conservant une indépendance expérimentale. Photographe, peintre, cinéaste et créateur d’objets, il invente les rayographies sans appareil et renouvelle le portrait, la mode et la photographie de studio. Ses collaborations avec Lee Miller, Kiki de Montparnasse et les artistes du groupe surréaliste sont essentielles à son parcours. Le Violon d’Ingres, Cadeau et ses films montrent comment il fait circuler les inventions entre médiums plutôt que de se fixer dans une discipline.",
     "works": [
-      "Le Violon d'Ingres",
-      "Cadeau"
+      "Cadeau (1921)",
+      "Le Retour à la raison (film, 1923)",
+      "Emak-Bakia (film, 1926)",
+      "L’Étoile de mer (film, 1928)",
+      "Les Larmes (1932)",
+      "Le Violon d’Ingres (1924)"
     ],
-    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "url": "https://www.tate.org.uk/art/artists/man-ray-1566",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.tate.org.uk/art/artists/man-ray-1566",
+        "note": "Tate : biographie et œuvres de Man Ray."
+      },
+      {
+        "url": "https://www.moma.org/artists/3716",
+        "note": "MoMA : parcours, photographie et objets."
+      },
+      {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : Man Ray et les réseaux dadaïstes."
       }
     ],
     "role_icon": "📷",
-    "role_label": "Photographie"
+    "role_label": "Photographie",
+    "bibliography": [
+      "Man Ray, Self Portrait, Little, Brown, 1963.",
+      "Man Ray, Photographs 1920–1934, James Thrall Soby, 1934.",
+      "Man Ray: Writings on Art, éd. Merry A. Foresta, 1988.",
+      "Man Ray: The Paris Years, catalogue d’exposition et études photographiques."
+    ],
+    "related": [
+      "duchamp",
+      "wood",
+      "freytag",
+      "picabia",
+      "breton"
+    ]
   },
   {
     "id": "suzanneduchamp",
     "name": "Suzanne Duchamp",
     "years": "1889–1963",
     "group": "Dada",
-    "bio": "Peintre française, associée au Dada parisien et à ses jeux visuels et textuels. Son œuvre participe à l'expérimentation dadaïste au-delà des figures masculines les plus célèbres.",
+    "bio": "Peintre française, sœur de Marcel Duchamp, Suzanne Duchamp développe une œuvre dadaïste autonome, faite de compositions géométriques, de mots intégrés à l’image et de jeux sur les signes. Elle participe aux expositions et réseaux de Dada à Paris et entretient des liens avec Jean Crotti, qu’elle épouse en 1919, ainsi qu’avec Francis Picabia et les artistes de l’avant-garde parisienne. Ses œuvres dites « mécaniques » ne sont pas de simples variations sur les recherches de son frère : elles interrogent les rapports entre langage, machine, désir et représentation. Longtemps reléguée au second plan dans l’histoire de Dada, elle est aujourd’hui réévaluée dans les études consacrées aux artistes femmes du mouvement.",
     "works": [
-      "Multiplication brisée et rétablie"
+      "Multiplication brisée et rétablie (1918)",
+      "Radiation de deux seuls éloignés (1916)",
+      "Un et une menacés (1916)"
     ],
-    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : Suzanne Duchamp dans le répertoire des artistes Dada."
+      },
+      {
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "University of Edinburgh : réévaluation des artistes femmes de Dada."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources",
+        "note": "Centre Pompidou : ressources documentaires et collections."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Suzanne Duchamp, œuvres et documents dans les catalogues consacrés à Dada et aux femmes de l’avant-garde.",
+      "Dada’s Women, catalogue d’exposition et études sur les artistes femmes du mouvement.",
+      "Archives et notices de la Bibliothèque Kandinsky, Centre Pompidou."
+    ],
+    "related": [
+      "duchamp",
+      "crotti",
+      "picabia",
+      "wood",
+      "freytag"
+    ]
   },
   {
     "id": "wood",
     "name": "Beatrice Wood",
     "years": "1893–1998",
     "group": "Dada",
-    "bio": "Artiste américaine, céramiste et autrice, proche du cercle dadaïste new-yorkais de Marcel Duchamp et Henri-Pierre Roché. Elle développe ensuite une œuvre singulière en céramique.",
+    "bio": "Beatrice Wood, artiste américaine formée au théâtre, devient une figure du cercle dadaïste new-yorkais après sa rencontre avec Marcel Duchamp et Henri-Pierre Roché. Avec eux, elle participe à l’aventure de la revue The Blind Man en 1917, moment important de la réception américaine de Dada. Elle écrit ensuite des textes autobiographiques et développe une carrière de céramiste, marquée par les glaçures iridescentes et les formes sensuelles. Son parcours traverse les mondes du théâtre, de l’édition d’avant-garde et des arts décoratifs ; il croise ceux de Elsa von Freytag-Loringhoven et Man Ray sans se confondre avec leurs pratiques. Sa longue vie lui permet de devenir une témoin précieuse de la première génération dadaïste.",
     "works": [
-      "I Shock Myself"
+      "The Blind Man (revue, 1917)",
+      "I Shock Myself (autobiographie, 1985)",
+      "Céramiques à glaçures lustre, années 1940–1990"
     ],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : Beatrice Wood et le cercle Dada new-yorkais."
+      },
+      {
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bildmuseet : exposition et contexte international de Dada."
+      },
+      {
+        "url": "https://www.americanart.si.edu/artist/beatrice-wood-5441",
+        "note": "Smithsonian American Art Museum : notice et œuvres."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "I Shock Myself: The Autobiography of Beatrice Wood, 1985.",
+      "Pinching Pottery, 1980.",
+      "Beatrice Wood: A Centennial Tribute, catalogue et études sur son œuvre céramique."
+    ],
+    "related": [
+      "duchamp",
+      "freytag",
+      "manray"
+    ]
   },
   {
     "id": "arnauld",
     "name": "Céline Arnauld",
     "years": "1885–1952",
     "group": "Dada",
-    "bio": "Poétesse d'origine roumaine, active dans le Dada parisien. Elle fonde la revue Projecteur et publie une poésie qui associe expérimentation, ironie et images déconcertantes.",
+    "bio": "Née en Roumanie sous le nom de Carolina Goldstein, Céline Arnauld s’installe à Paris et devient l’une des rares femmes à publier et à prendre part activement au Dada parisien. Poétesse, dramaturge et éditrice, elle fonde la revue Projecteur en 1920 et publie des textes où l’absurde, la dislocation syntaxique et l’image inattendue prennent le pas sur la narration. Elle fréquente les réseaux de Tristan Tzara, André Breton, Paul Dermée et Francis Picabia, tout en conservant une voix distincte. Son œuvre, longtemps peu rééditée, rappelle que le Dada parisien fut aussi un espace de production littéraire féminine, même si ses institutions et ses récits historiques l’ont souvent rendue invisible.",
     "works": [
-      "Poèmes à claires-voies",
-      "Point de mire"
+      "Poèmes à claires-voies (1914)",
+      "La Lanterne magique (1914)",
+      "Point de mire (1921)",
+      "Le Jardin de l’Infante (1922)",
+      "Projecteur (revue, 1920)"
     ],
-    "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/arnauld.htm",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/arnauld.htm",
+        "note": "University of Iowa, International Dada Archive : notice Céline Arnauld."
+      },
+      {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : réseau international des artistes Dada."
+      },
+      {
         "url": "https://www.sedarc.ac.uk/research-and-education/research/research-impact/dada-s-women-legacies-at-the-dada-centenary-and-beyond/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "University of Edinburgh : place des femmes dans Dada."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Poèmes à claires-voies, 1914.",
+      "Point de mire, 1921.",
+      "Le Jardin de l’Infante, 1922.",
+      "Céline Arnauld, poèmes et textes dadaïstes, rééditions et études dans les archives Dada de l’Université de l’Iowa."
+    ],
+    "related": [
+      "tzara",
+      "picabia",
+      "breton",
+      "suzanneduchamp"
+    ]
   },
   {
     "id": "janco",
     "name": "Marcel Janco",
     "years": "1895–1984",
     "group": "Dada",
-    "bio": "Peintre et architecte roumain, cofondateur du Dada zurichois. Ses masques et reliefs de scène ont marqué les performances du Cabaret Voltaire.",
+    "bio": "Peintre, architecte et scénographe né à Bucarest, Marcel Janco est l’un des fondateurs du Dada zurichois. Arrivé à Zurich pendant la Première Guerre mondiale, il participe au Cabaret Voltaire avec Hugo Ball, Emmy Hennings, Tristan Tzara et Hans Arp. Ses masques de carton et ses reliefs contribuent à l’invention d’une scène dadaïste où poésie sonore, danse et arts visuels se mêlent. Après son retour en Roumanie, il participe à l’avant-garde de Bucarest et fonde avec d’autres artistes la revue Contimporanul. Émigré en Palestine en 1941, il poursuit une œuvre architecturale et picturale. Son itinéraire relie Dada, constructivisme et modernisme roumain.",
     "works": [
-      "Masques Dada"
+      "Masques pour le Cabaret Voltaire (1916)",
+      "Reliefs dadaïstes (1916–1917)",
+      "Contimporanul (revue, 1922–1932)",
+      "Architecture et urbanisme à Bucarest et Ein Hod"
     ],
-    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/janco.htm",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/janco.htm",
+        "note": "University of Iowa : notice Marcel Janco et bibliographie Dada."
+      },
+      {
+        "url": "https://www.jancodada.co.il/",
+        "note": "Janco-Dada Museum : biographie, œuvres et archives."
+      },
+      {
+        "url": "https://www.moma.org/artists/2897",
+        "note": "MoMA : notice Marcel Janco."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Marcel Janco, catalogues de l’œuvre dadaïste et architecturale, Janco-Dada Museum.",
+      "Dada, catalogue de référence sur le Cabaret Voltaire et le cercle zurichois.",
+      "Marcel Janco: The Romanian Years, études et catalogues d’exposition."
+    ],
+    "related": [
+      "ball",
+      "hennings",
+      "tzara",
+      "arp",
+      "taeuber",
+      "richter"
+    ]
   },
   {
     "id": "crotti",
     "name": "Jean Crotti",
     "years": "1878–1958",
     "group": "Dada",
-    "bio": "Peintre franco-suisse, lié aux avant-gardes parisiennes et au Dada. Il participe aux réseaux d'artistes qui contestent les frontières entre peinture, objet et idée.",
-    "works": [],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "bio": "Peintre né en Suisse et actif à Paris, Jean Crotti passe par le cubisme et l’orphisme avant de rejoindre les milieux dadaïstes. Il expose à New York et à Paris, rencontre Marcel Duchamp et épouse Suzanne Duchamp en 1919. Avec elle, il participe à des recherches où les formes mécaniques, les mots et les signes deviennent des éléments plastiques. Son parcours est révélateur des circulations entre les avant-gardes parisiennes, américaines et suisses, notamment autour de Francis Picabia, Marcel Duchamp et Hans Arp. Après la période Dada, il poursuit une peinture personnelle, sans maintenir d’appartenance stricte à un mouvement.",
+    "works": [
+      "Portrait mécanique (années 1910)",
+      "Œuvres dites mécanomorphes (années 1910–1920)",
+      "Peintures abstraites et compositions tardives"
+    ],
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/crotti.htm",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/crotti.htm",
+        "note": "University of Iowa : notice Jean Crotti."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources",
+        "note": "Centre Pompidou : ressources sur les avant-gardes et Dada."
+      },
+      {
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bildmuseet : contexte des réseaux Dada."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Jean Crotti, catalogues d’exposition et notices de collection, notamment Centre Pompidou et institutions suisses.",
+      "Dada, catalogue de l’exposition du Centre Pompidou, 2005.",
+      "Études sur Suzanne Duchamp et Jean Crotti dans les recherches consacrées au Dada parisien."
+    ],
+    "related": [
+      "suzanneduchamp",
+      "duchamp",
+      "picabia",
+      "arp"
+    ]
   },
   {
     "id": "citroen",
     "name": "Paul Citroen",
     "years": "1896–1983",
     "group": "Dada",
-    "bio": "Artiste et photographe né à Berlin, actif dans les réseaux dadaïstes et constructivistes. Son photomontage et son enseignement au Bauhaus contribuent aux recherches modernes sur l'image.",
+    "bio": "Né à Berlin dans une famille néerlandaise, Paul Citroen est peintre, photographe, collagiste et pédagogue. Il fréquente les milieux dadaïstes berlinois et néerlandais, puis étudie au Bauhaus à Weimar où il rencontre les recherches constructivistes et typographiques. Son photomontage Metropolis (1923) assemble des fragments de photographies pour produire une ville moderne imaginaire, à la fois monumentale et instable. Il enseigne ensuite à Amsterdam et contribue à la formation de générations de photographes et de graphistes. Ses liens avec Theo van Doesburg, Kurt Schwitters et les artistes du Bauhaus montrent la porosité entre Dada, De Stijl et les nouvelles pédagogies artistiques.",
     "works": [
-      "Metropolis"
+      "Metropolis (photomontage, 1923)",
+      "Photomontages et portraits photographiques",
+      "Travaux pédagogiques à la Nieuwe Kunstschool"
     ],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/citroen.htm",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/citroen.htm",
+        "note": "University of Iowa : notice Paul Citroen."
+      },
+      {
+        "url": "https://www.bauhaus.de/en/",
+        "note": "Bauhaus-Archiv : contexte de formation et ressources documentaires."
+      },
+      {
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bildmuseet : Paul Citroen dans le réseau Dada."
       }
     ],
     "role_icon": "📷",
-    "role_label": "Photographie"
+    "role_label": "Photographie",
+    "bibliography": [
+      "Paul Citroen, Metropolis, photomontage, 1923.",
+      "Paul Citroen, catalogues et monographies sur le photomontage néerlandais et le Bauhaus.",
+      "International Dada Archive, notices et documents sur Paul Citroen."
+    ],
+    "related": [
+      "schwitters",
+      "richter",
+      "grosz"
+    ]
   },
   {
     "id": "richter",
     "name": "Hans Richter",
     "years": "1888–1976",
     "group": "Dada",
-    "bio": "Peintre et cinéaste allemand, participant à Dada puis pionnier du cinéma expérimental. Il explore le mouvement, le rythme et l'abstraction dans des films sans narration traditionnelle.",
+    "bio": "Peintre, cinéaste et théoricien allemand, Hans Richter traverse l’expressionnisme, Dada et le cinéma abstrait. À Zurich, il rencontre Tristan Tzara, Hans Arp et Viking Eggeling ; il expérimente avec ce dernier les rouleaux abstraits et l’animation de formes géométriques. Ses films Rhythmus 21 et Rhythmus 23 font du mouvement et du montage les matériaux mêmes du cinéma. Installé ensuite à Berlin, puis contraint à l’exil par le nazisme, il poursuit sa carrière aux États-Unis et réalise notamment Dreams That Money Can Buy. Son livre Dada: Art and Anti-Art contribue à fixer une mémoire du mouvement, dont il fut aussi un acteur et un historien.",
     "works": [
-      "Rhythmus 21",
-      "Dada: Art and Anti-Art"
+      "Rhythmus 21 (film, 1921)",
+      "Rhythmus 23 (film, 1923)",
+      "Filmstudie (1926)",
+      "Vormittagsspuk / Ghosts Before Breakfast (1928)",
+      "Dreams That Money Can Buy (1947)",
+      "Dada: Art and Anti-Art (1965)"
     ],
-    "url": "https://www.moma.org/calendar/exhibitions/80",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/richter.htm",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/calendar/exhibitions/80",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/richter.htm",
+        "note": "University of Iowa : notice Hans Richter."
+      },
+      {
+        "url": "https://www.moma.org/artists/4925",
+        "note": "MoMA : Hans Richter, peintre et cinéaste."
+      },
+      {
+        "url": "https://www.filmportal.de/person/hans-richter_",
+        "note": "Filmportal : filmographie et repères biographiques."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Dada: Art and Anti-Art, Thames & Hudson, 1965.",
+      "Hans Richter, Encounters from Dada till Today, 197 encounters, 1971.",
+      "Hans Richter, textes sur le cinéma expérimental et l’histoire de Dada."
+    ],
+    "related": [
+      "arp",
+      "tzara",
+      "janco",
+      "schwitters"
+    ]
   },
   {
     "id": "cravan",
     "name": "Arthur Cravan",
     "years": "1887–1918",
     "group": "Pré-Dada / avant-gardes",
-    "bio": "Poète, boxeur et provocateur, éditeur de la revue Maintenant. Par ses canulars et son rejet des institutions littéraires, il est souvent rapproché des gestes dadaïstes.",
+    "bio": "Né Fabian Avenarius Lloyd, Arthur Cravan est poète, boxeur, voyageur et provocateur. Neveu d’Oscar Wilde par alliance familiale, il fonde à Paris la revue Maintenant, dont les cinq numéros (1912–1915) mêlent critique d’art, invective, autobiographie et canular. Il s’attaque aux conventions littéraires et aux réputations artistiques, notamment dans ses textes sur André Gide et les salons. Mobilisé dans les circulations transatlantiques de la guerre, il passe par Barcelone, New York et le Mexique, où il disparaît en 1918. Souvent rapproché de Dada pour son refus de l’institution et son goût de la performance, il n’en fut pas un membre au sens strict. Ses trajectoires croisent celles de Mina Loy, Francis Picabia et Marcel Duchamp.",
     "works": [
-      "Maintenant"
+      "Maintenant (revue, 1912–1915)",
+      "Oscar Wilde est vivant ! (1913)",
+      "Notes et poèmes publiés dans Maintenant",
+      "Combat de boxe contre Jack Johnson, Barcelone (1916)"
     ],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/cravan.htm",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/cravan.htm",
+        "note": "University of Iowa : notice Arthur Cravan et ressources Dada."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources",
+        "note": "Centre Pompidou : ressources sur les avant-gardes et la revue Maintenant."
+      },
+      {
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bildmuseet : contexte international et précurseurs de Dada."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Maintenant, revue d’Arthur Cravan, 5 numéros, Paris, 1912–1915.",
+      "Arthur Cravan, Œuvres, éd. Jean-Pierre Begot, Gérard Lebovici, 1987.",
+      "Arthur Cravan, Poèmes et lettres, éditions et études critiques diverses."
+    ],
+    "related": [
+      "picabia",
+      "duchamp",
+      "tzara"
+    ]
   },
   {
     "id": "pansaers",
     "name": "Clément Pansaers",
     "years": "1885–1922",
     "group": "Dada belge",
-    "bio": "Poète belge et figure du Dada international. Ses textes expérimentaux, publiés notamment dans Résurrection, mêlent jeux verbaux, satire et invention typographique.",
+    "bio": "Poète, typographe et éditeur belge, Clément Pansaers est l’une des voix les plus originales du Dada francophone. Après des débuts dans les milieux littéraires flamands et bruxellois, il publie la revue Résurrection pendant la guerre, puis rejoint les réseaux dadaïstes internationaux. Ses textes jouent de la typographie, de la fragmentation, de l’onomatopée et du détournement des registres savants ou populaires. Pan-Pan au cul du nu nègre et Bar Nicanor témoignent d’une langue expérimentale, irrévérencieuse et difficile à classer. Il échange avec Tristan Tzara et les dadaïstes parisiens, tout en conservant une position périphérique aux centres du mouvement. Sa mort précoce en 1922 interrompt une œuvre encore en devenir.",
     "works": [
-      "Pan-Pan au cul du nu nègre",
-      "Bar Nicanor"
+      "Résurrection (revue, 1917–1918)",
+      "Pan-Pan au cul du nu nègre (1920)",
+      "Bar Nicanor (1921)",
+      "Le Pan-Pan au cul du nu nègre (édition et variantes)"
     ],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/pansaers.htm",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/pansaers.htm",
+        "note": "University of Iowa : notice Clément Pansaers."
+      },
+      {
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bildmuseet : contexte du Dada international."
+      },
+      {
+        "url": "https://www.belgianart.be/",
+        "note": "Belgian Art Links : répertoire de documentation artistique belge."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Pan-Pan au cul du nu nègre, 1920.",
+      "Bar Nicanor, 1921.",
+      "Résurrection, revue, 1917–1918.",
+      "Clément Pansaers, Œuvres, éditions critiques et études sur le Dada belge."
+    ],
+    "related": [
+      "tzara",
+      "arnauld",
+      "vano",
+      "joostens"
+    ]
   },
   {
     "id": "joostens",
     "name": "Paul Joostens",
     "years": "1889–1960",
     "group": "Dada belge",
-    "bio": "Artiste belge passé de l'avant-garde futuriste au dadaïsme. Il expérimente collage, assemblage et poésie visuelle dans les réseaux artistiques d'Anvers et de Bruxelles.",
-    "works": [],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "bio": "Peintre, dessinateur et poète anversois, Paul Joostens traverse le futurisme, le dadaïsme et des formes d’abstraction personnelles. Ses collages, assemblages et compositions typographiques dialoguent avec les avant-gardes européennes, mais son parcours reste souvent marginalisé dans les histoires centrées sur Paris, Berlin ou Zurich. Il participe aux échanges artistiques belges autour de Paul van Ostaijen et de Clément Pansaers, tout en développant une iconographie singulière, parfois mystique et érotique. Son œuvre montre comment les idées dadaïstes furent réappropriées dans les scènes locales plutôt que simplement importées.",
+    "works": [
+      "Collages et assemblages dadaïstes (années 1920)",
+      "Compositions typographiques et dessins",
+      "Œuvres abstraites et mystiques des années 1930–1950"
+    ],
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
     "kind": "person",
     "sources": [
       {
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadaists/index.html",
+        "note": "University of Iowa : repérage des réseaux internationaux et belges de Dada."
+      },
+      {
         "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bildmuseet : Dada et ses ramifications européennes."
+      },
+      {
+        "url": "https://www.muhka.be/",
+        "note": "M HKA, Anvers : collections et ressources sur l’avant-garde belge."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Paul Joostens, catalogues d’exposition et études conservés dans les collections belges.",
+      "Paul Joostens, œuvres et documents, archives de l’avant-garde anversoise.",
+      "Études sur le futurisme et Dada en Belgique, notamment autour de Paul van Ostaijen."
+    ],
+    "related": [
+      "vano",
+      "pansaers",
+      "citroen",
+      "janco"
+    ]
   },
   {
     "id": "vano",
     "name": "Paul van Ostaijen",
     "years": "1896–1928",
     "group": "Dada / expressionnisme flamand",
-    "bio": "Poète flamand, auteur de poésie typographique et sonore. Son recueil Bezette Stad fait de la mise en page et du rythme visuel une partie intégrante du poème.",
+    "bio": "Poète flamand, Paul van Ostaijen est l’une des figures majeures de la modernité littéraire belge. Après un premier recueil expressionniste, Het Sienjaal, il séjourne à Berlin pendant la guerre et découvre les avant-gardes, le dadaïsme et les expérimentations typographiques. Bezette Stad (1921) transforme la page en espace visuel et sonore : mots, blancs, signes et rythmes y composent une ville occupée. De retour en Belgique, il travaille comme libraire et éditeur, tout en poursuivant une poésie de plus en plus épurée. Ses liens avec Clément Pansaers et Paul Joostens témoignent d’une scène belge plurilingue, reliée aux mouvements européens sans s’y dissoudre.",
     "works": [
-      "Bezette Stad",
-      "Het Sienjaal"
+      "Het Sienjaal (1918)",
+      "Bezette Stad (1921)",
+      "De Feesten van Angst en Pijn (posthume, 1928)",
+      "Nagelaten gedichten (posthume, 1928)"
     ],
-    "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
+    "url": "https://sdrc.lib.uiowa.edu/dada/dadas/ostayen.htm",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bildmuseet.umu.se/en/exhibitions/2017/dada-is-dada/",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/ostayen.htm",
+        "note": "University of Iowa : Paul van Ostaijen dans les ressources Dada."
+      },
+      {
+        "url": "https://www.literatuurmuseum.nl/",
+        "note": "Literatuurmuseum, La Haye : ressources sur la littérature néerlandaise moderne."
+      },
+      {
+        "url": "https://www.dbnl.org/auteurs/auteur.php?id=osta002",
+        "note": "Digitale Bibliotheek voor de Nederlandse Letteren : œuvres et repères biographiques."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Het Sienjaal, 1918.",
+      "Bezette Stad, 1921.",
+      "De Feesten van Angst en Pijn, édition posthume, 1928.",
+      "Verzameld werk, édition critique des œuvres complètes, éditions savantes néerlandaises."
+    ],
+    "related": [
+      "pansaers",
+      "joostens",
+      "citroen",
+      "schwitters"
+    ]
   },
   {
     "id": "scutenaire",
     "name": "Louis Scutenaire",
     "years": "1905–1987",
     "group": "Surréalisme belge",
-    "bio": "Écrivain belge et membre du groupe surréaliste bruxellois, connu pour ses inscriptions, aphorismes et son humour anticonformiste. Il collabore étroitement avec Irène Hamoir et René Magritte.",
+    "bio": "Écrivain et poète belge, Louis Scutenaire est l’une des voix les plus reconnaissables du surréalisme bruxellois. Proche de Paul Nougé, Camille Goemans, Marcel Lecomte et René Magritte, il participe dès les années 1920 aux pratiques collectives de détournement, aux tracts et aux expérimentations de langage. Son œuvre la plus connue, Mes inscriptions, rassemble des aphorismes, observations et traits d’humour qui déjouent les automatismes de la pensée. Compagnon d’Irène Hamoir, il forme avec elle un foyer important de la vie surréaliste belge. Il entretient aussi des relations suivies avec Marcel Mariën, Jane Graverol et les générations ultérieures du mouvement.",
     "works": [
-      "Mes inscriptions"
+      "Les secours de la religion (193救)",
+      "Mes inscriptions (1945 et éditions augmentées)",
+      "La Cuisinière de Bismarck (1957)",
+      "Le Surréalisme en Belgique (textes et entretiens)"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : anthologie du surréalisme belge et réseau des auteurs."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : naissance du surréalisme en Belgique."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie du surréalisme belge."
       }
     ],
     "role_icon": "📖",
-    "role_label": "Écriture"
+    "role_label": "Écriture",
+    "bibliography": [
+      "Mes inscriptions, 1945 ; éditions augmentées successives.",
+      "La Cuisinière de Bismarck, 1957.",
+      "Le Surréalisme en Belgique, textes de Louis Scutenaire, Irène Hamoir et André Blavier, 1986.",
+      "Louis Scutenaire, Œuvres, éditions et anthologies chez Labor et autres éditeurs belges."
+    ],
+    "related": [
+      "hamoir",
+      "lecomte",
+      "marien",
+      "graverol",
+      "chavee"
+    ]
   },
   {
     "id": "hamoir",
     "name": "Irène Hamoir",
     "years": "1906–1994",
     "group": "Surréalisme belge",
-    "bio": "Écrivaine belge, seule femme du noyau historique du groupe surréaliste bruxellois. Ses romans et sa poésie dialoguent avec l'humour, les jeux de langage et les images du groupe.",
+    "bio": "Écrivaine belge, Irène Hamoir, qui signe aussi Irine, appartient au groupe surréaliste bruxellois et partage la vie de Louis Scutenaire. Elle participe aux réunions, publications et jeux collectifs du groupe, tout en développant une œuvre littéraire propre, marquée par l’ironie, l’observation sociale et une liberté narrative. Ses romans La Cuve infernale et Boulevard Jacqmain donnent une place singulière aux femmes, aux milieux urbains et aux comportements ordinaires. Elle est en relation avec René Magritte, Paul Nougé, Marcel Lecomte et Marcel Mariën. Sa présence rappelle que le surréalisme belge s’est construit aussi dans les sociabilités, les amitiés et les pratiques quotidiennes, pas seulement dans les manifestes.",
     "works": [
-      "La Cuve infernale",
-      "Corne de brume"
+      "La Cuve infernale (1944)",
+      "Boulevard Jacqmain (1953)",
+      "Corne de brume (1973)",
+      "Poèmes et textes sous le nom Irine"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : Irène Hamoir parmi les auteurs du surréalisme belge."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : contexte du groupe bruxellois."
+      },
+      {
+        "url": "https://le-carnet-et-les-instants.net/avant-gardes-futurisme-surrealisme-et-belgique-sauvage/",
+        "note": "Le Carnet et les Instants : repères bibliographiques et études sur Irène Hamoir."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "La Cuve infernale, 1944.",
+      "Boulevard Jacqmain, 1953.",
+      "Corne de brume, 1973.",
+      "Irène Hamoir, textes et poèmes réunis dans les anthologies du surréalisme belge."
+    ],
+    "related": [
+      "scutenaire",
+      "lecomte",
+      "marien",
+      "graverol"
+    ]
   },
   {
     "id": "marien",
     "name": "Marcel Mariën",
     "years": "1920–1993",
     "group": "Surréalisme belge",
-    "bio": "Écrivain, éditeur, photographe et créateur d'objets surréalistes. Il rejoint le groupe belge autour de Magritte et Nougé et joue un rôle important dans la conservation de ses archives.",
+    "bio": "Écrivain, éditeur, photographe et créateur d’objets, Marcel Mariën rejoint le groupe surréaliste belge en 1937 et devient l’un de ses principaux passeurs après la Seconde Guerre mondiale. Il fonde en 1954 la revue et les éditions Les Lèvres nues, qui diffusent textes, images et documents surréalistes. Collaborateur de René Magritte et proche de Louis Scutenaire, Irène Hamoir et Jane Graverol, il mène aussi un travail d’historien et de collectionneur, notamment avec L’Activité surréaliste en Belgique. Ses collages et objets prolongent l’esprit de détournement de Dada, mais son rôle d’éditeur et d’archiviste est tout aussi déterminant pour la mémoire du mouvement.",
     "works": [
-      "L'Activité surréaliste en Belgique"
+      "L’Activité surréaliste en Belgique (1979)",
+      "Les Lèvres nues (revue, 1954–1958 puis 1969–1975)",
+      "La Trahison des images (photomontages et objets)",
+      "La Rencontre fortuite (récits et textes)"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : anthologie et réseau surréaliste belge."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie et histoire du surréalisme belge."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : repères sur le groupe surréaliste de Bruxelles."
       }
     ],
     "role_icon": "📷",
-    "role_label": "Photographie"
+    "role_label": "Photographie",
+    "bibliography": [
+      "L’Activité surréaliste en Belgique, 1979.",
+      "Les Lèvres nues, revue et éditions, Bruxelles, 1954–1975.",
+      "Marcel Mariën, Le Radeau de la mémoire, textes et documents.",
+      "Anthologie du surréalisme en Belgique, éd. Christian Bussy, Gallimard, 1972."
+    ],
+    "related": [
+      "scutenaire",
+      "hamoir",
+      "graverol",
+      "baes",
+      "chavee"
+    ]
   },
   {
     "id": "graverol",
     "name": "Jane Graverol",
     "years": "1905–1984",
     "group": "Surréalisme belge",
-    "bio": "Peintre belge dont les compositions oniriques et inquiétantes s'inscrivent dans le surréalisme. Elle participe aux réseaux surréalistes belges d'après-guerre et à la revue Les Lèvres nues.",
+    "bio": "Peintre belge, Jane Graverol construit une œuvre figurative et onirique où les corps, les objets et les paysages deviennent des scènes d’inquiétante étrangeté. Après une première période proche du symbolisme, elle rejoint les réseaux surréalistes belges et participe à l’exposition internationale du surréalisme de 1947. Elle se lie à Louis Scutenaire, Irène Hamoir, Marcel Mariën et René Magritte ; avec Mariën, elle contribue à la revue Les Lèvres nues. Son tableau Le Cortège d’Orphée et ses compositions ultérieures montrent une peinture narrative, précise et ambiguë, distincte de l’automatisme gestuel. Son parcours permet de suivre la continuité du surréalisme belge après la guerre.",
     "works": [
-      "Le Cortège d'Orphée"
+      "Le Cortège d’Orphée (1947)",
+      "L’École de la vanité (1962)",
+      "La Goutte d’eau (œuvre emblématique)",
+      "Peintures et dessins publiés dans Les Lèvres nues"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
+        "note": "BAM Mons : dossier sur le surréalisme belge et ses artistes."
+      },
+      {
+        "url": "https://le-carnet-et-les-instants.net/avant-gardes-futurisme-surrealisme-et-belgique-sauvage/",
+        "note": "Le Carnet et les Instants : bibliographie et catalogue consacré à Jane Graverol."
+      },
+      {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : Jane Graverol dans les réseaux du surréalisme belge."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Jane Graverol, monographies et catalogues d’exposition, notamment BAM Mons et Mardaga.",
+      "Giorgio de Chirico. Aux origines du surréalisme belge : Magritte–Delvaux–Graverol, BAM–Mardaga, 2019.",
+      "Peinture de Jane Graverol, Bruxelles, éditions des Lèvres nues, 1962."
+    ],
+    "related": [
+      "marien",
+      "scutenaire",
+      "hamoir",
+      "baes",
+      "magritte"
+    ]
   },
   {
     "id": "baes",
     "name": "Rachel Baes",
     "years": "1912–1983",
     "group": "Surréalisme belge",
-    "bio": "Peintre belge dont les tableaux mettent en scène des figures isolées, des atmosphères énigmatiques et des récits suspendus. Elle est associée au surréalisme belge.",
+    "bio": "Peintre belge, Rachel Baes est d’abord formée dans un milieu artistique proche du symbolisme et de l’expressionnisme, avant de rejoindre les cercles surréalistes. Ses tableaux mettent souvent en scène des jeunes filles solitaires, des poupées et des intérieurs silencieux, dans une atmosphère suspendue qui se distingue de l’imagerie plus directement provocatrice du groupe. Elle est en relation avec René Magritte, Louis Scutenaire, Marcel Mariën et Jane Graverol, mais conserve une trajectoire personnelle. Son œuvre, longtemps moins visible que celle de ses contemporains masculins, est aujourd’hui réexaminée dans les histoires du surréalisme belge et dans les collections muséales.",
     "works": [
-      "La Fin d'un monde"
+      "La Fin d’un monde (œuvre et titre à documenter selon les catalogues)",
+      "Peintures de figures enfantines et scènes énigmatiques, années 1940–1970"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
+        "note": "BAM Mons : repères sur Rachel Baes et les surréalistes belges."
+      },
+      {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : réseau des artistes et écrivains surréalistes belges."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie du surréalisme belge."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Rachel Baes, catalogues d’exposition et notices de collections belges ; bibliographie monographique à consolider.",
+      "Études sur le surréalisme belge et ses artistes femmes, BAM Mons et Centre Daily-Bul.",
+      "Anthologie du surréalisme en Belgique, éd. Christian Bussy, Gallimard, 1972."
+    ],
+    "related": [
+      "graverol",
+      "marien",
+      "scutenaire",
+      "magritte"
+    ]
   },
   {
     "id": "chavee",
     "name": "Achille Chavée",
     "years": "1906–1969",
     "group": "Surréalisme belge",
-    "bio": "Poète belge, fondateur du groupe surréaliste Rupture à La Louvière. Son œuvre mêle humour, révolte politique, aphorisme et exploration de l'inconscient.",
+    "bio": "Poète belge né à Charleroi, Achille Chavée est l’animateur central du surréalisme dans le Hainaut. Après un séjour en Espagne pendant la guerre civile, où il s’engage auprès des républicains, il fonde en 1935 le groupe Rupture avec André Lorent et Marcel Parfondry. Il entraîne dans cette aventure Fernand Dumont et d’autres écrivains et artistes de la région, tout en maintenant des liens avec le groupe bruxellois et les surréalistes parisiens. Sa poésie, souvent aphoristique, mêle révolte politique, humour noir, rêve et interrogation existentielle. Ses relations avec Fernand Dumont, Paul Colinet et Marcel Mariën éclairent les circulations entre les foyers surréalistes belges.",
     "works": [
-      "Décoctions",
-      "L'Agenda d'émeraude"
+      "Décoctions (1946)",
+      "L’Agenda d’émeraude (1953)",
+      "Les Matinaux (poèmes et aphorismes)",
+      "Œuvres poétiques et aphorismes publiés dans les revues du Hainaut"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
+        "note": "BAM Mons : biographie de Fernand Dumont et contexte du groupe Rupture."
+      },
+      {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : réseau du surréalisme belge, dont Chavée et Dumont."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie générale du surréalisme en Belgique."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Décoctions, 1946.",
+      "L’Agenda d’émeraude, 1953.",
+      "Achille Chavée, œuvres poétiques, éditions et anthologies du surréalisme wallon.",
+      "Anthologie du surréalisme belge, éd. Christian Bussy, Gallimard, 1972."
+    ],
+    "related": [
+      "dumont",
+      "colinet",
+      "simon",
+      "marien",
+      "scutenaire"
+    ]
   },
   {
     "id": "dumont",
     "name": "Fernand Dumont",
     "years": "1906–1945",
     "group": "Surréalisme belge",
-    "bio": "Poète et essayiste belge, membre du groupe surréaliste Rupture. Arrêté pendant l'Occupation pour ses activités de résistance, il meurt en déportation.",
+    "bio": "Né Fernand Demoustier à Mons, Fernand Dumont est poète, essayiste, avocat et résistant. Il rencontre Achille Chavée pendant ses études secondaires, puis le retrouve à l’Université libre de Bruxelles. Après la découverte du premier Manifeste du surréalisme, il entre en contact avec André Breton et rejoint en 1935 le groupe Rupture, fondé dans le Hainaut. Sa poésie et ses essais articulent expérience intérieure, engagement politique et réflexion sur le langage. Arrêté pour ses activités de résistance, il est déporté et meurt à Bergen-Belsen en 1945. Son itinéraire relie le surréalisme belge à l’histoire de l’antifascisme et de la répression nazie ; ses liens avec Chavée, Marcel Parfondry et les surréalistes bruxellois sont documentés.",
     "works": [
-      "La Région du cœur"
+      "La Région du cœur (poèmes, édition posthume)",
+      "Essais et textes surréalistes publiés dans les revues du groupe Rupture"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
+        "note": "BAM Mons : notice biographique détaillée, formation, groupe Rupture et déportation."
+      },
+      {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : bibliographie et réseau du surréalisme belge."
+      },
+      {
+        "url": "https://le-carnet-et-les-instants.net/avant-gardes-futurisme-surrealisme-et-belgique-sauvage/",
+        "note": "Le Carnet et les Instants : édition récente de La Région du cœur."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "La Région du cœur, édition Espace Nord, présentation de Carl Norac, 2023.",
+      "Fernand Dumont, textes et poèmes, archives et éditions du groupe Rupture.",
+      "Anthologie du surréalisme belge, éd. Christian Bussy, Gallimard, 1972."
+    ],
+    "related": [
+      "chavee",
+      "colinet",
+      "simon",
+      "breton",
+      "scutenaire"
+    ]
   },
   {
     "id": "colinet",
     "name": "Paul Colinet",
     "years": "1898–1957",
     "group": "Surréalisme belge",
-    "bio": "Poète belge lié au groupe surréaliste bruxellois, réputé pour ses textes brefs, son humour et ses associations verbales imprévisibles.",
+    "bio": "Poète belge né à Arquennes, Paul Colinet est associé au surréalisme bruxellois et à ses prolongements d’après-guerre. Son écriture cultive l’association inattendue, la logique oblique, le calembour et les déplacements de sens, dans des textes brefs qui échappent à la narration conventionnelle. Il fréquente Louis Scutenaire, Irène Hamoir, René Magritte et Marcel Mariën, et participe aux publications collectives qui entretiennent la continuité du groupe. Sa poésie, souvent publiée en revues ou en plaquettes, a été redécouverte dans les anthologies du surréalisme belge. Il constitue un lien entre la première génération bruxelloise et les réseaux du Daily-Bul.",
     "works": [
-      "Les Dés pipés"
+      "Les Dés pipés (poèmes et textes)",
+      "Textes et poèmes publiés dans Phantomas et les revues surréalistes belges"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : Paul Colinet et les réseaux du surréalisme belge."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : références bibliographiques sur le groupe belge."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : contexte historique du surréalisme belge."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Paul Colinet, recueils et textes poétiques, éditions belges d’après-guerre.",
+      "Anthologie du surréalisme belge, éd. Christian Bussy, Gallimard, 1972.",
+      "Le Groupe surréaliste en Belgique, André Blavier, tiré à part de Phantomas, 1971."
+    ],
+    "related": [
+      "scutenaire",
+      "hamoir",
+      "marien",
+      "chavee",
+      "dumont"
+    ]
   },
   {
     "id": "simon",
     "name": "Armand Simon",
     "years": "1906–1981",
     "group": "Surréalisme belge",
-    "bio": "Dessinateur belge associé au groupe surréaliste du Hainaut. Ses dessins minutieux et visionnaires transforment les formes familières en paysages mentaux inquiétants.",
-    "works": [],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "bio": "Dessinateur et peintre belge né à Pâturages, Armand Simon est associé au groupe surréaliste du Hainaut et à l’aventure de Rupture. Son œuvre graphique développe un univers de métamorphoses, de paysages mentaux et de figures hybrides, avec une précision minutieuse qui contraste avec la spontanéité revendiquée par certaines pratiques surréalistes. Il est lié à Achille Chavée, Fernand Dumont et aux réseaux littéraires de La Louvière. Ses dessins accompagnent des textes et des publications du surréalisme belge, tandis que sa trajectoire demeure moins documentée que celle des figures les plus célèbres du mouvement. La notice privilégie donc les repères de groupe et les ressources archivistiques plutôt que d’attribuer des titres d’œuvres incertains.",
+    "works": [
+      "Dessins et illustrations pour les publications surréalistes du Hainaut",
+      "Œuvres graphiques conservées dans les collections belges"
+    ],
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : Armand Simon dans le réseau du surréalisme belge."
+      },
+      {
+        "url": "https://www.musees-expos.mons.be/fr/a-propos/documentation/publications/nos-catalogues-dexpositions/dossiers-pedagogiques/surrealisme-dans-les-collections-montoises-dp.pdf",
+        "note": "BAM Mons : contexte historique et artistique du surréalisme montois."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie générale du surréalisme belge."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Armand Simon, catalogues et dossiers d’artistes conservés dans les institutions wallonnes ; bibliographie monographique à compléter.",
+      "Anthologie du surréalisme belge, éd. Christian Bussy, Gallimard, 1972.",
+      "Publications du groupe Rupture et revues surréalistes du Hainaut."
+    ],
+    "related": [
+      "chavee",
+      "dumont",
+      "colinet",
+      "marien"
+    ]
   },
   {
     "id": "souris",
     "name": "André Souris",
     "years": "1899–1970",
     "group": "Surréalisme belge",
-    "bio": "Compositeur et chef d'orchestre belge, proche du groupe surréaliste bruxellois. Il expérimente les rapports entre musique, poésie et arts visuels avant de prendre ses distances avec le groupe.",
-    "works": [],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "bio": "Compositeur, chef d’orchestre et musicologue belge, André Souris est l’un des membres du premier groupe surréaliste bruxellois. Il participe aux expériences collectives de Paul Nougé, Camille Goemans, Marcel Lecomte et René Magritte, et met en musique des textes ou des situations qui interrogent les rapports entre hasard, langage et composition. Sa collaboration avec le groupe s’interrompt en 1936 après une prise de distance publique, mais il poursuit une carrière importante dans la musique contemporaine et la recherche ethnomusicologique. Son parcours offre un point de comparaison entre les avant-gardes littéraires et les transformations de la musique savante au XXe siècle.",
+    "works": [
+      "Compositions et musiques de scène pour les milieux surréalistes bruxellois",
+      "Études sur la musique et la tradition populaire belge",
+      "Écrits musicologiques et analyses de la musique contemporaine"
+    ],
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : André Souris dans le réseau du surréalisme belge."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie et histoire du surréalisme belge."
+      },
+      {
+        "url": "https://www.sabam.be/",
+        "note": "SABAM : ressources sur les compositeurs et répertoires belges."
       }
     ],
     "role_icon": "𝄞",
-    "role_label": "Musique"
+    "role_label": "Musique",
+    "bibliography": [
+      "André Souris, Conditions de la musique et autres écrits, textes musicologiques et critiques.",
+      "André Souris, catalogues d’œuvres et archives musicales belges.",
+      "Anthologie du surréalisme belge, éd. Christian Bussy, Gallimard, 1972."
+    ],
+    "related": [
+      "scutenaire",
+      "lecomte",
+      "marien",
+      "chavee"
+    ]
   },
   {
     "id": "servais",
     "name": "Max Servais",
     "years": "1904–1940",
     "group": "Surréalisme belge",
-    "bio": "Peintre belge lié au surréalisme, auteur d'images oniriques et de compositions énigmatiques dans l'entre-deux-guerres.",
-    "works": [],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "bio": "Peintre belge, Max Servais est associé aux milieux surréalistes de Bruxelles et à leurs prolongements d’après-guerre. Son parcours demeure moins abondamment documenté que celui de Magritte ou Graverol ; les notices et publications collectives le situent toutefois dans un réseau où se croisent Louis Scutenaire, Marcel Mariën, Jane Graverol et Rachel Baes. Ses œuvres et ses participations doivent être replacées dans les expositions et les revues qui ont maintenu le surréalisme belge vivant après 1945. La bibliographie reste volontairement prudente : elle renvoie aux ressources collectives et aux archives plutôt que d’aligner des titres non vérifiés.",
+    "works": [
+      "Peintures et œuvres graphiques associées au surréalisme belge ; titres individuels à confirmer par catalogue raisonné"
+    ],
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : repères sur les auteurs et artistes du surréalisme belge."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie collective du surréalisme belge."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : contexte des réseaux surréalistes bruxellois."
       }
     ],
     "role_icon": "🎨",
-    "role_label": "Arts visuels"
+    "role_label": "Arts visuels",
+    "bibliography": [
+      "Max Servais, notices et références dans les anthologies du surréalisme belge.",
+      "Anthologie du surréalisme en Belgique, éd. Christian Bussy, Gallimard, 1972.",
+      "Le Groupe surréaliste en Belgique, André Blavier, Phantomas, 1971."
+    ],
+    "related": [
+      "scutenaire",
+      "marien",
+      "graverol",
+      "baes"
+    ]
   },
   {
     "id": "eemans",
     "name": "Marc Eemans",
     "years": "1907–1998",
     "group": "Surréalisme belge",
-    "bio": "Peintre, poète et essayiste belge, proche du surréalisme bruxellois dans les années 1920 avant de développer une voie ésotérique et symboliste singulière.",
-    "works": [],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "bio": "Peintre, poète et essayiste belge, Marc Eemans se rapproche du surréalisme bruxellois dans les années 1920 avant de développer une voie personnelle, marquée par le symbolisme, la spiritualité et l’ésotérisme. Il fréquente les milieux de René Magritte, Paul Nougé et E. L. T. Mesens, mais son évolution le conduit vers une pensée artistique distincte de l’orthodoxie bretonienne. Ses écrits et ses images témoignent de la diversité des trajectoires qui se sont croisées autour du surréalisme belge. Les liens avec Louis Scutenaire et Marcel Mariën sont utiles pour comprendre les débats et les lignes de fracture internes au mouvement.",
+    "works": [
+      "Peintures symbolistes et surréalistes des années 1920–1930",
+      "Essais et textes sur l’art et la spiritualité"
+    ],
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : réseau du surréalisme belge et ses prolongements."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie du surréalisme belge."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : contexte du groupe bruxellois."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Marc Eemans, monographies et catalogues d’exposition belges ; bibliographie à consolider par dépouillement d’archives.",
+      "Anthologie du surréalisme en Belgique, éd. Christian Bussy, Gallimard, 1972.",
+      "Études sur le surréalisme belge et ses marges, Mélusine."
+    ],
+    "related": [
+      "scutenaire",
+      "marien",
+      "magritte",
+      "mesens"
+    ]
   },
   {
     "id": "lecomte",
     "name": "Marcel Lecomte",
     "years": "1900–1966",
     "group": "Surréalisme belge",
-    "bio": "Poète et écrivain belge, membre du premier cercle surréaliste bruxellois. Avec Nougé et Goemans, il participe à l'aventure des tracts Correspondance.",
+    "bio": "Poète, critique et écrivain belge, Marcel Lecomte est l’un des membres fondateurs du groupe surréaliste bruxellois. Avec Paul Nougé et Camille Goemans, il participe dès 1924 aux tracts Correspondance, conçus comme des interventions anonymes et collectives contre les conventions littéraires. Il fréquente René Magritte, Louis Scutenaire, Irène Hamoir et André Souris, tout en poursuivant une œuvre poétique attentive à l’étrangeté du réel et aux glissements de perception. Son activité de critique et de passeur contribue à la circulation des idées surréalistes en Belgique. Il constitue un trait d’union entre la première génération du groupe et les réseaux éditoriaux de l’après-guerre.",
     "works": [
-      "Le Sens des tarots"
+      "Correspondance (tracts, 1924–1925)",
+      "Le Sens des tarots (textes et poèmes)",
+      "Les Minutes insolites (prose)",
+      "Textes critiques sur l’art et la littérature"
     ],
-    "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
+    "url": "https://www.dailybul.be/archibul/items/show/4537",
     "kind": "person",
     "sources": [
       {
+        "url": "https://www.dailybul.be/archibul/items/show/4537",
+        "note": "Centre Daily-Bul : Marcel Lecomte et les réseaux surréalistes belges."
+      },
+      {
+        "url": "https://www.melusine-surrealisme.fr/surr-ts-pays/pays/belgique",
+        "note": "Mélusine : bibliographie des groupes de Bruxelles et du Hainaut."
+      },
+      {
         "url": "https://www.bozar.be/fr/regardez-lisez-ecoutez/la-naissance-du-surrealisme",
-        "note": "Source de repérage institutionnelle ou de synthèse ; dates et notices à consolider avec une référence individuelle."
+        "note": "Bozar : naissance du surréalisme en Belgique."
       }
     ],
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Correspondance, avec Paul Nougé et Camille Goemans, Bruxelles, 1924–1925.",
+      "Marcel Lecomte, Le Sens des tarots, éditions et rééditions belges.",
+      "Marcel Lecomte, œuvres poétiques et critiques, éditions Labor et anthologies du surréalisme belge."
+    ],
+    "related": [
+      "scutenaire",
+      "hamoir",
+      "souris",
+      "marien",
+      "magritte"
+    ]
   },
   {
     "id": "morton-feldman",
     "name": "Morton Feldman",
     "years": "1926–1987",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain de la New York School. Sa musique aux durées étirées et aux nuances infimes dialogue avec l’expressionnisme abstrait, notamment dans Rothko Chapel.",
+    "bio": "Compositeur américain associé à la New York School, Morton Feldman développe une musique de la nuance, de l’écoute et de la durée. Sa rencontre avec John Cage en 1950, puis ses amitiés avec Earle Brown, Christian Wolff et David Tudor, l’inscrivent dans un réseau expérimental qui remet en question les conventions de la composition et de l’interprétation. Les peintres de l’expressionnisme abstrait, notamment Mark Rothko, Philip Guston et Franz Kline, jouent un rôle essentiel dans sa pensée du temps et de la surface sonore. Rothko Chapel, For Philip Guston et For Bunita Marcus témoignent de ces dialogues entre musique et arts visuels. Sa rencontre avec Samuel Beckett donne lieu à Neither et à plusieurs œuvres tardives. Son parcours prolonge, dans un autre médium, les questions de durée et de perception qui traversent les avant-gardes du XXe siècle.",
     "works": [
-      "Rothko Chapel"
+      "Projection 1 (1950)",
+      "Intersection 1 (1951)",
+      "Piece for Four Pianos (1957)",
+      "Rothko Chapel (1971)",
+      "Neither (1977)",
+      "For Philip Guston (1984)",
+      "String Quartet II (1983)",
+      "Palais de Mari (1986)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -3851,9 +4506,26 @@
     "sources": [
       {
         "url": "https://brahms.ircam.fr/fr/composer/morton-feldman/biography",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "IRCAM–Centre Pompidou : biographie, rencontres avec Cage, Beckett et les peintres."
+      },
+      {
+        "url": "https://resources.ircam.fr/fr/composer/morton-feldman/resources",
+        "note": "IRCAM : bibliographie secondaire et ressources documentaires."
+      },
+      {
+        "url": "https://resources.ircam.fr/fr/composer/morton-feldman/worksByDate",
+        "note": "IRCAM : catalogue chronologique des œuvres."
       }
-    ]
+    ],
+    "bibliography": [
+      "Morton Feldman, Essays, éd. Walter Zimmermann, Beginner Press, 1985.",
+      "Morton Feldman, Give My Regards to Eighth Street, Exact Change, 2000.",
+      "Sebastian Claren, Neither. Die Musik Morton Feldmans, Wolke Verlag, 2000.",
+      "Ryan Dohoney, Morton Feldman: Friendship and Mourning in the New York Avant-Garde, Bloomsbury, 2022.",
+      "The Music of Morton Feldman, éd. Thomas DeLio, Excelsior, 1996."
+    ],
+    "related": [],
+    "url": "https://brahms.ircam.fr/fr/composer/morton-feldman/biography"
   },
   {
     "id": "john-cage",
