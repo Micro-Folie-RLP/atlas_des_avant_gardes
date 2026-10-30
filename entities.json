@@ -5637,446 +5637,900 @@
     "name": "Stéphane Mallarmé",
     "years": "1842–1898",
     "group": "Symbolisme / précurseurs",
-    "bio": "Poète symboliste dont le travail sur la suggestion, la page et la matérialité du langage annonce plusieurs avant-gardes.",
+    "bio": "Le symbolisme de Mallarmé transforme la poésie en recherche sur les conditions mêmes de l’expression : suggestion, rythme, blanc typographique et autonomie du langage. Après les poèmes de jeunesse et L’Après-midi d’un faune, il construit autour de La Dernière Mode et des mardis de la rue de Rome un réseau décisif pour les jeunes écrivains. Un coup de dés jamais n’abolira le hasard pousse cette réflexion jusqu’à faire de la page un espace de composition. Son influence sur les futuristes, les dadaïstes, les surréalistes et les poètes expérimentaux tient autant à ses textes qu’à sa conception de la forme. Pour comparer sa ligne de vie à celles de Fernando Pessoa, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Un coup de dés jamais n'abolira le hasard",
-      "L'Après-midi d'un faune"
+      "Un coup de dés jamais n’abolira le hasard (1897)",
+      "L’Après-midi d’un faune (1876)",
+      "Poésies (édition posthume, 1899)",
+      "Divagations (1897)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Bertrand Marchal, Mallarmé, Gallimard, 1998.",
+      "Stéphane Mallarmé, Œuvres complètes, éd. Bertrand Marchal, Gallimard, Bibliothèque de la Pléiade, 1998–2003.",
+      "Gardner Davies, Mallarmé et le drame solaire, José Corti, 1959."
+    ],
+    "related": [
+      "pessoa"
+    ],
+    "sources": [
+      {
+        "url": "https://data.bnf.fr/fr/11913974/stephane_mallarme/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "pessoa",
     "name": "Fernando Pessoa",
     "years": "1888–1935",
     "group": "Modernismes",
-    "bio": "Poète portugais qui a inventé de multiples hétéronymes, brouillant les frontières entre identité, voix et œuvre.",
+    "bio": "Poète portugais, Fernando Pessoa élabore une œuvre plurielle grâce à ses hétéronymes, qui ne sont pas de simples pseudonymes mais des auteurs dotés de biographies, de styles et de visions du monde distincts. Alberto Caeiro, Ricardo Reis et Álvaro de Campos constituent les principaux pôles de cette dramaturgie de l’identité. Publiant peu sous son nom de son vivant, il participe à la revue Orpheu en 1915, moment essentiel du modernisme portugais. Son immense archive manuscrite, retrouvée après sa mort, a profondément renouvelé la compréhension de la création littéraire au XXe siècle. Pour comparer sa ligne de vie à celles de Stéphane Mallarmé, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Le Livre de l'intranquillité"
+      "Mensagem (1934)",
+      "O Livro do Desassossego / Le Livre de l’intranquillité (publication posthume, 1982)",
+      "Poèmes d’Álvaro de Campos",
+      "O Guardador de Rebanhos, d’Alberto Caeiro"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Fernando Pessoa, Le Livre de l’intranquillité, trad. Françoise Laye, Christian Bourgois.",
+      "Jerónimo Pizarro (dir.), Pessoa: A Biography, Tinta-da-China, 2012.",
+      "Richard Zenith, Pessoa: A Biography, Liveright, 2021."
+    ],
+    "related": [
+      "mallarme"
+    ],
+    "sources": [
+      {
+        "url": "https://www.casafernandopessoa.pt/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "rene-char",
     "name": "René Char",
     "years": "1907–1988",
     "group": "Surréalisme et héritages",
-    "bio": "Poète français passé par le surréalisme, dont l'œuvre associe densité aphoristique, résistance et réflexion sur la poésie.",
+    "bio": "René Char rejoint le groupe surréaliste en 1929 et participe à l’aventure collective du mouvement avant de s’en éloigner au milieu des années 1930. Son écriture conserve de cette période le goût de l’image fulgurante, de l’association et de la liberté verbale, mais développe une voix singulière, tendue vers l’action et la responsabilité. Pendant l’Occupation, il prend le nom de capitaine Alexandre et dirige des opérations de Résistance dans les Basses-Alpes. Feuillets d’Hypnos, composé dans la clandestinité, fait dialoguer poésie, notes de terrain et méditation morale. Ses liens avec Nicolas de Staël et les artistes de l’après-guerre prolongent son intérêt pour la peinture. Pour comparer sa ligne de vie à celles de , consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Fureur et mystère",
-      "Feuillets d'Hypnos"
+      "Le Marteau sans maître (1934)",
+      "Fureur et mystère (1948)",
+      "Feuillets d’Hypnos (1946)",
+      "La Parole en archipel (1962)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "René Char, Œuvres complètes, Gallimard, Bibliothèque de la Pléiade, 1983.",
+      "Paul Veyne, René Char en ses poèmes, Gallimard, 1990.",
+      "Laurent Greilsamer, L’Éclair au front : la vie de René Char, Fayard, 2004."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "url": "https://www.renehchar.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "walser",
     "name": "Robert Walser",
     "years": "1878–1956",
     "group": "Littératures internationales",
-    "bio": "Écrivain suisse de langue allemande, maître des formes brèves et de l'effacement, admiré par Kafka et les écrivains modernes.",
+    "bio": "Écrivain suisse de langue allemande, Robert Walser développe une œuvre faite de récits brefs, de promenades, de scènes minuscules et de personnages en retrait. Après ses années berlinoises, où il fréquente les milieux littéraires et artistiques, il revient en Suisse et publie notamment Les Enfants Tanner, L’Homme à tout faire et La Promenade. Ses microgrammes, manuscrits minuscules longtemps réputés indéchiffrables, révèlent un laboratoire d’écriture et de réduction formelle. Admiré par Kafka, Musil, Benjamin et plus tard par les écrivains expérimentaux, il devient une figure majeure d’une modernité discrète, opposée aux grands récits de maîtrise. Pour comparer sa ligne de vie à celles de Franz Kafka, Robert Musil, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Les Enfants Tanner",
-      "La Promenade"
+      "Les Enfants Tanner (1907)",
+      "L’Homme à tout faire (1908)",
+      "La Promenade (1917)",
+      "Le Brigand (manuscrit des années 1920, publication posthume)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Robert Walser, Œuvres, éd. Bernhard Echte et Werner Morlang, Suhrkamp.",
+      "Susan Bernofsky, Clairvoyant of the Small: The Life of Robert Walser, Yale University Press, 2021.",
+      "Carl Seelig, Promenades avec Robert Walser, Zoé."
+    ],
+    "related": [
+      "kafka",
+      "musil"
+    ],
+    "sources": [
+      {
+        "url": "https://www.robertwalser.ch/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "walter-benjamin",
     "name": "Walter Benjamin",
     "years": "1892–1940",
     "group": "Philosophie / critique",
-    "bio": "Philosophe et critique allemand dont les essais sur la modernité, les images, la technique et la mémoire ont profondément marqué la pensée contemporaine.",
+    "bio": "Essayiste, traducteur et philosophe allemand, Walter Benjamin pense les transformations de l’expérience moderne à partir de la ville, de la photographie, du cinéma, de la marchandise et de la mémoire. Proche de Bertolt Brecht, d’Asja Lacis et de l’Institut de recherche sociale, il ne se laisse réduire à aucune école. Son projet inachevé sur les passages parisiens rassemble une constellation de citations et de fragments, méthode qui fait écho aux montages dadaïstes et surréalistes. Fuyant le nazisme, il meurt à Portbou en 1940. Ses textes sur la reproductibilité technique et le surréalisme sont devenus essentiels pour l’histoire des avant-gardes et la théorie des médias. Pour comparer sa ligne de vie à celles de André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "L'Œuvre d'art à l'époque de sa reproductibilité technique",
-      "Paris, capitale du XIXe siècle"
+      "L’Œuvre d’art à l’époque de sa reproductibilité technique (1935–1939)",
+      "Paris, capitale du XIXe siècle (exposé de 1935)",
+      "Sens unique (1928)",
+      "Thèses sur le concept d’histoire (1940)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Walter Benjamin, Œuvres, 3 vol., Gallimard, Folio essais.",
+      "Susan Buck-Morss, The Dialectics of Seeing: Walter Benjamin and the Arcades Project, MIT Press, 1989.",
+      "Howard Eiland et Michael W. Jennings, Walter Benjamin: A Critical Life, Harvard University Press, 2014."
+    ],
+    "related": [
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://www.walterbenjamin.org/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "genet",
     "name": "Jean Genet",
     "years": "1910–1986",
     "group": "Littératures et dissidences",
-    "bio": "Écrivain et dramaturge français dont l'œuvre renverse les normes morales, sociales et esthétiques.",
+    "bio": "Romancier, dramaturge et poète, Jean Genet construit une œuvre où l’identité se forme dans la transgression, la mise en scène et le renversement des hiérarchies morales. Ses premiers livres, publiés dans les années 1940 avec le soutien de Jean Cocteau puis de Jean-Paul Sartre, font de la marginalité une matière littéraire et politique. Le théâtre de Genet, notamment Les Bonnes et Le Balcon, explore le jeu des rôles, la représentation du pouvoir et la violence des images sociales. À partir des années 1960, son engagement auprès des Black Panthers et des Palestiniens élargit son œuvre vers l’écriture politique et le témoignage. Pour comparer sa ligne de vie à celles de , consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Notre-Dame-des-Fleurs",
-      "Les Bonnes",
-      "Journal du voleur"
+      "Notre-Dame-des-Fleurs (1943)",
+      "Miracle de la rose (1946)",
+      "Les Bonnes (1947)",
+      "Le Balcon (1956)",
+      "Un captif amoureux (1986)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Jean Genet, Œuvres complètes, Gallimard, 6 vol.",
+      "Albert Dichy et Pascal Fouché, Jean Genet : essai de chronologie, IMEC.",
+      "Edmund White, Jean Genet, Gallimard, 1993."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "url": "https://www.gallimard.fr/auteurs/jean-genet",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "henri-lefebvre",
     "name": "Henri Lefebvre",
     "years": "1901–1991",
     "group": "Philosophie / critique",
-    "bio": "Philosophe et sociologue français, critique de la vie quotidienne et penseur de l'espace social, proche de plusieurs milieux d'avant-garde.",
+    "bio": "Philosophe et sociologue, Henri Lefebvre traverse plusieurs milieux intellectuels du XXe siècle : le groupe Philosophies, le surréalisme des années 1920, le marxisme, puis les recherches sur l’urbanisme et la vie quotidienne. Il participe à la revue Philosophies et entretient des relations avec les surréalistes avant de développer une critique du quotidien qui refuse de séparer théorie et expérience vécue. Son analyse de l’espace comme production sociale nourrit les réflexions situationnistes, notamment celles de Guy Debord, sans se confondre avec elles. Le Droit à la ville et La Production de l’espace deviennent des références pour les artistes et penseurs qui interrogent la vie urbaine. Pour comparer sa ligne de vie à celles de André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Critique de la vie quotidienne",
-      "Le Droit à la ville"
+      "Critique de la vie quotidienne (1947)",
+      "Le Droit à la ville (1968)",
+      "La Production de l’espace (1974)",
+      "Éléments de rythmanalyse (1992, posthume)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Henri Lefebvre, Critique de la vie quotidienne, L’Arche, 3 vol.",
+      "Stuart Elden, Understanding Henri Lefebvre, Continuum, 2004.",
+      "Andy Merrifield, Henri Lefebvre: A Critical Introduction, Routledge, 2006."
+    ],
+    "related": [
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://www.henri-lefebvre.org/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "leon-pierre-quint",
     "name": "Léon Pierre-Quint",
     "years": "1895–1958",
     "group": "Revues et édition",
-    "bio": "Écrivain, critique et éditeur, directeur des éditions du Sagittaire et soutien important des avant-gardes littéraires.",
+    "bio": "Écrivain, critique et éditeur, Léon Pierre-Quint joue un rôle de passeur entre les avant-gardes littéraires et le monde de l’édition. Associé aux éditions du Sagittaire, il contribue à faire connaître des écrivains novateurs et accompagne la réception de Lautréamont, dont il étudie l’œuvre dans un essai important. Son activité éditoriale s’inscrit dans un réseau où se croisent revues, libraires, écrivains et collectionneurs. Sa notice mérite d’être lue à côté de celles des auteurs qu’il a défendus : l’histoire des avant-gardes est aussi celle de leurs éditeurs, médiateurs et critiques, souvent moins visibles que les créateurs. Pour comparer sa ligne de vie à celles de Comte de Lautréamont, André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Le Comte de Lautréamont et Dieu"
+      "Le Comte de Lautréamont et Dieu (1924)",
+      "Essais et études critiques publiés dans l’entre-deux-guerres",
+      "Activité éditoriale aux éditions du Sagittaire"
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/ark:/12148/cb12361713q",
-        "note": "Notice d'autorité de la Bibliothèque nationale de France : 1895–1958."
+        "url": "https://catalogue.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
     ],
     "role_icon": "📚",
     "role_label": "Édition et critique",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Léon Pierre-Quint, Le Comte de Lautréamont et Dieu, 1924.",
+      "Pascal Fouché, L’Édition française sous l’Occupation, 1987 (pour le contexte de l’édition indépendante).",
+      "Catalogue général de la Bibliothèque nationale de France, notices d’autorité et catalogues des éditions du Sagittaire."
+    ],
+    "related": [
+      "lautreamont",
+      "breton"
+    ]
   },
   {
     "id": "john-fante",
     "name": "John Fante",
     "years": "1909–1983",
     "group": "Littératures américaines",
-    "bio": "Romancier américain à l'écriture directe et nerveuse, devenu une référence majeure pour plusieurs générations d'écrivains.",
+    "bio": "Romancier et nouvelliste italo-américain, John Fante transforme l’expérience de l’immigration, de la pauvreté et de la formation artistique en une prose nerveuse, ironique et intensément incarnée. Son double littéraire Arturo Bandini apparaît dans plusieurs romans, dont Demande à la poussière, aujourd’hui considéré comme son livre majeur. Longtemps peu reconnu, Fante est redécouvert et défendu par Charles Bukowski, qui contribue à sa réédition chez Black Sparrow Press. Sa langue orale, son énergie autobiographique et ses personnages d’aspirants écrivains le rapprochent de certaines traditions modernistes américaines, tout en conservant une tonalité singulière. Pour comparer sa ligne de vie à celles de Jack Kerouac, John Clellon Holmes, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Demande à la poussière",
-      "Bandini"
+      "Wait Until Spring, Bandini (1938)",
+      "Ask the Dust / Demande à la poussière (1939)",
+      "The Brotherhood of the Grape (1977)",
+      "1933 Was a Bad Year (1985, posthume)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "John Fante, The Complete Works, Black Sparrow Press / HarperCollins.",
+      "Stephen Cooper, Full of Life: A Biography of John Fante, North Point Press, 2000.",
+      "John Fante, Letters to Eda, Black Sparrow Press, 1991."
+    ],
+    "related": [
+      "kerouac",
+      "holmes"
+    ],
+    "sources": [
+      {
+        "url": "https://www.johnfante.org/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "jacques-rigaut",
     "name": "Jacques Rigaut",
     "years": "1898–1929",
     "group": "Dada",
-    "bio": "Poète dadaïste français, figure radicale de la négation et de la révolte, dont les textes sont restés peu nombreux.",
+    "bio": "Figure de Dada à Paris, Jacques Rigaut fait de la négation, du désœuvrement et de la mise en scène de soi les matériaux d’une œuvre volontairement réduite. Il participe aux manifestations dadaïstes et fréquente les cercles de Tristan Tzara, André Breton et Philippe Soupault. Ses textes fragmentaires, aphorismes et interventions refusent la carrière littéraire traditionnelle et mettent en crise l’idée même d’auteur. Son suicide en 1929 a contribué à construire une légende qu’il faut distinguer de la lecture de ses écrits. Ceux-ci annoncent certaines formes de l’écriture brève et de l’autodestruction mises en scène dans les avant-gardes. Pour comparer sa ligne de vie à celles de Tristan Tzara, André Breton, Philippe Soupault, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Écrits"
+      "Agence générale du suicide (1929, texte)",
+      "Écrits (édition posthume)",
+      "Lord Patchogue (texte)"
     ],
     "sources": [
       {
-        "url": "https://www.larousse.fr/encyclopedie/litterature/Jacques_Rigaut/176496",
-        "note": "Notice du Dictionnaire mondial des littératures, Larousse."
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Jacques Rigaut, Écrits, Gallimard, L’Imaginaire.",
+      "Michel Sanouillet, Dada à Paris, CNRS Éditions.",
+      "André Breton, Anthologie de l’humour noir, pour le contexte de réception."
+    ],
+    "related": [
+      "tzara",
+      "breton",
+      "soupault"
+    ]
   },
   {
     "id": "jacques-vache",
     "name": "Jacques Vaché",
     "years": "1895–1919",
     "group": "Dada / précurseurs du surréalisme",
-    "bio": "Écrivain et dessinateur, figure nantaise dont l'humour noir et le refus des conventions ont marqué André Breton.",
+    "bio": "Écrivain et dessinateur nantais, Jacques Vaché laisse une œuvre très brève, principalement composée de lettres écrites pendant la Première Guerre mondiale. Son attitude d’« umour », son refus des postures artistiques et son goût du décalage marquent profondément André Breton, rencontré à Nantes en 1916. Vaché devient après sa mort une figure tutélaire du surréalisme, mais son importance tient moins à un corpus qu’à une manière de vivre et de défaire les conventions. Ses lettres témoignent de la guerre, de l’ironie et d’une défiance radicale envers la littérature comme institution. Pour comparer sa ligne de vie à celles de André Breton, Philippe Soupault, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Lettres de guerre"
+      "Lettres de guerre (1919, publication posthume)",
+      "Textes et dessins publiés dans les éditions posthumes"
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/ark:/12148/cb119273881.public",
-        "note": "Notice d'autorité de la Bibliothèque nationale de France : 1895–1919."
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Jacques Vaché, Lettres de guerre, éd. André Breton, 1919.",
+      "André Breton, Entretiens, Gallimard, pour le témoignage sur Vaché.",
+      "Michel Carassou, Jacques Vaché, une vie dans la guerre, éditions Jean-Michel Place."
+    ],
+    "related": [
+      "breton",
+      "soupault"
+    ]
   },
   {
     "id": "stanislas-rodanski",
     "name": "Stanislas Rodanski",
     "years": "1927–1981",
     "group": "Surréalisme d'après-guerre",
-    "bio": "Poète et romancier surréaliste français, associé au groupe de la rue du Dragon et à une poétique de la disparition.",
+    "bio": "Poète et prosateur lié au surréalisme d’après-guerre, Stanislas Rodanski rejoint le groupe de Paris au début des années 1950 et participe à ses tensions internes. Avec notamment Jean-Dominique Rey et Alain Jouffroy, il explore une écriture de la rupture, du rêve et de la disparition. Son parcours est marqué par une expérience de la marginalité et par de longues périodes d’internement, qui ne doivent pas réduire son œuvre à une biographie clinique. Ses textes, redécouverts et réédités, témoignent d’un surréalisme tardif qui déplace l’héritage bretonien vers l’errance, l’imaginaire et l’effacement du sujet. Pour comparer sa ligne de vie à celles de André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "La Victoire à l'ombre des ailes",
-      "Des proies aux chimères"
+      "La Victoire à l’ombre des ailes (publication posthume)",
+      "Des proies aux chimères",
+      "Requiem for me"
     ],
     "sources": [
       {
-        "url": "https://entities.oclc.org/worldcat/entity/E39PBJfRBXvbcvvfJ3CqCCX8G3.html",
-        "note": "Notice d'autorité WorldCat : 1927–1981."
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Stanislas Rodanski, La Victoire à l’ombre des ailes, Gallimard, L’Imaginaire.",
+      "Stanislas Rodanski, Des proies aux chimères, éditions Fata Morgana.",
+      "Alain Jouffroy, Une révolution du regard : à propos du surréalisme d’après-guerre."
+    ],
+    "related": [
+      "breton"
+    ]
   },
   {
     "id": "marcel-proust",
     "name": "Marcel Proust",
     "years": "1871–1922",
     "group": "Modernismes / précurseurs",
-    "bio": "Romancier français dont la recherche sur la mémoire, le temps et la perception a transformé le roman moderne.",
+    "bio": "Marcel Proust renouvelle le roman en faisant de la mémoire involontaire, de la perception et du temps les principes d’une architecture narrative monumentale. À la recherche du temps perdu, publiée entre 1913 et 1927, transforme les milieux mondains, les pratiques artistiques et les relations amoureuses en matière d’analyse psychologique et sociale. Proust dialogue avec la peinture, la musique et la photographie, et construit des personnages dont l’identité se révèle par variations successives. Son œuvre nourrit les réflexions de Walter Benjamin, Samuel Beckett et de nombreux écrivains expérimentaux sur la mémoire, la répétition et la forme du récit. Pour comparer sa ligne de vie à celles de Stéphane Mallarmé, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "À la recherche du temps perdu"
+      "Du côté de chez Swann (1913)",
+      "À l’ombre des jeunes filles en fleurs (1919)",
+      "Le Temps retrouvé (1927)",
+      "Contre Sainte-Beuve (posthume, 1954)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Marcel Proust, À la recherche du temps perdu, éd. Jean-Yves Tadié, Gallimard, Bibliothèque de la Pléiade, 1987–1989.",
+      "Jean-Yves Tadié, Marcel Proust : biographie, Gallimard, 1996.",
+      "Anne Simon, Proust ou le réel retrouvé, PUF, 2000."
+    ],
+    "related": [
+      "mallarme"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/marcel-proust",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "james-joyce",
     "name": "James Joyce",
     "years": "1882–1941",
     "group": "Modernismes",
-    "bio": "Écrivain irlandais dont les innovations narratives et linguistiques ont profondément renouvelé le roman du XXe siècle.",
+    "bio": "Écrivain irlandais, James Joyce transforme les possibilités du roman moderne par le monologue intérieur, le montage de voix, le jeu linguistique et la réécriture des mythes. Dubliners et A Portrait of the Artist as a Young Man préparent Ulysses, publié en 1922 à Paris par Sylvia Beach, qui fait de la journée ordinaire de Leopold Bloom une odyssée urbaine. Finnegans Wake pousse l’expérimentation jusqu’à une langue polyglotte et onirique. Joyce entretient des relations avec Ezra Pound, Samuel Beckett et les réseaux modernistes européens, tout en restant une figure difficile à rattacher à un mouvement unique. Pour comparer sa ligne de vie à celles de Fernando Pessoa, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Ulysse",
-      "Finnegans Wake",
-      "Dubliners"
+      "Dubliners (1914)",
+      "A Portrait of the Artist as a Young Man (1916)",
+      "Ulysses (1922)",
+      "Finnegans Wake (1939)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "James Joyce, Ulysses, éd. Hans Walter Gabler, Garland, 1984.",
+      "Richard Ellmann, James Joyce, Oxford University Press, 1982.",
+      "Jeri Johnson (dir.), The Cambridge Companion to James Joyce, Cambridge University Press, 1990."
+    ],
+    "related": [
+      "pessoa"
+    ],
+    "sources": [
+      {
+        "url": "https://jamesjoyce.ie/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "samuel-beckett",
     "name": "Samuel Beckett",
     "years": "1906–1989",
     "group": "Théâtre et modernités",
-    "bio": "Écrivain et dramaturge irlandais, figure majeure du théâtre moderne et de l'épuisement des formes narratives.",
+    "bio": "Écrivain irlandais d’expression anglaise puis française, Samuel Beckett passe du roman moderniste à une œuvre de dépouillement radical où les voix, les corps et les récits semblent s’épuiser. Lecteur et secrétaire de James Joyce dans les années 1920, il s’en éloigne progressivement pour inventer une écriture de l’échec, de la répétition et de l’incertitude. En attendant Godot, créé en 1953, bouleverse le théâtre d’après-guerre. La trilogie romanesque Molloy, Malone meurt et L’Innommable constitue un laboratoire formel majeur. Son travail avec les metteurs en scène et la radio étend cette recherche aux médias et à la scène. Pour comparer sa ligne de vie à celles de Fernando Pessoa, Jean Genet, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "En attendant Godot",
-      "Molloy"
+      "En attendant Godot (1953)",
+      "Molloy (1951)",
+      "Malone meurt (1951)",
+      "L’Innommable (1953)",
+      "Fin de partie (1957)"
     ],
     "role_icon": "🎭",
     "role_label": "Théâtre",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Samuel Beckett, The Complete Works, Faber and Faber.",
+      "James Knowlson, Damned to Fame: The Life of Samuel Beckett, Bloomsbury, 1996.",
+      "S. E. Gontarski (dir.), The Grove Companion to Samuel Beckett, Grove Press, 2004."
+    ],
+    "related": [
+      "pessoa",
+      "genet"
+    ],
+    "sources": [
+      {
+        "url": "https://www.beckettfoundation.org.uk/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "lautreamont",
     "name": "Comte de Lautréamont",
     "years": "1846–1870",
     "group": "Précurseurs du surréalisme",
-    "bio": "Pseudonyme d'Isidore Ducasse, poète dont Les Chants de Maldoror deviendront une référence fondatrice pour les surréalistes.",
+    "bio": "Derrière le pseudonyme du comte de Lautréamont se trouve Isidore Ducasse, auteur né à Montevideo et mort à Paris à vingt-quatre ans. Les Chants de Maldoror, publiés en 1869, mêlent prose poétique, violence grotesque, détournement des formes savantes et images hallucinées. Longtemps marginalisée, l’œuvre devient une référence majeure pour les surréalistes, qui y reconnaissent une liberté d’association et une puissance de révolte. Les Poésies, publiées en 1870, renversent ironiquement les maximes morales et littéraires. Son influence passe par Breton, Soupault, les collages et les pratiques de citation des avant-gardes. Pour comparer sa ligne de vie à celles de André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Les Chants de Maldoror",
-      "Poésies"
+      "Les Chants de Maldoror (1869)",
+      "Poésies I et II (1870)",
+      "Lettres (correspondance, 1869–1870)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Lautréamont, Œuvres complètes, éd. Jean-Luc Steinmetz, Gallimard, Bibliothèque de la Pléiade, 2009.",
+      "Jean-Jacques Lefrère, Isidore Ducasse : auteur des Chants de Maldoror, Fayard, 1998.",
+      "Philippe Soupault, Lautréamont, Seghers, 1967."
+    ],
+    "related": [
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "raymond-roussel",
     "name": "Raymond Roussel",
     "years": "1877–1933",
     "group": "Précurseurs / expérimentations",
-    "bio": "Écrivain français inventeur de procédés formels singuliers, admiré par les surréalistes et de nombreux artistes expérimentaux.",
+    "bio": "Écrivain français, Raymond Roussel invente des procédés de composition fondés sur les homophonies, les écarts entre mots et les contraintes narratives. Impressions d’Afrique et Locus Solus déploient des machines, inventions et scènes impossibles dans une prose d’une précision volontairement impassible. Son œuvre, peu comprise de son vivant, fascine les surréalistes, les dramaturges et les artistes liés au Nouveau Réalisme et à l’art conceptuel. Comment j’ai écrit certains de mes livres, publié après sa mort, expose une partie de ses méthodes sans épuiser leur fonctionnement. Sa réception par Duchamp, Breton, Foucault et Perec en fait un jalon de la littérature à contraintes. Pour comparer sa ligne de vie à celles de Marcel Duchamp, Stéphane Mallarmé, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Impressions d'Afrique",
-      "Locus Solus"
+      "Impressions d’Afrique (1910)",
+      "Locus Solus (1914)",
+      "L’Étoile au front (1925)",
+      "Comment j’ai écrit certains de mes livres (1935)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Raymond Roussel, Œuvres, Gallimard, Bibliothèque de la Pléiade, 1994.",
+      "François Caradec, Vie de Raymond Roussel, Pauvert, 1972.",
+      "Michel Foucault, Raymond Roussel, Gallimard, 1963."
+    ],
+    "related": [
+      "duchamp",
+      "mallarme"
+    ],
+    "sources": [
+      {
+        "url": "https://www.raymond-roussel.com/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "raymond-queneau",
     "name": "Raymond Queneau",
     "years": "1903–1976",
     "group": "Oulipo / expérimentations",
-    "bio": "Écrivain et poète, ancien proche du surréalisme puis cofondateur de l'Oulipo, explorateur des contraintes et des jeux de langage.",
+    "bio": "Romancier, poète et éditeur, Raymond Queneau traverse le surréalisme avant de s’en éloigner en 1929. Son œuvre explore les écarts entre langue écrite et langue parlée, les contraintes, les jeux combinatoires et les formes populaires. Cofondateur de l’Oulipo avec François Le Lionnais en 1960, il conçoit Cent mille milliards de poèmes, machine combinatoire qui fait du livre un dispositif de production potentiellement inépuisable. Il participe aussi à l’édition de l’Encyclopédie de la Pléiade et dirige la collection « Encyclopédie essentielle ». Son parcours relie l’expérimentation littéraire, les mathématiques et les cultures urbaines. Pour comparer sa ligne de vie à celles de André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Exercices de style",
-      "Zazie dans le métro",
-      "Cent mille milliards de poèmes"
+      "Le Chiendent (1933)",
+      "Exercices de style (1947)",
+      "Zazie dans le métro (1959)",
+      "Cent mille milliards de poèmes (1961)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Raymond Queneau, Œuvres complètes, Gallimard, Bibliothèque de la Pléiade.",
+      "Béatrice de Jurquet, Raymond Queneau, Gallimard, 1994.",
+      "Oulipo, Atlas de littérature potentielle, Gallimard, 1981."
+    ],
+    "related": [
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://www.oulipo.net/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "georges-perec",
     "name": "Georges Perec",
     "years": "1936–1982",
     "group": "Oulipo / expérimentations",
-    "bio": "Écrivain de l'Oulipo, maître des contraintes formelles, de l'inventaire et de l'exploration du quotidien.",
+    "bio": "Écrivain français, Georges Perec fait de la contrainte un instrument d’observation du monde plutôt qu’un simple jeu formel. Membre de l’Oulipo à partir de 1967, il explore le lipogramme dans La Disparition, l’inventaire dans Tentative d’épuisement d’un lieu parisien et l’architecture narrative dans La Vie mode d’emploi. Son œuvre associe mémoire autobiographique, histoire collective, attention au quotidien et dispositifs combinatoires. La disparition de ses parents pendant la Shoah traverse ses textes sans toujours être nommée directement. Perec dialogue avec Queneau, Calvino et les traditions du roman expérimental. Pour comparer sa ligne de vie à celles de , consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "La Disparition",
-      "Espèces d'espaces",
-      "La Vie mode d'emploi"
+      "Les Choses (1965)",
+      "La Disparition (1969)",
+      "Espèces d’espaces (1974)",
+      "La Vie mode d’emploi (1978)",
+      "Je me souviens (1978)"
     ],
     "sources": [
       {
-        "url": "https://www.associationgeorgesperec.fr/georges-perec/",
-        "note": "Association Georges Perec : Paris, 1936–1982."
+        "url": "https://www.associationgeorgesperec.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Georges Perec, Œuvres, éd. Christelle Reggiani, Gallimard, Bibliothèque de la Pléiade, 2017.",
+      "David Bellos, Georges Perec: A Life in Words, Harvill, 1993.",
+      "Perec, Cahiers Georges Perec, Association Georges Perec."
+    ],
+    "related": []
   },
   {
     "id": "maurice-blanchot",
     "name": "Maurice Blanchot",
     "years": "1907–2003",
     "group": "Littérature / théorie",
-    "bio": "Écrivain et critique dont les récits et essais ont profondément marqué la pensée littéraire contemporaine.",
+    "bio": "Écrivain et critique français, Maurice Blanchot développe une œuvre où la littérature est interrogée comme expérience de la limite, du silence et de l’absence d’auteur. Ses récits, de Thomas l’Obscur à L’Arrêt de mort, déplacent les formes du roman vers une narration fragmentaire et instable. Ses essais, notamment L’Espace littéraire et Le Livre à venir, marquent profondément la théorie littéraire d’après-guerre. En dialogue critique avec Levinas, Bataille et les écrivains de son temps, Blanchot entretient une relation complexe avec les avant-gardes, dont il analyse les ruptures sans s’y identifier simplement. Pour comparer sa ligne de vie à celles de Georges Bataille, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "L'Espace littéraire",
-      "Le Livre à venir"
+      "Thomas l’Obscur (1941, version remaniée 1950)",
+      "L’Espace littéraire (1955)",
+      "Le Livre à venir (1959)",
+      "L’Entretien infini (1969)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Maurice Blanchot, Œuvres complètes, Gallimard, 2 vol., 2008–2010.",
+      "Christophe Bident, Maurice Blanchot : partenaire invisible, Champ Vallon, 1998.",
+      "Les Cahiers de l’Herne, Maurice Blanchot, 2014."
+    ],
+    "related": [
+      "bataille"
+    ],
+    "sources": [
+      {
+        "url": "https://www.imec-archives.com/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "joe-bousquet",
     "name": "Joë Bousquet",
     "years": "1897–1950",
     "group": "Surréalisme et poésie",
-    "bio": "Poète et écrivain français, marqué par une blessure de guerre, dont l'œuvre explore l'expérience intérieure et le langage.",
+    "bio": "Poète et écrivain originaire de Narbonne, Joë Bousquet est grièvement blessé en 1918 et reste paralysé jusqu’à sa mort. Installé dans sa chambre de Carcassonne, il transforme cet espace en lieu de correspondance et de rencontres intellectuelles. Il échange avec les surréalistes, notamment André Breton, Paul Éluard et René Char, et développe une poésie de l’intériorité, du rêve et de la conscience. Son œuvre associe fragments, récits et méditations sur le langage. La blessure ne doit pas être lue comme une explication unique de ses textes : Bousquet construit une pensée poétique exigeante, attentive à la relation entre corps, monde et écriture. Pour comparer sa ligne de vie à celles de André Breton, Paul Éluard, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Traduit du silence",
-      "Le Meneur de lune"
+      "Traduit du silence (1941)",
+      "Le Meneur de lune (1946)",
+      "La Connaissance du soir (1947)",
+      "Lettres à Poisson d’or"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Joë Bousquet, Œuvres complètes, Albin Michel.",
+      "Michel Lécureur, Joë Bousquet, Seghers, 1984.",
+      "Joë Bousquet, Correspondance, éditions diverses, notamment avec René Char."
+    ],
+    "related": [
+      "breton",
+      "eluard"
+    ],
+    "sources": [
+      {
+        "url": "https://www.maisonjoebousquet.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "julien-torma",
     "name": "Julien Torma",
     "years": "1902–1933",
     "group": "Pataphysique / dissidences",
-    "bio": "Écrivain et poète associé à la pataphysique, dont la vie et l'œuvre demeurent entourées de mystère.",
+    "bio": "Écrivain, poète et dramaturge associé à la pataphysique, Julien Torma fréquente les milieux littéraires parisiens et entretient des liens avec le Collège de ’Pataphysique. Son œuvre mêle aphorisme, théâtre, poésie et dérision métaphysique. La rareté des documents biographiques et l’incertitude entourant certains épisodes de sa vie ont nourri une légende qu’il convient de distinguer des faits établis. Ses textes sont redécouverts et édités après la Seconde Guerre mondiale, notamment par les pataphysiciens. Il constitue un point de comparaison précieux avec Alfred Jarry, René Daumal et les écrivains qui font de l’absurde une méthode de déstabilisation du langage. Pour comparer sa ligne de vie à celles de Alfred Jarry, René Daumal, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Euphorismes",
-      "Le Bétrou"
+      "Euphorismes (publication posthume)",
+      "Le Bétrou (texte dramatique)",
+      "Récits et poèmes publiés dans les éditions pataphysiques"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Julien Torma, Œuvres complètes, L’Âge d’Homme.",
+      "Collège de ’Pataphysique, dossiers et publications consacrés à Julien Torma.",
+      "Alfred Jarry, Œuvres complètes, Gallimard, Bibliothèque de la Pléiade, pour le contexte pataphysique."
+    ],
+    "related": [
+      "jarry",
+      "daumal"
+    ],
+    "sources": [
+      {
+        "url": "https://www.college-de-pataphysique.org/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "rene-crevel",
     "name": "René Crevel",
     "years": "1900–1935",
     "group": "Surréalisme",
-    "bio": "Écrivain surréaliste français, auteur de romans et d'essais traversés par la révolte et la critique sociale.",
+    "bio": "Écrivain français, René Crevel est l’une des figures centrales du premier surréalisme. Il participe aux activités du groupe, collabore à La Révolution surréaliste et défend une écriture traversée par le rêve, la psychanalyse, la critique sociale et la révolte contre les normes bourgeoises. Ses romans, notamment Mon corps et moi et Êtes-vous fous ?, mêlent introspection, satire et expérimentation. Proche de Breton mais attentif aux débats politiques, il tente de maintenir un dialogue entre surréalisme et communisme. Sa mort en 1935 intervient dans un contexte de crise du mouvement et donne à son parcours une portée tragique. Pour comparer sa ligne de vie à celles de André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Mon corps et moi",
-      "Êtes-vous fous?"
+      "Détours (1924)",
+      "Mon corps et moi (1925)",
+      "Êtes-vous fous ? (1929)",
+      "Les Pieds dans le plat (1933)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "René Crevel, Œuvres complètes, éd. Jean-Michel Devésa, Pauvert.",
+      "Michel Carassou, René Crevel, Fayard, 1989.",
+      "René Crevel, Le Clavecin de Diderot, José Corti."
+    ],
+    "related": [
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "roger-vitrac",
     "name": "Roger Vitrac",
     "years": "1899–1952",
     "group": "Surréalisme / théâtre",
-    "bio": "Poète et dramaturge, membre du mouvement surréaliste à ses débuts et auteur d'un théâtre subversif.",
+    "bio": "Poète et dramaturge français, Roger Vitrac participe au groupe surréaliste dès ses débuts et signe avec Antonin Artaud et Robert Aron le projet du Théâtre Alfred-Jarry en 1926. Son théâtre associe provocation, logique du rêve, violence familiale et dérèglement du langage. Victor ou les Enfants au pouvoir, créé en 1928, demeure l’une des pièces majeures de l’entre-deux-guerres. Après sa rupture avec le surréalisme, Vitrac poursuit une œuvre dramatique qui anticipe certains gestes du théâtre de l’absurde, sans se confondre avec lui. Ses liens avec Artaud sont essentiels pour comprendre la recherche d’un théâtre non naturaliste. Pour comparer sa ligne de vie à celles de Antonin Artaud, André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Victor ou les Enfants au pouvoir"
+      "Victor ou les Enfants au pouvoir (1928)",
+      "Les Mystères de l’amour (1927)",
+      "Le Coup de Trafalgar (1934)",
+      "Les Demoiselles du large (1938)"
     ],
     "role_icon": "🎭",
     "role_label": "Théâtre",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Roger Vitrac, Théâtre complet, Gallimard.",
+      "Michel Corvin, Le Théâtre nouveau en France, PUF.",
+      "Antonin Artaud, Le Théâtre et son double, Gallimard, pour le contexte du Théâtre Alfred-Jarry."
+    ],
+    "related": [
+      "artaud",
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "andre-malraux",
     "name": "André Malraux",
     "years": "1901–1976",
     "group": "Littérature et engagement",
-    "bio": "Romancier, essayiste et homme d'action, lié aux débats politiques et esthétiques du XXe siècle.",
+    "bio": "Romancier, essayiste et homme d’action, André Malraux relie littérature, engagement politique et réflexion sur les arts. Ses premiers romans s’inscrivent dans les débats anticolonialistes et révolutionnaires de l’entre-deux-guerres ; La Condition humaine reçoit le prix Goncourt en 1933. Il s’engage dans la guerre d’Espagne puis dans la Résistance française. Après 1945, il développe une réflexion majeure sur les musées, la reproduction et la métamorphose des œuvres dans Le Musée imaginaire, intégré aux Voix du silence. Sa trajectoire croise les avant-gardes sans se réduire à l’appartenance à un mouvement. Pour comparer sa ligne de vie à celles de , consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "La Condition humaine",
-      "Les Voix du silence"
+      "Les Conquérants (1928)",
+      "La Voie royale (1930)",
+      "La Condition humaine (1933)",
+      "Les Voix du silence (1951)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "André Malraux, Œuvres complètes, Gallimard, Bibliothèque de la Pléiade.",
+      "Olivier Todd, André Malraux : une vie, Gallimard, 2001.",
+      "Henri Godard, L’Expérience existentielle de Malraux, Gallimard, 1996."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "url": "https://www.andre-malraux.org/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "francis-ponge",
     "name": "Francis Ponge",
     "years": "1899–1988",
     "group": "Poésie / modernités",
-    "bio": "Poète français attentif aux objets et aux mots, qui renouvelle la description et la matérialité du langage.",
+    "bio": "Poète français, Francis Ponge cherche à rendre aux choses leur présence en travaillant la langue au plus près des objets. Le Parti pris des choses propose des descriptions de l’huître, du pain, du cageot ou du galet qui déplacent les frontières entre poésie, prose et réflexion lexicale. Il fréquente les milieux surréalistes sans s’y fondre et participe à la Résistance. Après la guerre, ses textes explorent la matérialité des mots, les brouillons et les variations, faisant du processus d’écriture un sujet à part entière. Son œuvre influence les poètes et artistes conceptuels intéressés par l’objet, le langage et l’inventaire. Pour comparer sa ligne de vie à celles de Stéphane Mallarmé, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Le Parti pris des choses"
+      "Le Parti pris des choses (1942)",
+      "Proêmes (1948)",
+      "La Rage de l’expression (1952)",
+      "Pour un Malherbe (1965)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Francis Ponge, Œuvres complètes, éd. Bernard Beugnot, Gallimard, Bibliothèque de la Pléiade, 1999–2002.",
+      "Jean-Marie Gleize, Francis Ponge, Seuil, 1988.",
+      "Bernard Beugnot, Francis Ponge : de la connaissance en poésie, Klincksieck."
+    ],
+    "related": [
+      "mallarme"
+    ],
+    "sources": [
+      {
+        "url": "https://www.francisponge.org/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "celine",
     "name": "Louis-Ferdinand Céline",
     "years": "1894–1961",
     "group": "Littérature moderne",
-    "bio": "Romancier français dont la langue orale et syncopée a profondément influencé la prose moderne, dans une œuvre indissociable de son antisémitisme et de son engagement collaborationniste.",
+    "bio": "Louis-Ferdinand Céline révolutionne la prose française par une langue orale, syncopée, rythmée par les ruptures, les répétitions et l’argot. Voyage au bout de la nuit et Mort à crédit donnent une forme nouvelle à la narration de l’expérience sociale et corporelle. Cette innovation formelle doit être étudiée sans dissocier l’œuvre de l’engagement antisémite violent de l’écrivain, notamment dans les pamphlets des années 1930 et de l’Occupation. Céline fuit en Allemagne puis au Danemark en 1944 et est condamné à l’indignité nationale. Sa réception reste donc traversée par une tension historique et éthique majeure. Pour comparer sa ligne de vie à celles de Jean Genet, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Voyage au bout de la nuit",
-      "Mort à crédit"
+      "Voyage au bout de la nuit (1932)",
+      "Mort à crédit (1936)",
+      "Guignol’s Band (1944)",
+      "D’un château l’autre (1957)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Henri Godard, Céline, Gallimard, 2011.",
+      "Henri Godard (dir.), Romans, Gallimard, Bibliothèque de la Pléiade, 1981–1984.",
+      "Pierre-André Taguieff, Céline, la race, le Juif, Fayard, 2017."
+    ],
+    "related": [
+      "genet"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/louis-ferdinand-celine",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "max-jacob",
     "name": "Max Jacob",
     "years": "1876–1944",
     "group": "Modernités / précurseurs",
-    "bio": "Poète, romancier et peintre, proche de l'avant-garde parisienne et figure de la transition entre symbolisme et modernités.",
+    "bio": "Poète, romancier, peintre et critique, Max Jacob occupe une place charnière dans les modernités parisiennes. Installé à Montmartre, il fréquente Picasso, Apollinaire, Salmon et les artistes du Bateau-Lavoir. Le Cornet à dés, recueil de proses poétiques publié en 1917, mêle humour, rêve, images discontinues et invention verbale. Converti au catholicisme en 1915, il développe aussi une poésie spirituelle, sans abandonner ses expérimentations formelles. Arrêté en 1944 en raison de ses origines juives, il meurt au camp de Drancy. Son parcours rappelle la violence historique qui frappe les milieux artistiques sous l’Occupation. Pour comparer sa ligne de vie à celles de , consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Le Cornet à dés",
-      "Le Laboratoire central"
+      "Le Cornet à dés (1917)",
+      "Le Laboratoire central (1921)",
+      "Le Roi de Béotie (1921)",
+      "Méditations religieuses (1945)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Max Jacob, Œuvres, Gallimard, Bibliothèque de la Pléiade, 2012.",
+      "Hélène Henry, Max Jacob, poète et peintre, éditions diverses.",
+      "Christine Van Rogger Andreucci, Max Jacob, biographie et études critiques."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "url": "https://www.max-jacob.com/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "pierre-reverdy",
     "name": "Pierre Reverdy",
     "years": "1889–1960",
     "group": "Poésie / cubisme",
-    "bio": "Poète français associé au cubisme et aux avant-gardes, théoricien de l'image poétique et animateur de revues.",
+    "bio": "Poète français, Pierre Reverdy s’installe à Paris en 1910 et devient une figure centrale des échanges entre poésie et cubisme. Il fonde la revue Nord-Sud en 1917, qui accueille notamment Apollinaire, Max Jacob, Tzara et les poètes de la nouvelle génération. Sa théorie de l’image, fondée sur le rapprochement de réalités éloignées, exerce une influence importante sur le surréalisme, même si Reverdy garde ses distances avec le mouvement. Son écriture évolue vers une poésie dépouillée, attentive à la perception et à la tension entre réel et langage. Il se retire à Solesmes en 1926. Pour comparer sa ligne de vie à celles de Max Jacob, Stéphane Mallarmé, André Breton, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "La Guitare endormie",
-      "Nord-Sud"
+      "La Guitare endormie (1919)",
+      "Cravates de chanvre (1922)",
+      "Sources du vent (1929)",
+      "Le Livre de mon bord (1948)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Pierre Reverdy, Œuvres complètes, éd. Étienne-Alain Hubert, Flammarion, 2010.",
+      "Étienne-Alain Hubert, Pierre Reverdy : l’enchanteur désenchanté, Plon.",
+      "Michel Collot, La Matière-émotion, PUF, pour la poétique de l’image."
+    ],
+    "related": [
+      "max-jacob",
+      "mallarme",
+      "breton"
+    ],
+    "sources": [
+      {
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "tristan-corbiere",
     "name": "Tristan Corbière",
     "years": "1845–1875",
     "group": "Précurseurs",
-    "bio": "Poète du XIXe siècle dont l'ironie, les ruptures de ton et la liberté formelle ont inspiré les modernités poétiques.",
+    "bio": "Poète breton, Tristan Corbière publie en 1873 Les Amours jaunes, seul recueil paru de son vivant. Son écriture mêle ironie, autodérision, langue populaire, ruptures métriques et références maritimes. Longtemps méconnu, il est redécouvert par Verlaine dans Les Poètes maudits, puis intégré à une généalogie de la modernité poétique qui va du symbolisme au surréalisme. Sa manière de défaire les conventions lyriques, de jouer avec les formes et de faire entendre des voix marginales en fait un précurseur singulier. Il est rapproché de Rimbaud et de Lautréamont, mais conserve une tonalité profondément personnelle. Pour comparer sa ligne de vie à celles de Comte de Lautréamont, Arthur Rimbaud, Stéphane Mallarmé, consulter les notices correspondantes dans l’atlas.",
     "works": [
-      "Les Amours jaunes"
+      "Les Amours jaunes (1873)",
+      "« Le Crapaud » (dans Les Amours jaunes)",
+      "Poèmes et pièces retrouvés dans les éditions critiques"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Tristan Corbière, Les Amours jaunes, éd. Jean-Pierre Bertrand, Flammarion, GF.",
+      "Jean-Pierre Bertrand, Tristan Corbière : une étude, éditions universitaires.",
+      "Paul Verlaine, Les Poètes maudits (1884), chapitre consacré à Corbière."
+    ],
+    "related": [
+      "lautreamont",
+      "rimbaud",
+      "mallarme"
+    ],
+    "sources": [
+      {
+        "url": "https://data.bnf.fr/",
+        "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
+      }
+    ]
   },
   {
     "id": "jean-pierre-brisset",
@@ -7239,14 +7693,51 @@
     "name": "Alexeï Kroutchonykh",
     "years": "1886–1968",
     "group": "Futurisme russe",
-    "bio": "Poète d’avant-garde, théoricien du zaoum, une langue transrationnelle libérée du sens conventionnel.",
+    "bio": "Alexeï Elisséïevitch Kroutchonykh (Алексей Елисеевич Кручёных), poète, dessinateur et théoricien du futurisme russe, est l’un des principaux inventeurs du zaoum, langue transmentale qui libère le poème de la syntaxe et du sens conventionnels. Formé aux arts graphiques à Odessa, il rejoint les milieux futuristes de Moscou et signe en 1912, avec David Bourliouk, Vladimir Maïakovski et Vélimir Khlebnikov, le manifeste Une gifle au goût public. En 1913, son texte pour l’opéra Victoire sur le soleil, mis en musique par Mikhaïl Matiouchine et scénographié par Kazimir Malevitch, devient un jalon de l’avant-garde. Ses livres expérimentaux associent typographie, collage, dessin et poésie sonore. Il travaille notamment avec Natalia Gontcharova et Mikhaïl Larionov. Les graphies Kroutchenykh, Kroutchonykh, Kruchenykh et Kruchonykh désignent toutes le même artiste.",
     "works": [
-      "Victoire sur le soleil",
-      "Dyr bul shchyl"
+      "Dyr bul shchyl (poème zaoum, 1913)",
+      "Victoire sur le soleil (opéra futuriste, 1913)",
+      "Le Mot en tant que tel (1913, avec Vélimir Khlebnikov)",
+      "Pomada (1913)",
+      "Vselenskaïa voïna / Guerre universelle (1916, livre d’artiste)",
+      "A Slap in the Face of Public Taste (manifeste collectif, 1912)"
     ],
     "kind": "person",
     "role_icon": "🪶",
-    "role_label": "Poésie"
+    "role_label": "Poésie",
+    "bibliography": [
+      "Aleksei Kruchenykh, Pomada, Moscou, 1913.",
+      "Aleksei Kruchenykh et Vélimir Khlebnikov, Le Mot en tant que tel, 1913.",
+      "Aleksei Kruchenykh, Vselenskaïa voïna, 1916.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "Charlotte Douglas, Swans of Other Worlds: Kazimir Malevich and the Origins of Abstraction in Russia, 1976."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/3263-aleksei-kruchenykh",
+        "note": "MoMA : biographie, futurisme russe, zaoum et collaborations."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/personne/c5ekKo",
+        "note": "Centre Pompidou : notice d’autorité, œuvres et collaborations."
+      },
+      {
+        "url": "https://aspace.lib.uiowa.edu/agents/people/13388",
+        "note": "University of Iowa : formes du nom et dates d’existence."
+      },
+      {
+        "url": "https://www.getty.edu/vow/ULANFullDisplay?subjectid=500202621",
+        "note": "Getty ULAN : formes alternatives du nom et identification d’autorité."
+      }
+    ],
+    "aliases": [
+      "Alexeï Kroutchenykh",
+      "Aleksei Kruchenykh",
+      "Aleksey Kruchonykh",
+      "Alexeï Kroutchonykh",
+      "Алексей Елисеевич Кручёных"
+    ],
+    "related": []
   },
   {
     "id": "mikhail-matiushin",
@@ -10183,32 +10674,6 @@
     "bio": "Poète futuriste russe associé à la poésie zaoum et aux expérimentations radicales sur le langage. Son Poème de la fin, réduit à un geste silencieux, pousse la poésie au-delà du texte.",
     "works": [
       "Poème de la fin"
-    ],
-    "kind": "person",
-    "sources": [
-      {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
-      }
-    ]
-  },
-  {
-    "id": "alexei_kruchenykh",
-    "name": "Alexeï Kroutchenykh",
-    "years": "1886–1968",
-    "group": "Futurisme russe",
-    "groups": [
-      "Avant-garde russe",
-      "Futurisme russe",
-      "Poésie sonore"
-    ],
-    "role_icon": "📼",
-    "role_label": "Poésie sonore",
-    "statut": "Acteur",
-    "bio": "Poète russe, théoricien de la zaoum et l'un des principaux inventeurs du langage transmental futuriste. Il collabore à l'opéra futuriste Victoire sur le soleil.",
-    "works": [
-      "Victoire sur le soleil",
-      "Dyr bul shchyl"
     ],
     "kind": "person",
     "sources": [
