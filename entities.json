@@ -4539,22 +4539,49 @@
     "name": "John Cage",
     "years": "1912–1992",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur, poète et penseur américain. Le hasard, l’indétermination et les happenings l’amènent à brouiller les frontières entre musique, arts visuels et performance.",
+    "bio": "Compositeur, écrivain, plasticien et mycologue américain, John Cage transforme profondément la définition de la musique après la Seconde Guerre mondiale. Formé notamment auprès d’Arnold Schoenberg, il s’éloigne rapidement de la syntaxe tonale et développe le piano préparé, les percussions, les radios et les sons trouvés. À New York, il devient le centre d’un réseau où se rencontrent Morton Feldman, Earle Brown, Christian Wolff, David Tudor et le peintre Robert Rauschenberg. Son recours au Yi King et aux opérations de hasard, puis l’œuvre silencieuse 4’33’’ (1952), déplacent l’attention de l’objet musical vers l’écoute et les circonstances de son exécution. Sa collaboration durable avec le chorégraphe Merce Cunningham et ses liens avec Fluxus, sans qu’il en soit simplement un membre, prolongent cette remise en jeu des frontières entre arts.",
     "works": [
-      "4′33″"
+      "The Future of Music: Credo (1937, texte)",
+      "Imaginary Landscape No. 1 (1939)",
+      "Sonatas and Interludes (1946–1948)",
+      "Music of Changes (1951)",
+      "4’33’’ (1952)",
+      "Williams Mix (1952–1953)",
+      "Concert for Piano and Orchestra (1957–1958)",
+      "Roaratorio (1979)",
+      "Europeras 1 & 2 (1987)",
+      "Number Pieces (1987–1992)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://resources.ircam.fr/fr/composer/john-cage/biography",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://ressources.ircam.fr/fr/composer/john-cage/biography",
+        "note": "Biographie et chronologie de l’Ircam, notamment pour les collaborations et les œuvres."
+      },
+      {
+        "url": "https://johncage.org/about",
+        "note": "John Cage Trust, archives et présentation institutionnelle de l’œuvre."
       }
     ],
     "groups": [
       "ZAJ",
       "Fluxus"
+    ],
+    "bibliography": [
+      "Silence: Lectures and Writings, Wesleyan University Press, 1961.",
+      "A Year from Monday, Wesleyan University Press, 1967.",
+      "Empty Words, Wesleyan University Press, 1979.",
+      "John Cage, Correspondance avec Pierre Boulez, Christian Bourgois, 1991.",
+      "David Revill, The Roaring Silence: John Cage, a Life, Bloomsbury, 1992."
+    ],
+    "related": [
+      "morton-feldman",
+      "earle-brown",
+      "christian-wolff",
+      "david-tudor",
+      "breton"
     ]
   },
   {
@@ -4562,9 +4589,14 @@
     "name": "Earle Brown",
     "years": "1926–2002",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain associé à la New York School. Ses partitions ouvertes et mobiles font écho à l’action painting et à l’art de l’imprévu.",
+    "bio": "Compositeur américain associé à la New York School, Earle Brown élabore dès le début des années 1950 une notation graphique et des formes ouvertes qui laissent aux interprètes une part de décision. Après des études musicales et une expérience du jazz, il découvre les possibilités de l’improvisation collective, de l’action painting et des mobiles d’Alexander Calder. Folio et 4 Systems proposent des partitions dont l’organisation visuelle ne fixe pas entièrement l’ordre ni la durée des événements. Brown partage avec John Cage, Morton Feldman et Christian Wolff un intérêt pour l’indétermination, mais son goût pour la mobilité et la spontanéité de l’ensemble donne à ses œuvres une identité propre. Il développe ensuite des pièces orchestrales ouvertes, où le chef organise en temps réel des séquences musicales.",
     "works": [
-      "December 1952"
+      "Folio (1952–1953)",
+      "4 Systems (1954)",
+      "25 Pages (1953)",
+      "Available Forms I (1961)",
+      "Available Forms II (1962)",
+      "Centering (1973)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -4572,8 +4604,19 @@
     "sources": [
       {
         "url": "https://earle-brown.org/bio/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "Earle Brown Music Foundation, biographie détaillée et présentation des formes ouvertes."
       }
+    ],
+    "bibliography": [
+      "Earle Brown, Selected Works 1952–1965, Associated Music Publishers, partitions.",
+      "Earle Brown, rétrospectives et entretiens dans les archives de la Earle Brown Music Foundation.",
+      "David Nicholls (dir.), The Cambridge History of American Music, Cambridge University Press, 1998, chapitres sur l’avant-garde d’après-guerre."
+    ],
+    "related": [
+      "john-cage",
+      "morton-feldman",
+      "christian-wolff",
+      "david-tudor"
     ]
   },
   {
@@ -4581,18 +4624,35 @@
     "name": "Christian Wolff",
     "years": "1934–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain d’origine française, membre de la New York School. Son travail explore l’indétermination, l’écoute collective et les formes ouvertes.",
+    "bio": "Compositeur américain né à Nice dans une famille d’éditeurs allemands émigrés, Christian Wolff grandit à New York et étudie le piano avec Grete Sultan avant de suivre brièvement les cours de John Cage. Il appartient à la première génération de la New York School, avec Cage, Morton Feldman et Earle Brown. Ses premières partitions explorent l’indétermination et laissent aux interprètes des choix de hauteur, de durée ou de coordination ; ses œuvres ultérieures accordent une place croissante à l’écoute mutuelle, à la coopération et à la dimension sociale de l’exécution. Proche de Cornelius Cardew et de la Scratch Orchestra, il enseigne également la musique et les lettres classiques. Son parcours relie ainsi l’expérimentation new-yorkaise aux pratiques collectives et politiques de la musique contemporaine.",
     "works": [
-      "For 1, 2 or 3 People"
+      "Duo for Pianists I (1957)",
+      "For 1, 2 or 3 People (1964)",
+      "Stones (1968)",
+      "Burdocks (1970)",
+      "Changing the System (197 system)",
+      "Exercises (197 exercises)",
+      "Ordinary Matter (1985)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/fr/christian-wolff",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.christianwolff.org/",
+        "note": "Site et ressources consacrés au compositeur, à ses partitions et à ses écrits."
       }
+    ],
+    "bibliography": [
+      "Christian Wolff, Cues: Writings & Conversations, MusikTexte, 1998.",
+      "Christian Wolff, Occasional Pieces: Writings and Interviews, 1952–2013, Oxford University Press, 2017.",
+      "James Pritchett, The Music of John Cage, Cambridge University Press, 1993, pour le contexte de la New York School."
+    ],
+    "related": [
+      "john-cage",
+      "morton-feldman",
+      "earle-brown",
+      "cornelius-cardew"
     ]
   },
   {
@@ -4600,18 +4660,40 @@
     "name": "György Ligeti",
     "years": "1923–2006",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur majeur de la musique du XXe siècle, connu pour ses masses sonores, ses textures complexes et ses recherches sur la perception.",
+    "bio": "Compositeur hongrois né en Transylvanie, naturalisé autrichien, György Ligeti traverse les violences de l’histoire européenne avant de renouveler le langage orchestral de l’après-guerre. Survivant des persécutions antisémites et de la guerre, il étudie à Budapest puis fuit la Hongrie après l’insurrection de 1956. À Cologne, au studio électronique de la WDR, il rencontre notamment Karlheinz Stockhausen et découvre les recherches de la musique électronique, sans s’y enfermer. Apparitions et Atmosphères développent une polyphonie extrêmement dense, souvent qualifiée de micropolyphonie ; plus tard, son écriture rythmique se nourrit de traditions extra-européennes et de polyrythmies complexes. Ses œuvres pour clavecin, piano et orchestre témoignent d’une imagination formelle indépendante des écoles sérielle et minimaliste.",
     "works": [
-      "Atmosphères"
+      "Apparitions (1958–1959)",
+      "Atmosphères (1961)",
+      "Requiem (1963–1965)",
+      "Lux aeterna (1966)",
+      "Continuum (1968)",
+      "Melodien (1971)",
+      "Le Grand Macabre (1974–1977)",
+      "Études pour piano, livres I–III (1985–2001)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://brahms.ircam.fr/fr/composer/gyorgy-ligeti/biography",
+        "note": "Ircam, biographie, contexte de l’exil de 1956 et période du studio de Cologne."
+      },
+      {
+        "url": "https://resources.ircam.fr/en/composer/gyorgy-ligeti/workcourse",
+        "note": "Ircam, parcours analytique de l’œuvre."
       }
+    ],
+    "bibliography": [
+      "György Ligeti, Neuf essais sur la musique, Contrechamps, 2001.",
+      "Richard Steinitz, György Ligeti: Music of the Imagination, Faber and Faber, 2003.",
+      "Michel, Pierre, György Ligeti, compositeur d’aujourd’hui, Minerve, 1995."
+    ],
+    "related": [
+      "stockhausen",
+      "iannis-xenakis",
+      "messiaen",
+      "morton-feldman"
     ]
   },
   {
@@ -4619,18 +4701,37 @@
     "name": "Iannis Xenakis",
     "years": "1922–2001",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur, architecte et ingénieur. Il transpose dans la musique des modèles mathématiques et des idées d’architecture et de spatialisation.",
+    "bio": "Architecte, ingénieur et compositeur grec naturalisé français, Iannis Xenakis fait de la pensée mathématique, de l’architecture et des masses sonores les matériaux d’une œuvre radicale. Engagé dans la Résistance grecque, grièvement blessé pendant les combats de décembre 1944, il quitte la Grèce en 1947 et s’installe à Paris. Il travaille au sein de l’agence de Le Corbusier, participant notamment au couvent de La Tourette et au pavillon Philips de l’Exposition de Bruxelles (1958), pour lequel il conçoit le Poème électronique avec Edgard Varèse. Ses compositions utilisent probabilités, théorie des ensembles, géométrie et calcul informatique pour organiser des nuages de sons et des architectures temporelles. Il fonde en 1972 le CEMAMu, consacré aux applications de l’informatique à la musique.",
     "works": [
-      "Metastaseis"
+      "Metastaseis (1953–1954)",
+      "Pithoprakta (1955–1956)",
+      "Achorripsis (1956–1957)",
+      "Concret PH (1958)",
+      "Pithoprakta (1955–1956)",
+      "Terretektorh (1965–1966)",
+      "Persephassa (1969)",
+      "Kraanerg (1968)",
+      "La Légende d’Eer (1977)",
+      "Pléïades (1978)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.iannis-xenakis.org/biographie/",
+        "note": "Centre Iannis Xenakis, biographie chronologique et esquisse autobiographique."
       }
+    ],
+    "bibliography": [
+      "Iannis Xenakis, Musique. Architecture, Tournai, Casterman, 1971.",
+      "Iannis Xenakis, Arts/Sciences: Alloys, Pendragon Press, 1985.",
+      "Nouritza Matossian, Xenakis, Kahn & Averill, 1986.",
+      "François-Bernard Mâche (dir.), Portrait(s) de Iannis Xenakis, Bibliothèque nationale de France, 2001."
+    ],
+    "related": [
+      "stockhausen",
+      "messiaen"
     ]
   },
   {
@@ -4638,18 +4739,38 @@
     "name": "Karlheinz Stockhausen",
     "years": "1928–2007",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur allemand pionnier de la musique électronique et spatialisée, dont les œuvres transforment l’écoute en expérience de l’espace.",
+    "bio": "Compositeur allemand, Karlheinz Stockhausen est l’une des figures majeures de l’avant-garde musicale européenne après 1945. Formé à Cologne et à Paris, il participe aux cours d’été de Darmstadt et travaille au studio de musique électronique de la WDR, où il associe recherches sur le son, organisation sérielle et spatialisation. Ses premières œuvres électroniques, instrumentales et vocales cherchent à penser chaque paramètre musical comme un élément d’une structure globale. Kontakte et Gesang der Jünglinge font date dans l’histoire de l’électronique, tandis que Gruppen explore la disposition spatiale de trois orchestres. À partir des années 1970, il développe des cycles monumentaux, dont Licht, opéra en sept journées, et poursuit jusqu’à la fin de sa vie une conception cosmique et rituelle de la musique.",
     "works": [
-      "Gesang der Jünglinge"
+      "Kreuzspiel (1951)",
+      "Kontra-Punkte (1952–1953)",
+      "Gesang der Jünglinge (1955–1956)",
+      "Gruppen (1955–1957)",
+      "Kontakte (1958–1960)",
+      "Momente (1962–1969)",
+      "Hymnen (1966–1967)",
+      "Aus den sieben Tagen (1968)",
+      "Licht (1977–2003)",
+      "Klang (2004–2007, inachevé)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://stockhausen.org/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.stockhausen.org/",
+        "note": "Stockhausen-Stiftung für Musik, catalogue, chronologie et documentation de l’œuvre."
       }
+    ],
+    "bibliography": [
+      "Karlheinz Stockhausen, Texte zur Musik, 17 vol., DuMont / Stockhausen-Verlag, 1963–2014.",
+      "Robin Maconie, Other Planets: The Music of Karlheinz Stockhausen, Scarecrow Press, 2005.",
+      "Michael Kurtz, Stockhausen: A Biography, Faber and Faber, 1992."
+    ],
+    "related": [
+      "gyorgy-ligeti",
+      "iannis-xenakis",
+      "luigi-nono",
+      "john-cage"
     ]
   },
   {
@@ -4657,9 +4778,17 @@
     "name": "Luigi Nono",
     "years": "1924–1990",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur italien engagé, pionnier de l’électronique et de la spatialisation sonore. Ses œuvres interrogent mémoire, politique et écoute.",
+    "bio": "Compositeur italien engagé, Luigi Nono associe l’expérimentation musicale à une réflexion politique sur la mémoire, la résistance et les formes de domination. Élève de Gian Francesco Malipiero à Venise, il fréquente les cours de Darmstadt où il rencontre notamment Karlheinz Stockhausen et Pierre Boulez, tout en affirmant une orientation personnelle. Ses premières œuvres sérielles évoluent vers une écriture vocale et électroacoustique attentive aux textes, aux voix et à l’espace. Membre du Parti communiste italien, il travaille avec des poètes et des dramaturges et place au cœur de son œuvre les luttes antifascistes et ouvrières. À partir des années 1980, ses pièces tardives développent une écoute fragile, des silences et une spatialisation qui renouvellent profondément son langage.",
     "works": [
-      "Prometeo"
+      "Variazioni canoniche sulla serie dell’op. 41 di Schönberg (1950)",
+      "Il canto sospeso (1955–1956)",
+      "Intolleranza 1960 (1960–1961)",
+      "La fabbrica illuminata (1964)",
+      "Non consumiamo Marx (1969)",
+      "Como una ola de fuerza y luz (1971–1972)",
+      "Prometeo (1981–1984)",
+      "Caminantes… Ayacucho (1986–1987)",
+      "La lontananza nostalgica utopica futura (1988–1989)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -4667,8 +4796,18 @@
     "sources": [
       {
         "url": "https://www.luiginono.it/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "Fondazione Archivio Luigi Nono, fonds, chronologie et catalogue."
       }
+    ],
+    "bibliography": [
+      "Luigi Nono, Écrits, Christian Bourgois, 1993.",
+      "Jürg Stenzl, Luigi Nono, Fayard, 1993.",
+      "Veniero Rizzardi et Angela Ida De Benedictis (dir.), Luigi Nono: Nostalgia for the Future, University of California Press, 2010."
+    ],
+    "related": [
+      "stockhausen",
+      "iannis-xenakis",
+      "gyorgy-ligeti"
     ]
   },
   {
@@ -4676,18 +4815,32 @@
     "name": "Alexander Scriabin",
     "years": "1872–1915",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur russe dont l’harmonie visionnaire et le projet synesthésique du clavier de lumières rapprochent musique, couleur et expérience sensorielle.",
+    "bio": "Compositeur et pianiste russe, Alexandre Scriabine commence dans le romantisme tardif avant de développer un univers harmonique et symbolique singulier. Formé au Conservatoire de Moscou, il compose d’abord des pièces pour piano qui témoignent de l’influence de Chopin et de Liszt, puis élargit progressivement son langage vers des accords synthétiques et une conception de la musique comme expérience synesthésique. Il associe couleurs, lumière, geste et son dans le projet du Prométhée ou Poème du feu, qui prévoit une partie lumineuse au clavier de couleurs. Son projet inachevé de Mystère devait réunir musique, danse, architecture, parfums et participation collective dans une cérémonie totale. Scriabine demeure un précurseur important des recherches sur la perception et les arts multimédias.",
     "works": [
-      "Prométhée, le Poème du feu"
+      "Études op. 8 (1894)",
+      "Sonate pour piano no 4 (1903)",
+      "Poème de l’extase (1905–1908)",
+      "Sonate no 5 (1907)",
+      "Prométhée ou Poème du feu (1908–1910)",
+      "Vers la flamme (1914)",
+      "Mysterium (projet inachevé)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Aleksandr-Scriabin",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.scriabinmuseum.ru/",
+        "note": "Musée-mémorial Scriabine, Moscou, documentation biographique et patrimoniale."
       }
+    ],
+    "bibliography": [
+      "Faubion Bowers, The New Scriabin: Enigma and Answers, St. Martin’s Press, 1973.",
+      "Simon Nicholls et Michael Taylor (dir.), The Scriabin Companion, Greenwood Press, 2001.",
+      "James Baker, The Music of Alexander Scriabin, Yale University Press, 1986."
+    ],
+    "related": [
+      "iannis-xenakis"
     ]
   },
   {
@@ -4695,18 +4848,38 @@
     "name": "Olivier Messiaen",
     "years": "1908–1992",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur français, organiste et pédagogue. Ses recherches sur les rythmes, les modes et le chant des oiseaux ouvrent un univers sonore singulier.",
+    "bio": "Compositeur, organiste et pédagogue français, Olivier Messiaen construit une œuvre immédiatement reconnaissable par ses rythmes non rétrogradables, ses modes à transpositions limitées et son attention aux chants d’oiseaux. Élève du Conservatoire de Paris, il devient en 1931 organiste de l’église de la Trinité, poste qu’il conserve pendant plus de soixante ans. Prisonnier de guerre en 1940, il compose au Stalag VIII-A le Quatuor pour la fin du Temps, créé par ses compagnons de captivité. Professeur au Conservatoire après la guerre, il marque plusieurs générations de compositeurs, parmi lesquels Pierre Boulez, Iannis Xenakis et Karlheinz Stockhausen. Sa foi catholique, son intérêt pour les rythmes hindous et les oiseaux nourrissent une œuvre qui dépasse les catégories esthétiques de son époque.",
     "works": [
-      "Catalogue d’oiseaux"
+      "Le Banquet céleste (1928)",
+      "La Nativité du Seigneur (1935)",
+      "Quatuor pour la fin du Temps (1940–1941)",
+      "Vingt Regards sur l’Enfant-Jésus (1944)",
+      "Turangalîla-Symphonie (1946–1948)",
+      "Catalogue d’oiseaux (1956–1958)",
+      "Chronochromie (1959–1960)",
+      "Et exspecto resurrectionem mortuorum (1964)",
+      "Des canyons aux étoiles… (1971–1974)",
+      "Saint François d’Assise (1975–1983)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://fr.oliviermessiaen.org/biography",
+        "note": "Site documentaire consacré à Messiaen, biographie et catalogue."
       }
+    ],
+    "bibliography": [
+      "Olivier Messiaen, Technique de mon langage musical, Leduc, 1944.",
+      "Olivier Messiaen, Traité de rythme, de couleur et d’ornithologie, 7 vol., Leduc, 1994–2002.",
+      "Christopher Dingle, The Life of Messiaen, Cambridge University Press, 2007.",
+      "Peter Hill et Nigel Simeone, Messiaen, Yale University Press, 2005."
+    ],
+    "related": [
+      "iannis-xenakis",
+      "gyorgy-ligeti",
+      "stockhausen"
     ]
   },
   {
@@ -4714,18 +4887,33 @@
     "name": "György Kurtág",
     "years": "1926–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur hongrois dont l’écriture concentrée, fragmentaire et expressive fait de chaque son un événement presque sculptural.",
+    "bio": "Compositeur hongrois, György Kurtág développe une œuvre concentrée où chaque fragment musical semble porter une intensité dramatique propre. Formé à Budapest, il poursuit ses études à Paris en 1957–1958, où il découvre notamment les œuvres de Webern et suit les cours de Marianne Stein, dont l’enseignement marque durablement son rapport à la composition. Après son retour en Hongrie, il enseigne à l’Académie Franz Liszt et compose des pièces brèves, souvent réunies en cycles, qui associent économie de moyens, mémoire et densité expressive. Son dialogue avec la poésie, les textes de Kafka et les traditions vocales traverse une œuvre qui s’étend du piano seul à l’opéra Fin de partie, d’après Beckett.",
     "works": [
-      "Játékok"
+      "Játékok (Jeux, 1973–)",
+      "Messages de feu Demoiselle R. V. Troussova (1976–1980)",
+      "Kafka-Fragmente (1985–1987)",
+      "Hommage à R. Sch. (1990)",
+      "Stele (1994)",
+      "…concertante… (2003)",
+      "Fin de partie (2010–2018)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://brahms.ircam.fr/fr/composer/gyorgy-kurtag/biography",
+        "note": "Ircam, notice biographique et catalogue du compositeur."
       }
+    ],
+    "bibliography": [
+      "György Kurtág, Entretiens, textes, écrits sur la musique, Contrechamps, 2009.",
+      "Bálint András Varga, György Kurtág: Three Interviews and Ligeti Homages, University of Rochester Press, 2009.",
+      "László Somfai, études sur la musique hongroise contemporaine et Kurtág."
+    ],
+    "related": [
+      "gyorgy-ligeti",
+      "stockhausen"
     ]
   },
   {
@@ -4733,18 +4921,34 @@
     "name": "Tōru Takemitsu",
     "years": "1930–1996",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur japonais qui mêle timbres, silence et formes ouvertes, en dialogue avec la nature, la poésie et les arts visuels.",
+    "bio": "Compositeur japonais, Tōru Takemitsu fait dialoguer les traditions musicales du Japon avec les recherches de l’avant-garde occidentale. Autodidacte en grande partie, il découvre après la guerre les œuvres de Debussy, Messiaen et Cage, dont il rencontre l’influence dans les années 1960. Cofondateur du groupe expérimental Jikken Kōbō à Tokyo, il travaille avec des artistes visuels, des cinéastes et des chorégraphes, et compose pour le cinéma, notamment pour Akira Kurosawa. Sa musique privilégie les timbres, les silences, les résonances et une temporalité inspirée par la notion japonaise de ma, l’intervalle habité. De November Steps à ses œuvres orchestrales tardives, il invente une synthèse qui ne réduit jamais le Japon à un simple réservoir de couleurs.",
     "works": [
-      "November Steps"
+      "Requiem for Strings (1957)",
+      "The Dorian Horizon (1966)",
+      "November Steps (1967)",
+      "A Flock Descends into the Pentagonal Garden (1977)",
+      "Rain Tree Sketch (1982)",
+      "From me flows what you call Time (1990)",
+      "Fantasma/Cantos (1991)",
+      "Air (1995)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Toru-Takemitsu",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.toru-takemitsu.jp/",
+        "note": "Takemitsu Memorial, documentation et ressources sur le compositeur."
       }
+    ],
+    "bibliography": [
+      "Tōru Takemitsu, Confronting Silence: Selected Writings, Fallen Leaf Press, 1995.",
+      "Peter Burt, The Music of Tōru Takemitsu, Cambridge University Press, 2001.",
+      "Yoshiko Kakudo et Glenn Glasow (dir.), The Music of Tōru Takemitsu, Tokyo, 1990."
+    ],
+    "related": [
+      "john-cage",
+      "iannis-xenakis"
     ]
   },
   {
@@ -4752,18 +4956,37 @@
     "name": "Philip Glass",
     "years": "1937–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain majeur du minimalisme, dont les structures répétitives ont profondément marqué musique, opéra, cinéma et arts contemporains.",
+    "bio": "Compositeur américain, Philip Glass est l’une des figures les plus connues du minimalisme, même s’il préfère parler de musique à structures répétitives. Après des études à Chicago et à la Juilliard School, il travaille à Paris avec Nadia Boulanger puis découvre la musique de Ravi Shankar, dont les principes rythmiques transforment sa conception du temps musical. De retour à New York, il fonde le Philip Glass Ensemble et développe une écriture fondée sur l’addition, la soustraction et la transformation progressive de cellules mélodiques. Ses collaborations avec Robert Wilson, notamment Einstein on the Beach, déplacent les frontières de l’opéra ; ses musiques de film et ses symphonies étendent ensuite son audience bien au-delà des cercles de musique contemporaine.",
     "works": [
-      "Einstein on the Beach"
+      "Music in Fifths (1969)",
+      "Music in Similar Motion (1969)",
+      "Music with Changing Parts (1970)",
+      "Einstein on the Beach (avec Robert Wilson, 1976)",
+      "Satyagraha (1979)",
+      "Koyaanisqatsi (1982)",
+      "Akhnaten (1983)",
+      "The Hours (2002)",
+      "Symphonies nos 1–15 (1992–)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://philipglass.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://philipglass.com/biography/",
+        "note": "Site officiel, biographie et catalogue des œuvres."
       }
+    ],
+    "bibliography": [
+      "Philip Glass, Words Without Music: A Memoir, Liveright, 2015.",
+      "Robert T. Jones, The Voice of the Composer: Philip Glass, 1987.",
+      "Philip Glass, Music by Philip Glass, Harper & Row, 1987."
+    ],
+    "related": [
+      "steve-reich",
+      "terry-riley",
+      "la-monte-young",
+      "brian-eno"
     ]
   },
   {
@@ -4771,18 +4994,44 @@
     "name": "Steve Reich",
     "years": "1936–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain du minimalisme. Ses déphasages et ses boucles révèlent la transformation progressive du motif et du temps.",
+    "bio": "Compositeur américain, Steve Reich renouvelle la musique contemporaine en plaçant la pulsation, la répétition et les processus audibles au centre de la composition. Après des études de philosophie à Cornell et de composition à Juilliard puis au Mills College, il travaille avec Luciano Berio et découvre les musiques d’Afrique de l’Ouest et de Bali. Ses premières pièces sur bande, It's Gonna Rain et Come Out, explorent le déphasage de boucles sonores ; il transpose ensuite ce principe aux instruments dans Piano Phase et Drumming. Avec son ensemble, il fait émerger un minimalisme rythmique, lumineux et évolutif. Ses collaborations avec la vidéaste Beryl Korot, notamment The Cave et Three Tales, prolongent ses recherches vers le théâtre documentaire et l’image.",
     "works": [
-      "Music for 18 Musicians"
+      "It’s Gonna Rain (1965)",
+      "Come Out (1966)",
+      "Piano Phase (1967)",
+      "Drumming (1970–1971)",
+      "Music for 18 Musicians (1974–1976)",
+      "Tehillim (1981)",
+      "Different Trains (1988)",
+      "The Cave (avec Beryl Korot, 1990–1993)",
+      "Three Tales (2002)",
+      "Double Sextet (2007)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://www.stevereich.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://stevereich.com/biography/",
+        "note": "Site officiel de Steve Reich, biographie et catalogue."
+      },
+      {
+        "url": "https://resources.ircam.fr/fr/composer/steve-reich",
+        "note": "Ircam, biographie et repères sur la formation et les premières œuvres."
       }
+    ],
+    "bibliography": [
+      "Steve Reich, Writings on Music, 1965–2000, Oxford University Press, 2002.",
+      "Steve Reich, Conversations, Hanover Square Press, 2022.",
+      "K. Robert Schwarz, Minimalists, Phaidon, 1996.",
+      "Keith Potter, Four Musical Minimalists, Cambridge University Press, 2000."
+    ],
+    "related": [
+      "philip-glass",
+      "terry-riley",
+      "la-monte-young",
+      "john-cage",
+      "brian-eno"
     ]
   },
   {
@@ -4790,18 +5039,35 @@
     "name": "Terry Riley",
     "years": "1935–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain pionnier du minimalisme, il développe des structures répétitives et des formes ouvertes influencées par l’improvisation.",
+    "bio": "Compositeur et saxophoniste américain, Terry Riley joue un rôle fondateur dans l’émergence du minimalisme musical. Après des études en Californie, il fréquente le San Francisco Tape Music Center et travaille avec La Monte Young, Pauline Oliveros et d’autres expérimentateurs de la côte Ouest. In C (1964), partition composée de cinquante-trois motifs brefs que les interprètes répètent et décalent librement, devient une œuvre emblématique de la musique répétitive. Riley développe ensuite une pratique de l’improvisation au clavier et au saxophone, nourrie par la musique classique indienne et son apprentissage auprès de Pandit Pran Nath. Son influence se fait sentir chez Steve Reich, Philip Glass et de nombreux musiciens de rock expérimental.",
     "works": [
-      "In C"
+      "Mescalin Mix (1960)",
+      "In C (1964)",
+      "A Rainbow in Curved Air (1969)",
+      "Persian Surgery Dervishes (197 surgery)",
+      "Shri Camel (1980)",
+      "Salome Dances for Peace (1985–1986)",
+      "The Cusp of Magic (2005)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://terryriley.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://terryriley.net/",
+        "note": "Site consacré au compositeur, chronologie, œuvres et discographie."
       }
+    ],
+    "bibliography": [
+      "Terry Riley, partitions et notes de programme publiées par Associated Music Publishers.",
+      "Robert Carl, Terry Riley’s In C, Oxford University Press, 2009.",
+      "Keith Potter, Four Musical Minimalists, Cambridge University Press, 2000."
+    ],
+    "related": [
+      "la-monte-young",
+      "steve-reich",
+      "philip-glass",
+      "pauline-oliveros"
     ]
   },
   {
@@ -4809,9 +5075,13 @@
     "name": "La Monte Young",
     "years": "1935–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur et artiste américain, figure fondatrice du minimalisme et de l’art sonore, connu pour ses drones et ses expériences de durée.",
+    "bio": "Compositeur américain, La Monte Young est une figure essentielle des musiques expérimentales et du minimalisme, dont il explore très tôt les sons continus, les durées extrêmes et les rapports de justesse. Formé au jazz puis à la composition, il étudie notamment avec Leonard Stein et fréquente les cours de Darmstadt. Trio for Strings (1958) réduit le matériau à des sons tenus et à des changements presque imperceptibles. À New York, il fonde le Theatre of Eternal Music, collectif d’improvisation fondé sur les drones et les intervalles purs, auquel participent notamment Marian Zazeela, John Cale et Tony Conrad. Son influence touche autant la musique savante que le rock expérimental et les arts de la performance.",
     "works": [
-      "The Well-Tuned Piano"
+      "Trio for Strings (1958)",
+      "Composition 1960 #7 (1960)",
+      "The Tortoise, His Dreams and Journeys (1964–)",
+      "The Well-Tuned Piano (1964–1973–)",
+      "Dream House (avec Marian Zazeela, installations depuis 1969)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -4819,8 +5089,19 @@
     "sources": [
       {
         "url": "https://www.melafoundation.org/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "MELA Foundation, archives et documentation sur La Monte Young et Marian Zazeela."
       }
+    ],
+    "bibliography": [
+      "La Monte Young, Selected Writings, U.S.A., 1960–1963, 1963.",
+      "William Duckworth et Richard Fleming (dir.), Sound and Light: La Monte Young and Marian Zazeela, Bucknell University Press, 1996.",
+      "Branden W. Joseph, Beyond the Dream Syndicate: Tony Conrad and the Arts after Cage, Zone Books, 2008."
+    ],
+    "related": [
+      "terry-riley",
+      "steve-reich",
+      "john-cage",
+      "brian-eno"
     ]
   },
   {
@@ -4828,9 +5109,16 @@
     "name": "Max Richter",
     "years": "1966–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur germano-britannique dont la musique associe écriture classique, répétition minimaliste, électronique et pratiques audiovisuelles.",
+    "bio": "Compositeur germano-britannique, Max Richter associe écriture orchestrale, électronique, minimalisme et culture de l’enregistrement. Formé à l’Université d’Édimbourg, à la Royal Academy of Music et auprès de Luciano Berio à Florence, il participe au collectif Piano Circus avant de développer une œuvre personnelle. Son premier album, Memoryhouse (2002), mêle piano, cordes, sons documentaires et traitement électronique ; The Blue Notebooks et Sleep élargissent son public international. Richter compose également pour le cinéma, la danse et les séries, avec une attention particulière à la mémoire, au temps et aux images. Son travail s’inscrit dans une constellation post-minimaliste où se croisent Philip Glass, Brian Eno et les traditions de la musique répétitive.",
     "works": [
-      "Sleep"
+      "Memoryhouse (2002)",
+      "The Blue Notebooks (2004)",
+      "Songs from Before (2006)",
+      "Infra (2010)",
+      "Recomposed: Vivaldi – The Four Seasons (2012)",
+      "Sleep (2015)",
+      "Voices (2020)",
+      "In a Landscape (2024)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -4838,8 +5126,18 @@
     "sources": [
       {
         "url": "https://www.maxrichtermusic.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "Site officiel, biographie, discographie et projets."
       }
+    ],
+    "bibliography": [
+      "Max Richter, partitions et notes de programme des albums publiés chez Deutsche Grammophon.",
+      "Dossiers et entretiens consacrés à Max Richter dans The Guardian et les revues de musique contemporaine."
+    ],
+    "related": [
+      "philip-glass",
+      "brian-eno",
+      "johann-johannsson",
+      "olafur-arnalds"
     ]
   },
   {
@@ -4847,9 +5145,16 @@
     "name": "Jóhann Jóhannsson",
     "years": "1969–2018",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur islandais qui mêle orchestre, électronique et sons enregistrés, entre musique contemporaine et création pour le cinéma.",
+    "bio": "Compositeur islandais, Jóhann Jóhannsson développe une musique où cordes, piano, électronique et sons enregistrés composent des paysages d’une grande densité émotionnelle. Il commence dans les groupes de rock indépendant islandais avant de fonder le collectif Kitchen Motors, plateforme de collaborations entre musiciens, artistes et écrivains. Ses albums personnels mêlent répétition, mélancolie et textures électroniques ; ses musiques de film, notamment pour Denis Villeneuve et James Marsh, lui apportent une reconnaissance internationale. Son travail entretient des liens avec la musique minimaliste et ambient, sans se réduire à une simple esthétique néoclassique. Il meurt à Berlin en 2018, laissant plusieurs projets et partitions inachevés.",
     "works": [
-      "Orphée"
+      "Englabörn (2002)",
+      "Voces thules (2003)",
+      "IBM 1401, A User’s Manual (2006)",
+      "Fordlândia (2008)",
+      "The Miners’ Hymns (2011)",
+      "Prisoners (2013)",
+      "The Theory of Everything (2014)",
+      "Arrival (projet musical, 2016)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -4857,8 +5162,18 @@
     "sources": [
       {
         "url": "https://www.johannjohannsson.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "Site officiel et archive de l’œuvre du compositeur."
       }
+    ],
+    "bibliography": [
+      "Jóhann Jóhannsson, partitions et notes de programme des éditions 4AD et Deutsche Grammophon.",
+      "Entretiens et dossiers rétrospectifs publiés par The Guardian et le British Film Institute."
+    ],
+    "related": [
+      "max-richter",
+      "olafur-arnalds",
+      "brian-eno",
+      "eliane-radigue"
     ]
   },
   {
@@ -4866,9 +5181,14 @@
     "name": "Ólafur Arnalds",
     "years": "1986–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur et multi-instrumentiste islandais, il associe piano, cordes, électronique et dispositifs génératifs.",
+    "bio": "Compositeur, producteur et multi-instrumentiste islandais, Ólafur Arnalds mêle piano, cordes, électronique et procédés génératifs. Après des débuts dans des groupes de hardcore et de metal, il développe une pratique personnelle qui associe écriture mélodique, textures ambient et technologies numériques. Ses albums et ses musiques pour l’image explorent des formes de répétition et de transformation lente, tandis que le projet re:member utilise un système logiciel conçu avec l’artiste et développeur Halldór Eldjárn pour faire dialoguer des pianos mécaniques. Son travail appartient à une scène islandaise où les échanges entre musique indépendante, composition contemporaine et arts numériques sont particulièrement féconds.",
     "works": [
-      "re:member"
+      "Eulogy for Evolution (2007)",
+      "…And They Have Escaped the Weight of Darkness (2010)",
+      "For Now I Am Winter (2013)",
+      "Island Songs (2016)",
+      "re:member (2018)",
+      "Some Kind of Peace (2020)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
@@ -4876,8 +5196,17 @@
     "sources": [
       {
         "url": "https://olafurarnalds.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "note": "Site officiel, biographie, discographie et projets audiovisuels."
       }
+    ],
+    "bibliography": [
+      "Ólafur Arnalds, entretiens et notes de programme associés aux albums Erased Tapes.",
+      "Études sur la scène musicale islandaise contemporaine et les croisements entre ambient et néoclassicisme."
+    ],
+    "related": [
+      "johann-johannsson",
+      "max-richter",
+      "brian-eno"
     ]
   },
   {
@@ -4885,18 +5214,39 @@
     "name": "Brian Eno",
     "years": "1948–",
     "group": "Musique et arts visuels",
-    "bio": "Musicien, producteur et artiste britannique, pionnier de la musique ambient et des installations génératives, à la croisée du son et de l’art conceptuel.",
+    "bio": "Artiste, musicien, producteur et théoricien britannique, Brian Eno traverse les scènes du glam rock, de l’art conceptuel, de l’électronique et de la musique ambient. Formé aux beaux-arts à Ipswich puis à Winchester, il rejoint Roxy Music en 1971 comme manipulateur de synthétiseurs et concepteur sonore. Après son départ du groupe, il développe une œuvre solo et des collaborations décisives avec Robert Fripp, David Bowie, David Byrne et les Talking Heads. Discreet Music (1975) puis Music for Airports (1978) formalisent l’ambient comme musique d’environnement, attentive à l’espace et à l’écoute non focalisée. Ses Oblique Strategies, cartes de consignes créatives conçues avec Peter Schmidt, prolongent ses recherches sur les processus et la production artistique.",
     "works": [
-      "Music for Airports"
+      "Here Come the Warm Jets (1973)",
+      "Another Green World (1975)",
+      "Discreet Music (1975)",
+      "Music for Films (1978)",
+      "Ambient 1: Music for Airports (1978)",
+      "My Life in the Bush of Ghosts (avec David Byrne, 1981)",
+      "Apollo: Atmospheres and Soundtracks (1983)",
+      "Nerve Net (1992)",
+      "The Ship (2016)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brian-eno.net/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.brian-eno.net/",
+        "note": "Site de référence et ressources consacrées à l’œuvre et aux projets de Brian Eno."
       }
+    ],
+    "bibliography": [
+      "Brian Eno et Peter Schmidt, Oblique Strategies, jeu de cartes, depuis 1975.",
+      "Brian Eno, A Year with Swollen Appendices, Faber and Faber, 1996.",
+      "Eric Tamm, Brian Eno: His Music and the Vertical Color of Sound, Da Capo Press, 1995.",
+      "Brian Eno, What Art Does, avec Bette Adriaanse, Thames & Hudson, 2024."
+    ],
+    "related": [
+      "laurie-anderson",
+      "christian-marclay",
+      "steve-reich",
+      "philip-glass",
+      "max-richter"
     ]
   },
   {
@@ -4904,18 +5254,35 @@
     "name": "Laurie Anderson",
     "years": "1947–",
     "group": "Musique et arts visuels",
-    "bio": "Artiste, musicienne et performeuse américaine qui combine voix, violon, électronique, récit et technologies dans des œuvres multimédias.",
+    "bio": "Artiste, compositrice, performeuse et cinéaste américaine, Laurie Anderson développe depuis les années 1970 une œuvre multimédia où se mêlent récit, musique électronique, technologie et observation politique. Formée à la sculpture, elle utilise le violon, la voix, les synthétiseurs et des dispositifs inventés, comme le tape-bow violin ou les drum glasses. Ses performances associent narration, images projetées et manipulation sonore ; United States, cycle scénique de plusieurs heures, constitue l’un de ses projets majeurs. Le succès de O Superman en 1981 ne résume pas une pratique qui se déploie aussi dans l’installation, le cinéma et l’écriture. Elle collabore notamment avec William S. Burroughs, Peter Gabriel et Lou Reed.",
     "works": [
-      "O Superman"
+      "Duets on Ice (1974)",
+      "United States (1983, cycle de performances)",
+      "O Superman (1981)",
+      "Big Science (1982)",
+      "Home of the Brave (film, 1986)",
+      "Strange Angels (1989)",
+      "The End of the Moon (2004)",
+      "Landfall (avec Kronos Quartet, 2018)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://laurieanderson.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://laurieanderson.com/about/",
+        "note": "Site officiel, biographie et description des performances et enregistrements."
       }
+    ],
+    "bibliography": [
+      "Laurie Anderson, Stories from the Nerve Bible, HarperCollins, 1994.",
+      "Laurie Anderson, All the Things I Lost in the Flood, Rizzoli, 2018.",
+      "Dossiers et catalogues d’exposition consacrés à ses performances et installations."
+    ],
+    "related": [
+      "brian-eno",
+      "christian-marclay",
+      "john-cage"
     ]
   },
   {
@@ -4923,18 +5290,38 @@
     "name": "Christian Marclay",
     "years": "1955–",
     "group": "Musique et arts visuels",
-    "bio": "Artiste visuel et compositeur suisse-américain. Il transforme disques, platines et enregistrements en matériaux de collage sonore et d’installation.",
+    "bio": "Artiste visuel, compositeur et performeur américano-suisse, Christian Marclay explore les relations entre son, image, objet et culture populaire. Formé au Massachusetts College of Art et au Cooper Union, il commence à manipuler des disques vinyles comme matériau sonore au tournant des années 1980, dans des performances qui croisent turntablism, improvisation et art conceptuel. Ses œuvres utilisent disques brisés, pochettes, partitions, vidéos et fragments de films pour rendre visibles les mécanismes de l’écoute et de la mémoire musicale. The Clock (2010), montage vidéo de vingt-quatre heures composé d’innombrables extraits cinématographiques indiquant l’heure, étend cette recherche à l’expérience collective du temps.",
     "works": [
-      "The Clock"
+      "Record Without a Cover (1985)",
+      "Footsteps (1989)",
+      "Guitar Drag (2000)",
+      "Video Quartet (2002)",
+      "The Clock (2010)",
+      "Surround Sounds (2014)",
+      "48 War Movies (2019)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://www.whitecube.com/artists/christian-marclay",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.moma.org/artists/3714",
+        "note": "MoMA, notice d’artiste et œuvres dans les collections."
+      },
+      {
+        "url": "https://www.whitney.org/artists/883",
+        "note": "Whitney Museum, notice et documentation de l’artiste."
       }
+    ],
+    "bibliography": [
+      "Christian Marclay, catalogue de l’exposition The Clock, Centre Pompidou, 2012.",
+      "Dossiers d’exposition Christian Marclay, Whitney Museum of American Art et MoMA.",
+      "Douglas Kahn, Noise, Water, Meat: A History of Sound in the Arts, MIT Press, 1999."
+    ],
+    "related": [
+      "john-cage",
+      "laurie-anderson",
+      "brian-eno"
     ]
   },
   {
@@ -4942,18 +5329,34 @@
     "name": "William Basinski",
     "years": "1958–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur américain de musique ambient et expérimentale, connu pour ses boucles sur bande et ses œuvres sur l’érosion du son et la mémoire.",
+    "bio": "Compositeur et artiste sonore américain, William Basinski travaille à partir de boucles analogiques, de bandes magnétiques et de processus de dégradation. Depuis les années 1980, il enregistre des fragments instrumentaux et électroniques qu’il laisse se répéter, se transformer et parfois disparaître au fil de la lecture. The Disintegration Loops, réalisé au début des années 2000 à partir de bandes anciennes qui se désagrègent physiquement dans le lecteur, devient une méditation sur la mémoire, la perte et le temps ; sa diffusion en lien avec les images du 11 septembre 2001 a renforcé sa portée historique, sans en épuiser la signification. Son œuvre s’inscrit dans l’histoire de l’ambient et de l’art sonore expérimental.",
     "works": [
-      "The Disintegration Loops"
+      "Shortwavemusic (198 short)",
+      "Watermusic (2001)",
+      "The Disintegration Loops I–IV (2002–2003)",
+      "Melancholia (2003)",
+      "92982 (2009)",
+      "Cascade (2015)",
+      "On Time Out of Time (2017)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://williambasinski.com/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.williambasinski.com/",
+        "note": "Site officiel, discographie et documentation du compositeur."
       }
+    ],
+    "bibliography": [
+      "William Basinski, livrets et notes de programme des éditions Temporary Residence Limited.",
+      "Études et entretiens sur The Disintegration Loops dans The Wire et les revues d’art sonore."
+    ],
+    "related": [
+      "brian-eno",
+      "eliane-radigue",
+      "max-richter",
+      "john-cage"
     ]
   },
   {
@@ -4961,18 +5364,37 @@
     "name": "Éliane Radigue",
     "years": "1932–2026",
     "group": "Musique et arts visuels",
-    "bio": "Compositrice française pionnière de la musique électronique, elle développe des œuvres de longue durée où les infimes battements entre fréquences deviennent matière sonore.",
+    "bio": "Compositrice française de musique électronique puis acoustique, Éliane Radigue construit une œuvre fondée sur les sons continus, les transformations microscopiques et une écoute de très longue durée. Après une formation auprès de Pierre Schaeffer et Pierre Henry au sein du Groupe de recherches musicales, elle travaille sur les magnétophones et les synthétiseurs modulaires, notamment l’ARP 2500. Ses œuvres des années 1970 et 1980 explorent des états sonores presque immobiles, où la perception révèle peu à peu des mouvements internes. À partir de 2001, elle compose pour des instrumentistes acoustiques avec le cycle Occam Ocean, élaboré dans un dialogue approfondi avec chaque interprète. Sa disparition en février 2026 clôt une trajectoire majeure de la musique expérimentale.",
     "works": [
-      "Adnos"
+      "Chry-ptus (1971)",
+      "Adnos I–III (1974–1982)",
+      "Les Chants de Milarepa (1983)",
+      "Jetsun Mila (1986)",
+      "Trilogie de la Mort (1988–1993)",
+      "L’Île re-sonante (2000)",
+      "Occam Ocean (2011–)"
     ],
     "kind": "person",
     "role_icon": "𝄞",
     "role_label": "Musique",
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/fr/composer/eliane-radigue/biography",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://www.grm-archives.org/",
+        "note": "Archives du Groupe de recherches musicales, contexte des premières recherches électroacoustiques."
+      },
+      {
+        "url": "https://brahms.ircam.fr/",
+        "note": "Ressources documentaires de l’Ircam pour le contexte de la musique contemporaine."
       }
+    ],
+    "bibliography": [
+      "Éliane Radigue, entretiens et textes réunis dans les catalogues d’exposition et monographies consacrés à l’artiste.",
+      "Julia Eckhardt (dir.), Éliane Radigue: Intermediary Spaces, Les Presses du réel, 2019.",
+      "Dossiers du Groupe de recherches musicales et de l’INA sur la musique concrète et électronique."
+    ],
+    "related": [
+      "william-basinski",
+      "la-monte-young"
     ]
   },
   {
@@ -4980,18 +5402,33 @@
     "name": "Charlemagne Palestine",
     "years": "1947–",
     "group": "Musique et arts visuels",
-    "bio": "Compositeur, performeur et artiste américain, associé au drone, à l’orgue, aux cloches et à des performances immersives proches des arts visuels.",
+    "bio": "Artiste, compositeur et performeur américain, Charlemagne Palestine développe depuis les années 1960 une pratique transversale qui associe musique répétitive, sculpture, vidéo, installation et performance. Formé au piano et au carillon, il travaille notamment comme carillonneur à l’église Saint Thomas de New York, expérience qui marque son intérêt pour les résonances et les accumulations harmoniques. Ses performances au piano, souvent longues et physiquement intenses, reposent sur des grappes de notes répétées, des accords saturés et des variations progressives. Proche de la scène minimaliste new-yorkaise sans s’y laisser enfermer, il crée également des environnements composés de peluches, de tissus et d’objets colorés, qui prolongent visuellement sa recherche sur la profusion et la vibration.",
     "works": [
-      "Strumming Music"
+      "Strumming Music (1974)",
+      "Schlingen-Blängen (1977)",
+      "Schlingen-Blängen (versions pour piano et orgue)",
+      "Island Song (198 island)",
+      "AA BATT BEARR BARR MITT (performances et installations)"
     ],
     "kind": "person",
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "sources": [
       {
-        "url": "https://www.charlemagnepalestine.org/",
-        "note": "Notice de repérage ; à compléter avec une référence institutionnelle détaillée."
+        "url": "https://charlemagnepalestine.org/",
+        "note": "Site de l’artiste, documentation des performances, œuvres et expositions."
       }
+    ],
+    "bibliography": [
+      "Charlemagne Palestine, enregistrements et partitions publiés par The label of R. H. Y.",
+      "Catalogues d’exposition Charlemagne Palestine, Kunsthalle Wien et Musée d’art contemporain de Lyon.",
+      "Kyle Gann, Music Downtown: Writings from the Village Voice, University of California Press, 2006."
+    ],
+    "related": [
+      "la-monte-young",
+      "terry-riley",
+      "steve-reich",
+      "john-cage"
     ]
   },
   {
@@ -4999,85 +5436,206 @@
     "name": "François Rabelais",
     "years": "v. 1483–1553",
     "group": "Humanisme / précurseurs",
-    "bio": "Écrivain humaniste de la Renaissance, précurseur par sa liberté de langue, son goût du grotesque et sa critique des institutions.",
+    "bio": "Écrivain, médecin et humaniste français de la Renaissance, François Rabelais est une figure majeure de l’invention verbale et de la satire. Sa biographie demeure partiellement incertaine, notamment sa date de naissance, située généralement vers 1494. Après une formation religieuse chez les franciscains puis les bénédictins, il étudie le grec et la médecine à Montpellier, exerce comme médecin et fréquente les milieux humanistes liés à Guillaume Budé et aux frères Du Bellay. Sous le pseudonyme d’Alcofribas Nasier, anagramme de son nom, il publie Pantagruel puis Gargantua, romans où érudition, grotesque, parodie des autorités et jubilation linguistique s’entrelacent. Les condamnations de la Sorbonne et du Parlement témoignent de la portée polémique de ses livres. Sa liberté de ton et ses inventions nourriront bien plus tard les avant-gardes littéraires, de l’absurde à la pataphysique.",
     "works": [
-      "Pantagruel",
-      "Gargantua"
+      "Pantagruel (1532)",
+      "Gargantua (1534)",
+      "Le Tiers Livre (1546)",
+      "Le Quart Livre (1552)",
+      "Le Cinquième Livre (posthume, attribution discutée, 1564)"
     ],
     "verification": "date_naissance_controversee",
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "François Rabelais, Œuvres complètes, édition Mireille Huchon, Gallimard, Bibliothèque de la Pléiade, 1994.",
+      "Mireille Huchon, Rabelais, Gallimard, 2011.",
+      "Michael A. Screech, Rabelais, Duckworth, 1979.",
+      "Guy Demerson, Rabelais, l’humanisme et la liberté, Presses universitaires de France, 1992."
+    ],
+    "related": [
+      "james-joyce"
+    ],
+    "sources": [
+      {
+        "url": "https://classes.bnf.fr/dossitsm/b-rabela.htm",
+        "note": "BnF, chronologie biographique et repères sur les publications."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Fran%C3%A7ois_Rabelais/140121",
+        "note": "Larousse, synthèse biographique et bibliographique, avec prudence sur le Cinquième Livre."
+      }
+    ]
   },
   {
     "id": "borges",
     "name": "Jorge Luis Borges",
     "years": "1899–1986",
     "group": "Littératures internationales",
-    "bio": "Écrivain argentin dont les labyrinthes, bibliothèques imaginaires et jeux métaphysiques ont marqué la littérature du XXe siècle.",
+    "bio": "Écrivain argentin, Jorge Luis Borges renouvelle la littérature du XXe siècle par des récits qui mêlent érudition, métaphysique, jeux de miroirs et architectures imaginaires. Né à Buenos Aires, il grandit dans une famille bilingue et séjourne en Europe pendant la Première Guerre mondiale ; à Genève, il découvre notamment l’expressionnisme et les avant-gardes. De retour en Argentine, il participe à l’ultraïsme et fonde des revues, avant de s’éloigner des manifestes pour élaborer une œuvre de poésie, d’essai et de fiction. Ficciones et El Aleph font de la bibliothèque, du labyrinthe, du double et de l’infini des dispositifs narratifs. Sa cécité progressive, à partir des années 1950, transforme aussi son rapport à la lecture et à la mémoire. Il devient une référence majeure pour les écrivains postmodernes et les théories de la fiction.",
     "works": [
-      "Fictions",
-      "L'Aleph"
+      "Fervor de Buenos Aires (1923)",
+      "Historia universal de la infamia (1935)",
+      "Ficciones (1944)",
+      "El Aleph (1949)",
+      "Otras inquisiciones (1952)",
+      "El hacedor (1960)",
+      "El libro de arena (1975)",
+      "La memoria de Shakespeare (1983)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Jorge Luis Borges, Œuvres complètes, Gallimard, Bibliothèque de la Pléiade, 1993–1999.",
+      "Edwin Williamson, Borges: A Life, Viking, 2004.",
+      "Daniel Balderston, The Literary Universe of Jorge Luis Borges, Greenwood Press, 1986.",
+      "Jorge Luis Borges, Essai d’autobiographie, Gallimard, 1979."
+    ],
+    "related": [
+      "james-joyce"
+    ],
+    "sources": [
+      {
+        "url": "https://www.borges.pitt.edu/",
+        "note": "Borges Center, University of Pittsburgh, ressources critiques et bibliographiques."
+      }
+    ]
   },
   {
     "id": "musil",
     "name": "Robert Musil",
     "years": "1880–1942",
     "group": "Littératures internationales",
-    "bio": "Romancier autrichien de la modernité, observateur des crises intellectuelles et politiques de l'Europe.",
+    "bio": "Écrivain autrichien, Robert Musil est l’un des grands analystes de la crise intellectuelle et morale de l’Europe moderne. Formé d’abord dans les écoles militaires puis ingénieur, il étudie la philosophie et la psychologie expérimentale à Berlin avant de se consacrer à l’écriture. Les Désarrois de l’élève Törless (1906) examine déjà les rapports entre pouvoir, désir et connaissance. Après avoir servi pendant la Première Guerre mondiale, il travaille à L’Homme sans qualités, vaste roman inachevé situé dans l’Autriche-Hongrie de 1913, où la précision analytique se mêle à l’ironie et à l’indétermination. Contraint à l’exil après l’Anschluss, il meurt à Genève en 1942. Son œuvre dialogue avec les bouleversements scientifiques, politiques et esthétiques de la modernité.",
     "works": [
-      "L'Homme sans qualités"
+      "Les Désarrois de l’élève Törless (1906)",
+      "Les Exaltés (1921, théâtre)",
+      "Noces (1911, nouvelles)",
+      "Trois Femmes (1924)",
+      "L’Homme sans qualités, vol. I (1930)",
+      "L’Homme sans qualités, vol. II (1933)",
+      "L’Homme sans qualités, fragments posthumes (1943)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Robert Musil, L’Homme sans qualités, traduction Philippe Jaccottet, Seuil, 1956–1957.",
+      "Robert Musil, Journaux, Seuil, 1981–1982.",
+      "Karl Corino, Robert Musil: Eine Biographie, Rowohlt, 2003.",
+      "Jacques Bouveresse, La Voix de l’âme et les chemins de l’esprit, Seuil, 2001."
+    ],
+    "related": [
+      "james-joyce"
+    ],
+    "sources": [
+      {
+        "url": "https://www.musil-online.at/",
+        "note": "Robert-Musil-Institut / Klagenfurt, ressources de recherche et documentation."
+      }
+    ]
   },
   {
     "id": "kafka",
     "name": "Franz Kafka",
     "years": "1883–1924",
     "group": "Littératures internationales",
-    "bio": "Écrivain pragois dont l'œuvre explore l'absurde, la bureaucratie, la culpabilité et l'étrangeté du quotidien.",
+    "bio": "Écrivain pragois de langue allemande, Franz Kafka compose une œuvre brève et fragmentaire qui donne une forme inédite à l’aliénation, à la culpabilité et à l’opacité des institutions modernes. Employé dans une compagnie d’assurances, il écrit principalement le soir et entretient une correspondance abondante, notamment avec Max Brod, Felice Bauer et Milena Jesenská. La Métamorphose, Le Verdict et La Colonie pénitentiaire paraissent de son vivant, mais ses grands romans restent inachevés. Contre la volonté exprimée dans son testament, Max Brod publie Le Procès, Le Château et L’Amérique après sa mort en 1924. Kafka devient une référence centrale pour les avant-gardes, l’existentialisme et les littératures de l’absurde, sans se laisser réduire à une seule école.",
     "works": [
-      "Le Procès",
-      "Le Château",
-      "La Métamorphose"
+      "Description d’un combat (récits, 1904–1905)",
+      "Le Verdict (1912)",
+      "La Métamorphose (1915)",
+      "Dans la colonie pénitentiaire (1919)",
+      "Le Procès (posthume, 1925)",
+      "Le Château (posthume, 1926)",
+      "L’Amérique (posthume, 1927)",
+      "Journal (posthume, éditions successives)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Franz Kafka, Œuvres complètes, édition Claude David, Gallimard, Bibliothèque de la Pléiade, 1976–1989.",
+      "Reiner Stach, Kafka: The Decisive Years, Princeton University Press, 2005.",
+      "Reiner Stach, Kafka: The Years of Insight, Princeton University Press, 2013.",
+      "Ritchie Robertson, Kafka: Judaism, Politics, and Literature, Oxford University Press, 1985."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "url": "https://www.kafka-museum.cz/",
+        "note": "Franz Kafka Museum, Prague, chronologie et ressources documentaires."
+      }
+    ]
   },
   {
     "id": "jarry",
     "name": "Alfred Jarry",
     "years": "1873–1907",
     "group": "Pataphysique / précurseurs",
-    "bio": "Écrivain et dramaturge, créateur du Père Ubu et inventeur de la pataphysique, influence majeure des avant-gardes.",
+    "bio": "Écrivain, dramaturge et dessinateur français, Alfred Jarry occupe une place singulière entre symbolisme, décadence et avant-gardes du XXe siècle. Il invente avec Ubu une figure grotesque et tyrannique qui fait éclater les conventions du théâtre bourgeois. La création d’Ubu roi au Théâtre de l’Œuvre en 1896 provoque un scandale devenu légendaire, notamment par son célèbre cri d’ouverture. Jarry développe parallèlement la pataphysique, présentée comme la science des solutions imaginaires et des lois qui régissent les exceptions. Ses textes, ses dessins et sa pratique de la bicyclette composent une œuvre volontairement irrévérencieuse, qui influencera Dada, le surréalisme, le théâtre de l’absurde et le Collège de ’Pataphysique fondé après sa mort.",
     "works": [
-      "Ubu roi",
-      "Gestes et opinions du docteur Faustroll"
+      "Les Minutes de sable mémorial (1894)",
+      "César-Antéchrist (1895)",
+      "Ubu roi (1896)",
+      "Ubu cocu (écrit en 1897, publié en 1944)",
+      "Gestes et opinions du docteur Faustroll, pataphysicien (posthume, 1911)",
+      "La Chandelle verte (posthume, 1969)"
     ],
     "role_icon": "🎭",
     "role_label": "Théâtre",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Alfred Jarry, Œuvres complètes, édition Henri Bordillon, Gallimard, Bibliothèque de la Pléiade, 1972–1988.",
+      "Alfred Jarry, Ubu roi, édition critique, Gallimard, Folio théâtre.",
+      "Patrick Besnier, Alfred Jarry, Fayard, 2005.",
+      "Collège de ’Pataphysique, dossiers et publications consacrés à Jarry."
+    ],
+    "related": [
+      "james-joyce"
+    ],
+    "sources": [
+      {
+        "url": "https://www.college-de-pataphysique.org/",
+        "note": "Collège de ’Pataphysique, héritage institutionnel et bibliographie pataphysique."
+      }
+    ]
   },
   {
     "id": "gracq",
     "name": "Julien Gracq",
     "years": "1910–2007",
     "group": "Surréalisme et héritages",
-    "bio": "Écrivain français proche du surréalisme, dont les paysages et l'attente composent une œuvre singulière.",
+    "bio": "Écrivain français, Julien Gracq construit une œuvre exigeante où le paysage, l’attente et l’imaginaire historique deviennent des forces narratives. Agrégé d’histoire et de géographie, il enseigne avant de publier Au château d’Argol en 1938, roman marqué par le romantisme allemand et par sa rencontre avec le surréalisme. Proche d’André Breton, auquel il consacre un essai admiratif, il refuse toutefois de réduire son travail à une appartenance de groupe. La Seconde Guerre mondiale et son expérience de prisonnier nourrissent Un balcon en forêt, tandis que ses récits et essais développent une prose d’une grande précision sensorielle. Il refuse le prix Goncourt attribué au Rivage des Syrtes en 1951, geste cohérent avec sa distance envers le monde littéraire institutionnel.",
     "works": [
-      "Le Rivage des Syrtes",
-      "Au château d'Argol"
+      "Au château d’Argol (1938)",
+      "Un beau ténébreux (1945)",
+      "André Breton, quelques aspects de l’écrivain (1948)",
+      "Le Rivage des Syrtes (1951)",
+      "Un balcon en forêt (1958)",
+      "Lettrines (1967)",
+      "La Presqu’île (1970)",
+      "En lisant en écrivant (1980)",
+      "Carnets du grand chemin (1992)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "bibliography": [
+      "Julien Gracq, Œuvres complètes, 2 vol., Gallimard, Bibliothèque de la Pléiade, 1989 et 1995.",
+      "Bernhild Boie, Julien Gracq, Gallimard, 1989.",
+      "Julien Gracq, Entretiens, José Corti, 2002.",
+      "Michel Murat, L’Enchanteur réticent: essai sur Julien Gracq, José Corti, 2004."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "url": "https://www.gallimard.fr/auteurs/julien-gracq",
+        "note": "Gallimard, bibliographie éditoriale et repères sur les œuvres."
+      }
+    ]
   },
   {
     "id": "mallarme",
