@@ -3776,5 +3776,204 @@
     "group": "Poésie sonore",
     "role_icon": "📼",
     "role_label": "Poésie sonore"
+  },
+  {
+    "id": "emil-cioran",
+    "name": "Émile Cioran",
+    "years": "1911–1995",
+    "group": "Philosophie / aphorisme",
+    "bio": "Philosophe et moraliste d’origine roumaine, devenu écrivain de langue française. Ses aphorismes et essais explorent le désespoir, l’histoire, la religion et l’absurdité de l’existence.",
+    "works": [
+      "Précis de décomposition",
+      "Syllogismes de l’amertume",
+      "De l’inconvénient d’être né"
+    ],
+    "sources": [
+      "https://www.larousse.fr/encyclopedie/litterature/%C3%89mile_Michel_Cioran/172441"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "albert-caraco",
+    "name": "Albert Caraco",
+    "years": "1919–1971",
+    "group": "Littératures singulières",
+    "bio": "Écrivain, philosophe et moraliste franco-uruguayen, auteur d’une œuvre sombre et radicale mêlant journal, aphorisme, essai et méditation sur la civilisation.",
+    "works": [
+      "Bréviaire du chaos",
+      "Post Mortem",
+      "Ma confession"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb118951032"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "rene-guenon",
+    "name": "René Guénon",
+    "years": "1886–1951",
+    "group": "Philosophie / ésotérisme",
+    "bio": "Métaphysicien et auteur français, figure majeure de l’école traditionaliste. Il critique la modernité au nom des doctrines métaphysiques et des traditions spirituelles.",
+    "works": [
+      "La Crise du monde moderne",
+      "Le Règne de la quantité et les signes des temps"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "luc-dietrich",
+    "name": "Luc Dietrich",
+    "years": "1913–1944",
+    "group": "Littératures singulières",
+    "bio": "Écrivain, photographe et dessinateur français, proche de Lanza del Vasto. Son œuvre autobiographique et introspective explore la formation de soi et l’expérience du monde.",
+    "works": [
+      "L’Apprentissage de la ville",
+      "Le Bonheur des tristes"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb11900179d"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "armand-robin",
+    "name": "Armand Robin",
+    "years": "1912–1961",
+    "group": "Poésie / traduction",
+    "bio": "Poète, traducteur et critique littéraire français, polyglotte passionné par les langues et les émissions radiophoniques étrangères. Son œuvre mêle poésie, traduction et écoute du monde.",
+    "works": [
+      "Ma vie sans moi",
+      "Les Poèmes indésirables"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb11922225n"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "georges-darien",
+    "name": "Georges Darien",
+    "years": "1862–1921",
+    "group": "Littératures anarchistes",
+    "bio": "Romancier, dramaturge et pamphlétaire anarchiste français, adversaire de l’autorité, du militarisme et de l’hypocrisie sociale.",
+    "works": [
+      "Le Voleur",
+      "Biribi",
+      "La Belle France"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb11898640c"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "marcel-schwob",
+    "name": "Marcel Schwob",
+    "years": "1867–1905",
+    "group": "Symbolisme / précurseurs",
+    "bio": "Écrivain, poète et érudit français, auteur de contes érudits et fantastiques. Son écriture singulière a marqué les modernistes et plusieurs générations d’écrivains expérimentaux.",
+    "works": [
+      "Le Livre de Monelle",
+      "Vies imaginaires",
+      "Cœur double"
+    ],
+    "sources": [
+      "https://catalogue.bnf.fr/ark:/12148/cb11924205h"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "ivan-gontcharov",
+    "name": "Ivan Gontcharov",
+    "years": "1812–1891",
+    "group": "Littérature russe",
+    "bio": "Romancier russe du XIXe siècle, célèbre pour son observation ironique de la société et pour la figure d’Oblomov, devenue emblématique de l’inertie existentielle.",
+    "works": [
+      "Oblomov",
+      "Le Ravin",
+      "Une histoire ordinaire"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "john-giorno",
+    "name": "John Giorno",
+    "years": "1936–2019",
+    "group": "Poésie sonore / performance",
+    "bio": "Poète et artiste américain lié à la scène new-yorkaise, il associe collage verbal, performance, enregistrement et technologies de diffusion. Son projet Dial-A-Poem fait entendre des poètes au téléphone.",
+    "works": [
+      "Dial-A-Poem",
+      "Giorno Poetry Systems",
+      "Thanx 4 Nothing"
+    ],
+    "role_icon": "📼",
+    "role_label": "Poésie sonore",
+    "sources": [
+      "https://www.poetryfoundation.org/poets/john-giorno"
+    ],
+    "kind": "person"
+  },
+  {
+    "id": "emmanuel-bove",
+    "name": "Emmanuel Bove",
+    "years": "1898–1945",
+    "group": "Littératures singulières",
+    "bio": "Romancier français à l’écriture dépouillée, attentif aux solitudes ordinaires, aux humiliations sociales et aux existences en marge. Son œuvre fut admirée notamment par Samuel Beckett.",
+    "works": [
+      "Mes amis",
+      "Armand",
+      "Bécon-les-Bruyères"
+    ],
+    "sources": [
+      "https://imec-archives.com/archives/fonds/048BVE"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "ivan-chtcheglov",
+    "name": "Ivan Chtcheglov",
+    "years": "1933–1998",
+    "group": "Lettrisme / situationnisme",
+    "bio": "Écrivain et théoricien français, connu sous le nom de Gilles Ivain. Son Formulaire pour un urbanisme nouveau, écrit en 1953, a profondément marqué l’Internationale situationniste et l’imaginaire psychogéographique.",
+    "works": [
+      "Formulaire pour un urbanisme nouveau"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
+  },
+  {
+    "id": "cesare-pavese",
+    "name": "Cesare Pavese",
+    "years": "1908–1950",
+    "group": "Littérature italienne",
+    "bio": "Écrivain, poète et traducteur italien, figure majeure de la littérature du XXe siècle. Ses romans et son journal interrogent la solitude, le mythe, la mémoire et l’impossibilité de vivre.",
+    "works": [
+      "Le Métier de vivre",
+      "La Lune et les Feux",
+      "Dialogues avec Leucò"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Écriture"
   }
 ]
