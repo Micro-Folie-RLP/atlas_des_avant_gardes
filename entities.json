@@ -19381,5 +19381,1183 @@
       "Musique expérimentale",
       "Avant-gardes / théâtre"
     ]
+  },
+  {
+    "id": "walter-ruttmann",
+    "name": "Walter Ruttmann",
+    "years": "1887–1941",
+    "group": "Cinéma expérimental",
+    "bio": "Réalisateur et théoricien allemand, Walter Ruttmann passe de la peinture à l'expérimentation cinématographique. Avec la série des Opus (1921–1925), il contribue à inventer un cinéma abstrait fondé sur le rythme, la forme et le mouvement. Berlin, symphonie d'une grande ville (1927) transpose ensuite cette recherche dans une composition documentaire et urbaine, où le montage transforme la métropole en partition visuelle.",
+    "works": [
+      "Opus I (1921)",
+      "Berlin, symphonie d'une grande ville (1927)",
+      "Melodie der Welt (1929)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Cinémathèque française, fonds et études sur le cinéma d'avant-garde."
+    ],
+    "groups": []
+  },
+  {
+    "id": "viking-eggeling",
+    "name": "Viking Eggeling",
+    "years": "1880–1925",
+    "group": "Cinéma expérimental",
+    "bio": "Artiste suédois actif dans les avant-gardes européennes, Viking Eggeling cherche à construire un langage visuel abstrait organisé comme une composition musicale. Ses rouleaux dessinés et surtout Symphonie diagonale font du mouvement, de la répétition et de la variation les éléments d'une syntaxe cinématographique. Sa mort précoce laisse une œuvre filmique très réduite mais fondatrice.",
+    "works": [
+      "Symphonie diagonale (1924)",
+      "Dessins et rouleaux abstraits (années 1910–1920)",
+      "Études sur le cinéma absolu et les avant-gardes européennes."
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "oskar-fischinger",
+    "name": "Oskar Fischinger",
+    "years": "1900–1967",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste et animateur germano-américain, Oskar Fischinger développe un cinéma abstrait où formes géométriques, couleurs et rythmes visuels entretiennent des correspondances avec la musique. Ses séries d'études et ses recherches sur la synchronisation sonore influencent durablement le film d'animation expérimental et les visualisations musicales. Installé aux États-Unis à partir de 1936, il travaille aussi pour l'industrie sans renoncer à ses recherches personnelles.",
+    "works": [
+      "Studie (série, 1929–1934)",
+      "Komposition in Blau (1935)",
+      "Motion Painting No. 1 (1947)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Centre Pompidou, collection Films et nouveaux médias."
+    ],
+    "groups": []
+  },
+  {
+    "id": "len-lye",
+    "name": "Len Lye",
+    "years": "1901–1980",
+    "group": "Cinéma expérimental",
+    "bio": "Artiste néo-zélandais, Len Lye est l'un des pionniers du film d'animation directe. Il peint, gratte et colore directement la pellicule, faisant du cinéma une matière plastique et rythmique. Son travail relie expérimentation visuelle, énergie cinétique, musique et sculpture, et annonce certaines pratiques du cinéma élargi.",
+    "works": [
+      "A Colour Box (1935)",
+      "Kaleidoscope (1935)",
+      "Free Radicals (1958, versions ultérieures)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Light Cone, catalogue des films expérimentaux."
+    ],
+    "groups": []
+  },
+  {
+    "id": "alberto-cavalcanti",
+    "name": "Alberto Cavalcanti",
+    "years": "1897–1982",
+    "group": "Cinéma expérimental",
+    "bio": "Réalisateur et décorateur brésilien, Alberto Cavalcanti joue un rôle de passeur entre les avant-gardes européennes et le documentaire. À Paris, il participe aux recherches du cinéma impressionniste et travaille avec les milieux d'avant-garde; en Grande-Bretagne, il devient une figure importante du documentaire et du mouvement GPO Film Unit. Son parcours relie expérimentation formelle, observation sociale et cinéma sonore.",
+    "works": [
+      "Rien que les heures (1926)",
+      "En rade (1927)",
+      "Coal Face (1935, avec la GPO Film Unit)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Études sur le cinéma français des années 1920 et le documentaire britannique."
+    ],
+    "groups": []
+  },
+  {
+    "id": "henri-chomette",
+    "name": "Henri Chomette",
+    "years": "1896–1941",
+    "group": "Cinéma expérimental",
+    "bio": "Réalisateur français associé à l'avant-garde des années 1920, Henri Chomette explore le « cinéma pur » et les possibilités plastiques du mouvement, de la lumière et du montage. Frère de René Clair, il réalise des films qui cherchent à dégager l'image cinématographique de la narration traditionnelle et à en faire une expérience optique autonome.",
+    "works": [
+      "Jeux des reflets et de la vitesse (1925)",
+      "Cinq minutes de cinéma pur (1926)",
+      "Études sur le cinéma d'avant-garde français."
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "henri-storck",
+    "name": "Henri Storck",
+    "years": "1907–1999",
+    "group": "Cinéma documentaire et expérimental",
+    "bio": "Cinéaste belge, Henri Storck participe à l'émergence d'un cinéma documentaire moderne attentif aux formes, aux gestes et aux réalités sociales. Ses films sur la côte belge et ses collaborations avec Joris Ivens témoignent d'une recherche où observation documentaire et invention plastique se renforcent mutuellement. Il est également un acteur important de la cinématographie belge.",
+    "works": [
+      "Images d'Ostende (1929)",
+      "Misère au Borinage (1933, avec Joris Ivens)",
+      "Les maisons de la misère (1937)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma documentaire et expérimental",
+    "bibliography": [
+      "Light Cone et études sur les avant-gardes belges."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jean-epstein",
+    "name": "Jean Epstein",
+    "years": "1897–1953",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste, théoricien et écrivain français d'origine polonaise, Jean Epstein développe une pensée du cinéma comme art de la photogénie, capable de révéler des dimensions du réel invisibles à la perception ordinaire. Ses films explorent le ralenti, le gros plan, la mer, les visages et les mouvements de caméra. Son œuvre théorique constitue l'une des réflexions majeures sur les puissances propres de l'image filmique.",
+    "works": [
+      "Cœur fidèle (1923)",
+      "La Chute de la maison Usher (1928)",
+      "Le Tempestaire (1947)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Jean Epstein, Écrits sur le cinéma; Cinémathèque française."
+    ],
+    "groups": []
+  },
+  {
+    "id": "peter-kubelka",
+    "name": "Peter Kubelka",
+    "years": "1934–",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste, programmateur et théoricien autrichien, Peter Kubelka radicalise le montage en travaillant le photogramme, le rythme et les rapports entre image et son. Ses films très courts deviennent des constructions précises où chaque unité de pellicule compte. Cofondateur de l'Anthology Film Archives avec Jonas Mekas et Jerome Hill, il joue aussi un rôle décisif dans la conservation et la transmission du cinéma expérimental.",
+    "works": [
+      "Adebar (1957)",
+      "Schwechater (1958)",
+      "Arnulf Rainer (1960)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Peter Kubelka, Une histoire du cinéma, Centre Pompidou (programme conçu en 1976)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "marie-menken",
+    "name": "Marie Menken",
+    "years": "1909–1970",
+    "group": "Cinéma expérimental",
+    "bio": "Artiste et cinéaste américaine, Marie Menken développe un cinéma personnel fondé sur la caméra portée, les mouvements rapides, les fragments et les notations visuelles. Son travail influence plusieurs générations de cinéastes underground, notamment par sa liberté gestuelle et son attention aux rythmes de la ville, de l'art et de la vie quotidienne.",
+    "works": [
+      "Visual Variations on Noguchi (1945)",
+      "Glimpse of the Garden (1957)",
+      "Notebook (1962–1963)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Études sur le cinéma underground new-yorkais."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jonas-mekas",
+    "name": "Jonas Mekas",
+    "years": "1922–2019",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste, poète et organisateur lituano-américain, Jonas Mekas est l'une des figures majeures du cinéma d'avant-garde new-yorkais. Ses journaux filmés transforment le quotidien, l'amitié et l'exil en une chronique fragmentaire. Critique et animateur de réseaux, il fonde avec d'autres la Film-Makers' Cooperative puis l'Anthology Film Archives, institutions essentielles du cinéma indépendant.",
+    "works": [
+      "Walden (Diaries, Notes and Sketches) (1969)",
+      "Reminiscences of a Journey to Lithuania (1972)",
+      "As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty (2000)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Jonas Mekas, Movie Journal; Anthology Film Archives."
+    ],
+    "groups": []
+  },
+  {
+    "id": "gregory-markopoulos",
+    "name": "Gregory Markopoulos",
+    "years": "1928–1992",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste américain d'origine grecque, Gregory Markopoulos élabore un cinéma lyrique et mythopoétique où le montage, les portraits et les images fragmentaires construisent des expériences de perception très concentrées. Avec Robert Beavers, il fonde le projet Temenos, lieu de projection conçu pour accueillir son œuvre monumentale dans des conditions spécifiques.",
+    "works": [
+      "Twice a Man (1963)",
+      "The Illiac Passion (1967)",
+      "Eniaios (œuvre monumentale, 1948–1990)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Light Cone, catalogue des cinémas expérimentaux."
+    ],
+    "groups": []
+  },
+  {
+    "id": "michael-snow",
+    "name": "Michael Snow",
+    "years": "1928–2023",
+    "group": "Cinéma expérimental",
+    "bio": "Artiste canadien, Michael Snow travaille la peinture, la sculpture, la photographie, la musique improvisée et le cinéma. Ses films interrogent les conditions mêmes de la perception et de la représentation, en soumettant caméra, durée et espace à des dispositifs rigoureux. Wavelength est devenu une œuvre emblématique du cinéma structurel.",
+    "works": [
+      "Wavelength (1967)",
+      "La Région centrale (1971)",
+      "So Is This (1982)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Centre Pompidou, collection Films et nouveaux médias."
+    ],
+    "groups": []
+  },
+  {
+    "id": "hollis-frampton",
+    "name": "Hollis Frampton",
+    "years": "1936–1984",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste, photographe et théoricien américain, Hollis Frampton est l'une des figures du cinéma structurel. Ses films analysent les systèmes de représentation, la mémoire, le langage et les conditions matérielles du cinéma. Son projet inachevé Magellan prend la forme d'un calendrier encyclopédique de films, photographies et documents.",
+    "works": [
+      "Zorns Lemma (1970)",
+      "(nostalgia) (1971)",
+      "Magellan (projet, 1972–1980)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Hollis Frampton, Circles of Confusion (1983)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "paul-sharits",
+    "name": "Paul Sharits",
+    "years": "1943–1993",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste et artiste américain, Paul Sharits est associé au cinéma structurel et au film flicker. Il travaille la succession rapide de photogrammes colorés, les bandes-son et les dispositifs de projection pour rendre sensible la matérialité du cinéma et les réactions physiologiques du spectateur.",
+    "works": [
+      "Piece Mandala / End War (1966)",
+      "T,O,U,C,H,I,N,G (1968)",
+      "N:O:T:H:I:N:G (1968)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Centre Pompidou, collection Films et nouveaux médias."
+    ],
+    "groups": []
+  },
+  {
+    "id": "eadweard-muybridge",
+    "name": "Eadweard Muybridge",
+    "years": "1830–1904",
+    "group": "Photographie et chronophotographie",
+    "bio": "Photographe britannique, Eadweard Muybridge met au point des dispositifs de prises de vues successives qui décomposent le mouvement animal et humain. Ses séries photographiques, réalisées à l'aide de batteries d'appareils déclenchés successivement, deviennent des documents scientifiques et des matrices pour les arts visuels, l'animation et le cinéma naissant.",
+    "works": [
+      "The Horse in Motion (1878)",
+      "Animal Locomotion (1887)",
+      "The Human Figure in Motion (1901)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie et chronophotographie",
+    "bibliography": [
+      "Eadweard Muybridge, Animal Locomotion (1887)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "etienne-jules-marey",
+    "name": "Étienne-Jules Marey",
+    "years": "1830–1904",
+    "group": "Photographie et chronophotographie",
+    "bio": "Physiologiste et inventeur français, Étienne-Jules Marey développe des instruments pour analyser le mouvement, notamment le fusil photographique et la chronophotographie sur plaque fixe ou bande mobile. Ses images décomposent gestes, locomotion et phénomènes physiques en séquences mesurables. Elles ont profondément marqué l'histoire de la photographie scientifique et nourri les imaginaires artistiques de la modernité.",
+    "works": [
+      "La Méthode graphique (1878)",
+      "Le Mouvement (1894)",
+      "Le Vol des oiseaux (1890s)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie et chronophotographie",
+    "bibliography": [
+      "Étienne-Jules Marey, Le Mouvement (1894); Collège de France."
+    ],
+    "groups": []
+  },
+  {
+    "id": "alfred-stieglitz",
+    "name": "Alfred Stieglitz",
+    "years": "1864–1946",
+    "group": "Photographie moderne",
+    "bio": "Photographe et éditeur américain, Alfred Stieglitz contribue à faire reconnaître la photographie comme un art autonome. Il fonde la revue Camera Work et dirige la galerie 291, qui expose des artistes européens d'avant-garde aux États-Unis. Son activité de passeur entre photographie, peinture et modernité fait de lui une figure centrale des échanges transatlantiques.",
+    "works": [
+      "The Steerage (1907)",
+      "Equivalent (série, années 1920–1930)",
+      "Camera Work (revue, 1903–1917)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Alfred Stieglitz, Camera Work; Georgia O’Keeffe Museum."
+    ],
+    "groups": []
+  },
+  {
+    "id": "edward-weston",
+    "name": "Edward Weston",
+    "years": "1886–1958",
+    "group": "Photographie moderne",
+    "bio": "Photographe américain, Edward Weston développe une photographie de forme pure, attentive aux textures, aux objets, aux nus et aux paysages. Cofondateur du groupe f/64 avec Ansel Adams et d'autres photographes, il défend la netteté et la précision optique contre les effets pictorialistes. Son œuvre participe à l'affirmation de la photographie moderne américaine.",
+    "works": [
+      "Pepper No. 30 (1930)",
+      "Nude (1936)",
+      "Dunes, Oceano (1936)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Edward Weston, The Daybooks (publiés en plusieurs volumes)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "paul-strand",
+    "name": "Paul Strand",
+    "years": "1890–1976",
+    "group": "Photographie moderne",
+    "bio": "Photographe et cinéaste américain, Paul Strand associe expérimentation formelle, observation sociale et engagement politique. Ses photographies modernistes privilégient la précision des formes et la frontalité, tandis que ses films et ses collaborations documentaires élargissent son travail à la vie collective. Il participe aux réseaux internationaux du cinéma documentaire et d'avant-garde.",
+    "works": [
+      "Wall Street (1915)",
+      "Manhatta (1921, avec Charles Sheeler)",
+      "Native Land (1942, avec Leo Hurwitz)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Paul Strand, Photographs 1915–1945; MoMA."
+    ],
+    "groups": []
+  },
+  {
+    "id": "august-sander",
+    "name": "August Sander",
+    "years": "1876–1964",
+    "group": "Photographie moderne",
+    "bio": "Photographe allemand, August Sander entreprend un vaste portrait documentaire de la société de son temps. Son projet Menschen des 20. Jahrhunderts classe les individus par métiers et positions sociales, sans effacer leur singularité. Cette typologie photographique exerce une influence durable sur le portrait, la sociologie visuelle et les pratiques documentaires.",
+    "works": [
+      "Antlitz der Zeit (1929)",
+      "Menschen des 20. Jahrhunderts (projet, années 1910–1960)",
+      "August Sander, Menschen des 20. Jahrhunderts."
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "florence-henri",
+    "name": "Florence Henri",
+    "years": "1893–1982",
+    "group": "Photographie moderne",
+    "bio": "Photographe et peintre franco-allemande, Florence Henri étudie au Bauhaus et développe dans les années 1920 une photographie expérimentale fondée sur les miroirs, les reflets, les cadrages obliques et les compositions géométriques. Son travail dialogue avec le constructivisme, la Nouvelle Vision et les recherches plastiques de l'entre-deux-guerres.",
+    "works": [
+      "Autoportraits aux miroirs (1928–1929)",
+      "Compositions photographiques (années 1920–1930)",
+      "Florence Henri, monographies et catalogues d'exposition."
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "raoul-ubac",
+    "name": "Raoul Ubac",
+    "years": "1910–1985",
+    "group": "Photographie et arts visuels",
+    "bio": "Photographe, peintre et sculpteur belge, Raoul Ubac fréquente les milieux surréalistes et expérimente solarisation, brûlage des négatifs, photomontage et déformation des images. Après la guerre, il développe une œuvre plastique où photographie, ardoise, peinture et sculpture se répondent. Son parcours relie surréalisme et abstraction.",
+    "works": [
+      "La Nébuleuse (1939)",
+      "Les Jeux de la poupée (1936–1938, série avec Paul Éluard)",
+      "Photographies et ardoises, années 1940–1980"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie et arts visuels",
+    "bibliography": [
+      "Raoul Ubac, catalogues du Centre Pompidou."
+    ],
+    "groups": []
+  },
+  {
+    "id": "brassai",
+    "name": "Brassaï",
+    "years": "1899–1984",
+    "group": "Photographie moderne",
+    "bio": "Photographe, dessinateur et écrivain d'origine hongroise, Brassaï devient l'un des grands chroniqueurs visuels du Paris nocturne. Son regard associe documentaire urbain, fascination pour les signes de la ville et proximité avec les milieux surréalistes. Il photographie aussi les graffitis, les ateliers d'artistes et les sociabilités populaires.",
+    "works": [
+      "Paris de nuit (1933)",
+      "Graffiti (1960)",
+      "Conversations avec Picasso (1964)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Brassaï, Paris de nuit (1933)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "andre-kertesz",
+    "name": "André Kertész",
+    "years": "1894–1985",
+    "group": "Photographie moderne",
+    "bio": "Photographe hongrois installé à Paris puis à New York, André Kertész développe une œuvre poétique attentive aux formes quotidiennes, aux ombres, aux reflets et aux distorsions. Son travail, souvent associé à la Nouvelle Vision, influence profondément la photographie moderne et le photojournalisme sans se réduire à une école.",
+    "works": [
+      "Distorsions (1933)",
+      "Chez Mondrian (1926)",
+      "The Polaroids (1970s)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "André Kertész, catalogues et rétrospectives."
+    ],
+    "groups": []
+  },
+  {
+    "id": "berenice-abbott",
+    "name": "Berenice Abbott",
+    "years": "1898–1991",
+    "group": "Photographie moderne",
+    "bio": "Photographe américaine, Berenice Abbott joue un rôle majeur dans la transmission de la photographie moderne. Assistante de Man Ray à Paris, elle réalise des portraits d'artistes et d'écrivains avant de revenir aux États-Unis. Son projet Changing New York documente les transformations urbaines avec une rigueur formelle et une ambition historique.",
+    "works": [
+      "Portraits parisiens (années 1920)",
+      "Changing New York (1935–1939)",
+      "Science Illustrated (série, années 1950)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie moderne",
+    "bibliography": [
+      "Berenice Abbott, Changing New York (1939)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "christian-schad",
+    "name": "Christian Schad",
+    "years": "1894–1982",
+    "group": "Photographie et dada",
+    "bio": "Peintre allemand associé à Dada et à la Nouvelle Objectivité, Christian Schad invente au début des années 1910 les Schadographies, images obtenues sans appareil par exposition directe d'objets sur papier photosensible. Ces photogrammes comptent parmi les premières expérimentations photographiques abstraites et entretiennent un dialogue avec les pratiques dadaïstes.",
+    "works": [
+      "Schadographies (à partir de 1918)",
+      "Autoportraits et portraits de la Nouvelle Objectivité",
+      "Études sur Dada et les débuts de la photographie sans appareil."
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie et dada",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "sergei-eisenstein",
+    "name": "Sergei Eisenstein",
+    "years": "1898–1948",
+    "group": "Cinéma et montage",
+    "bio": "Réalisateur et théoricien soviétique, Sergueï Eisenstein fait du montage un principe de pensée et de construction du sens. Ses films et ses écrits explorent le conflit entre plans, le montage des attractions, le rythme et les rapports entre cinéma, théâtre, musique et idéogramme. Son influence dépasse largement le cinéma soviétique et irrigue les théories modernes de l'image.",
+    "works": [
+      "La Grève (1925)",
+      "Le Cuirassé Potemkine (1925)",
+      "Octobre (1928)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma et montage",
+    "bibliography": [
+      "Sergueï Eisenstein, Le Film : sa forme, son sens; La Non-indifférente Nature."
+    ],
+    "groups": []
+  },
+  {
+    "id": "lev-kuleshov",
+    "name": "Lev Kuleshov",
+    "years": "1899–1970",
+    "group": "Cinéma et montage",
+    "bio": "Réalisateur et pédagogue soviétique, Lev Koulechov est associé aux premières théories du montage dans le cinéma russe. Ses expériences montrent que le sens d'une image dépend de son voisinage avec d'autres plans, ouvrant la voie à une conception constructive du cinéma. Son atelier forme plusieurs cinéastes majeurs de la génération soviétique.",
+    "works": [
+      "Les Aventures extraordinaires de Mr West au pays des bolcheviks (1924)",
+      "Le Rayon de la mort (1925)",
+      "Expériences de montage dites effet Koulechov"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma et montage",
+    "bibliography": [
+      "Lev Kuleshov, L'Art du cinéma (1929)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "esfir-shub",
+    "name": "Esfir Shub",
+    "years": "1894–1959",
+    "group": "Cinéma documentaire et montage",
+    "bio": "Cinéaste et monteuse soviétique, Esfir Choub est une pionnière du film de montage documentaire. À partir d'archives filmées, elle construit une lecture historique et politique de la Russie impériale et de la révolution. Son travail montre que le remontage d'images préexistantes peut produire une nouvelle intelligibilité du passé.",
+    "works": [
+      "La Chute de la dynastie Romanov (1927)",
+      "La Grande Route (1927)",
+      "La Russie de Nicolas II et de Léon Tolstoï (1928)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma documentaire et montage",
+    "bibliography": [
+      "Études sur le cinéma documentaire soviétique et le film d'archives."
+    ],
+    "groups": []
+  },
+  {
+    "id": "joseph-cornell",
+    "name": "Joseph Cornell",
+    "years": "1903–1972",
+    "group": "Collage et cinéma expérimental",
+    "bio": "Artiste américain, Joseph Cornell crée des boîtes assemblant objets trouvés, images anciennes, cartes, fragments et souvenirs. Ses films de found footage, réalisés à partir d'images préexistantes, prolongent cette poétique de la collection et du montage. Son œuvre relie surréalisme, assemblage, mémoire et cinéma expérimental.",
+    "works": [
+      "Rose Hobart (1936)",
+      "Untitled (Medici Slot Machine) (1942)",
+      "Films de found footage (années 1930–1960)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Collage et cinéma expérimental",
+    "bibliography": [
+      "Joseph Cornell, catalogues du Museum of Modern Art."
+    ],
+    "groups": []
+  },
+  {
+    "id": "bruce-conner",
+    "name": "Bruce Conner",
+    "years": "1933–2008",
+    "group": "Collage et cinéma expérimental",
+    "bio": "Artiste américain associé à la scène de San Francisco, Bruce Conner travaille l'assemblage, le collage, la sculpture et le film de montage. Ses films réorganisent des images trouvées selon des associations rythmiques, politiques et parfois violentes, anticipant certaines formes du clip et du cinéma d'archives critique.",
+    "works": [
+      "A Movie (1958)",
+      "Cosmic Ray (1961)",
+      "Crossroads (1976)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Collage et cinéma expérimental",
+    "bibliography": [
+      "Bruce Conner, catalogues du San Francisco Museum of Modern Art."
+    ],
+    "groups": []
+  },
+  {
+    "id": "harun-farocki",
+    "name": "Harun Farocki",
+    "years": "1944–2014",
+    "group": "Cinéma et critique des images",
+    "bio": "Cinéaste et essayiste allemand, Harun Farocki analyse les usages politiques, militaires, industriels et médiatiques des images. Ses films et installations mettent en regard archives, images de surveillance, dispositifs de production et commentaires critiques. Il développe une forme d'essai audiovisuel qui renouvelle le documentaire et la théorie des médias.",
+    "works": [
+      "Nicht löschbares Feuer (1969)",
+      "Bilder der Welt und Inschrift des Krieges (1988)",
+      "Arbeiter verlassen die Fabrik (1995)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma et critique des images",
+    "bibliography": [
+      "Harun Farocki, publications et rétrospectives du Jeu de Paume."
+    ],
+    "groups": []
+  },
+  {
+    "id": "pierre-henry",
+    "name": "Pierre Henry",
+    "years": "1927–2017",
+    "group": "Musique concrète et arts sonores",
+    "bio": "Compositeur français, Pierre Henry est l'une des grandes figures de la musique concrète. Formé auprès de Pierre Schaeffer au Studio d'essai de la Radiodiffusion française, il contribue à faire de l'enregistrement, du montage et de la transformation des sons des matériaux de composition. Son œuvre associe expérimentation électroacoustique, dramaturgie sonore et collaborations avec la danse et les arts visuels.",
+    "works": [
+      "Symphonie pour un homme seul (1950, avec Pierre Schaeffer)",
+      "Le Voile d'Orphée (1953)",
+      "Messe pour le temps présent (1967, avec Michel Colombier)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique concrète et arts sonores",
+    "bibliography": [
+      "Pierre Henry, mémoires et archives INA."
+    ],
+    "groups": []
+  },
+  {
+    "id": "bernard-parmegiani",
+    "name": "Bernard Parmegiani",
+    "years": "1927–2013",
+    "group": "Musique électroacoustique",
+    "bio": "Compositeur français, Bernard Parmegiani rejoint le Groupe de recherches musicales en 1959 et devient l'une des figures majeures de la musique électroacoustique. Son travail explore la spatialisation, les textures, les sons concrets et les formes narratives de l'écoute. Il contribue à élargir le vocabulaire de la musique sur bande et de l'art sonore.",
+    "works": [
+      "Violostries (1964)",
+      "La Création du monde (1982)",
+      "De natura sonorum (1975)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique électroacoustique",
+    "bibliography": [
+      "INA-GRM, catalogue des œuvres de Bernard Parmegiani."
+    ],
+    "groups": []
+  },
+  {
+    "id": "hildegard-westerkamp",
+    "name": "Hildegard Westerkamp",
+    "years": "1946–",
+    "group": "Arts sonores et écologie acoustique",
+    "bio": "Compositrice et artiste sonore germano-canadienne, Hildegard Westerkamp développe une pratique de l'écoute attentive des environnements. Associée au World Soundscape Project de R. Murray Schafer, elle travaille les paysages sonores, la marche, l'enregistrement de terrain et les transformations électroacoustiques. Son œuvre relie composition, écologie et conscience des milieux sonores.",
+    "works": [
+      "Kits Beach Soundwalk (1989)",
+      "Beneath the Forest Floor (1992)",
+      "Into the Labyrinth (2000)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Arts sonores et écologie acoustique",
+    "bibliography": [
+      "Hildegard Westerkamp, textes sur le soundwalking et l'écologie acoustique."
+    ],
+    "groups": []
+  },
+  {
+    "id": "r-murray-schafer",
+    "name": "R. Murray Schafer",
+    "years": "1933–2021",
+    "group": "Arts sonores et écologie acoustique",
+    "bio": "Compositeur, pédagogue et théoricien canadien, Raymond Murray Schafer fonde le World Soundscape Project à l'Université Simon Fraser. Il développe la notion de paysage sonore et une réflexion sur la pollution acoustique, l'écoute et l'environnement. Ses travaux influencent la composition électroacoustique, l'urbanisme sonore et les pratiques de field recording.",
+    "works": [
+      "The Tuning of the World (1977)",
+      "The Vancouver Soundscape (1973, projet collectif)",
+      "Patria (cycle, 1966–2005)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Arts sonores et écologie acoustique",
+    "bibliography": [
+      "R. Murray Schafer, The Soundscape (1977)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "annea-lockwood",
+    "name": "Annea Lockwood",
+    "years": "1939–",
+    "group": "Arts sonores et musique expérimentale",
+    "bio": "Compositrice néo-zélandaise installée aux États-Unis, Annea Lockwood travaille sur les sons de la nature, les résonances, les rivières et les transformations de matériaux. Ses installations et compositions de terrain déplacent l'écoute vers des environnements souvent négligés, entre sculpture sonore, écologie et musique expérimentale.",
+    "works": [
+      "Glass World (1967)",
+      "Piano Transplants (1968–1982)",
+      "A Sound Map of the Hudson River (1982)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Arts sonores et musique expérimentale",
+    "bibliography": [
+      "Annea Lockwood, catalogues et archives de l'art sonore."
+    ],
+    "groups": []
+  },
+  {
+    "id": "christina-kubisch",
+    "name": "Christina Kubisch",
+    "years": "1948–",
+    "group": "Arts sonores et installations",
+    "bio": "Artiste sonore et compositrice allemande, Christina Kubisch développe des installations où l'écoute révèle des phénomènes électromagnétiques et des architectures invisibles. Ses Electrical Walks permettent d'entendre les champs électromagnétiques urbains au moyen de casques spécifiques. Son œuvre relie art sonore, technologie, espace public et perception.",
+    "works": [
+      "Electrical Walks (depuis 2003)",
+      "Electrical Walks: Berlin (projet évolutif)",
+      "Installations sonores et lumineuses, depuis les années 1970"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Arts sonores et installations",
+    "bibliography": [
+      "Christina Kubisch, documentation des Electrical Walks."
+    ],
+    "groups": []
+  },
+  {
+    "id": "francisco-lopez",
+    "name": "Francisco López",
+    "years": "1964–",
+    "group": "Arts sonores et field recording",
+    "bio": "Artiste sonore espagnol, Francisco López développe une pratique radicale de l'enregistrement de terrain et de l'écoute immersive. Ses compositions effacent souvent les repères de lieu et de source, invitant à considérer le son comme matière autonome. Il défend une approche de l'écoute qui suspend l'identification documentaire au profit de l'expérience acoustique.",
+    "works": [
+      "La Selva (1998)",
+      "Buildings [New York] (2001)",
+      "Untitled sound works et installations, depuis les années 1990"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Arts sonores et field recording",
+    "bibliography": [
+      "Francisco López, textes sur l'écoute et l'art sonore."
+    ],
+    "groups": []
+  },
+  {
+    "id": "chris-watson",
+    "name": "Chris Watson",
+    "years": "1952–",
+    "group": "Arts sonores et field recording",
+    "bio": "Enregistreur de terrain et artiste sonore britannique, Chris Watson est connu pour ses prises de son naturalistes d'une grande précision. Cofondateur du groupe Cabaret Voltaire, il transpose ensuite son attention expérimentale vers les milieux animaux, les paysages et les phénomènes acoustiques. Ses compositions font du field recording une pratique artistique à part entière.",
+    "works": [
+      "Outside the Circle of Fire (1998)",
+      "Weather Report (2003)",
+      "El Tren Fantasma (2011)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Arts sonores et field recording",
+    "bibliography": [
+      "Chris Watson, catalogues Touch et entretiens sur le field recording."
+    ],
+    "groups": []
+  },
+  {
+    "id": "francois-bayle",
+    "name": "François Bayle",
+    "years": "1932–",
+    "group": "Musique électroacoustique",
+    "bio": "Compositeur français d'origine malgache, François Bayle rejoint le Groupe de recherches musicales en 1960 et contribue à théoriser et développer la musique acousmatique. Il travaille la spatialisation, les images de sons et les dispositifs de projection sonore. Son œuvre participe à l'autonomisation d'un art de l'écoute conçu pour le haut-parleur et l'espace.",
+    "works": [
+      "L'Expérience acoustique (1969–1972)",
+      "Erosphère (1979)",
+      "Son Vitesse-Lumière (198速度)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique électroacoustique",
+    "bibliography": [
+      "INA-GRM, catalogue des œuvres de François Bayle."
+    ],
+    "groups": []
+  },
+  {
+    "id": "michel-chion",
+    "name": "Michel Chion",
+    "years": "1947–",
+    "group": "Théorie du son et cinéma",
+    "bio": "Compositeur, écrivain et théoricien français, Michel Chion travaille à la fois la musique concrète, le cinéma et l'analyse audiovisuelle. Collaborateur du GRM, il développe des concepts essentiels pour comprendre les rapports entre son et image, notamment la valeur ajoutée et l'écoute réduite. Ses ouvrages ont profondément renouvelé les études cinématographiques et sonores.",
+    "works": [
+      "Requiem (1973)",
+      "La Voix au cinéma (1982)",
+      "L'Audio-vision (1990)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Théorie du son et cinéma",
+    "bibliography": [
+      "Michel Chion, Guide des objets sonores (1983); L'Audio-vision (1990)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "denis-smalley",
+    "name": "Denis Smalley",
+    "years": "1946–2023",
+    "group": "Musique électroacoustique",
+    "bio": "Compositeur néo-zélandais puis britannique, Denis Smalley développe une musique électroacoustique attentive aux morphologies sonores, aux trajectoires et aux espaces d'écoute. Sa théorie de la spectromorphologie fournit un vocabulaire influent pour analyser les formes et les transformations du son dans la musique acousmatique.",
+    "works": [
+      "Pentes (1974)",
+      "Tides (1984)",
+      "Wind Chimes (1987)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique électroacoustique",
+    "bibliography": [
+      "Denis Smalley, écrits sur la spectromorphologie."
+    ],
+    "groups": []
+  },
+  {
+    "id": "halim-el-dabh",
+    "name": "Halim El-Dabh",
+    "years": "1921–2017",
+    "group": "Musique électronique et expérimentale",
+    "bio": "Compositeur égypto-américain, Halim El-Dabh réalise dès 1944 des expériences de manipulation et de transformation de sons enregistrés, souvent citées parmi les premières œuvres de musique électronique et concrète. Son parcours relie traditions musicales égyptiennes, recherche électroacoustique et composition contemporaine.",
+    "works": [
+      "The Expression of Zaar (1944)",
+      "Leiyla and the Poet (1959)",
+      "Écrits et entretiens sur la musique électronique précoce"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique électronique et expérimentale",
+    "bibliography": [
+      "Archives et études sur les débuts de la musique électronique."
+    ],
+    "groups": []
+  },
+  {
+    "id": "bruno-maderna",
+    "name": "Bruno Maderna",
+    "years": "1920–1973",
+    "group": "Musique contemporaine",
+    "bio": "Compositeur et chef d'orchestre italien, Bruno Maderna est une figure centrale de l'avant-garde musicale européenne d'après-guerre. Cofondateur du Studio di fonologia musicale de la RAI à Milan avec Luciano Berio, il associe sérialisme, improvisation, électronique et liberté formelle. Son activité de chef contribue aussi à la diffusion de la musique contemporaine.",
+    "works": [
+      "Musica su due dimensioni (1952)",
+      "Hyperion (1964)",
+      "Grande Aulodia (1970)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique contemporaine",
+    "bibliography": [
+      "Études sur le Studio di fonologia musicale de Milan."
+    ],
+    "groups": []
+  },
+  {
+    "id": "luciano-berio",
+    "name": "Luciano Berio",
+    "years": "1925–2003",
+    "group": "Musique contemporaine",
+    "bio": "Compositeur italien, Luciano Berio explore les relations entre voix, langage, électronique et mémoire musicale. Avec Bruno Maderna, il fonde le Studio di fonologia musicale de la RAI à Milan. Ses œuvres associent virtuosité instrumentale, collage de références et recherche sur la parole, faisant de lui une figure essentielle des avant-gardes musicales d'après-guerre.",
+    "works": [
+      "Thema (Omaggio a Joyce) (1958)",
+      "Sinfonia (1968–1969)",
+      "Sequenza (cycle, 1958–2002)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique contemporaine",
+    "bibliography": [
+      "Luciano Berio, Entretiens et écrits; archives du Studio di fonologia."
+    ],
+    "groups": []
+  },
+  {
+    "id": "francois-bernard-mache",
+    "name": "François-Bernard Mâche",
+    "years": "1935–",
+    "group": "Musique contemporaine et écologie sonore",
+    "bio": "Compositeur français, François-Bernard Mâche développe une œuvre nourrie par l'ethnomusicologie, les langues, les mythes et les sons animaux. Il explore les analogies entre structures naturelles et formes musicales, et participe à l'élargissement du champ de la musique contemporaine vers l'écologie sonore et l'écoute du vivant.",
+    "works": [
+      "Korwar (1973)",
+      "Kassandra (1977)",
+      "L'Homme musical (1983)"
+    ],
+    "kind": "person",
+    "role_icon": "🎧",
+    "role_label": "Musique contemporaine et écologie sonore",
+    "bibliography": [
+      "François-Bernard Mâche, Musique, mythe, nature (1983)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "robert-cahen",
+    "name": "Robert Cahen",
+    "years": "1945–",
+    "group": "Vidéo et cinéma expérimental",
+    "bio": "Artiste français, Robert Cahen est l'une des figures pionnières de l'art vidéo et du cinéma expérimental en France. Formé à la musique concrète auprès de Pierre Schaeffer, il transpose dans l'image les procédés de transformation, de montage et de temporalité issus de l'électroacoustique. Ses vidéos ralentissent, déforment et recomposent les gestes et les paysages.",
+    "works": [
+      "L'Entr'aperçu (1980)",
+      "Juste le temps (1983)",
+      "Sanaa, passages en noir (2002)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Vidéo et cinéma expérimental",
+    "bibliography": [
+      "Centre Pompidou, collection Films et nouveaux médias."
+    ],
+    "groups": []
+  },
+  {
+    "id": "patrick-bokanowski",
+    "name": "Patrick Bokanowski",
+    "years": "1943–",
+    "group": "Cinéma expérimental",
+    "bio": "Cinéaste français, Patrick Bokanowski développe un cinéma artisanal où optique, animation, distorsions et travail de la pellicule transforment profondément la perception des formes. Ses films construisent des univers autonomes, souvent proches de la peinture et de la musique, et occupent une place singulière dans le cinéma expérimental français.",
+    "works": [
+      "La Femme qui se poudre (1972)",
+      "L'Ange (1982)",
+      "Au bord du lac (1994)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental",
+    "bibliography": [
+      "Light Cone, catalogue des films de Patrick Bokanowski."
+    ],
+    "groups": []
+  },
+  {
+    "id": "carolee-schneemann",
+    "name": "Carolee Schneemann",
+    "years": "1939–2019",
+    "group": "Performance et cinéma expérimental",
+    "bio": "Artiste américaine, Carolee Schneemann travaille la peinture, la performance, le corps et le cinéma. Ses films prolongent les expérimentations féministes et corporelles des années 1960–1970, mettant en question les normes du regard et la séparation entre art, vie et action. Son œuvre est essentielle à l'histoire de la performance et du cinéma expérimental féministe.",
+    "works": [
+      "Fuses (1964–1967)",
+      "Meat Joy (1964)",
+      "Interior Scroll (1975)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et cinéma expérimental",
+    "bibliography": [
+      "Carolee Schneemann, More Than Meat Joy (1979)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "yvonne-rainer",
+    "name": "Yvonne Rainer",
+    "years": "1934–",
+    "group": "Danse, performance et cinéma",
+    "bio": "Chorégraphe, danseuse et cinéaste américaine, Yvonne Rainer est une figure majeure de la danse postmoderne new-yorkaise. Membre fondatrice du Judson Dance Theater, elle remet en cause la virtuosité, la narration et les conventions scéniques. Ses films prolongent ces interrogations en travaillant le montage, le texte, le geste et les formes documentaires.",
+    "works": [
+      "Trio A (1966)",
+      "Lives of Performers (1972)",
+      "Privilege (1990)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Danse, performance et cinéma",
+    "bibliography": [
+      "Yvonne Rainer, Work 1961–73; écrits et archives du Judson Dance Theater."
+    ],
+    "groups": []
+  },
+  {
+    "id": "steina",
+    "name": "Steina",
+    "years": "1940–",
+    "group": "Art vidéo et nouveaux médias",
+    "bio": "Artiste islandaise installée aux États-Unis, Steina est une pionnière de l'art vidéo. Avec Woody Vasulka, elle explore dès les années 1970 les propriétés électroniques de l'image, les signaux, les synthétiseurs vidéo et les systèmes génératifs. Son travail individuel et collectif contribue à faire de la vidéo un champ d'expérimentation plastique et sonore.",
+    "works": [
+      "Violin Power (1970–1978)",
+      "Allvision (1976, avec Woody Vasulka)",
+      "Machine Vision (1978)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Art vidéo et nouveaux médias",
+    "bibliography": [
+      "Vasulka.org, archives et documentation."
+    ],
+    "groups": []
+  },
+  {
+    "id": "woody-vasulka",
+    "name": "Woody Vasulka",
+    "years": "1937–2019",
+    "group": "Art vidéo et nouveaux médias",
+    "bio": "Artiste d'origine tchèque installé aux États-Unis, Woody Vasulka est l'un des pionniers de l'art vidéo. Avec Steina, il fonde The Kitchen à New York et développe des recherches sur les signaux électroniques, les synthétiseurs vidéo et les transformations de l'image. Son travail théorique et technique est fondamental pour l'histoire des nouveaux médias.",
+    "works": [
+      "The West (1983)",
+      "Artifacts (1980)",
+      "The Kitchen, cofondation en 1971"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Art vidéo et nouveaux médias",
+    "bibliography": [
+      "Vasulka.org, archives et documentation."
+    ],
+    "groups": []
+  },
+  {
+    "id": "peter-greenaway",
+    "name": "Peter Greenaway",
+    "years": "1942–",
+    "group": "Cinéma et arts visuels",
+    "bio": "Cinéaste britannique, Peter Greenaway développe un cinéma marqué par la peinture, l'architecture, la classification et les dispositifs formels. Ses films multiplient les références picturales, les structures numériques et les récits enchâssés. Il entretient un dialogue constant avec les arts plastiques, l'opéra et les installations multimédias.",
+    "works": [
+      "The Draughtsman's Contract (1982)",
+      "A Zed & Two Noughts (1985)",
+      "The Tulse Luper Suitcases (2003–2004)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma et arts visuels",
+    "bibliography": [
+      "Études sur le cinéma et les installations de Peter Greenaway."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jean-vigo",
+    "name": "Jean Vigo",
+    "years": "1905–1934",
+    "group": "Cinéma poétique",
+    "bio": "Cinéaste français dont l'œuvre brève a profondément marqué le cinéma moderne, Jean Vigo associe observation sociale, lyrisme, liberté formelle et révolte. Ses films, réalisés dans les années 1930, échappent aux catégories et nourrissent aussi bien le cinéma documentaire que la fiction poétique. Il constitue un point de rencontre entre avant-garde et cinéma populaire.",
+    "works": [
+      "À propos de Nice (1930)",
+      "Zéro de conduite (1933)",
+      "L'Atalante (1934)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma poétique",
+    "bibliography": [
+      "Jean Vigo, œuvres cinématographiques complètes; Cinémathèque française."
+    ],
+    "groups": []
+  },
+  {
+    "id": "joris-ivens",
+    "name": "Joris Ivens",
+    "years": "1898–1989",
+    "group": "Cinéma documentaire et expérimental",
+    "bio": "Cinéaste néerlandais, Joris Ivens associe expérimentation formelle, cinéma documentaire et engagement politique. Ses premiers films explorent le mouvement, la lumière et le montage; ses œuvres ultérieures témoignent des luttes sociales et des bouleversements historiques. Sa collaboration avec Henri Storck sur Misère au Borinage est un jalon du documentaire militant.",
+    "works": [
+      "De Brug (1928)",
+      "Regen (1929)",
+      "Misère au Borinage (1933, avec Henri Storck)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma documentaire et expérimental",
+    "bibliography": [
+      "Joris Ivens, mémoires et filmographie; archives cinématographiques."
+    ],
+    "groups": []
+  },
+  {
+    "id": "ralph-steiner",
+    "name": "Ralph Steiner",
+    "years": "1899–1986",
+    "group": "Cinéma expérimental et documentaire",
+    "bio": "Photographe et cinéaste américain, Ralph Steiner participe au développement du cinéma documentaire et expérimental des années 1920–1930. Ses films observent machines, formes et mouvements avec une attention moderniste, tandis que son travail photographique s'inscrit dans la Nouvelle Vision américaine.",
+    "works": [
+      "H2O (1929)",
+      "Mechanical Principles (1930)",
+      "The City (1939, avec Willard Van Dyke et autres)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma expérimental et documentaire",
+    "bibliography": [
+      "Études sur le cinéma documentaire américain."
+    ],
+    "groups": []
+  },
+  {
+    "id": "ludwig-hirschfeld-mack",
+    "name": "Ludwig Hirschfeld-Mack",
+    "years": "1893–1965",
+    "group": "Bauhaus et arts lumineux",
+    "bio": "Artiste allemand et enseignant, Ludwig Hirschfeld-Mack développe au Bauhaus des expériences de projection lumineuse et de composition chromatique. Ses jeux de lumière articulent couleurs, rythmes et formes dans un espace temporel, à la frontière de la peinture, de la musique et du cinéma abstrait.",
+    "works": [
+      "Farbenlichtspiele (années 1920)",
+      "Dreiteilige Farben-Sonatine (1925)",
+      "Études sur le Bauhaus et le cinéma absolu."
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Bauhaus et arts lumineux",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "kurt-schwerdtfeger",
+    "name": "Kurt Schwerdtfeger",
+    "years": "1897–1966",
+    "group": "Bauhaus et arts lumineux",
+    "bio": "Artiste allemand associé au Bauhaus, Kurt Schwerdtfeger conçoit des dispositifs de projection où formes découpées, lumière et mouvement composent des tableaux abstraits en temps réel. Son Reflektorische Farblichtspiele compte parmi les expériences précoces de l'art lumineux et du cinéma élargi.",
+    "works": [
+      "Reflektorische Farblichtspiele (1922)",
+      "Dispositifs de lumière et de projection au Bauhaus",
+      "Études sur les expériences scéniques du Bauhaus."
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Bauhaus et arts lumineux",
+    "bibliography": [
+      "Monographies, catalogues et archives à consulter."
+    ],
+    "groups": []
+  },
+  {
+    "id": "arthur-lipsett",
+    "name": "Arthur Lipsett",
+    "years": "1936–1986",
+    "group": "Cinéma de montage",
+    "bio": "Cinéaste canadien, Arthur Lipsett réalise des films de montage sonore et visuel à partir de fragments d'images et de sons trouvés. Ses collages, souvent satiriques et inquiétants, révèlent les tensions de la société industrielle et médiatique. Son œuvre brève influence le cinéma expérimental et les pratiques de found footage.",
+    "works": [
+      "Very Nice, Very Nice (1961)",
+      "21-87 (1964)",
+      "Free Fall (1964)"
+    ],
+    "kind": "person",
+    "role_icon": "🎞️",
+    "role_label": "Cinéma de montage",
+    "bibliography": [
+      "Office national du film du Canada, archives Arthur Lipsett."
+    ],
+    "groups": []
+  },
+  {
+    "id": "dora-maar",
+    "name": "Dora Maar",
+    "years": "1907–1997",
+    "group": "Photographie et surréalisme",
+    "bio": "Photographe, peintre et artiste française, Dora Maar réalise des portraits, des photomontages et des images de rue avant de rejoindre les milieux surréalistes. Son travail photographique associe observation sociale, étrangeté et construction formelle. Elle documente aussi la genèse de Guernica et poursuit ensuite une œuvre picturale longtemps moins connue que sa relation avec Picasso.",
+    "works": [
+      "Portrait d'Ubu (1936)",
+      "Photomontages et photoreportages (années 1930)",
+      "Photographies de la réalisation de Guernica (1937)"
+    ],
+    "kind": "person",
+    "role_icon": "📷",
+    "role_label": "Photographie et surréalisme",
+    "bibliography": [
+      "Dora Maar, catalogues du Centre Pompidou et du Centre de la photographie."
+    ],
+    "groups": []
   }
 ]
