@@ -861,7 +861,9 @@
         "note": "Dossier Dada et œuvres de Picabia."
       }
     ],
-    "groups": []
+    "groups": [
+      "Surréalisme"
+    ]
   },
   {
     "id": "duchamp",
@@ -4743,8 +4745,6 @@
       }
     ],
     "groups": [
-      "ZAJ",
-      "Fluxus",
       "Musique expérimentale"
     ],
     "bibliography": [
@@ -8139,7 +8139,8 @@
       "nam-june-paik"
     ],
     "groups": [
-      "Musique expérimentale"
+      "Musique expérimentale",
+      "Fluxus"
     ]
   },
   {
@@ -10704,7 +10705,8 @@
     ],
     "groups": [
       "Musique expérimentale",
-      "Art conceptuel"
+      "Art conceptuel",
+      "Group Ongaku"
     ]
   },
   {
@@ -10998,7 +11000,8 @@
       "joe-jones"
     ],
     "groups": [
-      "Musique expérimentale"
+      "Musique expérimentale",
+      "Group Ongaku"
     ]
   },
   {
