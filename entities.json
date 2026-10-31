@@ -104,6 +104,9 @@
     "bibliography": [
       "Josef Šíma, catalogue de l'exposition organisée par l'Ambassade de la République tchèque à Paris, 2021.",
       "Joseph Sima, monographie et études consacrées à l'artiste, à compléter selon les éditions disponibles."
+    ],
+    "groups": [
+      "Grand Jeu"
     ]
   },
   {
@@ -166,7 +169,9 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "groups": [
-      "Acéphale"
+      "Acéphale",
+      "Surréalisme",
+      "Documents"
     ],
     "bibliography": [
       "L'Afrique fantôme, Gallimard, 1934.",
@@ -197,7 +202,9 @@
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "groups": [
-      "Acéphale"
+      "Acéphale",
+      "Surréalisme",
+      "Documents"
     ],
     "bibliography": [
       "André Masson, catalogue raisonné et monographies à consulter selon les périodes de l'œuvre.",
@@ -228,7 +235,8 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "groups": [
-      "Acéphale"
+      "Acéphale",
+      "Documents"
     ],
     "bibliography": [
       "Histoire de l'œil, 1928 (sous le pseudonyme Lord Auch).",
@@ -1135,6 +1143,9 @@
         "url": "https://www.centrepompidou.fr/",
         "note": "Collections photographiques et ressources sur Documents."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -5385,6 +5396,9 @@
       "john-cage",
       "laurie-anderson",
       "brian-eno"
+    ],
+    "groups": [
+      "Art conceptuel"
     ]
   },
   {
@@ -5909,6 +5923,9 @@
         "url": "https://www.henri-lefebvre.org/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
+    ],
+    "groups": [
+      "Situationnisme"
     ]
   },
   {
@@ -8820,6 +8837,10 @@
       "varvara-stepanova",
       "liubov-popova",
       "el-lissitzky"
+    ],
+    "groups": [
+      "Photographie",
+      "Avant-garde russe"
     ]
   },
   {
@@ -9501,6 +9522,9 @@
       "varvara-stepanova",
       "alexander-vesnin",
       "moisei-ginzburg"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -9921,6 +9945,9 @@
       "filippo-tommaso-marinetti",
       "umberto-boccioni",
       "giacomo-balla"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -10061,6 +10088,9 @@
       "fortu-depero",
       "giacomo-balla",
       "george-maciunas"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -10221,7 +10251,8 @@
     "role_icon": "🎭",
     "role_label": "Performance",
     "groups": [
-      "Art vidéo"
+      "Art vidéo",
+      "Musique expérimentale"
     ],
     "bibliography": [
       "John G. Hanhardt (dir.), The Worlds of Nam June Paik, Guggenheim Museum, 2000.",
@@ -10382,6 +10413,10 @@
       "alison-knowles",
       "george-maciunas",
       "takehisa-kosugi"
+    ],
+    "groups": [
+      "Musique expérimentale",
+      "Art conceptuel"
     ]
   },
   {
@@ -10665,6 +10700,9 @@
       "mieko-shiomi",
       "nam-june-paik",
       "joe-jones"
+    ],
+    "groups": [
+      "Musique expérimentale"
     ]
   },
   {
@@ -10700,6 +10738,9 @@
       "nam-june-paik",
       "charlotte-moorman",
       "yoko-ono"
+    ],
+    "groups": [
+      "Art vidéo"
     ]
   },
   {
@@ -11906,7 +11947,8 @@
       "vitezslav-nezval"
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Photographie"
     ]
   },
   {
@@ -12053,7 +12095,8 @@
       "jindrich-styrsky"
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Photographie"
     ]
   },
   {
@@ -12088,6 +12131,9 @@
       "karel-appel",
       "constant-nieuwenhuys",
       "corneille"
+    ],
+    "groups": [
+      "Situationnisme"
     ]
   },
   {
@@ -13274,7 +13320,8 @@
       }
     ],
     "groups": [
-      "Acéphale"
+      "Acéphale",
+      "Surréalisme"
     ],
     "bibliography": [
       "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
@@ -13430,6 +13477,9 @@
       "esther-ferrer",
       "ramon-barce",
       "tomas-marco"
+    ],
+    "groups": [
+      "Art conceptuel"
     ]
   },
   {
