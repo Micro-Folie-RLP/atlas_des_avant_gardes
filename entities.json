@@ -18805,5 +18805,581 @@
       "Janet A. Kaplan, Unexpected Journeys, 1988."
     ],
     "groups": []
+  },
+  {
+    "id": "erik-satie",
+    "name": "Erik Satie",
+    "years": "1866–1925",
+    "group": "Musique, modernités et précurseurs",
+    "bio": "Compositeur et pianiste français, Erik Satie développe dès les années 1880 une écriture d'une économie radicale, faite de répétitions, de formes brèves, de modalité et d'un humour qui conteste les conventions du concert. Proche des milieux symbolistes et de la Rose-Croix de Joséphin Péladan, il compose une musique de scène pour Le Fils des étoiles avant de prendre ses distances avec l'occultisme. Installé à Arcueil, il invente le concept de « musique d'ameublement », collabore avec Jean Cocteau, Picasso et les Ballets russes pour Parade, puis devient une figure tutélaire de plusieurs modernités musicales, de Dada à l'avant-garde d'après-guerre.",
+    "works": [
+      "Trois Gymnopédies (1888)",
+      "Six Gnossiennes (vers 1890–1897)",
+      "Le Fils des étoiles (1891)",
+      "Messe des pauvres (1895)",
+      "Trois morceaux en forme de poire (1903)",
+      "Parade (1917, ballet)",
+      "Socrate (1918)",
+      "Relâche (1924)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Musique",
+    "bibliography": [
+      "Erik Satie, Écrits, réunis par Ornella Volta, Champ Libre, 1977.",
+      "Erik Satie, Correspondance presque complète, réunie et présentée par Ornella Volta, Fayard, 2000.",
+      "Caroline Potter, Erik Satie: A Parisian Composer and His World, Boydell Press, 2016.",
+      "Mary E. Davis, Erik Satie, Reaktion Books, 2007."
+    ],
+    "groups": [
+      "Dada",
+      "Précurseurs / expérimentations"
+    ]
+  },
+  {
+    "id": "guillaume-apollinaire",
+    "name": "Guillaume Apollinaire",
+    "years": "1880–1918",
+    "group": "Poésie, cubisme et avant-gardes",
+    "bio": "Poète, critique d'art et écrivain, Guillaume Apollinaire joue un rôle de passeur entre symbolisme, cubisme, futurisme et premières avant-gardes du XXe siècle. Animateur de revues et défenseur des peintres nouveaux, il forge le terme « orphisme » et accompagne la reconnaissance du cubisme dans Les Peintres cubistes. Alcools renouvelle la poésie par le montage des voix, la juxtaposition des registres et la suppression de la ponctuation; Calligrammes associe disposition typographique et image. Son théâtre, notamment Les Mamelles de Tirésias, donne le sous-titre « drame surréaliste » à une pièce de 1917, avant même la constitution du mouvement.",
+    "works": [
+      "L'Enchanteur pourrissant (1909)",
+      "Le Bestiaire ou Cortège d'Orphée (1911)",
+      "Alcools (1913)",
+      "Les Peintres cubistes (1913)",
+      "Les Mamelles de Tirésias (1917)",
+      "Calligrammes (1918)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie et critique",
+    "bibliography": [
+      "Guillaume Apollinaire, Alcools, Mercure de France, 1913.",
+      "Guillaume Apollinaire, Les Peintres cubistes, Eugène Figuière, 1913.",
+      "Guillaume Apollinaire, Calligrammes, Mercure de France, 1918.",
+      "Michel Décaudin, Le Dossier d'Alcools, Droz, 1960.",
+      "Peter Read, Apollinaire et les Mamelles de Tirésias, Presses universitaires de Rennes, 2000."
+    ],
+    "groups": [
+      "Cubisme",
+      "Précurseurs du surréalisme"
+    ]
+  },
+  {
+    "id": "julio-cortazar",
+    "name": "Julio Cortázar",
+    "years": "1914–1984",
+    "group": "Littérature internationale et expérimentations",
+    "bio": "Écrivain et traducteur argentin, né à Bruxelles et installé à Paris à partir de 1951, Julio Cortázar renouvelle le récit fantastique en faisant surgir l'étrange au cœur du quotidien. Lecteur de Poe, de Cocteau et des avant-gardes européennes, il conçoit la fiction comme une expérience de perception et de lecture. Marelle propose plusieurs parcours possibles et transforme le lecteur en participant actif; ses nouvelles, ses collages et ses livres-almanachs brouillent les frontières entre genres, jeu et littérature. Son œuvre tardive associe expérimentation formelle et engagement politique latino-américain.",
+    "works": [
+      "Bestiaire (1951)",
+      "Les Armes secrètes (1959)",
+      "Les Gagnants (1960)",
+      "Marelle (1963)",
+      "Tous les feux le feu (1966)",
+      "62 modèle à monter (1968)",
+      "Le Livre de Manuel (1973)",
+      "Territoires (1978)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature expérimentale",
+    "bibliography": [
+      "Julio Cortázar, Bestiaire, Sudamericana, 1951.",
+      "Julio Cortázar, Marelle, Sudamericana, 1963.",
+      "Julio Cortázar, La vuelta al día en ochenta mundos, Siglo XXI, 1967.",
+      "Mario Goloboff, Julio Cortázar: la biografía, Seix Barral, 1998.",
+      "Jaime Alazraki, Hacia Cortázar: aproximaciones a su obra, Anthropos, 1994."
+    ],
+    "groups": [
+      "Littératures internationales",
+      "Littérature expérimentale"
+    ]
+  },
+  {
+    "id": "william-morris",
+    "name": "William Morris",
+    "years": "1834–1896",
+    "group": "Arts, artisanat et précurseurs",
+    "bio": "Écrivain, poète, designer, imprimeur et militant socialiste britannique, William Morris combat la séparation entre beaux-arts, artisanat et production industrielle. Cofondateur du mouvement Arts and Crafts, il défend le travail manuel, la qualité des matériaux et l'unité de l'art et de la vie quotidienne. Son atelier Morris & Co. renouvelle les arts décoratifs; sa Kelmscott Press contribue au renouveau du livre comme objet conçu dans toutes ses dimensions. Ses romans utopiques, notamment News from Nowhere, nourrissent durablement les imaginaires critiques de la modernité industrielle.",
+    "works": [
+      "The Defence of Guenevere (1858)",
+      "The Earthly Paradise (1868–1870)",
+      "A Dream of John Ball (1888)",
+      "News from Nowhere (1890)",
+      "The Well at the World's End (1896)",
+      "Kelmscott Chaucer (1896, édition imprimée)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Arts et design",
+    "bibliography": [
+      "William Morris, News from Nowhere, 1890.",
+      "William Morris, The Wood Beyond the World, 1894.",
+      "E. P. Thompson, William Morris: Romantic to Revolutionary, 1955.",
+      " Fiona MacCarthy, William Morris: A Life for Our Time, Faber and Faber, 1994.",
+      "Peter Faulkner (dir.), William Morris: The Critical Heritage, Routledge, 1973."
+    ],
+    "groups": [
+      "Arts and Crafts",
+      "Précurseurs"
+    ]
+  },
+  {
+    "id": "joris-karl-huysmans",
+    "name": "Joris-Karl Huysmans",
+    "years": "1848–1907",
+    "group": "Symbolisme, décadence et précurseurs",
+    "bio": "Romancier et critique d'art français, Joris-Karl Huysmans passe du naturalisme des Soirées de Médan à une esthétique décadente qui fait de la sensation, de l'artifice et de la subjectivité des principes littéraires. À rebours devient un livre-manifeste de la fin-de-siècle, admiré par les symbolistes et les futurs modernistes. Huysmans contribue aussi à faire connaître des artistes comme Odilon Redon et Gustave Moreau. Sa trajectoire se poursuit vers le mysticisme catholique, sans effacer l'importance de son exploration des marges esthétiques et de la crise du naturalisme.",
+    "works": [
+      "Marthe, histoire d'une fille (1876)",
+      "Les Sœurs Vatard (1879)",
+      "À vau-l'eau (1882)",
+      "À rebours (1884)",
+      "En rade (1887)",
+      "Là-bas (1891)",
+      "En route (1895)",
+      "La Cathédrale (1898)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature",
+    "bibliography": [
+      "J.-K. Huysmans, À rebours, Charpentier, 1884.",
+      "J.-K. Huysmans, Là-bas, Tresse & Stock, 1891.",
+      "Robert Baldick, The Life of J.-K. Huysmans, Oxford University Press, 1955.",
+      "André Guyaux, À rebours de J.-K. Huysmans, Gallimard, Foliothèque, 2004."
+    ],
+    "groups": [
+      "Symbolisme / précurseurs",
+      "Littérature moderne"
+    ]
+  },
+  {
+    "id": "john-dos-passos",
+    "name": "John Dos Passos",
+    "years": "1896–1970",
+    "group": "Modernismes et roman expérimental",
+    "bio": "Romancier et essayiste américain, John Dos Passos transforme le roman en dispositif de montage où s'entrecroisent trajectoires individuelles, actualités, chansons populaires et fragments documentaires. Son expérience de la Première Guerre mondiale nourrit une œuvre critique envers le capitalisme et les mythologies nationales. La trilogie U.S.A. combine récits, biographies condensées, actualités et séquences de caméra, anticipant certaines techniques du montage cinématographique et du collage littéraire. Son écriture fait de la ville moderne, des médias et de la circulation des discours des matériaux romanesques.",
+    "works": [
+      "Three Soldiers (1921)",
+      "Manhattan Transfer (1925)",
+      "The 42nd Parallel (1930)",
+      "1919 (1932)",
+      "The Big Money (1936)",
+      "U.S.A. (trilogie, 1930–1936)",
+      "The Ground We Stand On (1941)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Roman moderniste",
+    "bibliography": [
+      "John Dos Passos, Manhattan Transfer, Harper & Brothers, 1925.",
+      "John Dos Passos, U.S.A., Harcourt, Brace, 1938 (édition réunissant la trilogie).",
+      "Townsend Ludington, John Dos Passos: A Twentieth Century Odyssey, Dutton, 1980.",
+      "Donald Pizer, Dos Passos' U.S.A.: A Critical Study, University Press of Virginia, 1988."
+    ],
+    "groups": [
+      "Littératures américaines",
+      "Modernismes"
+    ]
+  },
+  {
+    "id": "ernst-junger",
+    "name": "Ernst Jünger",
+    "years": "1895–1998",
+    "group": "Modernismes, témoignage et pensée",
+    "bio": "Écrivain et essayiste allemand, Ernst Jünger tire de son expérience de la Première Guerre mondiale une écriture du combat qui rompt avec le récit héroïque traditionnel autant qu'elle le réinvestit. Orages d'acier, composé à partir de ses carnets, transforme le témoignage en construction littéraire et sensorielle. Dans les années 1930, Le Travailleur propose une interprétation de la technique et de la mobilisation totale; ses journaux, essais et récits ultérieurs explorent la perception, l'individu et les transformations de la modernité. Son œuvre, politiquement controversée, exige de distinguer l'expérimentation formelle de ses engagements historiques.",
+    "works": [
+      "Orages d'acier (1920)",
+      "Le Boqueteau 125 (1925)",
+      "La Guerre comme expérience intérieure (1922)",
+      "Le Travailleur (1932)",
+      "Sur les falaises de marbre (1939)",
+      "Journal, notamment Jardins et routes (1942)",
+      "Approches, drogues et ivresses (1970)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature et pensée",
+    "bibliography": [
+      "Ernst Jünger, In Stahlgewittern, 1920.",
+      "Ernst Jünger, Der Arbeiter, 1932.",
+      "Ernst Jünger, Das Abenteuerliche Herz, 1929/1938.",
+      "Helmuth Kiesel, Ernst Jünger: Die Biographie, Siedler, 2007.",
+      "Nicolas Sombart, Les Hommes sont-ils devenus des dieux?, 1992."
+    ],
+    "groups": [
+      "Littérature / témoignage",
+      "Modernismes"
+    ]
+  },
+  {
+    "id": "jacques-riviere",
+    "name": "Jacques Rivière",
+    "years": "1886–1925",
+    "group": "Revues, critique et modernités",
+    "bio": "Écrivain et critique français, Jacques Rivière est l'une des figures décisives de la Nouvelle Revue française, dont il devient directeur en 1919. Son travail éditorial accompagne l'émergence de plusieurs écrivains majeurs et contribue à définir une modernité littéraire attentive à la forme, à la conscience et à l'expérience intérieure. Son essai sur le roman d'aventure et ses réflexions sur le processus créateur témoignent d'une critique qui cherche à comprendre les œuvres de l'intérieur. Sa correspondance avec Antonin Artaud constitue un document essentiel sur la réception et les tensions de l'avant-garde.",
+    "works": [
+      "Études (1912)",
+      "Le Roman d'aventure (1913)",
+      "A la trace de Dieu (1925)",
+      "De la foi (posthume, 1925)",
+      "Correspondance avec Antonin Artaud (1924–1925)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Critique et édition",
+    "bibliography": [
+      "Jacques Rivière, Le Roman d'aventure, NRF, 1913.",
+      "Jacques Rivière, Études, NRF, 1912.",
+      "Antonin Artaud et Jacques Rivière, Correspondance, NRF, 1927.",
+      "Alain Rivière, Jacques Rivière, biographie et études critiques, Gallimard."
+    ],
+    "groups": [
+      "Revues et édition",
+      "Littérature / théorie"
+    ]
+  },
+  {
+    "id": "william-faulkner",
+    "name": "William Faulkner",
+    "years": "1897–1962",
+    "group": "Littératures américaines et modernismes",
+    "bio": "Romancier et nouvelliste américain, William Faulkner invente avec le comté fictif de Yoknapatawpha un territoire littéraire où s'entrelacent mémoire, violence, histoire familiale et héritage du Sud des États-Unis. Ses récits multiplient les points de vue, les temporalités disjointes, les monologues intérieurs et les narrateurs peu fiables. Le Bruit et la Fureur radicalise la fragmentation narrative; Tandis que j'agonise fait entendre une polyphonie de voix. Son œuvre devient l'un des pôles majeurs du modernisme romanesque international et influence durablement les écrivains expérimentaux.",
+    "works": [
+      "The Sound and the Fury (1929)",
+      "As I Lay Dying (1930)",
+      "Sanctuary (1931)",
+      "Light in August (1932)",
+      "Absalom, Absalom! (1936)",
+      "The Wild Palms (1939)",
+      "Go Down, Moses (1942)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Roman moderniste",
+    "bibliography": [
+      "William Faulkner, The Sound and the Fury, Jonathan Cape & Harrison Smith, 1929.",
+      "William Faulkner, As I Lay Dying, Jonathan Cape & Harrison Smith, 1930.",
+      "Cleanth Brooks, William Faulkner: The Yoknapatawpha Country, Yale University Press, 1963.",
+      "André Bleikasten, The Ink of Melancholy: Faulkner's Novels from The Sound and the Fury to Light in August, Indiana University Press, 1990."
+    ],
+    "groups": [
+      "Littératures américaines",
+      "Modernismes"
+    ]
+  },
+  {
+    "id": "joseph-conrad",
+    "name": "Joseph Conrad",
+    "years": "1857–1924",
+    "group": "Précurseurs du modernisme littéraire",
+    "bio": "Romancier britannique d'origine polonaise, Joseph Conrad fait de l'incertitude du récit et de la crise du témoignage les ressorts de son œuvre. Ancien marin, il transforme l'expérience maritime et coloniale en récits où les événements sont reconstruits par des narrateurs partiels, notamment Marlow. Lord Jim et Au cœur des ténèbres explorent la responsabilité, l'identité et l'opacité morale; leur structure enchâssée et leur temporalité complexe annoncent des procédés modernistes. Son regard sur l'impérialisme reste ambivalent et fait l'objet de débats critiques importants.",
+    "works": [
+      "Almayer's Folly (1895)",
+      "An Outcast of the Islands (1896)",
+      "The Nigger of the 'Narcissus' (1897)",
+      "Heart of Darkness (1899)",
+      "Lord Jim (1900)",
+      "Nostromo (1904)",
+      "The Secret Agent (1907)",
+      "Under Western Eyes (1911)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Roman moderniste",
+    "bibliography": [
+      "Joseph Conrad, Heart of Darkness, Blackwood's Magazine, 1899; volume, 1902.",
+      "Joseph Conrad, Lord Jim, 1900.",
+      "Joseph Conrad, The Secret Agent, 1907.",
+      "Ian Watt, Conrad in the Nineteenth Century, University of California Press, 1979.",
+      "Cedric Watts, A Preface to Conrad, Longman, 1993."
+    ],
+    "groups": [
+      "Précurseurs",
+      "Modernismes"
+    ]
+  },
+  {
+    "id": "alfred-schnittke",
+    "name": "Alfred Schnittke",
+    "years": "1934–1998",
+    "group": "Musique contemporaine et postmodernité",
+    "bio": "Compositeur russo-allemand, Alfred Schnittke développe une musique marquée par le pluralisme stylistique, la citation, le collage et la confrontation de langages historiques. Il nomme « polystylisme » cette coexistence volontaire de matériaux hétérogènes, qui traverse ses symphonies, concertos, musique de chambre et musiques de film. Son œuvre dialogue avec Mahler, le baroque, le jazz et les avant-gardes, sans se réduire à une simple esthétique de la citation. Elle constitue un jalon essentiel des débats sur la postmodernité musicale à la fin du XXe siècle.",
+    "works": [
+      "Concerto grosso n° 1 (1977)",
+      "Symphonie n° 1 (1972)",
+      "Requiem (1975–1977)",
+      "Concerto pour piano et cordes (1979)",
+      "Symphonie n° 5 / Concerto grosso n° 4 (1988)",
+      "Opéra La Vie avec un idiot (1991)",
+      "Symphonie n° 8 (1994)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Musique contemporaine",
+    "bibliography": [
+      "Alfred Schnittke, A Schnittke Reader, éd. Alexander Ivashkin, Indiana University Press, 2002.",
+      "Alexander Ivashkin, Alfred Schnittke, Phaidon, 1996.",
+      "Alfred Schnittke, Conversations with Alfred Schnittke, éd. Alexander Ivashkin, Faber and Faber, 1995.",
+      "David Fanning, The Music of Alfred Schnittke, Routledge, 2004."
+    ],
+    "groups": [
+      "Musique contemporaine",
+      "Postmodernité"
+    ]
+  },
+  {
+    "id": "gavin-bryars",
+    "name": "Gavin Bryars",
+    "years": "1943–",
+    "group": "Musique expérimentale et minimalisme",
+    "bio": "Compositeur britannique, contrebassiste et ancien improvisateur, Gavin Bryars passe des scènes de l'improvisation libre à une écriture personnelle qui associe processus répétitifs, matériaux trouvés, mémoire et lente transformation. Il joue avec Derek Bailey et Tony Oxley avant de composer The Sinking of the Titanic, œuvre ouverte dont les versions successives incorporent des témoignages, des enregistrements et des résonances historiques. Jesus' Blood Never Failed Me Yet fait entendre en boucle la voix d'un sans-abri londonien, autour de laquelle l'orchestre se développe progressivement. Son travail brouille les frontières entre composition, document et installation sonore.",
+    "works": [
+      "The Sinking of the Titanic (1969–1972)",
+      "Jesus' Blood Never Failed Me Yet (1971)",
+      "1, 2, 1-2-3-4 (1971)",
+      "The Porazzi Fragment (1999)",
+      "A Man in a Room, Gambling (1992)",
+      "The Fifth Century (1994)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Musique expérimentale",
+    "bibliography": [
+      "Gavin Bryars, The Sinking of the Titanic, éditions et enregistrements successifs.",
+      "Gavin Bryars, notes et entretiens réunis dans les archives de l'éditeur et de l'artiste.",
+      "Richard Toop, Gavin Bryars, dans les études sur la musique expérimentale britannique.",
+      "Michael Nyman, Experimental Music: Cage and Beyond, 2e éd., Cambridge University Press, 1999."
+    ],
+    "groups": [
+      "Improvisation libre européenne",
+      "Musique expérimentale"
+    ]
+  },
+  {
+    "id": "pierre-schaeffer",
+    "name": "Pierre Schaeffer",
+    "years": "1910–1995",
+    "group": "Musique concrète et art sonore",
+    "bio": "Ingénieur, chercheur, écrivain et compositeur français, Pierre Schaeffer fonde au sein de la Radiodiffusion française le Studio d'essai puis le Groupe de recherche de musique concrète. À partir de 1948, il expérimente l'enregistrement, le montage, la boucle et la transformation des sons enregistrés, proposant d'écouter les objets sonores indépendamment de leur source. La musique concrète déplace ainsi la composition du domaine exclusif de la note vers celui du son fixé et manipulé. Son Traité des objets musicaux formalise une pensée de l'écoute qui influence durablement la création électroacoustique.",
+    "works": [
+      "Étude aux chemins de fer (1948)",
+      "Symphonie pour un homme seul (avec Pierre Henry, 1950)",
+      "Étude pathétique (1951)",
+      "Orphée 53 (avec Pierre Henry, 1953)",
+      "Étude aux objets (1959)",
+      "Traité des objets musicaux (1966)",
+      "Solfège de l'objet sonore (1967)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Musique concrète",
+    "bibliography": [
+      "Pierre Schaeffer, À la recherche d'une musique concrète, Seuil, 1952.",
+      "Pierre Schaeffer, Traité des objets musicaux, Seuil, 1966.",
+      "Pierre Schaeffer, La musique concrète, Presses universitaires de France, 1967.",
+      "Michel Chion, Guide des objets sonores, Buchet-Chastel, 1983."
+    ],
+    "groups": [
+      "Musique expérimentale",
+      "Art sonore"
+    ]
+  },
+  {
+    "id": "gerard-de-nerval",
+    "name": "Gérard de Nerval",
+    "years": "1808–1855",
+    "group": "Romantisme, symbolisme et précurseurs",
+    "bio": "Poète et prosateur français, Gérard de Nerval ouvre dans le romantisme une voie où mémoire, rêve, mythe et expérience vécue deviennent indissociables. Ses traductions de Goethe contribuent à faire connaître Faust en France; ses récits et poèmes transforment les paysages réels en espaces de réminiscence et de légende. Aurélia, récit de rêve et de crise intérieure, et Les Chimères, suite de sonnets d'une densité symbolique exceptionnelle, exercent une influence profonde sur les symbolistes et les surréalistes, qui reconnaissent en lui un précurseur de l'exploration poétique de l'inconscient.",
+    "works": [
+      "Les Filles du feu (1854)",
+      "Sylvie (1853)",
+      "Les Chimères (1854)",
+      "Aurélia (1855, publication en revue)",
+      "Voyage en Orient (1851)",
+      "La Bohème galante (1852)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie et rêve",
+    "bibliography": [
+      "Gérard de Nerval, Les Filles du feu, Michel Lévy, 1854.",
+      "Gérard de Nerval, Les Chimères, 1854.",
+      "Gérard de Nerval, Aurélia, 1855.",
+      "Bertrand Marchal, Lectures de Nerval, 1997.",
+      "Michel Brix, Nerval, Mercure de France, 2001."
+    ],
+    "groups": [
+      "Symbolisme / précurseurs",
+      "Précurseurs du surréalisme"
+    ]
+  },
+  {
+    "id": "charles-cros",
+    "name": "Charles Cros",
+    "years": "1842–1888",
+    "group": "Poésie, science et précurseurs",
+    "bio": "Poète, inventeur et humoriste français, Charles Cros mène de front une œuvre littéraire et des recherches scientifiques. Il conçoit en 1877 un procédé de reproduction des sons par le paléophone, indépendamment des travaux d'Edison, et contribue à l'histoire de la photographie couleur. Ses poèmes, souvent ironiques et formellement inventifs, annoncent certaines libertés du symbolisme et de la poésie moderne. Son parcours incarne une rencontre précoce entre expérimentation scientifique, technique et création poétique.",
+    "works": [
+      "Le Coffret de santal (1873)",
+      "Le Fleuve (1874)",
+      "Le Collier de griffes (posthume, 1908)",
+      "Procédé d'enregistrement et de reproduction des phénomènes perçus par l'ouïe (1877)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie et invention",
+    "bibliography": [
+      "Charles Cros, Le Coffret de santal, 1873.",
+      "Charles Cros, Le Collier de griffes, 1908 (posthume).",
+      "Charles Cros, Œuvres complètes, édition établie par Pierre-Olivier Walzer, Gallimard, Bibliothèque de la Pléiade, 1970.",
+      "Jean-Pierre Bobillot, Charles Cros: poète et inventeur, études critiques."
+    ],
+    "groups": [
+      "Symbolisme / précurseurs",
+      "Poésie / modernités"
+    ]
+  },
+  {
+    "id": "jules-laforgue",
+    "name": "Jules Laforgue",
+    "years": "1860–1887",
+    "group": "Symbolisme et modernités poétiques",
+    "bio": "Poète franco-uruguayen, Jules Laforgue renouvelle la poésie par l'ironie, le mélange des registres, l'oralité et l'introduction de rythmes familiers dans des formes savantes. Lecteur de Schopenhauer et de Hartmann, il développe une poésie de la désillusion moderne, du masque et du dédoublement. Ses Complaintes et ses derniers textes en vers libres exercent une influence importante sur T. S. Eliot, Ezra Pound et les poétiques modernistes.",
+    "works": [
+      "Les Complaintes (1885)",
+      "L'Imitation de Notre-Dame la Lune (1886)",
+      "Le Concile féerique (1886)",
+      "Derniers vers (1890, posthume)",
+      "Moralités légendaires (1887)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie",
+    "bibliography": [
+      "Jules Laforgue, Les Complaintes, Léon Vanier, 1885.",
+      "Jules Laforgue, L'Imitation de Notre-Dame la Lune, 1886.",
+      "Jules Laforgue, Moralités légendaires, 1887.",
+      "Pascal Pia, Jules Laforgue, Seghers, 1962.",
+      "Jean-Pierre Bertrand, Jules Laforgue: l'originalité, 2005."
+    ],
+    "groups": [
+      "Symbolisme / précurseurs",
+      "Poésie / modernités"
+    ]
+  },
+  {
+    "id": "blaise-cendrars",
+    "name": "Blaise Cendrars",
+    "years": "1887–1961",
+    "group": "Modernités poétiques et montage",
+    "bio": "Écrivain, poète et voyageur d'origine suisse, Blaise Cendrars fait de la mobilité, de la vitesse, de la ville et de la circulation des images les principes d'une poésie nouvelle. La Prose du Transsibérien, conçue avec Sonia Delaunay, associe texte et couleurs dans un livre simultanéiste devenu emblématique des avant-gardes. Ses récits mêlent autobiographie, invention, reportage et légende personnelle, tandis que son écriture absorbe les rythmes du cinéma, de la publicité et de la culture populaire.",
+    "works": [
+      "Les Pâques à New York (1912)",
+      "La Prose du Transsibérien et de la petite Jehanne de France (1913)",
+      "La Guerre au Luxembourg (1916)",
+      "L'Or (1925)",
+      "Moravagine (1926)",
+      "L'Homme foudroyé (1945)",
+      "La Main coupée (1946)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Poésie et modernité",
+    "bibliography": [
+      "Blaise Cendrars, La Prose du Transsibérien, avec Sonia Delaunay, 1913.",
+      "Blaise Cendrars, L'Or, Grasset, 1925.",
+      "Blaise Cendrars, L'Homme foudroyé, Denoël, 1945.",
+      "Miriam Cendrars, Blaise Cendrars, Balland, 1984.",
+      "Christine Le Quellec Cottier, Devenir Cendrars, Champion, 2004."
+    ],
+    "groups": [
+      "Modernismes",
+      "Poésie / modernités"
+    ]
+  },
+  {
+    "id": "hermann-broch",
+    "name": "Hermann Broch",
+    "years": "1886–1951",
+    "group": "Modernismes et roman expérimental",
+    "bio": "Romancier et essayiste autrichien, Hermann Broch cherche à donner une forme littéraire à la crise des systèmes de valeurs et à la fragmentation du monde moderne. La trilogie Les Somnambules fait évoluer son écriture du réalisme vers des formes essayistiques et lyriques; La Mort de Virgile pousse plus loin l'expérimentation en faisant de la conscience et du langage les véritables lieux de l'action. Son œuvre met en relation roman, philosophie, sociologie et théorie de la connaissance.",
+    "works": [
+      "Les Somnambules (1931–1932)",
+      "La Mort de Virgile (1945)",
+      "Les Irresponsables (1950)",
+      "Théorie de la folie des masses (posthume, 1979)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Roman expérimental",
+    "bibliography": [
+      "Hermann Broch, Die Schlafwandler, 1931–1932.",
+      "Hermann Broch, Der Tod des Vergil, 1945.",
+      "Hermann Broch, Massenwahntheorie, 1979.",
+      "Paul Michael Lützeler, Hermann Broch: A Biography, 1986.",
+      "Michael P. Steinberg, The Fiction of the Moderns: Cultural Criticism and the Theory of the Novel, 1991."
+    ],
+    "groups": [
+      "Modernismes",
+      "Philosophie / esthétique"
+    ]
+  },
+  {
+    "id": "luc-ferrari",
+    "name": "Luc Ferrari",
+    "years": "1929–2005",
+    "group": "Musique concrète et art sonore",
+    "bio": "Compositeur français, Luc Ferrari participe aux premières recherches de la musique concrète au Groupe de recherches musicales, avant de développer une œuvre personnelle ouverte aux sons du monde, à la narration et à l'enregistrement documentaire. Presque rien avec les bruits de la rue, les voix et les paysages sonores introduit dans la composition une écoute du réel qui échappe à la séparation entre musique et environnement. Cofondateur du collectif La Muse en circuit, il explore aussi la radio, l'installation et les formes hybrides.",
+    "works": [
+      "Hétérozygote (1963–1964)",
+      "Presque rien n° 1: Le Lever du jour au bord de la mer (1970)",
+      "Presque rien n° 2: Ainsi continue la nuit dans ma tête multiple (1977)",
+      "Tautologos (1961–1962)",
+      "Far-West News (1998)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Art sonore",
+    "bibliography": [
+      "Luc Ferrari, Musiques dans les spasmes, éditions de l'Attente, 2007.",
+      "Luc Ferrari, À la recherche du son, entretiens et textes, INA/GRM.",
+      "Évelyne Gayou, Luc Ferrari: portrait d'un compositeur, INA, 2007.",
+      "Luc Ferrari, archives et catalogue de l'œuvre, La Muse en circuit."
+    ],
+    "groups": [
+      "Musique expérimentale",
+      "Art sonore"
+    ]
+  },
+  {
+    "id": "mauricio-kagel",
+    "name": "Mauricio Kagel",
+    "years": "1931–2008",
+    "group": "Musique contemporaine et théâtre musical",
+    "bio": "Compositeur, chef d'orchestre et réalisateur argentin puis allemand, Mauricio Kagel renouvelle le concert en faisant du geste instrumental, du corps des interprètes et de la situation scénique des matériaux de composition. Ses œuvres de théâtre musical interrogent avec humour les conventions de l'écoute et de la virtuosité. Il développe une dramaturgie où sons, paroles, objets et actions se répondent, influençant durablement les pratiques interdisciplinaires de la musique contemporaine.",
+    "works": [
+      "Anagrama (1957–1958)",
+      "Sur scène (1960)",
+      "Staatstheater (1967–1970)",
+      "Exotica (1972)",
+      "Ludwig van (1970)",
+      "Die Stücke der Windrose (1988–1994)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Théâtre musical",
+    "bibliography": [
+      "Mauricio Kagel, Worte über Musik, Piper, 1991.",
+      "Mauricio Kagel, Tam-Tam: Monologe und Dialoge, Piper, 1975.",
+      "Björn Heile, The Music of Mauricio Kagel, Ashgate, 2006.",
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999."
+    ],
+    "groups": [
+      "Musique expérimentale",
+      "Avant-gardes / théâtre"
+    ]
   }
 ]
