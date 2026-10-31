@@ -919,7 +919,9 @@
     "kind": "person",
     "role_icon": "🗿",
     "role_label": "Arts visuels et poésie",
-    "groups": [],
+    "groups": [
+      "Surréalisme"
+    ],
     "bibliography": [
       "Jours effeuillés : poèmes, essais, souvenirs, 1920-1965, Gallimard, 1966.",
       "Hans Arp / Sophie Taeuber-Arp. Exploracions mútues, catalogue, 2003.",
@@ -1307,7 +1309,8 @@
       }
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Photographie"
     ]
   },
   {
@@ -1353,7 +1356,9 @@
         "note": "Notice d’artiste et œuvres conservées."
       }
     ],
-    "groups": []
+    "groups": [
+      "Surréalisme"
+    ]
   },
   {
     "id": "jolas",
@@ -2861,7 +2866,9 @@
       "The Third Mind (1978, avec William S. Burroughs)",
       "The Process (1969)"
     ],
-    "groups": []
+    "groups": [
+      "Surréalisme"
+    ]
   },
   {
     "id": "bowles",
@@ -3268,7 +3275,9 @@
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
-    "groups": [],
+    "groups": [
+      "Photographie"
+    ],
     "bibliography": [
       "Courrier Dada (1920)",
       "Hyle (roman, écrit dans les années 1920; publication posthume)",
@@ -4217,7 +4226,8 @@
       "chavee"
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Photographie"
     ]
   },
   {
@@ -7768,7 +7778,8 @@
       "gil-j-wolman"
     ],
     "groups": [
-      "Lettrisme"
+      "Lettrisme",
+      "Nouveau Réalisme"
     ]
   },
   {
@@ -9206,7 +9217,8 @@
     ],
     "groups": [
       "Avant-garde russe",
-      "Suprématisme"
+      "Suprématisme",
+      "Photographie"
     ]
   },
   {
@@ -9752,7 +9764,9 @@
       "kazimir-malevich",
       "nadezhda-udaltsova"
     ],
-    "groups": []
+    "groups": [
+      "Suprématisme"
+    ]
   },
   {
     "id": "gustav-klutsis",
@@ -12104,7 +12118,9 @@
       "paul-klee",
       "oskar-schlemmer"
     ],
-    "groups": []
+    "groups": [
+      "Photographie"
+    ]
   },
   {
     "id": "gertrud-arndt",
@@ -12211,7 +12227,8 @@
     ],
     "groups": [
       "Surréalisme",
-      "Constructivisme"
+      "Constructivisme",
+      "Photographie"
     ]
   },
   {
