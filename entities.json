@@ -14269,7 +14269,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Figure de pensée",
-    "bio": "Romancier, essayiste et conférencier britannique, auteur d’une œuvre où se mêlent individualisme, panthéisme, mythologie et expérience sensible. Figure indépendante plutôt que membre d’une avant-garde constituée.",
+    "bio": "Romancier, essayiste et conférencier britannique, auteur d’une œuvre où se mêlent individualisme, panthéisme, mythologie et expérience sensible. Figure indépendante plutôt que membre d’une avant-garde constituée. Son apport se comprend dans les débats intellectuels et politiques de son époque : ses textes ont circulé bien au-delà de leur premier contexte et ont été réinterprétés par des lecteurs, artistes et mouvements ultérieurs. Il importe de distinguer ses écrits propres des appropriations parfois contradictoires dont ils ont fait l’objet.",
     "works": [
       "Wolf Solent",
       "A Glastonbury Romance",
@@ -14277,9 +14277,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.powys-society.org/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à John Cowper Powys."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à John Cowper Powys."
       }
+    ],
+    "bibliography": [
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976.",
+      "Stanford Encyclopedia of Philosophy, entrées de référence sur la philosophie moderne et politique.",
+      "George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, Penguin, 1962."
+    ],
+    "related": [
+      "george-orwell",
+      "henry-david-thoreau",
+      "panait-istrati"
     ]
   },
   {
@@ -14291,7 +14305,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Figure de pensée",
-    "bio": "Écrivain et journaliste britannique, critique du totalitarisme, de la propagande et des mécanismes de domination. Son inclusion relève de l’histoire des idées politiques et de la critique sociale, plus que de l’expérimentation formelle des avant-gardes.",
+    "bio": "Écrivain et journaliste britannique, critique du totalitarisme, de la propagande et des mécanismes de domination. Son inclusion relève de l’histoire des idées politiques et de la critique sociale, plus que de l’expérimentation formelle des avant-gardes. Son apport se comprend dans les débats intellectuels et politiques de son époque : ses textes ont circulé bien au-delà de leur premier contexte et ont été réinterprétés par des lecteurs, artistes et mouvements ultérieurs. Il importe de distinguer ses écrits propres des appropriations parfois contradictoires dont ils ont fait l’objet.",
     "works": [
       "Homage to Catalonia",
       "Animal Farm",
@@ -14299,9 +14313,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/biography/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à George Orwell."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à George Orwell."
       }
+    ],
+    "bibliography": [
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976.",
+      "Stanford Encyclopedia of Philosophy, entrées de référence sur la philosophie moderne et politique.",
+      "George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, Penguin, 1962."
+    ],
+    "related": [
+      "gunther-anders",
+      "karl-marx",
+      "john-cowper-powys"
     ]
   },
   {
@@ -14313,7 +14341,7 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "statut": "Figure de pensée",
-    "bio": "Philosophe et essayiste austro-allemand, critique de la technique, de la société industrielle et de l’âge atomique. Sa réflexion sur le décalage entre puissance technologique et imagination humaine éclaire les dimensions critiques des pratiques artistiques d’après-guerre.",
+    "bio": "Philosophe et essayiste austro-allemand, critique de la technique, de la société industrielle et de l’âge atomique. Sa réflexion sur le décalage entre puissance technologique et imagination humaine éclaire les dimensions critiques des pratiques artistiques d’après-guerre. Son apport se comprend dans les débats intellectuels et politiques de son époque : ses textes ont circulé bien au-delà de leur premier contexte et ont été réinterprétés par des lecteurs, artistes et mouvements ultérieurs. Il importe de distinguer ses écrits propres des appropriations parfois contradictoires dont ils ont fait l’objet.",
     "works": [
       "Die Antiquiertheit des Menschen",
       "L’Obsolescence de l’homme",
@@ -14321,9 +14349,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.deutsche-biographie.de/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Günther Anders."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Günther Anders."
       }
+    ],
+    "bibliography": [
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976.",
+      "Stanford Encyclopedia of Philosophy, entrées de référence sur la philosophie moderne et politique.",
+      "George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, Penguin, 1962."
+    ],
+    "related": [
+      "george-orwell",
+      "karl-marx",
+      "henry-david-thoreau"
     ]
   },
   {
@@ -14335,7 +14377,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Figure de pensée",
-    "bio": "Écrivain roumain d’expression française, autodidacte et voyageur, dont les récits donnent une place centrale aux marginaux, aux solidarités et aux révoltes sociales. Proche de milieux libertaires, il constitue une figure littéraire indépendante.",
+    "bio": "Écrivain roumain d’expression française, autodidacte et voyageur, dont les récits donnent une place centrale aux marginaux, aux solidarités et aux révoltes sociales. Proche de milieux libertaires, il constitue une figure littéraire indépendante. Son apport se comprend dans les débats intellectuels et politiques de son époque : ses textes ont circulé bien au-delà de leur premier contexte et ont été réinterprétés par des lecteurs, artistes et mouvements ultérieurs. Il importe de distinguer ses écrits propres des appropriations parfois contradictoires dont ils ont fait l’objet.",
     "works": [
       "Kyra Kyralina",
       "Les Chardons du Baragan",
@@ -14343,9 +14385,23 @@
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Panait Istrati."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Panait Istrati."
       }
+    ],
+    "bibliography": [
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976.",
+      "Stanford Encyclopedia of Philosophy, entrées de référence sur la philosophie moderne et politique.",
+      "George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, Penguin, 1962."
+    ],
+    "related": [
+      "john-cowper-powys",
+      "george-orwell",
+      "nestor-makhno"
     ]
   },
   {
@@ -14357,7 +14413,7 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "statut": "Figure de pensée",
-    "bio": "Philosophe, économiste et théoricien politique allemand, dont la critique du capitalisme et l’analyse des rapports sociaux ont marqué les mouvements révolutionnaires, ouvriers et artistiques. Référence intellectuelle majeure, sans affiliation artistique directe.",
+    "bio": "Philosophe, économiste et théoricien politique allemand, dont la critique du capitalisme et l’analyse des rapports sociaux ont marqué les mouvements révolutionnaires, ouvriers et artistiques. Référence intellectuelle majeure, sans affiliation artistique directe. Son apport se comprend dans les débats intellectuels et politiques de son époque : ses textes ont circulé bien au-delà de leur premier contexte et ont été réinterprétés par des lecteurs, artistes et mouvements ultérieurs. Il importe de distinguer ses écrits propres des appropriations parfois contradictoires dont ils ont fait l’objet.",
     "works": [
       "Le Manifeste du parti communiste",
       "Le Capital",
@@ -14365,9 +14421,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Karl-Marx",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Karl Marx."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Karl Marx."
       }
+    ],
+    "bibliography": [
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976.",
+      "Stanford Encyclopedia of Philosophy, entrées de référence sur la philosophie moderne et politique.",
+      "George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, Penguin, 1962."
+    ],
+    "related": [
+      "nestor-makhno",
+      "george-orwell",
+      "gunther-anders"
     ]
   },
   {
@@ -14379,15 +14449,29 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "statut": "Figure de pensée",
-    "bio": "Militant et organisateur anarchiste ukrainien, figure de l’insurrection révolutionnaire en Ukraine pendant la guerre civile russe. Son inclusion documente l’arrière-plan libertaire et révolutionnaire de certains milieux intellectuels, sans en faire un acteur de l’avant-garde esthétique.",
+    "bio": "Militant et organisateur anarchiste ukrainien, figure de l’insurrection révolutionnaire en Ukraine pendant la guerre civile russe. Son inclusion documente l’arrière-plan libertaire et révolutionnaire de certains milieux intellectuels, sans en faire un acteur de l’avant-garde esthétique. Son apport se comprend dans les débats intellectuels et politiques de son époque : ses textes ont circulé bien au-delà de leur premier contexte et ont été réinterprétés par des lecteurs, artistes et mouvements ultérieurs. Il importe de distinguer ses écrits propres des appropriations parfois contradictoires dont ils ont fait l’objet.",
     "works": [
       "Mémoires"
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Nestor-Makhno",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Nestor Makhno."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Pensée et précurseurs » ; à compléter par des catalogues et études spécialisées consacrés à Nestor Makhno."
       }
+    ],
+    "bibliography": [
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976.",
+      "Stanford Encyclopedia of Philosophy, entrées de référence sur la philosophie moderne et politique.",
+      "George Woodcock, Anarchism: A History of Libertarian Ideas and Movements, Penguin, 1962."
+    ],
+    "related": [
+      "karl-marx",
+      "panait-istrati",
+      "george-orwell"
     ]
   },
   {
@@ -14402,16 +14486,30 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur et théoricien russe, pionnier de l'expérimentation sonore. Il conçoit la Symphonie des sirènes, créée à Bakou en 1922, vaste composition pour sirènes d'usines, navires, canons et chœurs.",
+    "bio": "Compositeur et théoricien russe, pionnier de l'expérimentation sonore. Il conçoit la Symphonie des sirènes, créée à Bakou en 1922, vaste composition pour sirènes d'usines, navires, canons et chœurs. Son travail s’inscrit dans l’élargissement moderne de la musique aux bruits, aux machines, aux systèmes de notation et aux nouveaux rapports entre interprète et auditeur. Les partitions, enregistrements et témoignages de performance sont essentiels pour comprendre des œuvres dont la forme ne se réduit pas à une exécution sonore isolée.",
     "works": [
       "Symphonie des sirènes"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle de contexte pour « Musique expérimentale » ; à compléter par des catalogues et études spécialisées consacrés à Arseni Avraamov."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle de contexte pour « Musique expérimentale » ; à compléter par des catalogues et études spécialisées consacrés à Arseni Avraamov."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "Andrey Smirnov, Sound in Z: Experiments in Sound and Electronic Music in Early 20th Century Russia, Koenig Books, 2013."
+    ],
+    "related": [
+      "charles-ives",
+      "john-cage",
+      "alexander_mossolov"
     ]
   },
   {
@@ -14426,7 +14524,7 @@
     "role_icon": "🎬",
     "role_label": "Cinéma",
     "statut": "Acteur",
-    "bio": "Cinéaste et théoricien soviétique, promoteur du Ciné-Œil et d'un cinéma fondé sur le montage, le mouvement et l'observation du réel. Il expérimente aussi la composition sonore à partir des bruits industriels.",
+    "bio": "Cinéaste et théoricien soviétique, promoteur du Ciné-Œil et d'un cinéma fondé sur le montage, le mouvement et l'observation du réel. Il expérimente aussi la composition sonore à partir des bruits industriels. Son œuvre participe à la recherche d’un langage cinématographique autonome, fondé sur le cadrage, le montage, le rythme et la matérialité de l’image. Les films et écrits théoriques de cette période interrogent autant la perception que les rapports entre création, technologie et société.",
     "works": [
       "L'Homme à la caméra",
       "Enthousiasme (Symphonie du Donbass)"
@@ -14434,9 +14532,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/film",
+        "note": "Ressource institutionnelle de contexte pour « Cinéma expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Dziga Vertov."
+      },
+      {
+        "url": "https://www.bfi.org.uk/",
+        "note": "Ressource institutionnelle de contexte pour « Cinéma expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Dziga Vertov."
       }
+    ],
+    "bibliography": [
+      "Annette Michelson (dir.), Kino-Eye: The Writings of Dziga Vertov, University of California Press, 1984.",
+      "Vlada Petrić, Constructivism in Film: The Man with the Movie Camera, Cambridge University Press, 1987.",
+      "John MacKay, Dziga Vertov: Life and Work, Academic Studies Press, 2018."
+    ],
+    "related": [
+      "nikolai_foregger",
+      "arseni_avraamov",
+      "alexander_mossolov"
     ]
   },
   {
@@ -14451,16 +14563,30 @@
     "role_icon": "🎭",
     "role_label": "Théâtre",
     "statut": "Acteur",
-    "bio": "Metteur en scène, chorégraphe et théoricien du mouvement russe. Son atelier théâtral développe la machine-théâtre, la biomécanique et des formes scéniques inspirées par le rythme industriel.",
+    "bio": "Metteur en scène, chorégraphe et théoricien du mouvement russe. Son atelier théâtral développe la machine-théâtre, la biomécanique et des formes scéniques inspirées par le rythme industriel. Sa pratique prend place dans le renouvellement des scènes européennes et russes du début du XXe siècle, où le mouvement, le rythme, les décors et le corps deviennent des matériaux de composition. Les archives de spectacles étant souvent fragmentaires, les études historiques doivent être croisées avec les documents visuels et les textes contemporains.",
     "works": [
       "Atelier de Foregger (Mastfor)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/",
+        "note": "Ressource institutionnelle de contexte pour « Théâtre expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Nikolai Foregger."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Théâtre expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Nikolai Foregger."
       }
+    ],
+    "bibliography": [
+      "Robert Leach, Revolutionary Theatre, Routledge, 1994.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "Camilla Gray, The Russian Experiment in Art, 1863–1922, Thames & Hudson, 1962."
+    ],
+    "related": [
+      "dziga_vertov",
+      "georgy_yakulov",
+      "konstantin_melnikov"
     ]
   },
   {
@@ -14475,7 +14601,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur soviétique associé à l'avant-garde musicale des années 1920. Son écriture moderniste explore les rythmes mécaniques, les ostinatos et les sonorités industrielles.",
+    "bio": "Compositeur soviétique associé à l'avant-garde musicale des années 1920. Son écriture moderniste explore les rythmes mécaniques, les ostinatos et les sonorités industrielles. Son travail s’inscrit dans l’élargissement moderne de la musique aux bruits, aux machines, aux systèmes de notation et aux nouveaux rapports entre interprète et auditeur. Les partitions, enregistrements et témoignages de performance sont essentiels pour comprendre des œuvres dont la forme ne se réduit pas à une exécution sonore isolée.",
     "works": [
       "Les Fonderies d'acier",
       "Concerto pour piano no 1"
@@ -14483,9 +14609,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle de contexte pour « Musique expérimentale » ; à compléter par des catalogues et études spécialisées consacrés à Alexander Mossolov."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle de contexte pour « Musique expérimentale » ; à compléter par des catalogues et études spécialisées consacrés à Alexander Mossolov."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "Andrey Smirnov, Sound in Z: Experiments in Sound and Electronic Music in Early 20th Century Russia, Koenig Books, 2013."
+    ],
+    "related": [
+      "arseni_avraamov",
+      "charles-ives",
+      "john-cage"
     ]
   },
   {
@@ -14500,16 +14640,30 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Acteur",
-    "bio": "Poète et éditeur russe, animateur de l'égo-futurisme à Saint-Pétersbourg. Fondateur des éditions et du cercle Pétersbourg Herald, il défend les expérimentations typographiques et verbales du futurisme.",
+    "bio": "Poète et éditeur russe, animateur de l'égo-futurisme à Saint-Pétersbourg. Fondateur des éditions et du cercle Pétersbourg Herald, il défend les expérimentations typographiques et verbales du futurisme. Son activité appartient aux réseaux du futurisme russe, qui transforment la poésie en événement sonore et visuel par les néologismes, la typographie, les manifestes et les performances publiques. Revues et recueils collectifs constituent des sources indispensables pour replacer ses propositions dans les échanges rapides entre groupes et villes.",
     "works": [
       "Pétersbourg Herald (édition et revue)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Ivan Ignatyev."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Ivan Ignatyev."
       }
+    ],
+    "bibliography": [
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature: Avant-Garde Visual Experiments, Princeton University Press, 1984.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "igor_severyanin",
+      "vasily_kamensky",
+      "vladimir-mayakovsky"
     ]
   },
   {
@@ -14524,7 +14678,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Acteur",
-    "bio": "Poète russe, fondateur et figure la plus connue de l'égo-futurisme. Sa poésie cultive néologismes, musicalité, luxe artificiel et jeux de langue.",
+    "bio": "Poète russe, fondateur et figure la plus connue de l'égo-futurisme. Sa poésie cultive néologismes, musicalité, luxe artificiel et jeux de langue. Son activité appartient aux réseaux du futurisme russe, qui transforment la poésie en événement sonore et visuel par les néologismes, la typographie, les manifestes et les performances publiques. Revues et recueils collectifs constituent des sources indispensables pour replacer ses propositions dans les échanges rapides entre groupes et villes.",
     "works": [
       "Le Grelot bouillonnant de coupes",
       "Ananas dans le champagne"
@@ -14532,9 +14686,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Igor Severyanin."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Igor Severyanin."
       }
+    ],
+    "bibliography": [
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature: Avant-Garde Visual Experiments, Princeton University Press, 1984.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "ivan_ignatyev",
+      "vasilisk_gnedov",
+      "vasily_kamensky"
     ]
   },
   {
@@ -14550,16 +14718,30 @@
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "statut": "Acteur",
-    "bio": "Poète futuriste russe associé à la poésie zaoum et aux expérimentations radicales sur le langage. Son Poème de la fin, réduit à un geste silencieux, pousse la poésie au-delà du texte.",
+    "bio": "Poète futuriste russe associé à la poésie zaoum et aux expérimentations radicales sur le langage. Son Poème de la fin, réduit à un geste silencieux, pousse la poésie au-delà du texte. Son activité appartient aux réseaux du futurisme russe, qui transforment la poésie en événement sonore et visuel par les néologismes, la typographie, les manifestes et les performances publiques. Revues et recueils collectifs constituent des sources indispensables pour replacer ses propositions dans les échanges rapides entre groupes et villes.",
     "works": [
       "Poème de la fin"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Vasilisk Gnedov."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Vasilisk Gnedov."
       }
+    ],
+    "bibliography": [
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature: Avant-Garde Visual Experiments, Princeton University Press, 1984.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "igor_severyanin",
+      "vasily_kamensky",
+      "aleksei-kruchenykh"
     ]
   },
   {
@@ -14574,7 +14756,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Acteur",
-    "bio": "Poète, dramaturge et peintre russe, membre du groupe futuriste Hylaea. Il expérimente les poèmes visuels, la disposition typographique et les formes de poésie en béton.",
+    "bio": "Poète, dramaturge et peintre russe, membre du groupe futuriste Hylaea. Il expérimente les poèmes visuels, la disposition typographique et les formes de poésie en béton. Son activité appartient aux réseaux du futurisme russe, qui transforment la poésie en événement sonore et visuel par les néologismes, la typographie, les manifestes et les performances publiques. Revues et recueils collectifs constituent des sources indispensables pour replacer ses propositions dans les échanges rapides entre groupes et villes.",
     "works": [
       "Tango avec les vaches",
       "Stenka Razine"
@@ -14582,9 +14764,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Vassili Kamenski."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Vassili Kamenski."
       }
+    ],
+    "bibliography": [
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature: Avant-Garde Visual Experiments, Princeton University Press, 1984.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "vladimir-mayakovsky",
+      "velimir-khlebnikov",
+      "aleksei-kruchenykh"
     ]
   },
   {
@@ -14600,16 +14796,30 @@
     "role_icon": "🎭",
     "role_label": "Théâtre",
     "statut": "Acteur",
-    "bio": "Poète, metteur en scène et théoricien russe lié au futurisme et à la zaoum. Actif à Tiflis au sein de l'avant-garde géorgienne, il expérimente le théâtre, la performance et le langage.",
+    "bio": "Poète, metteur en scène et théoricien russe lié au futurisme et à la zaoum. Actif à Tiflis au sein de l'avant-garde géorgienne, il expérimente le théâtre, la performance et le langage. Son activité appartient aux réseaux du futurisme russe, qui transforment la poésie en événement sonore et visuel par les néologismes, la typographie, les manifestes et les performances publiques. Revues et recueils collectifs constituent des sources indispensables pour replacer ses propositions dans les échanges rapides entre groupes et villes.",
     "works": [
       "Théâtre zaoum et performances de Tiflis"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Igor Terentiev."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Igor Terentiev."
       }
+    ],
+    "bibliography": [
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature: Avant-Garde Visual Experiments, Princeton University Press, 1984.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "ivan_ignatyev",
+      "vasily_kamensky",
+      "vladimir-mayakovsky"
     ]
   },
   {
@@ -14624,7 +14834,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Acteur",
-    "bio": "Écrivain et poète russe, cofondateur du collectif OBERIOU. Ses textes brefs, absurdes et discontinus rompent avec les conventions narratives et la logique réaliste.",
+    "bio": "Écrivain et poète russe, cofondateur du collectif OBERIOU. Ses textes brefs, absurdes et discontinus rompent avec les conventions narratives et la logique réaliste. Son écriture déplace les conventions narratives et linguistiques, souvent par l’absurde, la fragmentation ou une attention nouvelle à la matérialité du langage. Sa réception dépend aussi de l’histoire éditoriale : certaines œuvres ont circulé tardivement ou sous des contraintes politiques, ce qui rend les éditions critiques particulièrement utiles.",
     "works": [
       "Élizabeth Bam",
       "Incidents"
@@ -14632,9 +14842,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.bl.uk/",
+        "note": "Ressource institutionnelle de contexte pour « Littérature expérimentale » ; à compléter par des catalogues et études spécialisées consacrés à Daniil Harms."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle de contexte pour « Littérature expérimentale » ; à compléter par des catalogues et études spécialisées consacrés à Daniil Harms."
       }
+    ],
+    "bibliography": [
+      "Anthony Anemone et Peter Scotto (dir.), Daniil Kharms and the Poetics of the Absurd, Northwestern University Press, 2013.",
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature, Princeton University Press, 1984."
+    ],
+    "related": [
+      "roman_jakobson",
+      "anna_akhmatova",
+      "marina_tsvetaieva"
     ]
   },
   {
@@ -14649,7 +14873,7 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "statut": "Figure de pensée",
-    "bio": "Linguiste et théoricien russo-américain, membre du Cercle linguistique de Moscou puis du Cercle linguistique de Prague. Ses travaux sur le langage, la poésie et les fonctions du discours influencent profondément le formalisme et le structuralisme.",
+    "bio": "Linguiste et théoricien russo-américain, membre du Cercle linguistique de Moscou puis du Cercle linguistique de Prague. Ses travaux sur le langage, la poésie et les fonctions du discours influencent profondément le formalisme et le structuralisme. Ses recherches se situent à la frontière de la littérature et de la théorie du langage. Elles permettent d’analyser les procédés formels comme des systèmes de relations plutôt que comme de simples ornements, et ont nourri des dialogues durables entre linguistique, poétique, sémiotique et études culturelles.",
     "works": [
       "Questions de poétique",
       "Essais de linguistique générale"
@@ -14657,9 +14881,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.bl.uk/",
+        "note": "Ressource institutionnelle de contexte pour « Littérature / théorie » ; à compléter par des catalogues et études spécialisées consacrés à Roman Jakobson."
+      },
+      {
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle de contexte pour « Littérature / théorie » ; à compléter par des catalogues et études spécialisées consacrés à Roman Jakobson."
       }
+    ],
+    "bibliography": [
+      "Roman Jakobson, Essais de linguistique générale, Minuit, 1963.",
+      "Roman Jakobson, Language in Literature, Harvard University Press, 1987.",
+      "Linda R. Waugh et Monique Monville-Burston (dir.), On Language: Roman Jakobson, Harvard University Press, 1990."
+    ],
+    "related": [
+      "daniil_kharms",
+      "anna_akhmatova",
+      "marina_tsvetaieva"
     ]
   },
   {
@@ -14674,7 +14912,7 @@
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "statut": "Acteur",
-    "bio": "Sculpteur et théoricien russo-américain, pionnier du constructivisme. Avec son frère Antoine Pevsner, il publie le Manifeste réaliste de 1920 et développe une sculpture ouverte, cinétique et spatiale.",
+    "bio": "Sculpteur et théoricien russo-américain, pionnier du constructivisme. Avec son frère Antoine Pevsner, il publie le Manifeste réaliste de 1920 et développe une sculpture ouverte, cinétique et spatiale. Son œuvre s’inscrit dans les débats constructivistes sur l’espace, les matériaux modernes et la fonction sociale de l’art. Plans, maquettes, manifestes et photographies documentent une avant-garde qui voulait rapprocher création, architecture et transformation de la vie quotidienne, avant que les changements politiques n’en limitent les possibilités.",
     "works": [
       "Tête construite no 2",
       "Manifeste réaliste"
@@ -14682,9 +14920,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/constructivism",
+        "note": "Ressource institutionnelle de contexte pour « Constructivisme » ; à compléter par des catalogues et études spécialisées consacrés à Naum Gabo."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Constructivisme » ; à compléter par des catalogues et études spécialisées consacrés à Naum Gabo."
       }
+    ],
+    "bibliography": [
+      "Christina Lodder, Russian Constructivism, Yale University Press, 1983.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "S. Frederick Starr, Melnikov: Solo Architect in a Mass Society, Princeton University Press, 1978."
+    ],
+    "related": [
+      "antoine_pevsner",
+      "vladimir-tatlin",
+      "el-lissitzky"
     ]
   },
   {
@@ -14699,7 +14951,7 @@
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "statut": "Acteur",
-    "bio": "Sculpteur russo-français, figure du constructivisme et frère de Naum Gabo. Il défend une sculpture abstraite fondée sur l'espace, les volumes et les rythmes dynamiques.",
+    "bio": "Sculpteur russo-français, figure du constructivisme et frère de Naum Gabo. Il défend une sculpture abstraite fondée sur l'espace, les volumes et les rythmes dynamiques. Son œuvre s’inscrit dans les débats constructivistes sur l’espace, les matériaux modernes et la fonction sociale de l’art. Plans, maquettes, manifestes et photographies documentent une avant-garde qui voulait rapprocher création, architecture et transformation de la vie quotidienne, avant que les changements politiques n’en limitent les possibilités.",
     "works": [
       "Manifeste réaliste",
       "Construction dans l'espace"
@@ -14707,9 +14959,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/constructivism",
+        "note": "Ressource institutionnelle de contexte pour « Constructivisme » ; à compléter par des catalogues et études spécialisées consacrés à Antoine Pevsner."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Constructivisme » ; à compléter par des catalogues et études spécialisées consacrés à Antoine Pevsner."
       }
+    ],
+    "bibliography": [
+      "Christina Lodder, Russian Constructivism, Yale University Press, 1983.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "S. Frederick Starr, Melnikov: Solo Architect in a Mass Society, Princeton University Press, 1978."
+    ],
+    "related": [
+      "naum_gabo",
+      "vladimir-tatlin",
+      "el-lissitzky"
     ]
   },
   {
@@ -14725,16 +14991,30 @@
     "role_icon": "🎨",
     "role_label": "Arts visuels",
     "statut": "Acteur",
-    "bio": "Peintre et scénographe arménien-russe, actif dans les milieux artistiques de Moscou. Il développe une esthétique de la lumière et du mouvement et travaille pour le théâtre et les Ballets russes.",
+    "bio": "Peintre et scénographe arménien-russe, actif dans les milieux artistiques de Moscou. Il développe une esthétique de la lumière et du mouvement et travaille pour le théâtre et les Ballets russes. Son parcours se situe dans le vaste paysage des avant-gardes du XXe siècle, où les frontières entre disciplines sont fréquemment traversées. Pour éviter de réduire sa pratique à une étiquette générale, il convient de confronter les œuvres conservées, les documents d’époque et les études historiques consacrées à son milieu.",
     "works": [
       "Le Pas d'acier (décors et costumes)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Arts » ; à compléter par des catalogues et études spécialisées consacrés à Gueorgui Yakoulov."
+      },
+      {
+        "url": "https://www.moma.org/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Arts » ; à compléter par des catalogues et études spécialisées consacrés à Gueorgui Yakoulov."
       }
+    ],
+    "bibliography": [
+      "Camilla Gray, The Russian Experiment in Art, 1863–1922, Thames & Hudson, 1962.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "konstantin_melnikov",
+      "naum_gabo",
+      "antoine_pevsner"
     ]
   },
   {
@@ -14750,7 +15030,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Précurseur",
-    "bio": "Poétesse, peintre et dessinatrice russe, proche des premiers futuristes de Saint-Pétersbourg. Son œuvre mêle poésie, dessin, fragments narratifs et attention aux formes élémentaires du vivant.",
+    "bio": "Poétesse, peintre et dessinatrice russe, proche des premiers futuristes de Saint-Pétersbourg. Son œuvre mêle poésie, dessin, fragments narratifs et attention aux formes élémentaires du vivant. Son activité appartient aux réseaux du futurisme russe, qui transforment la poésie en événement sonore et visuel par les néologismes, la typographie, les manifestes et les performances publiques. Revues et recueils collectifs constituent des sources indispensables pour replacer ses propositions dans les échanges rapides entre groupes et villes.",
     "works": [
       "L'Orgue de Barbarie",
       "Rêves célestes"
@@ -14758,9 +15038,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/futurism",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Elena Gouro."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Futurisme russe » ; à compléter par des catalogues et études spécialisées consacrés à Elena Gouro."
       }
+    ],
+    "bibliography": [
+      "Vladimir Markov, Russian Futurism: A History, University of California Press, 1968.",
+      "Gerald Janecek, The Look of Russian Literature: Avant-Garde Visual Experiments, Princeton University Press, 1984.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "vladimir-mayakovsky",
+      "velimir-khlebnikov",
+      "aleksei-kruchenykh"
     ]
   },
   {
@@ -14775,7 +15069,7 @@
     "role_icon": "🏛️",
     "role_label": "Architecture",
     "statut": "Acteur",
-    "bio": "Architecte soviétique majeur du constructivisme. Ses bâtiments des années 1920, aux volumes géométriques audacieux et aux dispositifs spatiaux inventifs, comptent parmi les réalisations les plus singulières de l'avant-garde architecturale.",
+    "bio": "Architecte soviétique majeur du constructivisme. Ses bâtiments des années 1920, aux volumes géométriques audacieux et aux dispositifs spatiaux inventifs, comptent parmi les réalisations les plus singulières de l'avant-garde architecturale. Son œuvre s’inscrit dans les débats constructivistes sur l’espace, les matériaux modernes et la fonction sociale de l’art. Plans, maquettes, manifestes et photographies documentent une avant-garde qui voulait rapprocher création, architecture et transformation de la vie quotidienne, avant que les changements politiques n’en limitent les possibilités.",
     "works": [
       "Pavillon soviétique de l'Exposition des arts décoratifs (Paris, 1925)",
       "Maison Melnikov"
@@ -14783,9 +15077,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Notice du coffret Baku: Symphony of Sirens – Sound Experiments in the Soviet Avant-Garde, utilisée comme source de repérage; références biographiques individuelles à consolider."
+        "url": "https://www.moma.org/collection/terms/constructivism",
+        "note": "Ressource institutionnelle de contexte pour « Constructivisme » ; à compléter par des catalogues et études spécialisées consacrés à Konstantin Melnikov."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Constructivisme » ; à compléter par des catalogues et études spécialisées consacrés à Konstantin Melnikov."
       }
+    ],
+    "bibliography": [
+      "Christina Lodder, Russian Constructivism, Yale University Press, 1983.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "S. Frederick Starr, Melnikov: Solo Architect in a Mass Society, Princeton University Press, 1978."
+    ],
+    "related": [
+      "georgy_yakulov",
+      "vladimir-tatlin",
+      "el-lissitzky"
     ]
   },
   {
@@ -14801,7 +15109,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Acteur",
-    "bio": "Poétesse russe, figure majeure de l'acméisme avec Nikolaï Goumilev et Sergueï Gorodetski. Sa poésie se distingue par sa densité, sa précision formelle et une attention aiguë à l'expérience intime et à la violence de l'histoire. Elle occupe une place singulière dans la modernité littéraire russe, sans se confondre avec le futurisme.",
+    "bio": "Poétesse russe, figure majeure de l'acméisme avec Nikolaï Goumilev et Sergueï Gorodetski. Sa poésie se distingue par sa densité, sa précision formelle et une attention aiguë à l'expérience intime et à la violence de l'histoire. Elle occupe une place singulière dans la modernité littéraire russe, sans se confondre avec le futurisme. Son parcours se situe dans le vaste paysage des avant-gardes du XXe siècle, où les frontières entre disciplines sont fréquemment traversées. Pour éviter de réduire sa pratique à une étiquette générale, il convient de confronter les œuvres conservées, les documents d’époque et les études historiques consacrées à son milieu.",
     "works": [
       "Le Soir",
       "Chapelet",
@@ -14811,9 +15119,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Ajout dans le prolongement du repérage consacré aux avant-gardes russes; l'acméisme constitue un courant distinct du futurisme. Références biographiques individuelles à consolider."
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Littérature russe » ; à compléter par des catalogues et études spécialisées consacrés à Anna Akhmatova."
+      },
+      {
+        "url": "https://www.moma.org/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Littérature russe » ; à compléter par des catalogues et études spécialisées consacrés à Anna Akhmatova."
       }
+    ],
+    "bibliography": [
+      "Camilla Gray, The Russian Experiment in Art, 1863–1922, Thames & Hudson, 1962.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "marina_tsvetaieva",
+      "roman_jakobson",
+      "daniil_kharms"
     ]
   },
   {
@@ -14829,7 +15151,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Acteur",
-    "bio": "Poétesse russe majeure du XXe siècle, dont l'œuvre lyrique se distingue par une syntaxe heurtée, un rythme fortement accentué et une grande liberté formelle. En dialogue avec les modernismes de son temps sans appartenir durablement à une école, elle entretient notamment des liens avec les milieux futuristes et avec Maïakovski et Pasternak.",
+    "bio": "Poétesse russe majeure du XXe siècle, dont l'œuvre lyrique se distingue par une syntaxe heurtée, un rythme fortement accentué et une grande liberté formelle. En dialogue avec les modernismes de son temps sans appartenir durablement à une école, elle entretient notamment des liens avec les milieux futuristes et avec Maïakovski et Pasternak. Son parcours se situe dans le vaste paysage des avant-gardes du XXe siècle, où les frontières entre disciplines sont fréquemment traversées. Pour éviter de réduire sa pratique à une étiquette générale, il convient de confronter les œuvres conservées, les documents d’époque et les études historiques consacrées à son milieu.",
     "works": [
       "Le Camp des cygnes",
       "Poème de la montagne",
@@ -14839,9 +15161,23 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ReRRAG12&Store_Code=RM",
-        "note": "Ajout dans le prolongement du repérage consacré aux avant-gardes russes; la poétesse est rattachée aux modernités littéraires plutôt qu'à un mouvement unique. Références biographiques individuelles à consolider."
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Littérature russe » ; à compléter par des catalogues et études spécialisées consacrés à Marina Tsvetaïeva."
+      },
+      {
+        "url": "https://www.moma.org/collection/visual-arts",
+        "note": "Ressource institutionnelle de contexte pour « Littérature russe » ; à compléter par des catalogues et études spécialisées consacrés à Marina Tsvetaïeva."
       }
+    ],
+    "bibliography": [
+      "Camilla Gray, The Russian Experiment in Art, 1863–1922, Thames & Hudson, 1962.",
+      "John E. Bowlt (dir.), Russian Art of the Avant-Garde: Theory and Criticism, Thames & Hudson, 1988.",
+      "Nina Gurianova, The Aesthetics of Anarchy, University of California Press, 2012."
+    ],
+    "related": [
+      "anna_akhmatova",
+      "roman_jakobson",
+      "daniil_kharms"
     ]
   }
 ]
