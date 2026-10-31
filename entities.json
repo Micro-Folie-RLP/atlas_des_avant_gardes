@@ -17166,5 +17166,345 @@
     "related": [
       "dziga_vertov"
     ]
+  },
+  {
+    "id": "john-zorn",
+    "name": "John Zorn",
+    "years": "1953–",
+    "group": "Musiques expérimentales / Downtown",
+    "bio": "John Zorn (né en 1953 à New York) est compositeur, saxophoniste, improvisateur et organisateur, figure centrale de la scène Downtown new-yorkaise. Nourri par le free jazz, la musique contemporaine, le punk, le cinéma et les musiques populaires, il brouille les frontières entre composition et improvisation. Ses « game pieces », dont Cobra (1984), reposent sur des règles, des signes et des décisions prises en temps réel par les interprètes. Il développe parallèlement des projets très contrastés, de Naked City à Masada, et compose pour le cinéma. Fondateur du label Tzadik en 1995 et animateur de la salle The Stone, il joue un rôle essentiel dans la structuration d’une communauté expérimentale, autant comme créateur que comme passeur.",
+    "works": [
+      "The Big Gundown (1986)",
+      "Cobra (1984 ; enregistrement publié en 1987)",
+      "Naked City (1990)",
+      "Kristallnacht (1992)",
+      "Masada: Alef (1994)",
+      "The Book of Heads (1978)"
+    ],
+    "bibliography": [
+      "John Brackett, John Zorn: Tradition and Transgression, Indiana University Press, 2008.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, à partir de 2000.",
+      "Guillaume Kosmicki, Musiques savantes : de John Zorn à la fin du monde, et après…, Le Mot et le reste, 2017."
+    ],
+    "sources": [
+      {
+        "url": "https://ressources.ircam.fr/fr/john-zorn",
+        "note": "IRCAM : biographie, pratiques de composition et bibliographie."
+      },
+      {
+        "url": "https://www.macfound.org/fellows/class-of-2006/john-zorn",
+        "note": "MacArthur Foundation : parcours et rôle dans la scène expérimentale."
+      }
+    ],
+    "related": [
+      "anthony-braxton",
+      "fred-frith",
+      "alvin-curran",
+      "tony-conrad",
+      "john-cage"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Composition et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "butch-morris",
+    "name": "Lawrence « Butch » Morris",
+    "years": "1947–2013",
+    "group": "Improvisation libre / Conduction",
+    "bio": "Lawrence Douglas « Butch » Morris (1947–2013) est un cornettiste, compositeur et chef d’ensemble américain, connu pour avoir élaboré la Conduction®, méthode de direction d’improvisations collectives. À l’aide de gestes et de signes transmis aux musiciens, il organise en temps réel des transformations de matière sonore, de densité, de rythme et de texture, sans imposer une partition entièrement écrite. Issu des scènes free jazz de Los Angeles puis de la Bay Area, il s’installe à New York dans les années 1970 et travaille avec de nombreux improvisateurs. Ses orchestres font de l’écoute collective et de la décision instantanée les matériaux mêmes de la composition. La Conduction ouvre ainsi une voie singulière entre direction orchestrale, composition ouverte et improvisation.",
+    "works": [
+      "Current Trends in Racism in Modern America (1985)",
+      "Dust to Dust (1987)",
+      "In Touch… But Out of Reach (1988)",
+      "Testament: A Conduction Collection (1995)",
+      "Conduction  ಮೂ"
+    ],
+    "bibliography": [
+      "Lawrence D. « Butch » Morris, textes et documents sur la Conduction, archives Conduction.us.",
+      "George E. Lewis, A Power Stronger Than Itself: The AACM and American Experimental Music, University of Chicago Press, 2008."
+    ],
+    "sources": [
+      {
+        "url": "https://www.conduction.us/about",
+        "note": "Conduction.us : biographie et description de la méthode de direction improvisée."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "anthony-braxton",
+      "fred-frith"
+    ],
+    "role_icon": "🎺",
+    "role_label": "Improvisation dirigée",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "otomo-yoshihide",
+    "name": "Otomo Yoshihide",
+    "years": "1959–",
+    "group": "Improvisation / Noise / Musique électronique",
+    "bio": "Otomo Yoshihide (né en 1959 à Yokohama) est un guitariste, turntabliste, compositeur et producteur japonais. Après avoir étudié la musique et l’ethnomusicologie à Tokyo, il développe une pratique qui traverse improvisation libre, noise, rock expérimental, électronique et composition pour le cinéma. Il se fait connaître internationalement avec Ground Zero, groupe fondé en 1990 qui déconstruit et réassemble des matériaux musicaux par le collage, le sampling et l’improvisation. Son travail sur les platines et les objets sonores élargit le vocabulaire de l’instrumentiste, tandis que ses projets ultérieurs, notamment les ensembles participatifs, interrogent les formes de concert et de création collective. Il est également à l’origine de Project Fukushima!, initiative artistique et citoyenne lancée après le séisme et la catastrophe nucléaire de 2011.",
+    "works": [
+      "Ground Zero (1992)",
+      "Revolutionary Pekinese Opera (1995)",
+      "Catholic Tastes (1995)",
+      "Anode (1997)",
+      "ONJQ (Otomo Yoshihide’s New Jazz Quintet)",
+      "Project Fukushima! (depuis 2011)"
+    ],
+    "bibliography": [
+      "Otomo Yoshihide, textes et entretiens publiés dans les catalogues de YCAM et NTT InterCommunication Center.",
+      "David Novak, Japanoise: Music at the Edge of Circulation, Duke University Press, 2013."
+    ],
+    "sources": [
+      {
+        "url": "https://otomoyoshihide.com/en/?page_id=4",
+        "note": "Site officiel : biographie et parcours artistique."
+      },
+      {
+        "url": "https://www.ntticc.or.jp/en/archive/participants/otomo-yoshihide/",
+        "note": "NTT InterCommunication Center : profil, improvisation et travail sonore."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "tony-conrad",
+      "fred-frith"
+    ],
+    "role_icon": "🎛️",
+    "role_label": "Improvisation et électronique",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "anthony-braxton",
+    "name": "Anthony Braxton",
+    "years": "1945–",
+    "group": "AACM / Free jazz / Composition",
+    "bio": "Anthony Braxton (né en 1945 à Chicago) est saxophoniste, clarinettiste, multi-instrumentiste, compositeur et théoricien américain. Membre majeur de l’Association for the Advancement of Creative Musicians (AACM), il développe dès la fin des années 1960 une œuvre qui déplace les catégories du jazz et de la musique contemporaine. For Alto (1969), enregistrement solo devenu historique, affirme l’autonomie d’une pratique instrumentale étendue. Ses compositions combinent systèmes graphiques, formes ouvertes, improvisation structurée et références à des traditions musicales multiples. Il élabore des cycles de grande ampleur, dont les opéras Trillium et les ensembles Creative Orchestra, Ghost Trance Music et Diamond Curtain Wall. Pédagogue pendant près de trois décennies à Wesleyan University, il a profondément marqué plusieurs générations de musiciens et de compositeurs.",
+    "works": [
+      "For Alto (1969)",
+      "The Complete Arista Recordings (1974–1980)",
+      "Creative Orchestra Music 1976",
+      "Composition No. 96 (1991)",
+      "Ghost Trance Music (cycle, à partir de 1995)",
+      "Trillium (cycle d’opéras)",
+      "Sonic Genome (projet d’installation et de performance)"
+    ],
+    "bibliography": [
+      "Anthony Braxton, Tri-Axium Writings, 3 volumes, 1985–1994.",
+      "Graham Lock, Forces in Motion: The Music and Thoughts of Anthony Braxton, Da Capo Press, 1988.",
+      "Ronald M. Radano, New Musical Figurations: Anthony Braxton’s Cultural Critique, University of Chicago Press, 1993."
+    ],
+    "sources": [
+      {
+        "url": "https://tricentricfoundation.org/anthony-braxton-bio",
+        "note": "Tri-Centric Foundation : biographie officielle et description des systèmes de composition."
+      },
+      {
+        "url": "https://www.macfound.org/fellows/class-of-1994/anthony-braxton",
+        "note": "MacArthur Foundation : parcours, AACM et importance dans les musiques improvisées."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "alvin-curran",
+      "john-cage"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Composition et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "alvin-curran",
+    "name": "Alvin Curran",
+    "years": "1938–",
+    "group": "Musique expérimentale / Musica Elettronica Viva",
+    "bio": "Alvin Curran (né en 1938 à Providence, Rhode Island) est un compositeur et improvisateur américain installé en Italie à partir des années 1960. Cofondateur avec Frederic Rzewski et Richard Teitelbaum du collectif Musica Elettronica Viva (MEV), il participe à l’invention d’une musique électroacoustique collective où synthétiseurs, sons amplifiés, objets, voix et instruments acoustiques sont mis en jeu dans l’instant. Son travail personnel associe électronique, paysages sonores, enregistrements de terrain, voix et instruments, souvent dans des formes ouvertes qui font entrer l’environnement dans la composition. Des œuvres comme Canti Illuminati ou Maritime Rites élargissent la notion de concert à l’espace public et au paysage. Curran occupe une place charnière entre avant-garde américaine, improvisation européenne et recherche électroacoustique.",
+    "works": [
+      "The Works (1965–1975)",
+      "Canti Illuminati (1977)",
+      "Maritime Rites (198 maritime performances, 197 maritime recordings)",
+      "Inner Cities (cycle pour piano, 1990–2010)",
+      "Endangered Species (1992)",
+      "Lost Marbles (2004)"
+    ],
+    "bibliography": [
+      "Alvin Curran, « The Alvin Curran Fakebook », textes et partitions publiés par l’artiste.",
+      "David Toop, Ocean of Sound, Serpent’s Tail, 1995.",
+      "Documentation et notices de l’IRCAM consacrées à Musica Elettronica Viva et à Alvin Curran."
+    ],
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/composer/alvin-curran/biography",
+        "note": "IRCAM : biographie, Musica Elettronica Viva et œuvres électroacoustiques."
+      }
+    ],
+    "related": [
+      "john-cage",
+      "fred-frith",
+      "john-zorn"
+    ],
+    "role_icon": "🎛️",
+    "role_label": "Composition électroacoustique",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "evan-parker",
+    "name": "Evan Parker",
+    "years": "1944–",
+    "group": "Improvisation libre européenne",
+    "bio": "Evan Parker (né en 1944 à Bristol) est un saxophoniste britannique, figure majeure du free jazz européen et de l’improvisation libre. Après avoir découvert le trio de Cecil Taylor à New York en 1962, il rejoint à Londres le Spontaneous Music Ensemble de John Stevens, laboratoire d’une improvisation collective sans hiérarchie fixe. Sa collaboration avec le guitariste Derek Bailey donne naissance à la Music Improvisation Company et au label Incus, fondé en 1970 avec Tony Oxley. Parker développe au saxophone soprano et ténor un vocabulaire singulier fondé sur la respiration circulaire, les multiphoniques, les attaques répétées et les micro-variations de timbre. Il explore également l’improvisation avec électronique en temps réel, notamment au sein de son ElectroAcoustic Ensemble.",
+    "works": [
+      "Karyobin (Spontaneous Music Ensemble, 1968)",
+      "The Topography of the Lungs (avec Derek Bailey et Han Bennink, 1970)",
+      "Monoceros (1978)",
+      "Conic Sections (1989)",
+      "Drawn Inward (199 inward)",
+      "Evan Parker ElectroAcoustic Ensemble: Toward the Margins (1996)"
+    ],
+    "bibliography": [
+      "Evan Parker, entretiens et textes réunis dans les archives de son site officiel.",
+      "John Corbett, Extended Play: Sounding Off from John Cage to Dr. Funkenstein, Duke University Press, 1994.",
+      "Ekkehard Jost, Free Jazz, Da Capo Press, 1994."
+    ],
+    "sources": [
+      {
+        "url": "https://evanparker.com/biography.php",
+        "note": "Site officiel : biographie, collaborations et développement de l’improvisation libre."
+      },
+      {
+        "url": "https://www.onassis.org/people/evan-parker",
+        "note": "Onassis Foundation : techniques instrumentales et parcours."
+      }
+    ],
+    "related": [
+      "derek-bailey",
+      "peter-brotzmann",
+      "anthony-braxton",
+      "butch-morris"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Saxophone et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "derek-bailey",
+    "name": "Derek Bailey",
+    "years": "1930–2005",
+    "group": "Improvisation libre européenne",
+    "bio": "Derek Bailey (1930–2005) est un guitariste, compositeur et théoricien britannique, l’un des principaux fondateurs de l’improvisation libre européenne. Refusant les idiomes établis et les hiérarchies entre composition et interprétation, il développe une pratique fondée sur l’écoute, l’instant et l’exploration des possibilités physiques de la guitare. Il cofonde en 1970 avec Evan Parker et Tony Oxley le label Incus, plateforme essentielle pour la diffusion des musiques improvisées. Son livre Improvisation: Its Nature and Practice in Music (1980) propose une réflexion influente sur les pratiques improvisées à travers les cultures et les genres. Ses collaborations avec des musiciens européens, américains et japonais témoignent de la dimension internationale de cette scène.",
+    "works": [
+      "The Topography of the Lungs (1970)",
+      "Solo Guitar, Volume 1 (1971)",
+      "Lot 74 (1974)",
+      "Company (série de rencontres improvisées, à partir de 1976)",
+      "Duo avec Anthony Braxton (1980)",
+      "Ballads (2002)"
+    ],
+    "bibliography": [
+      "Derek Bailey, Improvisation: Its Nature and Practice in Music, 1980 ; édition révisée, 1992.",
+      "Ben Watson, Derek Bailey and the Story of Free Improvisation, Verso, 2004."
+    ],
+    "sources": [
+      {
+        "url": "https://lespressesdureel.com/auteur.php?id=3910&menu=0",
+        "note": "Les presses du réel : biographie et réseau de collaborations internationales."
+      }
+    ],
+    "related": [
+      "evan-parker",
+      "peter-brotzmann",
+      "anthony-braxton",
+      "otomo-yoshihide",
+      "fred-frith"
+    ],
+    "role_icon": "🎸",
+    "role_label": "Guitare et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "peter-brotzmann",
+    "name": "Peter Brötzmann",
+    "years": "1941–2023",
+    "group": "Free jazz européen",
+    "bio": "Peter Brötzmann (1941–2023) est un saxophoniste, clarinettiste et artiste visuel allemand, l’une des figures les plus radicales du free jazz européen. Formé aux arts plastiques, il aborde l’improvisation comme un geste physique et collectif, privilégiant l’intensité, la densité et la confrontation des timbres. Son album Machine Gun (1968), enregistré avec un ensemble réunissant notamment Han Bennink, Fred Van Hove et Evan Parker, devient un jalon du free jazz européen. Il participe à la fondation du label Free Music Production (FMP) en 1969 et multiplie les collaborations avec les scènes américaines, européennes et japonaises. Son travail, souvent associé à de grands ensembles, affirme une musique sans compromis, mais attentive à la construction d’une énergie collective.",
+    "works": [
+      "For Adolphe Sax (1967)",
+      "Machine Gun (1968)",
+      "Nipples (1969)",
+      "The Catch of a Ghost (avec Han Bennink et Fred Van Hove, 197 catching)",
+      "Die Like a Dog (trio avec William Parker et Hamid Drake, à partir de 1993)",
+      "Chicago Tentet (1997–2012)"
+    ],
+    "bibliography": [
+      "Bert Noglik, Peter Brötzmann: Das Spiel ist mein Leben, Wolke Verlag, 2016.",
+      "Graham Lock, Forces in Motion, 1988, pour le contexte des musiques improvisées européennes et américaines."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nbk.org/en/diskurs/broetzmann",
+        "note": "Neuer Berliner Kunstverein : parcours, FMP et collaborations."
+      }
+    ],
+    "related": [
+      "evan-parker",
+      "derek-bailey",
+      "otomo-yoshihide",
+      "anthony-braxton"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Free jazz",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "fred-frith",
+    "name": "Fred Frith",
+    "years": "1949–",
+    "group": "Rock expérimental / Improvisation",
+    "bio": "Fred Frith (né en 1949 à Heathfield, en Angleterre) est guitariste, compositeur et improvisateur, dont le parcours relie rock expérimental, musique contemporaine, improvisation libre et arts de la scène. Cofondateur de Henry Cow en 1968, il contribue à l’émergence d’un rock d’avant-garde nourri de composition savante, de musique improvisée et de pratiques collectives. Son album solo Guitar Solos (1974), réalisé avec des techniques étendues et des objets préparés, devient une référence pour les guitaristes expérimentaux. Il collabore avec des improvisateurs comme Derek Bailey, Evan Parker, Han Bennink, Ikue Mori et John Zorn, compose pour le cinéma, la danse et le théâtre, et enseigne pendant vingt ans à Mills College. Sa pratique fait de l’instrument un laboratoire de gestes, de matières et de sons.",
+    "works": [
+      "Guitar Solos (1974)",
+      "Gravity (1980)",
+      "Speechless (1981)",
+      "Cheap at Half the Price (1983)",
+      "Step Across the Border (film, 1990)",
+      "Ragged Atlas (2017)"
+    ],
+    "bibliography": [
+      "Fred Frith, textes et entretiens dans Arcana: Musicians on Music, éd. John Zorn.",
+      "Benjamin Piekut, Henry Cow: The World Is a Problem, Duke University Press, 2019.",
+      "David Toop, Into the Maelstrom: Music, Improvisation and the Dream of Freedom, 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fredfrith.com/bla-bla-bio",
+        "note": "Site officiel : biographie et collaborations dans les musiques expérimentales."
+      },
+      {
+        "url": "https://www.fredfrith.com/discography",
+        "note": "Site officiel : discographie et collaborations documentées."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "derek-bailey",
+      "evan-parker",
+      "alvin-curran",
+      "butch-morris",
+      "tony-conrad"
+    ],
+    "role_icon": "🎸",
+    "role_label": "Rock expérimental et improvisation",
+    "kind": "person",
+    "groups": []
   }
 ]
