@@ -3887,16 +3887,16 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/richter.htm",
-        "note": "University of Iowa : notice Hans Richter."
+        "url": "https://www.moma.org/research/archives/finding-aids/HansRichterb.html",
+        "note": "MoMA Archives : notice biographique et fonds Hans Richter."
       },
       {
-        "url": "https://www.moma.org/artists/4925",
-        "note": "MoMA : Hans Richter, peintre et cinéaste."
+        "url": "https://www.guggenheim-venice.it/en/art/artists/hans-richter/",
+        "note": "Peggy Guggenheim Collection : parcours dada et films abstraits."
       },
       {
-        "url": "https://www.filmportal.de/person/hans-richter_",
-        "note": "Filmportal : filmographie et repères biographiques."
+        "url": "https://www.moma.org/collection/works/398276",
+        "note": "MoMA : fiche de Rhythmus 21 (1921)."
       }
     ],
     "role_icon": "🎨",
@@ -6801,51 +6801,115 @@
     "name": "Jean-Pierre Brisset",
     "years": "1837–1919",
     "group": "Précurseurs / outsiders",
-    "bio": "Écrivain et penseur autodidacte devenu une figure culte pour les avant-gardes en raison de ses théories linguistiques singulières.",
+    "bio": "Jean-Pierre Brisset (1837–1919), écrivain autodidacte et inventeur français, exerce plusieurs métiers avant de consacrer ses livres à une théorie singulière des origines du langage. Dans La Grammaire logique et La Science de Dieu, il rapproche mots, sons et expressions populaires par des jeux d’homophonie qu’il traite comme des preuves de l’histoire humaine. Sa méthode, absurde en apparence mais rigoureusement déployée, fait de lui un précurseur de la poésie expérimentale et de la pataphysique. Célébré par André Breton dans l’Anthologie de l’humour noir, il reste une figure isolée plutôt qu’un membre d’un mouvement constitué.",
     "works": [
-      "La Grande Nouvelle",
-      "Les Origines humaines"
+      "La Natation ou l’art de nager (1870)",
+      "La Grammaire logique (1878)",
+      "La Science de Dieu ou la création de l’homme (1900)",
+      "Les Origines humaines (1913)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "La Natation ou l’art de nager, 1870.",
+      "La Grammaire logique, 1878.",
+      "La Science de Dieu ou la création de l’homme, 1900.",
+      "Les Origines humaines, 1913.",
+      "André Breton, Anthologie de l’humour noir, 1940."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb124678306.public",
+        "note": "BnF : notice d’autorité, repères biographiques et publications."
+      }
+    ],
+    "related": [
+      "breton"
+    ]
   },
   {
     "id": "isidore-isou",
     "name": "Isidore Isou",
     "years": "1925–2007",
     "group": "Lettrisme",
-    "bio": "Artiste et théoricien d'origine roumaine, fondateur du lettrisme et promoteur d'une avant-garde radicale du signe et du son.",
+    "bio": "Isidore Isou (1925–2007), né en Roumanie sous le nom d’Isidore Goldstein, arrive à Paris en 1945 et fonde le lettrisme avec Gabriel Pomerand. Il fait de la lettre, du son et du signe les unités premières de la création, au-delà du mot et de la représentation traditionnelle. Introduction à une nouvelle poésie et à une nouvelle musique (1947) expose un programme qui s’étend à la peinture, au cinéma, au théâtre et à l’économie politique. Avec Traité de bave et d’éternité, il transforme le cinéma en terrain de montage discontinu et de désynchronisation. Son mouvement entend dépasser le surréalisme et influence brièvement le jeune Guy Debord. Isou développe ensuite l’hypergraphie, l’art infinitésimal et la créatique, utopie de transformation générale des pratiques artistiques.",
     "works": [
-      "Introduction à une nouvelle poésie et à une nouvelle musique"
+      "Introduction à une nouvelle poésie et à une nouvelle musique (1947)",
+      "Les Journaux des dieux (1950)",
+      "Traité de bave et d’éternité (film, 1951)",
+      "Essai sur le roman (1950)",
+      "Initiation à la haute volupté (1960)",
+      "La Créatique ou la Novatique (2003)"
     ],
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/fr/isidore-isou",
-        "note": "Ressources biographiques de l'IRCAM."
+        "url": "https://ressources.ircam.fr/fr/composer/isidore-isou/biography",
+        "note": "IRCAM : biographie, histoire du lettrisme et bibliographie sélective."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/de-la-lettre-a-limage/isidore-isou",
+        "note": "Centre Pompidou : œuvres plastiques et chronologie."
       }
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Introduction à une nouvelle poésie et à une nouvelle musique, Gallimard, 1947.",
+      "Les Journaux des dieux, 1950.",
+      "Essai sur le roman, 1950.",
+      "Initiation à la haute volupté, 1960.",
+      "La Créatique ou la Novatique (1941–1976), Al Dante, 2003."
+    ],
+    "related": [
+      "guy-debord"
+    ]
   },
   {
     "id": "guy-debord",
     "name": "Guy Debord",
     "years": "1931–1994",
     "group": "Situationnisme",
-    "bio": "Théoricien et cinéaste, figure centrale de l'Internationale situationniste et de la critique de la société du spectacle.",
+    "bio": "Guy Debord (1931–1994), écrivain, théoricien et cinéaste, passe du lettrisme à l’Internationale lettriste avant de fonder l’Internationale situationniste en 1957 avec des artistes et militants dont Asger Jorn. Il veut dépasser l’œuvre d’art autonome au profit de situations vécues capables de transformer les rapports sociaux et la vie quotidienne. La dérive, le détournement et la critique de l’urbanisme deviennent des outils de contestation. Dans La Société du spectacle (1967), il décrit une société où les rapports humains sont médiatisés par les représentations et la marchandise. Ses films refusent les conventions narratives et utilisent texte, silence, noir et images préexistantes comme instruments de critique. Son parcours reste marqué par la rupture et l’hostilité à la récupération institutionnelle.",
     "works": [
-      "La Société du spectacle",
-      "Mémoires"
+      "Hurlements en faveur de Sade (film, 1952)",
+      "Rapport sur la construction des situations (1957)",
+      "Mémoires (avec Asger Jorn, 1959)",
+      "La Société du spectacle (1967)",
+      "La Véritable Scission dans l’Internationale (1972)",
+      "In girum imus nocte et consumimur igni (film, 1978)",
+      "Commentaires sur la société du spectacle (1988)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "kind": "person",
     "groups": [
       "Lettrisme"
+    ],
+    "bibliography": [
+      "Rapport sur la construction des situations, 1957.",
+      "La Société du spectacle, Buchet-Chastel, 1967.",
+      "La Véritable Scission dans l’Internationale, Champ libre, 1972.",
+      "Commentaires sur la société du spectacle, Gérard Lebovici, 1988.",
+      "Œuvres, Gallimard, Quarto, 2006.",
+      "Correspondance, Fayard, 1999–2007."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11898959m",
+        "note": "BnF : notice d’autorité et filmographie liée."
+      },
+      {
+        "url": "https://www.fayard.fr/auteur/guy-debord/",
+        "note": "Fayard : présentation et bibliographie éditoriale."
+      }
+    ],
+    "related": [
+      "isidore-isou",
+      "asger-jorn"
     ]
   },
   {
@@ -6892,10 +6956,13 @@
     "name": "Georges Limbour",
     "years": "1900–1970",
     "group": "Surréalisme / dissidences",
-    "bio": "Poète, romancier et critique d'art, proche du Grand Jeu puis du surréalisme, également associé à la revue Documents.",
+    "bio": "Georges Limbour (1900–1970) est un poète, romancier et critique d’art français, proche du premier surréalisme sans s’y soumettre durablement. Ami de Michel Leiris et d’André Masson, il fréquente les écrivains de la revue Documents et participe aux réseaux du Grand Jeu. Son écriture associe humour, merveilleux, précision descriptive et attention aux arts plastiques. Dans ses récits, objets et paysages se chargent d’une étrangeté discrète plutôt que de suivre une logique narrative classique. Critique attentif, il contribue à faire dialoguer littérature et peinture. Son parcours illustre les circulations entre avant-gardes parisiennes, mais aussi la position indépendante de ceux qui traversent plusieurs réseaux sans devenir les porte-parole d’une école.",
     "works": [
-      "Soleil bas",
-      "La Pie voleuse"
+      "Soleil bas (1934)",
+      "Les Vanilliers (1938)",
+      "La Pie voleuse (1939)",
+      "L’Illustre Cheval blanc (1953)",
+      "Récits et écrits critiques sur les arts plastiques"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
@@ -6903,6 +6970,25 @@
     "groups": [
       "Documents",
       "Grand Jeu"
+    ],
+    "bibliography": [
+      "Soleil bas, 1934.",
+      "Les Vanilliers, 1938.",
+      "La Pie voleuse, 1939.",
+      "L’Illustre Cheval blanc, Gallimard, 1953.",
+      "Catalogue général de la BnF : éditions et études sur Georges Limbour."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Georges+Limbour",
+        "note": "BnF : catalogue des récits et écrits critiques de l’auteur."
+      }
+    ],
+    "related": [
+      "leiris",
+      "masson",
+      "daumal",
+      "breton"
     ]
   },
   {
@@ -6910,133 +6996,329 @@
     "name": "Pierre Albert-Birot",
     "years": "1876–1967",
     "group": "Avant-gardes / théâtre",
-    "bio": "Poète, dramaturge et éditeur, fondateur de la revue SIC et acteur important des avant-gardes autour de la Première Guerre mondiale.",
+    "bio": "Pierre Albert-Birot (1876–1967), poète, dramaturge, éditeur et artiste français, fonde en 1916 la revue SIC (Sons, Idées, Couleurs), foyer du modernisme parisien pendant la Première Guerre mondiale. Il y publie des écrivains et artistes comme Guillaume Apollinaire, Pierre Reverdy et Philippe Soupault, en accueillant des propositions cubistes, futuristes et dadaïstes. Son travail traverse poésie, théâtre, typographie, sculpture et expériences scéniques. Il invente Grabinoulor, héros d’une vaste aventure romanesque où la logique ordinaire est constamment déplacée. Proche des avant-gardes sans s’enfermer dans une école, il contribue à relier texte, image, mouvement et voix.",
     "works": [
-      "Les Amusements naturels",
-      "Grabinoulor"
+      "SIC (revue, 1916–1919)",
+      "Les Amusements naturels (1918)",
+      "Poèmes à l’autre moi (1927)",
+      "Grabinoulor (premiers épisodes en 1921, ensemble en 1933)",
+      "Les Mémoires d’Adam et Ève (théâtre)"
     ],
     "role_icon": "🎭",
     "role_label": "Théâtre",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Les Amusements naturels, 1918.",
+      "Poèmes à l’autre moi, 1927.",
+      "Grabinoulor, Denoël, 1933.",
+      "SIC, revue dirigée par Pierre Albert-Birot, 1916–1919.",
+      "Catalogue BnF : éditions et manuscrits de Pierre Albert-Birot."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Pierre+Albert-Birot",
+        "note": "BnF : éditions, revue SIC et bibliographie de l’auteur."
+      }
+    ],
+    "related": [
+      "soupault"
+    ]
   },
   {
     "id": "alfred-doblin",
     "name": "Alfred Döblin",
     "years": "1878–1957",
     "group": "Modernismes",
-    "bio": "Romancier allemand, figure de l'expressionnisme et du roman urbain moderne.",
+    "bio": "Alfred Döblin (1878–1957), médecin et écrivain allemand, est l’un des grands expérimentateurs du roman moderniste. Psychiatre à Berlin, il observe la métropole, ses rythmes, ses médias et ses conflits sociaux. Berlin Alexanderplatz (1929) renouvelle le récit urbain par le montage de voix, slogans, chansons et fragments documentaires, donnant à la ville une fonction presque organique. Döblin s’intéresse à l’expressionnisme, au cinéma et au reportage sans abandonner la construction romanesque. Juif et opposant au nazisme, il s’exile en 1933, passe par la France puis les États-Unis et revient en Europe après la guerre. Son œuvre associe innovation formelle, attention aux milieux populaires et interrogation sur la violence de l’histoire moderne.",
     "works": [
-      "Berlin Alexanderplatz"
+      "Die drei Sprünge des Wang-lun (1915)",
+      "Wadzeks Kampf mit der Dampfturbine (1918)",
+      "Wallstein (1920)",
+      "Berge, Meere und Giganten (1924)",
+      "Berlin Alexanderplatz (1929)",
+      "November 1918 (cycle, 1937–1943)",
+      "Hamlet oder Die lange Nacht nimmt ein Ende (1956)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Die drei Sprünge des Wang-lun, 1915.",
+      "Berlin Alexanderplatz, S. Fischer, 1929.",
+      "November 1918, cycle publié entre 1937 et 1943.",
+      "Hamlet oder Die lange Nacht nimmt ein Ende, 1956.",
+      "Études sur le modernisme allemand et l’écriture urbaine de Döblin."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Alfred-Doblin",
+        "note": "Encyclopaedia Britannica : biographie et importance de Berlin Alexanderplatz."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Alfred+D%C3%B6blin",
+        "note": "BnF : éditions françaises et traductions."
+      }
+    ],
+    "related": [
+      "james-joyce",
+      "virginia-woolf",
+      "ts-eliot"
+    ]
   },
   {
     "id": "robert-antelme",
     "name": "Robert Antelme",
     "years": "1917–1990",
     "group": "Littérature / témoignage",
-    "bio": "Écrivain français, auteur d'un témoignage majeur sur les camps nazis et proche de Marguerite Duras et Dionys Mascolo.",
+    "bio": "Robert Antelme (1917–1990), écrivain et résistant français, est connu principalement pour L’Espèce humaine, témoignage sur la déportation publié en 1947. Arrêté en 1944 pour ses activités dans la Résistance, il est déporté à Buchenwald puis à Gandersheim. Libéré en 1945, il met en forme une expérience qui résiste aux catégories ordinaires du récit : la faim, la violence et la déshumanisation y sont décrites sans renoncer à affirmer l’appartenance commune des victimes à l’humanité. Son livre marque profondément Marguerite Duras et les débats littéraires et philosophiques sur le témoignage. Son œuvre publiée est restreinte, mais sa rigueur d’écriture et sa portée éthique en font une référence majeure.",
     "works": [
-      "L'Espèce humaine"
+      "L’Espèce humaine (1947)",
+      "Textes et documents sur la Résistance et le témoignage"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "L’Espèce humaine, La Cité universelle, 1947 ; réédition Gallimard, collection Tel, 1978.",
+      "Sarah Kofman, Paroles suffoquées, Galilée, 1986.",
+      "Marguerite Duras, La Douleur, P.O.L, 1985, pour le contexte du retour des déportés.",
+      "Catalogue BnF : notice d’autorité et éditions liées à Robert Antelme."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb118889284",
+        "note": "BnF : notice d’autorité, dates et œuvres liées."
+      }
+    ]
   },
   {
     "id": "henry-miller",
     "name": "Henry Miller",
     "years": "1891–1980",
     "group": "Littératures américaines",
-    "bio": "Romancier américain dont l'écriture autobiographique et transgressive a marqué la littérature du XXe siècle.",
+    "bio": "Henry Miller (1891–1980), romancier et essayiste américain, rompt avec les conventions narratives et morales dans une œuvre autobiographique, lyrique et provocatrice. Installé à Paris en 1930, il y écrit Tropique du Cancer, publié en 1934, qui mêle souvenirs, précarité matérielle, réflexion sur l’écriture et passages érotiques. Interdit aux États-Unis pendant plusieurs décennies, le livre devient un symbole des débats sur la censure. Tropique du Capricorne revient sur sa jeunesse new-yorkaise, tandis que la trilogie La Crucifixion en rose transforme sa vie en matière romanesque. Lié à Anaïs Nin et aux expatriés littéraires, Miller n’appartient pas à une avant-garde organisée, mais son mélange de confession, de digression et de refus des normes influence des écrivains de la Beat Generation.",
     "works": [
-      "Tropique du Cancer",
-      "Tropique du Capricorne"
+      "Tropique du Cancer (1934)",
+      "Printemps noir (1936)",
+      "Tropique du Capricorne (1939)",
+      "The Air-Conditioned Nightmare (1945)",
+      "La Crucifixion en rose : Sexus (1949), Plexus (1953), Nexus (1960)",
+      "Big Sur et les oranges de Jérôme Bosch (1957)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Tropic of Cancer, Obelisk Press, Paris, 1934.",
+      "Black Spring, Obelisk Press, 1936.",
+      "Tropic of Capricorn, Obelisk Press, 1939.",
+      "The Air-Conditioned Nightmare, New Directions, 1945.",
+      "The Rosy Crucifixion, trilogie publiée entre 1949 et 1960."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Henry-Miller-American-writer",
+        "note": "Encyclopaedia Britannica : biographie et repères sur l’œuvre autobiographique."
+      }
+    ],
+    "related": [
+      "kerouac",
+      "ginsberg"
+    ]
   },
   {
     "id": "william-blake",
     "name": "William Blake",
     "years": "1757–1827",
     "group": "Précurseurs",
-    "bio": "Poète, graveur et visionnaire anglais, dont l'œuvre indépendante a nourri plusieurs traditions artistiques modernes.",
+    "bio": "William Blake (1757–1827), poète, graveur et peintre anglais, construit une œuvre où texte et image forment un même dispositif visionnaire. Il invente une technique d’impression en relief qui lui permet de produire des livres enluminés mêlant poésie, dessin et mythologie personnelle. Songs of Innocence and of Experience oppose et entrelace deux états de l’existence ; The Marriage of Heaven and Hell attaque les dualismes moraux et religieux de son temps. Longtemps marginalisé, Blake devient une référence pour les romantiques, les symbolistes et plusieurs avant-gardes du XXe siècle. Sa pensée politique et sa critique des institutions traversent des poèmes et images denses, dont l’influence se prolonge chez des modernistes comme T. S. Eliot, malgré leurs conceptions esthétiques différentes.",
     "works": [
-      "Songs of Innocence and of Experience",
-      "The Marriage of Heaven and Hell"
+      "Songs of Innocence (1789)",
+      "The Marriage of Heaven and Hell (vers 1790–1793)",
+      "Songs of Innocence and of Experience (1794)",
+      "The Book of Urizen (1794)",
+      "Milton (vers 1804–1810)",
+      "Jerusalem: The Emanation of the Giant Albion (vers 1804–1820)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Songs of Innocence, 1789.",
+      "The Marriage of Heaven and Hell, vers 1790–1793.",
+      "Songs of Innocence and of Experience, 1794.",
+      "The Book of Urizen, 1794.",
+      "David V. Erdman, The Complete Poetry and Prose of William Blake, University of California Press, 1982."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tate.org.uk/art/artists/william-blake-39",
+        "note": "Tate : biographie, œuvres et contexte de la pratique de peintre-graveur."
+      }
+    ],
+    "related": [
+      "ts-eliot",
+      "ezra-pound"
+    ]
   },
   {
     "id": "ezra-pound",
     "name": "Ezra Pound",
     "years": "1885–1972",
     "group": "Modernismes",
-    "bio": "Poète et critique américain, acteur central du modernisme littéraire, dont l'héritage esthétique doit être distingué de son soutien au fascisme et de son antisémitisme.",
+    "bio": "Ezra Pound (1885–1972), poète américain installé en Europe, est un acteur majeur du modernisme anglophone, à la fois créateur, critique, traducteur et organisateur de réseaux. À Londres, il soutient T. S. Eliot, James Joyce, H.D. et d’autres écrivains, et contribue à faire circuler l’imagisme et le vorticisme. Son travail de montage, de citation et de juxtaposition culmine dans The Cantos, vaste poème inachevé qui fait dialoguer histoire, économie, mythes et langues multiples. Son rôle d’animateur de l’avant-garde ne peut être dissocié de son adhésion au fascisme italien et de ses émissions de propagande pendant la Seconde Guerre mondiale. Arrêté en 1945, il est détenu puis interné aux États-Unis. Le prix Bollingen attribué aux Pisan Cantos en 1949 déclenche une controverse durable sur les rapports entre valeur littéraire et responsabilité politique.",
     "works": [
-      "The Cantos"
+      "A Lume Spento (1908)",
+      "Personae (1909)",
+      "Ripostes (1912)",
+      "Cathay (1915)",
+      "Hugh Selwyn Mauberley (1920)",
+      "The Cantos (1922–1969, inachevé)",
+      "The Pisan Cantos (1948)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "A Lume Spento, Venise, 1908.",
+      "Cathay, Elkin Mathews, 1915.",
+      "Hugh Selwyn Mauberley, 1920.",
+      "The Pisan Cantos, New Directions, 1948.",
+      "The Cantos, éditions successives de 1925 à 1969.",
+      "Guide to the Ezra Pound Papers, Beinecke Library, Yale University."
+    ],
+    "sources": [
+      {
+        "url": "https://bollingen.yale.edu/poet/ezra-pound",
+        "note": "Yale : biographie, modernisme, The Cantos et contexte politique."
+      }
+    ],
+    "related": [
+      "ts-eliot",
+      "james-joyce"
+    ]
   },
   {
     "id": "ts-eliot",
     "name": "T. S. Eliot",
     "years": "1888–1965",
     "group": "Modernismes",
-    "bio": "Poète et critique anglo-américain, figure majeure du modernisme littéraire.",
+    "bio": "T. S. Eliot (1888–1965), poète, dramaturge et critique né aux États-Unis puis naturalisé britannique, transforme la poésie anglophone par des formes fragmentaires qui rendent sensible la crise de la modernité. Après Harvard et un séjour à Paris, il s’installe en Angleterre et publie The Love Song of J. Alfred Prufrock (1915), monologue intérieur mêlant ironie et références culturelles. The Waste Land (1922), construit par montage de voix, de langues et de citations, devient un texte emblématique du modernisme. Eliot dirige ensuite la revue The Criterion et travaille chez Faber & Faber, jouant un rôle important dans la vie littéraire britannique. Sa poésie tardive, notamment Four Quartets, prend une orientation méditative et religieuse. Il reçoit le Nobel de littérature en 1948 ; son conservatisme culturel et certaines positions sociales restent discutés.",
     "works": [
-      "The Waste Land",
-      "Four Quartets"
+      "The Love Song of J. Alfred Prufrock (1915)",
+      "The Waste Land (1922)",
+      "The Hollow Men (1925)",
+      "Ash-Wednesday (1930)",
+      "Murder in the Cathedral (1935)",
+      "Four Quartets (1935–1942)",
+      "Tradition and the Individual Talent (1919)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Prufrock and Other Observations, 1917.",
+      "The Waste Land, Boni and Liveright, 1922.",
+      "The Hollow Men, 1925.",
+      "Four Quartets, Faber & Faber, 1943.",
+      "Selected Essays, Faber & Faber, 1932 ; édition augmentée, 1951.",
+      "The Letters of T. S. Eliot, Faber & Faber."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1948/eliot/biographical/",
+        "note": "Fondation Nobel : parcours, œuvres et réception de la poésie moderniste."
+      }
+    ],
+    "related": [
+      "ezra-pound",
+      "james-joyce",
+      "virginia-woolf"
+    ]
   },
   {
     "id": "gertrude-stein",
     "name": "Gertrude Stein",
     "years": "1874–1946",
     "group": "Modernismes",
-    "bio": "Écrivaine américaine, collectionneuse et figure centrale des avant-gardes parisiennes, dont l'écriture expérimente répétition et syntaxe.",
+    "bio": "Gertrude Stein (1874–1946), écrivaine américaine installée à Paris dès 1903, expérimente répétition, syntaxe, rythme et perception du langage. Son salon de la rue de Fleurus devient un lieu de rencontre pour des artistes comme Pablo Picasso et Henri Matisse, ainsi que pour des écrivains modernistes. Dans Tender Buttons, elle déplace le rapport ordinaire entre mots et objets en faisant primer sonorité, structure et association sur le récit conventionnel. The Making of Americans et ses portraits explorent la répétition comme manière de produire une identité en mouvement. Collectionneuse et médiatrice des arts modernes, Stein n’appartient pas pour autant à une école picturale. Son influence sur les écritures expérimentales tient à sa façon de faire du langage lui-même la matière et le sujet de l’œuvre.",
     "works": [
-      "Tender Buttons",
-      "The Autobiography of Alice B. Toklas"
+      "Three Lives (1909)",
+      "The Making of Americans (écrit 1903–1911, publié 1925)",
+      "Tender Buttons (1914)",
+      "Geography and Plays (1922)",
+      "The Autobiography of Alice B. Toklas (1933)",
+      "Everybody’s Autobiography (1937)",
+      "Wars I Have Seen (1945)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Three Lives, Grafton Press, 1909.",
+      "Tender Buttons, Claire Marie, 1914.",
+      "The Making of Americans, Contact Editions, 1925.",
+      "The Autobiography of Alice B. Toklas, Harcourt, Brace, 1933.",
+      "Lectures in America, Random House, 1935.",
+      "The Yale Edition of the Unpublished Writings of Gertrude Stein, Yale University Press."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Gertrude-Stein",
+        "note": "Encyclopaedia Britannica : biographie, salon parisien et écriture expérimentale."
+      }
+    ],
+    "related": [
+      "virginia-woolf"
+    ]
   },
   {
     "id": "virginia-woolf",
     "name": "Virginia Woolf",
     "years": "1882–1941",
     "group": "Modernismes",
-    "bio": "Romancière et essayiste anglaise, figure majeure du modernisme et de l'exploration de la conscience.",
+    "bio": "Virginia Woolf (1882–1941), romancière, essayiste et éditrice britannique, est une figure centrale du modernisme littéraire et du cercle de Bloomsbury. Avec Leonard Woolf, elle fonde Hogarth Press, qui publie des œuvres novatrices et des traductions importantes. Ses romans déplacent l’action vers la perception, la mémoire et les flux de conscience : Mrs Dalloway suit une journée londonienne à travers plusieurs expériences intérieures, tandis que To the Lighthouse et The Waves explorent la durée et la construction de soi. Dans Une chambre à soi, Woolf analyse les conditions matérielles et sociales qui ont limité l’accès des femmes à la création. Elle réfléchit aussi à la guerre et au fascisme. Son œuvre dialogue avec James Joyce et T. S. Eliot tout en développant une approche singulière du temps narratif et de la subjectivité.",
     "works": [
-      "Mrs Dalloway",
-      "Les Vagues",
-      "Une chambre à soi"
+      "The Voyage Out (1915)",
+      "Mrs Dalloway (1925)",
+      "To the Lighthouse (1927)",
+      "Orlando (1928)",
+      "A Room of One’s Own (1929)",
+      "The Waves (1931)",
+      "Three Guineas (1938)",
+      "Between the Acts (1941)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Mrs Dalloway, Hogarth Press, 1925.",
+      "To the Lighthouse, Hogarth Press, 1927.",
+      "A Room of One’s Own, Hogarth Press, 1929.",
+      "The Waves, Hogarth Press, 1931.",
+      "Three Guineas, Hogarth Press, 1938.",
+      "The Diary of Virginia Woolf, éd. Anne Olivier Bell, Hogarth Press, 1977–1984."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Virginia-Woolf",
+        "note": "Encyclopaedia Britannica : biographie, Bloomsbury et innovations narratives."
+      }
+    ],
+    "related": [
+      "james-joyce",
+      "ts-eliot",
+      "gertrude-stein"
+    ]
   },
   {
     "id": "dh-lawrence",
@@ -14727,31 +15009,34 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Tony Conrad est un artiste, cinéaste, violoniste et compositeur américain associé au minimalisme et à l’avant-garde new-yorkaise. Avec le groupe Theatre of Eternal Music, il explore des sons continus, des accords soutenus et des phénomènes acoustiques qui transforment l’écoute en expérience physique. Ses films structuraux, notamment The Flicker, réduisent l’image à des alternances lumineuses rapides, interrogeant les mécanismes perceptifs du cinéma.",
+    "bio": "Tony Conrad (1940–2016), artiste, cinéaste, violoniste, compositeur et pédagogue américain, travaille à la frontière de la musique expérimentale, du cinéma structurel et des arts conceptuels. Associé au Theatre of Eternal Music de La Monte Young, il explore les sons continus, les drones et les phénomènes d’accordage qui transforment l’écoute en expérience physique. Son film The Flicker (1966), construit par l’alternance rapide de photogrammes noirs et blancs, réduit le cinéma à la lumière, au rythme et aux réactions perceptives du spectateur. Il collabore également avec Jack Smith sur Flaming Creatures et participe à des réseaux d’artistes qui brouillent les frontières entre musique, performance, cinéma et politique. Son travail, longtemps difficile à classer, a profondément marqué les pratiques minimalistes et expérimentales.",
     "works": [
-      "The Flicker",
-      "Four Violins",
-      "Outside the Dream Syndicate"
+      "Flaming Creatures (musique et participation, 1963)",
+      "The Flicker (film, 1966)",
+      "Four Violins (1964)",
+      "Coming Attractions (1970)",
+      "Outside the Dream Syndicate (avec Faust, 1973)",
+      "Yellow Movies (1973–1975)"
     ],
     "sources": [
       {
-        "url": "https://www.loc.gov/",
-        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Tony Conrad."
+        "url": "https://www.tonyconradmovie.com/about2",
+        "note": "Documentaire Tony Conrad: Completely in the Present : parcours et pratiques interdisciplinaires."
       },
       {
-        "url": "https://www.newworldrecords.org/",
-        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Tony Conrad."
+        "url": "https://www.eai.org/artists/tony-conrad/biography",
+        "note": "Electronic Arts Intermix : biographie et œuvres vidéo/film."
       }
     ],
     "bibliography": [
-      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
-      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
-      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+      "Tony Conrad, Early Minimalism: Volume One, Table of the Elements, 1997.",
+      "Tony Conrad, Writings, 1967–2010, éd. Michael Leja, 2013.",
+      "Branden W. Joseph, Beyond the Dream Syndicate: Tony Conrad and the Arts after Cage, Zone Books, 2008.",
+      "Tony Conrad: Completely in the Present, film documentaire de Tyler Hubby, 2016."
     ],
     "related": [
-      "charles-ives",
-      "david-tudor",
-      "henry-cowell"
+      "stan-brakhage",
+      "kenneth-anger"
     ],
     "groups": []
   },
@@ -15169,31 +15454,39 @@
     "role_icon": "🎬",
     "role_label": "Cinéma",
     "statut": "Acteur",
-    "bio": "Cinéaste et théoricien soviétique, promoteur du Ciné-Œil et d'un cinéma fondé sur le montage, le mouvement et l'observation du réel. Il expérimente aussi la composition sonore à partir des bruits industriels. Son œuvre participe à la recherche d’un langage cinématographique autonome, fondé sur le cadrage, le montage, le rythme et la matérialité de l’image. Les films et écrits théoriques de cette période interrogent autant la perception que les rapports entre création, technologie et société.",
+    "bio": "Dziga Vertov (1896–1954), cinéaste et théoricien soviétique né Denis Kaufman, développe le concept de Ciné-Œil (Kino-Glaz) et défend un cinéma fondé sur l’observation du réel, la caméra et le montage plutôt que sur les conventions du théâtre et de la fiction. Avec son épouse et monteuse Elizaveta Svilova et son frère opérateur Mikhaïl Kaufman, il forme le « Conseil des Trois » et le groupe des Kinoks. Les actualités Kino-Pravda et des films comme La Sixième Partie du monde préparent L’Homme à la caméra (1929), symphonie urbaine sans intrigue qui expose aussi les procédés de sa propre fabrication. Vertov expérimente surimpressions, écrans divisés, accélérés, ralentis et montage des sons industriels dans Enthousiasme (1931), l’un des premiers longs métrages sonores documentaires. Accusé de formalisme dans les années 1930, il est progressivement marginalisé par l’industrie soviétique. Son œuvre sera redécouverte par les cinéastes expérimentaux et documentaristes, notamment Jean-Luc Godard.",
     "works": [
-      "L'Homme à la caméra",
-      "Enthousiasme (Symphonie du Donbass)"
+      "Kino-Pravda (série d’actualités, 1922–1925)",
+      "Kino-Glaz / Ciné-Œil (1924)",
+      "La Sixième Partie du monde (1926)",
+      "La Onzième Année (1928)",
+      "L’Homme à la caméra (1929)",
+      "Enthousiasme / Symphonie du Donbass (1931)",
+      "Trois chants sur Lénine (1934)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/film",
-        "note": "Ressource institutionnelle de contexte pour « Cinéma expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Dziga Vertov."
+        "url": "https://www.moma.org/artists/24575-dziga-vertov",
+        "note": "MoMA : notice d’artiste et œuvres conservées."
       },
       {
-        "url": "https://www.bfi.org.uk/",
-        "note": "Ressource institutionnelle de contexte pour « Cinéma expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Dziga Vertov."
+        "url": "https://www.bfi.org.uk/film/cacbb2df-be18-5e59-b5c3-f0eb9ea3a90d/man-with-a-movie-camera",
+        "note": "BFI : analyse de L’Homme à la caméra et de ses innovations formelles."
+      },
+      {
+        "url": "https://cinema.ucla.edu/series/kino-eye-the-revolutionary-cinema-of-dziga-vertov/",
+        "note": "UCLA Film & Television Archive : rétrospective et parcours du cinéaste."
       }
     ],
     "bibliography": [
-      "Annette Michelson (dir.), Kino-Eye: The Writings of Dziga Vertov, University of California Press, 1984.",
+      "Dziga Vertov, Kino-Eye: The Writings of Dziga Vertov, éd. Annette Michelson, University of California Press, 1984.",
       "Vlada Petrić, Constructivism in Film: The Man with the Movie Camera, Cambridge University Press, 1987.",
       "John MacKay, Dziga Vertov: Life and Work, Academic Studies Press, 2018."
     ],
     "related": [
-      "nikolai_foregger",
-      "arseni_avraamov",
-      "alexander_mossolov"
+      "jean-luc-godard",
+      "richter"
     ]
   },
   {
@@ -16051,5 +16344,1164 @@
         "note": "Stanford Encyclopedia of Philosophy : trajectoire, marxisme et théorie littéraire."
       }
     ]
+  },
+  {
+    "id": "guenter-brus",
+    "name": "Günter Brus",
+    "years": "1938–2024",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et arts visuels",
+    "bio": "Günter Brus (1938–2024), peintre, dessinateur et performeur autrichien, est l’un des quatre principaux représentants de l’actionnisme viennois, avec Hermann Nitsch, Otto Muehl et Rudolf Schwarzkogler. D’abord marqué par la peinture informelle, il déplace progressivement le geste pictural vers son propre corps, devenu support, matériau et lieu de confrontation avec les normes sociales. À partir de l’action Ana (1964), puis de performances où il se couvre de peinture et met son corps en tension, Brus fait de l’action un événement artistique et politique. Sa participation à Kunst und Revolution à l’université de Vienne en 1968 provoque un scandale et des poursuites judiciaires. Après Zerreißprobe (1970), sa dernière action, il développe une œuvre de dessin, d’écriture et de peinture où l’imagerie corporelle se transforme en langage graphique.",
+    "works": [
+      "Ana (action, 1964)",
+      "Handbemalung. Kopfzumalung (actions, 1964)",
+      "Kunst und Revolution (action collective, 1968)",
+      "Zerreißprobe (action, 1970)",
+      "Irrwisch (1971)",
+      "Die Geheimnisträger (roman, 1984)",
+      "Die gute alte Zeit (autobiographie en plusieurs volumes, 2002–2010)"
+    ],
+    "bibliography": [
+      "Peter Noever (dir.), Günter Brus: Mitternachtsröte / Midnight Dawn, MAK, 2008.",
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Günter Brus, Die gute alte Zeit, autobiographie en trois volumes, 2002–2010.",
+      "Catalogues et notices de la Galerie bei der Albertina consacrés à Günter Brus."
+    ],
+    "sources": [
+      {
+        "url": "https://www.galerie-albertina.at/en/artists/13454/brus-gunter/",
+        "note": "Galerie bei der Albertina : biographie, actions et évolution vers le dessin."
+      },
+      {
+        "url": "https://data.onb.ac.at/nlv_lex/perslex/B/Brus_Guenter.html",
+        "note": "Bibliothèque nationale autrichienne : notice biographique et bibliographie."
+      },
+      {
+        "url": "https://wieneraktionismus.at/en/archiv-was-ist-wiener-aktionismus/",
+        "note": "Wiener Aktionismus Museum : contexte du mouvement et ses quatre principaux artistes."
+      }
+    ],
+    "related": [
+      "hermann-nitsch",
+      "otto-muehl",
+      "rudolf-schwarzkogler"
+    ]
+  },
+  {
+    "id": "hermann-nitsch",
+    "name": "Hermann Nitsch",
+    "years": "1938–2022",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance, peinture et musique",
+    "bio": "Hermann Nitsch (1938–2022), peintre, performeur, compositeur et théoricien autrichien, élabore dès la fin des années 1950 le projet de l’Orgien-Mysterien-Theater (Théâtre des orgies et des mystères). Cette œuvre totale associe actions corporelles, peinture, musique, liturgie, objets et substances organiques dans des cérémonies conçues pour mobiliser les sens et mettre en scène sacrifice, mort et catharsis. Avec Otto Muehl et Adolf Frohner, il participe à Die Blutorgel (1962), événement fondateur de l’actionnisme viennois, mouvement partagé avec Günter Brus et Rudolf Schwarzkogler. Ses actions controversées entraînent procès et peines de prison. Au château de Prinzendorf, il développe de grandes performances collectives, dont le Sechstagespiel de six jours en 1998. Ses partitions prolongent la même ambition : faire de l’art une expérience totale plutôt qu’un objet séparé de la vie.",
+    "works": [
+      "Orgien-Mysterien-Theater (projet élaboré à partir de 1957)",
+      "Die Blutorgel (avec Otto Muehl et Adolf Frohner, 1962)",
+      "Malaktionen (actions de peinture, à partir des années 1960)",
+      "20. Aktion (Vienne, 1966)",
+      "Architektur des Orgien-Mysterien-Theaters (dessins et plans)",
+      "Das 6-Tage-Spiel (Prinzendorf, 1998)",
+      "Allerheiligen-Sinfonie (1980)"
+    ],
+    "bibliography": [
+      "Hermann Nitsch, Die Architektur des Orgien Mysterien Theaters, Galerie Fred Jahn, 1984–1993.",
+      "Hermann Nitsch, partitions, textes et documents de l’Orgien-Mysterien-Theater, publications de l’atelier et du musée Nitsch.",
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Catalogues du Nitsch Museum et du Städel Museum consacrés aux actions et peintures."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nitschmuseum.at/en/nitsch/biography",
+        "note": "Nitsch Museum : chronologie, actions, théâtre et travaux musicaux."
+      },
+      {
+        "url": "https://www.museonitsch.org/en/biography/",
+        "note": "Museo Hermann Nitsch : conception du théâtre total et démarche cathartique."
+      },
+      {
+        "url": "https://sammlung.staedelmuseum.de/en/person/nitsch-hermann",
+        "note": "Städel Museum : œuvres conservées et biographie institutionnelle."
+      }
+    ],
+    "related": [
+      "guenter-brus",
+      "otto-muehl",
+      "rudolf-schwarzkogler"
+    ]
+  },
+  {
+    "id": "otto-muehl",
+    "name": "Otto Muehl",
+    "years": "1925–2013",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et arts visuels",
+    "bio": "Otto Muehl (1925–2013), artiste autrichien, est l’un des fondateurs de l’actionnisme viennois avec Günter Brus, Hermann Nitsch et Rudolf Schwarzkogler. Après des études de lettres, d’histoire et d’éducation artistique, il s’attaque au tableau traditionnel en déchirant, entaillant et incorporant des matériaux aux surfaces peintes. Ses actions mettent en jeu corps, déchets et gestes agressifs qui contestent les conventions de la peinture et la morale bourgeoise. En 1962, il participe avec Nitsch et Adolf Frohner à Die Blutorgel, puis à Kunst und Revolution en 1968. À partir des années 1970, il fonde des communautés expérimentales, dont celle de Friedrichshof, prétendant transformer la vie collective. Cette expérience est indissociable d’abus sexuels et de rapports de domination : Muehl est condamné en 1991 pour des infractions sexuelles, notamment envers des mineurs, et passe plusieurs années en prison. Ce contexte doit être mentionné avec son héritage artistique, sans que l’un efface l’autre.",
+    "works": [
+      "Destruction of the Panel Painting (actions, 1961)",
+      "Die Blutorgel (avec Hermann Nitsch et Adolf Frohner, 1962)",
+      "Fest des psycho-physischen Naturalismus (1963)",
+      "Kunst und Revolution (action collective, 1968)",
+      "ZOCK (plateforme d’actions publiques, à partir de 1967)",
+      "Peintures, collages et photographies des actions des années 1960"
+    ],
+    "bibliography": [
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Catalogues du Leopold Museum consacrés à Otto Muehl et à la collection Friedrichshof.",
+      "Getty Research Institute, Finding Aid for the Otto Mühl Papers, 2011.M.38.",
+      "Études historiques sur l’actionnisme viennois et la commune de Friedrichshof, à confronter aux documents judiciaires."
+    ],
+    "sources": [
+      {
+        "url": "https://www.leopoldmuseum.org/en/exhibitions/23/otto-muehl",
+        "note": "Leopold Museum : chronologie artistique, actions, communauté de Friedrichshof et contexte judiciaire."
+      },
+      {
+        "url": "https://www.estateottomuehl.com/biography/biography/",
+        "note": "Estate Otto Muehl : biographie et parcours artistique, à confronter aux études critiques."
+      },
+      {
+        "url": "https://www.getty.edu/research/collections/static/pdf/2011.M.38.pdf",
+        "note": "Getty Research Institute : guide des archives et note biographique."
+      }
+    ],
+    "related": [
+      "guenter-brus",
+      "hermann-nitsch",
+      "rudolf-schwarzkogler"
+    ]
+  },
+  {
+    "id": "rudolf-schwarzkogler",
+    "name": "Rudolf Schwarzkogler",
+    "years": "1940–1969",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et photographie",
+    "bio": "Rudolf Schwarzkogler (1940–1969), artiste autrichien, est le plus discret et le plus construit visuellement des quatre principaux actionnistes viennois, avec Günter Brus, Hermann Nitsch et Otto Muehl. Après la peinture et les expérimentations informelles, il conçoit à partir de 1965 des actions pensées comme des séquences d’images, photographiées et mises en scène avec précision. Le corps y apparaît entouré de bandages, d’objets médicaux et de surfaces blanches, dans des compositions austères qui interrogent douleur, identité et vulnérabilité. Contrairement à une légende largement diffusée après sa mort, ses actions ne documentent pas une véritable auto-amputation : elles reposent sur une scénographie construite. Il meurt à Vienne à vingt-neuf ans. Son œuvre, réduite en volume mais influente dans l’histoire de la performance photographiée, se distingue par sa retenue et sa rigueur formelle.",
+    "works": [
+      "1. Aktion (série d’actions photographiées, 1965)",
+      "2. Aktion (série d’actions photographiées, 1965)",
+      "3. Aktion (série d’actions photographiées, 1965–1966)",
+      "Aktion mit dem Körper (1967)",
+      "Satisfaction (film réalisé avec Günter Brus et Otto Muehl, 1969)",
+      "Simultan (film réalisé avec Günter Brus et Otto Muehl, 1969)"
+    ],
+    "bibliography": [
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Catalogues du Wiener Aktionismus Museum consacrés aux quatre actionnistes viennois.",
+      "Dictionnaire de la peinture, notice « Rudolf Schwarzkogler », Larousse.",
+      "Études sur la photographie performative et la construction de la légende autour de Schwarzkogler."
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/peinture/Rudolf_Schwarzkogler/154337",
+        "note": "Larousse : langage corporel, actions photographiques et rectification de la légende de l’auto-amputation."
+      },
+      {
+        "url": "https://wieneraktionismus.at/en/archiv-was-ist-wiener-aktionismus/",
+        "note": "Wiener Aktionismus Museum : contexte historique du mouvement."
+      }
+    ],
+    "related": [
+      "guenter-brus",
+      "hermann-nitsch",
+      "otto-muehl"
+    ]
+  },
+  {
+    "id": "knut-hamsun",
+    "name": "Knut Hamsun",
+    "years": "1859–1952",
+    "group": "Littérature moderne",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature",
+    "bio": "Knut Hamsun (1859–1952), romancier norvégien, compte parmi les précurseurs du modernisme psychologique. Après une jeunesse pauvre et plusieurs séjours aux États-Unis, il publie La Faim (1890), récit à la première personne qui suit les perceptions instables et les dérèglements d’un écrivain affamé dans Christiania. Le roman rompt avec le réalisme social dominant en privilégiant les mouvements discontinus de la conscience. Mystères, Pan et Victoria approfondissent cette exploration de l’intériorité, de la solitude et du rapport à la nature. L’Éveil de la glèbe, qui lui vaut le prix Nobel en 1920, marque un tournant vers une célébration de la paysannerie. Son héritage littéraire est cependant inséparable de son soutien public à l’Allemagne nazie et à l’occupation de la Norvège ; condamné après-guerre, il demeure une figure majeure mais profondément compromise de la littérature européenne.",
+    "works": [
+      "La Faim (1890)",
+      "Mystères (1892)",
+      "Pan (1894)",
+      "Victoria (1898)",
+      "Sous l’étoile d’automne (1906)",
+      "L’Éveil de la glèbe (1917)",
+      "Vagabonds (1927)",
+      "August le marin (1930)",
+      "Sur les sentiers où l’herbe repousse (1949)"
+    ],
+    "bibliography": [
+      "La Faim, 1890.",
+      "Pan, 1894.",
+      "Victoria, 1898.",
+      "L’Éveil de la glèbe, 1917.",
+      "Vagabonds, 1927.",
+      "Sur les sentiers où l’herbe repousse, 1949."
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Knut_Pedersen_dit_Knut_Hamsun/173829",
+        "note": "Larousse : parcours littéraire, romans et positionnement politique."
+      },
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1920/summary/",
+        "note": "Fondation Nobel : prix 1920 et contexte de l’œuvre."
+      }
+    ]
+  },
+  {
+    "id": "thomas-mann",
+    "name": "Thomas Mann",
+    "years": "1875–1955",
+    "group": "Littérature moderne",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature",
+    "bio": "Thomas Mann (1875–1955), romancier et essayiste allemand, observe la bourgeoisie européenne à travers ses crises et son rapport ambigu à l’art. Les Buddenbrook (1901), fresque du déclin d’une famille de négociants, installe la tension entre vitalité sociale et sensibilité artistique. Tonio Kröger, La Mort à Venise et La Montagne magique interrogent l’opposition entre vie et esprit, désir et discipline, maladie et culture. L’ironie narrative et la construction symbolique de ses romans en font l’un des grands héritiers du réalisme européen, mais aussi un observateur aigu de la modernité. D’abord nationaliste en 1914, Mann évolue vers la défense de la démocratie et combat le nazisme depuis l’exil à partir de 1933. Naturalisé américain, il poursuit une œuvre marquée par l’histoire du siècle, notamment avec Le Docteur Faustus. Il reçoit le prix Nobel de littérature en 1929.",
+    "works": [
+      "Les Buddenbrook (1901)",
+      "Tonio Kröger (1903)",
+      "La Mort à Venise (1912)",
+      "La Montagne magique (1924)",
+      "Joseph et ses frères (1933–1943)",
+      "Lotte à Weimar (1939)",
+      "Le Docteur Faustus (1947)",
+      "Les Confessions du chevalier d’industrie Félix Krull (1954)"
+    ],
+    "bibliography": [
+      "Les Buddenbrook, 1901.",
+      "Tonio Kröger, 1903.",
+      "La Mort à Venise, 1912.",
+      "La Montagne magique, 1924.",
+      "Joseph et ses frères, 1933–1943.",
+      "Le Docteur Faustus, 1947."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1929/mann/biographical/",
+        "note": "Fondation Nobel : biographie et parcours littéraire."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Thomas_Mann/175126",
+        "note": "Larousse : thèmes, œuvres et évolution intellectuelle."
+      }
+    ]
+  },
+  {
+    "id": "albert-cossery",
+    "name": "Albert Cossery",
+    "years": "1913–2008",
+    "group": "Littérature contemporaine",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature",
+    "bio": "Albert Cossery (1913–2008), écrivain égyptien d’expression française, naît au Caire et s’installe à Paris en 1945, où il mène jusqu’à sa mort une existence volontairement discrète. Ses romans se déroulent le plus souvent dans une Égypte populaire, peuplée de mendiants, de marginaux, de rêveurs et de contestataires. Une ironie sèche et une langue dépouillée lui permettent de tourner en dérision le pouvoir, la richesse, le travail comme obligation morale et les ambitions de réussite. L’oisiveté devient chez lui une forme de liberté et une manière de résister aux injonctions sociales. Mendiants et orgueilleux, Les Fainéants dans la vallée fertile et La Violence et la dérision donnent à cette œuvre brève une portée politique singulière, sans la réduire au pamphlet. Son amitié avec Henry Miller et son regard d’exilé nourrissent une littérature à la fois caustique et humaniste.",
+    "works": [
+      "Les Hommes oubliés de Dieu (1941)",
+      "La Maison de la mort certaine (1944)",
+      "Les Fainéants dans la vallée fertile (1948)",
+      "Mendiants et orgueilleux (1955)",
+      "La Violence et la dérision (1964)",
+      "Un complot de saltimbanques (1975)",
+      "Une ambition dans le désert (1984)",
+      "Les Couleurs de l’infamie (1999)"
+    ],
+    "bibliography": [
+      "Les Hommes oubliés de Dieu, 1941.",
+      "La Maison de la mort certaine, 1944.",
+      "Les Fainéants dans la vallée fertile, 1948.",
+      "Mendiants et orgueilleux, 1955.",
+      "La Violence et la dérision, 1964.",
+      "Une ambition dans le désert, 1984.",
+      "Les Couleurs de l’infamie, 1999."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cilf-litteratures-francophones.fr/pages/albert-cossery.html",
+        "note": "Conseil international de la langue française : biographie et bibliographie."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Albert_Cossery/172574",
+        "note": "Larousse : thèmes, style et présentation de l’œuvre."
+      }
+    ],
+    "related": [
+      "henry-miller"
+    ]
+  },
+  {
+    "id": "francis-bacon",
+    "name": "Francis Bacon",
+    "years": "1909–1992",
+    "group": "Expressionnisme figuratif",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Peinture",
+    "bio": "Francis Bacon (1909–1992), peintre né à Dublin et actif principalement à Londres, développe une figuration violente et instable, à rebours de l’abstraction dominante de l’après-guerre. Autodidacte, d’abord designer, il détruit une grande partie de ses premières toiles avant que Three Studies for Figures at the Base of a Crucifixion (1944) ne le fasse connaître. Ses figures isolées, enfermées dans des cages perspectivistes ou déformées par le mouvement, évoquent la vulnérabilité du corps, la solitude et la brutalité de l’existence. Il puise dans la photographie, le cinéma, les maîtres anciens et les images de presse, notamment les portraits du pape Innocent X de Velázquez, qu’il transforme en visions convulsives. Ses séries de portraits et ses triptyques mettent en tension présence physique, accident pictural et sensation. Bacon reste une figure indépendante, difficile à rattacher à une école, mais centrale dans la peinture européenne du XXe siècle.",
+    "works": [
+      "Three Studies for Figures at the Base of a Crucifixion (1944)",
+      "Painting (1946)",
+      "Head VI (1949)",
+      "Study after Velázquez's Portrait of Pope Innocent X (1953)",
+      "Three Studies for a Crucifixion (1962)",
+      "Triptych, May–June 1973 (1973)"
+    ],
+    "bibliography": [
+      "David Sylvester, Interviews with Francis Bacon, Thames & Hudson, 1975.",
+      "Michael Peppiatt, Francis Bacon: Anatomy of an Enigma, 1996.",
+      "Martin Harrison (dir.), Francis Bacon: Catalogue Raisonné, 5 vol., 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/artwork/artist/francis-bacon",
+        "note": "Guggenheim : biographie et évolution picturale."
+      },
+      {
+        "url": "https://www.moma.org/artists/272-francis-bacon",
+        "note": "MoMA : œuvres et expositions."
+      }
+    ]
+  },
+  {
+    "id": "mark-rothko",
+    "name": "Mark Rothko",
+    "years": "1903–1970",
+    "group": "Expressionnisme abstrait",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Peinture",
+    "bio": "Mark Rothko (1903–1970), né Markus Rothkowitz dans l’Empire russe et émigré aux États-Unis en 1913, est une figure majeure de l’expressionnisme abstrait et de la Color Field painting. Après des débuts figuratifs et des recherches nourries par le surréalisme, il abandonne progressivement la représentation pour développer, à partir de la fin des années 1940, de vastes champs colorés traversés de rectangles aux contours vibrants. Ces surfaces ne visent pas une simple harmonie décorative : Rothko entend susciter une expérience émotionnelle et presque physique, liée à la tragédie, à l’extase et à la condition humaine. Il travaille souvent à grande échelle, dans des formats qui enveloppent le regardeur. Les peintures destinées à la chapelle de Houston, conçues dans les dernières années de sa vie, radicalisent cette recherche méditative. Sa trajectoire croise celle de Barnett Newman et Clyfford Still, mais son rapport à la couleur et à l’espace conserve une intensité singulière.",
+    "works": [
+      "Slow Swirl at the Edge of the Sea (1944)",
+      "Multiforms (vers 1946–1948)",
+      "No. 5/No. 24 (1948)",
+      "No. 14 (1960)",
+      "Rothko Chapel paintings (1964–1967)",
+      "Black on Gray (1969–1970)"
+    ],
+    "bibliography": [
+      "Mark Rothko, The Artist’s Reality: Philosophies of Art, Yale University Press, 2004.",
+      "Christopher Rothko, Mark Rothko: From the Inside Out, Yale University Press, 2015.",
+      "David Anfam, Mark Rothko: The Works on Canvas, Catalogue Raisonné, 1998."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/5047-mark-rothko",
+        "note": "MoMA : biographie, champs colorés et œuvres."
+      },
+      {
+        "url": "https://www.nga.gov/artists/1839-mark-rothko",
+        "note": "National Gallery of Art : parcours et expositions."
+      }
+    ]
+  },
+  {
+    "id": "theodor-w-adorno",
+    "name": "Theodor W. Adorno",
+    "years": "1903–1969",
+    "group": "École de Francfort",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie et critique",
+    "bio": "Theodor W. Adorno (1903–1969), philosophe, sociologue, musicologue et critique allemand, est l’un des principaux représentants de la première génération de l’École de Francfort. Formé à la philosophie et à la composition musicale, notamment auprès d’Alban Berg, il développe une pensée interdisciplinaire où esthétique, théorie sociale et critique de la rationalité se répondent. Contraint à l’exil par le nazisme en raison de ses origines juives et de ses positions intellectuelles, il séjourne à Oxford puis aux États-Unis, où il travaille avec Max Horkheimer. La Dialectique de la raison analyse la manière dont la rationalité des Lumières peut se retourner en domination ; Minima Moralia rassemble des réflexions fragmentaires sur la vie mutilée dans la société moderne. Adorno critique l’industrie culturelle, la standardisation des loisirs et les compromis de l’art avec le marché, tout en défendant la force négative des œuvres modernistes. De retour à Francfort en 1949, il devient une figure centrale de la théorie critique.",
+    "works": [
+      "Kierkegaard: Konstruktion des Ästhetischen (1933)",
+      "Dialectique de la raison (avec Max Horkheimer, 1944/1947)",
+      "Philosophie de la nouvelle musique (1949)",
+      "Minima Moralia (1951)",
+      "Prismes (1955)",
+      "Dialectique négative (1966)",
+      "Théorie esthétique (1970, posthume)"
+    ],
+    "bibliography": [
+      "Dialectique de la raison, avec Max Horkheimer, 1944/1947.",
+      "Philosophie de la nouvelle musique, 1949.",
+      "Minima Moralia, 1951.",
+      "Prismes, 1955.",
+      "Dialectique négative, 1966.",
+      "Théorie esthétique, Suhrkamp, 1970.",
+      "Stefan Müller-Doohm, Adorno: A Biography, Polity, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/adorno/",
+        "note": "Stanford Encyclopedia of Philosophy : biographie et théorie critique."
+      },
+      {
+        "url": "https://iep.utm.edu/adorno/",
+        "note": "Internet Encyclopedia of Philosophy : philosophie sociale et esthétique."
+      }
+    ]
+  },
+  {
+    "id": "vladimir-jankelevitch",
+    "name": "Vladimir Jankélévitch",
+    "years": "1903–1985",
+    "group": "Philosophie morale",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie et musique",
+    "bio": "Vladimir Jankélévitch (1903–1985), philosophe et musicologue français, enseigne notamment à Lille puis à la Sorbonne, où il occupe la chaire de philosophie morale. Héritier critique de Bergson, il élabore une pensée du temps, de l’irréversible, de la mort et de l’instant, attentive à ce qui échappe aux concepts : le je-ne-sais-quoi, le presque-rien, l’ineffable. Son écriture, vive et sinueuse, mêle précision philosophique, images et paradoxes. La musique occupe une place essentielle dans son œuvre, avec des études consacrées à Fauré, Debussy et Ravel, mais aussi une réflexion sur l’expérience morale et la fragilité du vivant. Radié de l’Université par le régime de Vichy en raison de ses origines juives, il rejoint la Résistance et retrouve son poste après la Libération. Après la guerre, il prend une position publique majeure contre l’oubli des crimes nazis et défend l’imprescriptibilité des crimes contre l’humanité.",
+    "works": [
+      "Henri Bergson (1931)",
+      "L’Ironie (1936)",
+      "Ravel (1939)",
+      "Le Traité des vertus (1949–1972)",
+      "Le Je-ne-sais-quoi et le presque-rien (1957–1980)",
+      "La Mort (1966)",
+      "L’Imprescriptible (1986)"
+    ],
+    "bibliography": [
+      "Henri Bergson, 1931.",
+      "L’Ironie, 1936.",
+      "Ravel, 1939.",
+      "Le Je-ne-sais-quoi et le presque-rien, 3 vol., 1957–1980.",
+      "La Mort, 1966.",
+      "Le Traité des vertus, 1949–1972.",
+      "L’Imprescriptible, 1986."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/vladimir-jankelevitch-bibliographie",
+        "note": "BnF : bibliographie de référence."
+      },
+      {
+        "url": "https://irhis-recherche.univ-lille.fr/IRHiS_New/00-SiteUniversite/htdocs/jankelevitch-vladimir.html",
+        "note": "Université de Lille : biographie universitaire et engagement dans la Résistance."
+      }
+    ]
+  },
+  {
+    "id": "francis-wolff",
+    "name": "Francis Wolff",
+    "years": "1950–",
+    "group": "Philosophie",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie",
+    "bio": "Francis Wolff (né en 1950), philosophe français et professeur émérite à l’École normale supérieure, travaille principalement sur la philosophie antique, la logique, le langage et la question de l’humain. Spécialiste d’Aristote et de Socrate, il interroge les conditions de la pensée rationnelle et les catégories par lesquelles les sociétés définissent le vivant, l’animal et la personne. Son approche conjugue histoire de la philosophie et intervention dans les débats contemporains : qu’est-ce qu’un être humain, comment penser l’animal, que signifie parler d’un monde commun ? Il a enseigné en France et au Brésil, dirigé le département de philosophie de l’ENS et animé le séminaire « Les lundis de la philosophie ». Son travail, éloigné des écoles d’avant-garde artistique, trouve sa place dans l’Atlas comme repère de la pensée contemporaine et contrepoint conceptuel aux expérimentations qui interrogent langage et humanité.",
+    "works": [
+      "Socrate (1985)",
+      "Aristote et la politique (1991)",
+      "Dire le monde (1997)",
+      "L’Être, l’homme, le disciple (2000)",
+      "Notre humanité. D’Aristote aux neurosciences (2010)",
+      "Pourquoi la musique ? (2015)",
+      "Trois utopies contemporaines (2017)"
+    ],
+    "bibliography": [
+      "Socrate, PUF, 1985.",
+      "Aristote et la politique, PUF, 1991.",
+      "Dire le monde, PUF, 1997.",
+      "Notre humanité. D’Aristote aux neurosciences, Fayard, 2010.",
+      "Pourquoi la musique ?, Fayard, 2015.",
+      "Trois utopies contemporaines, Fayard, 2017."
+    ],
+    "sources": [
+      {
+        "url": "https://www.franciswolff.fr/oeuvre-et-parcours/",
+        "note": "Site de Francis Wolff : parcours universitaire et bibliographie."
+      }
+    ]
+  },
+  {
+    "id": "germaine-dulac",
+    "name": "Germaine Dulac",
+    "years": "1882–1942",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Germaine Dulac (1882–1942), réalisatrice, théoricienne, journaliste et productrice française, est une pionnière du cinéma d’avant-garde. D’abord engagée dans le journalisme féministe, elle aborde le cinéma comme un art autonome, capable de traduire les mouvements intérieurs plutôt que d’illustrer une intrigue. Ses films des années 1920 explorent rythme, motifs visuels, surimpressions et correspondances entre musique et image. La Souriante Madame Beudet (1923) est un jalon du cinéma impressionniste ; La Coquille et le Clergyman (1928), sur un scénario d’Antonin Artaud, pousse l’expérimentation vers une logique onirique et surréaliste, non sans conflit avec le groupe de Breton. Avec Thèmes et variations et Étude cinégraphique sur une arabesque, elle approfondit le cinéma pur, libéré de la narration traditionnelle. Elle défend ensuite les ciné-clubs et le cinéma documentaire, formulant une théorie durable de l’expérimentation visuelle et sonore.",
+    "works": [
+      "La Souriante Madame Beudet (1923)",
+      "Âme d’artiste (1924)",
+      "La Coquille et le Clergyman (1928)",
+      "Thèmes et variations (1928)",
+      "Étude cinégraphique sur une arabesque (1929)",
+      "Disque 957 (1928)"
+    ],
+    "bibliography": [
+      "Germaine Dulac, « Les esthétiques, les entraves, la cinégraphie intégrale », 1927.",
+      "Tami Williams, Germaine Dulac: A Cinema of Sensations, University of Illinois Press, 2014.",
+      "Études et catalogues de rétrospectives Germaine Dulac, Cinémathèque française."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cinematheque.fr/article/1521.html",
+        "note": "Cinémathèque française : biographie, théorie du cinéma et engagement féministe."
+      },
+      {
+        "url": "https://www.cineclubdecaen.com/analyse/cinemaexperimental.htm",
+        "note": "Repères historiques sur le cinéma expérimental et les films de Dulac."
+      }
+    ],
+    "related": [
+      "richter",
+      "dziga_vertov",
+      "maya-deren"
+    ]
+  },
+  {
+    "id": "luis-bunuel",
+    "name": "Luis Buñuel",
+    "years": "1900–1983",
+    "group": "Surréalisme",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Luis Buñuel (1900–1983), cinéaste espagnol, est une figure majeure du surréalisme et l’un des inventeurs du cinéma moderne. Formé à Madrid au contact de la Residencia de Estudiantes, où il se lie avec Federico García Lorca et Salvador Dalí, il rejoint Paris à la fin des années 1920. Un chien andalou (1929), coréalisé avec Dalí, attaque la logique narrative et l’image rassurante par des associations de rêves, de désir et de violence. L’Âge d’or (1930) provoque un scandale et affirme une critique radicale de la bourgeoisie, de l’Église et des conventions sociales. Après l’exil, Buñuel travaille au Mexique, où il réalise une œuvre à la fois populaire, corrosive et formellement libre, avant de revenir en Europe avec Viridiana, Le Charme discret de la bourgeoisie et Cet obscur objet du désir. Son cinéma mêle réalisme cru, inconscient, humour noir et critique des institutions.",
+    "works": [
+      "Un chien andalou (1929, avec Salvador Dalí)",
+      "L’Âge d’or (1930)",
+      "Las Hurdes / Terre sans pain (1933)",
+      "Los olvidados (1950)",
+      "Viridiana (1961)",
+      "Le Journal d’une femme de chambre (1964)",
+      "Belle de jour (1967)",
+      "Le Charme discret de la bourgeoisie (1972)",
+      "Cet obscur objet du désir (1977)"
+    ],
+    "bibliography": [
+      "Luis Buñuel, Mon dernier soupir, Robert Laffont, 1982.",
+      "Agustín Sánchez Vidal, Luis Buñuel, Cátedra, 1994.",
+      "Catalogues de rétrospectives de la Cinémathèque française et de la Filmoteca Española."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cinematheque.fr/cycle/luis-bunuel-230.html",
+        "note": "Cinémathèque française : parcours surréaliste et filmographie."
+      },
+      {
+        "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/121894",
+        "note": "Archives espagnoles PARES : notice d’autorité et biographie."
+      },
+      {
+        "url": "https://sic.cultura.gob.mx/ficha.php?table=cineasta&table_id=1145",
+        "note": "Secrétariat à la Culture du Mexique : biographie et parcours."
+      }
+    ],
+    "related": [
+      "germaine-dulac"
+    ]
+  },
+  {
+    "id": "maya-deren",
+    "name": "Maya Deren",
+    "years": "1917–1961",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Maya Deren (1917–1961), cinéaste, chorégraphe, théoricienne et photographe américaine née à Kyiv, joue un rôle décisif dans l’émergence du cinéma expérimental indépendant aux États-Unis. Avec Alexander Hammid, elle réalise Meshes of the Afternoon (1943), film à petit budget qui transforme les gestes quotidiens en boucle onirique grâce aux répétitions, raccords impossibles et dédoublements. At Land, A Study in Choreography for Camera et Ritual in Transfigured Time explorent le mouvement du corps, le montage et la construction d’un espace-temps propre au cinéma. Deren défend l’indépendance de production et de diffusion, organise des projections et contribue à créer des structures de soutien au cinéma expérimental. Ses recherches sur la danse et les rituels haïtiens nourrissent Divine Horsemen: The Living Gods of Haiti. Son œuvre brève mais influente affirme le cinéma comme art autonome, proche de la danse et de la musique.",
+    "works": [
+      "Meshes of the Afternoon (1943, avec Alexander Hammid)",
+      "At Land (1944)",
+      "A Study in Choreography for Camera (1945)",
+      "Ritual in Transfigured Time (1946)",
+      "Meditation on Violence (1948)",
+      "The Very Eye of Night (1958)",
+      "Divine Horsemen: The Living Gods of Haiti (livre, 1953)"
+    ],
+    "bibliography": [
+      "Maya Deren, An Anagram of Ideas on Art, Form and Film, 1946.",
+      "Maya Deren, Divine Horsemen: The Living Gods of Haiti, 1953.",
+      "Maya Deren, Essential Deren: Collected Writings on Film, éd. Bruce R. McPherson, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/6912-maya-deren",
+        "note": "MoMA : biographie, œuvres et pratique du cinéma comme art autonome."
+      },
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/1096",
+        "note": "MoMA : rétrospective et importance dans le cinéma expérimental."
+      },
+      {
+        "url": "https://www.bfi.org.uk/features/maya-deren-meshes-of-the-afternoon",
+        "note": "BFI : parcours et films majeurs."
+      }
+    ],
+    "related": [
+      "germaine-dulac",
+      "kenneth-anger",
+      "stan-brakhage"
+    ]
+  },
+  {
+    "id": "kenneth-anger",
+    "name": "Kenneth Anger",
+    "years": "1927–2023",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Kenneth Anger (1927–2023), cinéaste américain du cinéma underground, réalise dès l’adolescence des courts métrages où se mêlent surréalisme, culture queer, érotisme, occultisme et mythologies hollywoodiennes. Fireworks (1947), tourné en noir et blanc, affirme très tôt une représentation explicite du désir homosexuel et provoque une réaction judiciaire. Installé un temps en Europe, il réalise Eaux d’artifice, Inauguration of the Pleasure Dome et Scorpio Rising, film-manifeste qui associe motards, icônes populaires, musique rock et montage associatif. Ses œuvres, souvent brèves et soigneusement composées, font de la bande sonore et du montage des forces structurantes, sans recourir au récit classique. Anger publie aussi Hollywood Babylon, chronique scandaleuse et mythologique de l’industrie du cinéma. Son influence s’étend au cinéma indépendant, aux arts visuels et à la culture musicale underground.",
+    "works": [
+      "Fireworks (1947)",
+      "Puce Moment (1949)",
+      "Eaux d’artifice (1953)",
+      "Inauguration of the Pleasure Dome (1954)",
+      "Scorpio Rising (1963)",
+      "Invocation of My Demon Brother (1969)",
+      "Lucifer Rising (1972)"
+    ],
+    "bibliography": [
+      "Kenneth Anger, Hollywood Babylon, 1959 (édition anglaise augmentée, 1975).",
+      "Bill Landis, Anger: The Unauthorized Biography of Kenneth Anger, 1995.",
+      "P. Adams Sitney, Visionary Film: The American Avant-Garde, Oxford University Press, 1974."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/personne/cig8jx",
+        "note": "Centre Pompidou : œuvres, dates et repères biographiques."
+      },
+      {
+        "url": "https://cinema.ucla.edu/events/kenneth-anger-08-05-06/",
+        "note": "UCLA Film & Television Archive : place dans le cinéma underground et analyse des films."
+      },
+      {
+        "url": "https://www.loc.gov/blogs/now-see-hear/2023/05/remembering-kenneth-anger-1927-2023/",
+        "note": "Library of Congress : hommage et parcours de cinéaste."
+      }
+    ],
+    "related": [
+      "maya-deren",
+      "stan-brakhage",
+      "tony-conrad"
+    ]
+  },
+  {
+    "id": "stan-brakhage",
+    "name": "Stan Brakhage",
+    "years": "1933–2003",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Stan Brakhage (1933–2003), cinéaste américain, est l’un des créateurs les plus prolifiques et influents du cinéma d’avant-garde d’après-guerre. Il explore la perception visuelle en travaillant la caméra à l’épaule, les variations de mise au point, les surimpressions, les rythmes de montage et la matérialité de la pellicule. Il peint, gratte ou colle parfois directement sur le film, comme dans Mothlight, et cherche à rendre des formes de vision qui échappent au langage verbal. Dog Star Man, cycle monumental du début des années 1960, associe expérience intime, nature, naissance et perception cosmique. Brakhage refuse la séparation entre technique et expérience : le film devient un acte de regard, un flux sensoriel et une écriture plastique. Son œuvre, qui compte plusieurs centaines de films, est accompagnée d’essais théoriques influents sur la vision et le cinéma.",
+    "works": [
+      "Interim (1952)",
+      "Desistfilm (1954)",
+      "Mothlight (1963)",
+      "Dog Star Man (1961–1964)",
+      "The Art of Vision (1965)",
+      "Scenes from Under Childhood (1967–1970)",
+      "The Text of Light (1974)"
+    ],
+    "bibliography": [
+      "Stan Brakhage, Metaphors on Vision, Film Culture, 1963.",
+      "Stan Brakhage, Film at Wit’s End: Eight Avant-Garde Filmmakers, 1989.",
+      "P. Adams Sitney, Visionary Film: The American Avant-Garde, 1974."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bfi.org.uk/sight-and-sound/interviews/all-that-light-stan-brakhage-film",
+        "note": "BFI : biographie, démarche perceptive et place dans l’avant-garde."
+      },
+      {
+        "url": "https://catalog.afi.com/Person/141714-Stan-Brakhage",
+        "note": "AFI Catalog : filmographie sélective."
+      }
+    ],
+    "related": [
+      "maya-deren",
+      "kenneth-anger",
+      "tony-conrad"
+    ]
+  },
+  {
+    "id": "chris-marker",
+    "name": "Chris Marker",
+    "years": "1921–2012",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma et arts multimédias",
+    "bio": "Chris Marker (1921–2012), cinéaste, écrivain, photographe et artiste multimédia français, invente une forme de film-essai où mémoire personnelle, histoire politique et réflexion sur les images s’entrelacent. Après des débuts dans l’édition et le journalisme, il réalise des documentaires de voyage qui déplacent les codes du reportage par le commentaire subjectif et le montage poétique. Lettre de Sibérie (1957) révèle sa manière de faire varier le sens d’une même séquence par la voix off. La Jetée (1962), construite presque entièrement à partir de photographies fixes, transforme le récit de science-fiction en méditation sur le temps et la mémoire. Le Fond de l’air est rouge, Sans Soleil et Level Five poursuivent cette enquête sur les traces, les révolutions et les technologies. Marker travaille aussi avec des collectifs, notamment SLON et les Groupes Medvedkine, et explore plus tard la vidéo et le CD-ROM interactif Immemory.",
+    "works": [
+      "Les Statues meurent aussi (1953, avec Alain Resnais)",
+      "Dimanche à Pékin (1956)",
+      "Lettre de Sibérie (1957)",
+      "La Jetée (1962)",
+      "Le Joli Mai (1963)",
+      "Le Fond de l’air est rouge (1977)",
+      "Sans Soleil (1983)",
+      "Level Five (1997)",
+      "Immemory (CD-ROM, 1998)"
+    ],
+    "bibliography": [
+      "Chris Marker, Commentaires 1 et 2, Seuil, 1961 et 1967.",
+      "Chris Marker, Le Dépays, Herscher, 1982.",
+      "Catherine Lupton, Chris Marker: Memories of the Future, Reaktion Books, 2005.",
+      "Dossiers et inventaires du fonds Chris Marker, Cinémathèque française."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cinematheque.fr/article/884.html",
+        "note": "Cinémathèque française : archives, parcours et films majeurs."
+      },
+      {
+        "url": "https://www.eai.org/artists/chris-marker/biography",
+        "note": "Electronic Arts Intermix : biographie, films et œuvres multimédias."
+      },
+      {
+        "url": "https://iffr.com/en/person/chris-marker",
+        "note": "International Film Festival Rotterdam : biographie et filmographie."
+      }
+    ],
+    "related": [
+      "jean-luc-godard"
+    ]
+  },
+  {
+    "id": "norman-mclaren",
+    "name": "Norman McLaren",
+    "years": "1914–1987",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma d’animation",
+    "bio": "Norman McLaren (1914–1987), cinéaste et animateur écossais installé au Canada, renouvelle le cinéma d’animation par ses expérimentations sur la pellicule, le mouvement et le son. Formé à la Glasgow School of Art, il rejoint en 1941 l’Office national du film du Canada, où il fonde et anime un atelier devenu un laboratoire majeur. Il dessine directement sur la pellicule, grave l’émulsion, réalise des animations sans caméra et compose parfois la bande sonore en traçant des formes sur la piste optique. Begone Dull Care, Blinkity Blank et Neighbours témoignent de ses inventions, entre abstraction musicale, montage discontinu et pixillation. Son œuvre associe recherche formelle et accessibilité, sans opposer expérimentation et plaisir du spectateur. Il reçoit un Oscar pour Neighbours et la Palme d’or du court métrage à Cannes pour Blinkity Blank.",
+    "works": [
+      "Love on the Wing (1938)",
+      "Hen Hop (1942)",
+      "Begone Dull Care (1949, avec Evelyn Lambart)",
+      "Neighbours (1952)",
+      "Blinkity Blank (1955)",
+      "A Chairy Tale (1957, avec Claude Jutra)",
+      "Pas de deux (1968)",
+      "Synchromy (1971)"
+    ],
+    "bibliography": [
+      "Donald McWilliams, Norman McLaren: On the Creative Process, ONF, 1991.",
+      "Canadian Film Encyclopedia : notice et filmographie de Norman McLaren.",
+      "Catalogues et rétrospectives de l’Office national du film du Canada."
+    ],
+    "sources": [
+      {
+        "url": "https://cfe.tiff.net/canadianfilmencyclopedia/content/bios/norman-mclaren",
+        "note": "Canadian Film Encyclopedia : biographie, techniques et filmographie."
+      },
+      {
+        "url": "https://www.cccb.org/en/w/participants/norman-mclaren",
+        "note": "CCCB : parcours et importance du cinéma abstrait de McLaren."
+      }
+    ],
+    "related": [
+      "richter",
+      "dziga_vertov",
+      "tony-conrad"
+    ]
+  },
+  {
+    "id": "jean-luc-godard",
+    "name": "Jean-Luc Godard",
+    "years": "1930–2022",
+    "group": "Nouvelle Vague / cinéma-essai",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Jean-Luc Godard (1930–2022), cinéaste, scénariste et critique franco-suisse, transforme le langage du cinéma avec la Nouvelle Vague avant de remettre sans cesse en cause ses propres formes. Critique aux Cahiers du cinéma, il passe à la réalisation avec À bout de souffle (1960), dont les coupes franches, la caméra mobile et le jeu avec les genres rompent avec les conventions du cinéma de studio. Vivre sa vie, Le Mépris, Pierrot le fou et Week-end prolongent cette recherche par le collage, la citation, la discontinuité narrative et la réflexion sur les images. Après Mai 1968, il travaille avec Jean-Pierre Gorin au sein du Groupe Dziga Vertov, dans une pratique collective et militante qui interroge les rapports entre cinéma, idéologie et production. À partir des années 1980, ses films deviennent de plus en plus essayistiques, jusqu’à la série Histoire(s) du cinéma, montage monumental d’images, de sons et de textes. Godard fait du cinéma un outil critique qui pense autant qu’il montre.",
+    "works": [
+      "À bout de souffle (1960)",
+      "Vivre sa vie (1962)",
+      "Le Mépris (1963)",
+      "Pierrot le fou (1965)",
+      "Week-end (1967)",
+      "Le Gai Savoir (1969)",
+      "Tout va bien (1972, avec Jean-Pierre Gorin)",
+      "Numéro deux (1975)",
+      "Histoire(s) du cinéma (1988–1998)",
+      "Le Livre d’image (2018)"
+    ],
+    "bibliography": [
+      "Jean-Luc Godard, Introduction à une véritable histoire du cinéma, Albatros, 1980.",
+      "Jean-Luc Godard, Histoire(s) du cinéma, Gallimard-Gaumont, 1998.",
+      "Antoine de Baecque, Godard. Biographie, Grasset, 2010."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11905213z",
+        "note": "BnF : notice d’autorité, filmographie et Groupe Dziga Vertov."
+      },
+      {
+        "url": "https://www.cinematheque.fr/",
+        "note": "Cinémathèque française : rétrospectives, archives et dossiers sur Godard."
+      }
+    ],
+    "related": [
+      "dziga_vertov"
+    ]
+  },
+  {
+    "id": "john-zorn",
+    "name": "John Zorn",
+    "years": "1953–",
+    "group": "Musiques expérimentales / Downtown",
+    "bio": "John Zorn (né en 1953 à New York) est compositeur, saxophoniste, improvisateur et organisateur, figure centrale de la scène Downtown new-yorkaise. Nourri par le free jazz, la musique contemporaine, le punk, le cinéma et les musiques populaires, il brouille les frontières entre composition et improvisation. Ses « game pieces », dont Cobra (1984), reposent sur des règles, des signes et des décisions prises en temps réel par les interprètes. Il développe parallèlement des projets très contrastés, de Naked City à Masada, et compose pour le cinéma. Fondateur du label Tzadik en 1995 et animateur de la salle The Stone, il joue un rôle essentiel dans la structuration d’une communauté expérimentale, autant comme créateur que comme passeur.",
+    "works": [
+      "The Big Gundown (1986)",
+      "Cobra (1984 ; enregistrement publié en 1987)",
+      "Naked City (1990)",
+      "Kristallnacht (1992)",
+      "Masada: Alef (1994)",
+      "The Book of Heads (1978)"
+    ],
+    "bibliography": [
+      "John Brackett, John Zorn: Tradition and Transgression, Indiana University Press, 2008.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, à partir de 2000.",
+      "Guillaume Kosmicki, Musiques savantes : de John Zorn à la fin du monde, et après…, Le Mot et le reste, 2017."
+    ],
+    "sources": [
+      {
+        "url": "https://ressources.ircam.fr/fr/john-zorn",
+        "note": "IRCAM : biographie, pratiques de composition et bibliographie."
+      },
+      {
+        "url": "https://www.macfound.org/fellows/class-of-2006/john-zorn",
+        "note": "MacArthur Foundation : parcours et rôle dans la scène expérimentale."
+      }
+    ],
+    "related": [
+      "anthony-braxton",
+      "fred-frith",
+      "alvin-curran",
+      "tony-conrad",
+      "john-cage"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Composition et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "butch-morris",
+    "name": "Lawrence « Butch » Morris",
+    "years": "1947–2013",
+    "group": "Improvisation libre / Conduction",
+    "bio": "Lawrence Douglas « Butch » Morris (1947–2013) est un cornettiste, compositeur et chef d’ensemble américain, connu pour avoir élaboré la Conduction®, méthode de direction d’improvisations collectives. À l’aide de gestes et de signes transmis aux musiciens, il organise en temps réel des transformations de matière sonore, de densité, de rythme et de texture, sans imposer une partition entièrement écrite. Issu des scènes free jazz de Los Angeles puis de la Bay Area, il s’installe à New York dans les années 1970 et travaille avec de nombreux improvisateurs. Ses orchestres font de l’écoute collective et de la décision instantanée les matériaux mêmes de la composition. La Conduction ouvre ainsi une voie singulière entre direction orchestrale, composition ouverte et improvisation.",
+    "works": [
+      "Current Trends in Racism in Modern America (1985)",
+      "Dust to Dust (1987)",
+      "In Touch… But Out of Reach (1988)",
+      "Testament: A Conduction Collection (1995)"
+    ],
+    "bibliography": [
+      "Lawrence D. « Butch » Morris, textes et documents sur la Conduction, archives Conduction.us.",
+      "George E. Lewis, A Power Stronger Than Itself: The AACM and American Experimental Music, University of Chicago Press, 2008."
+    ],
+    "sources": [
+      {
+        "url": "https://www.conduction.us/about",
+        "note": "Conduction.us : biographie et description de la méthode de direction improvisée."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "anthony-braxton",
+      "fred-frith"
+    ],
+    "role_icon": "🎺",
+    "role_label": "Improvisation dirigée",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "otomo-yoshihide",
+    "name": "Otomo Yoshihide",
+    "years": "1959–",
+    "group": "Improvisation / Noise / Musique électronique",
+    "bio": "Otomo Yoshihide (né en 1959 à Yokohama) est un guitariste, turntabliste, compositeur et producteur japonais. Après avoir étudié la musique et l’ethnomusicologie à Tokyo, il développe une pratique qui traverse improvisation libre, noise, rock expérimental, électronique et composition pour le cinéma. Il se fait connaître internationalement avec Ground Zero, groupe fondé en 1990 qui déconstruit et réassemble des matériaux musicaux par le collage, le sampling et l’improvisation. Son travail sur les platines et les objets sonores élargit le vocabulaire de l’instrumentiste, tandis que ses projets ultérieurs, notamment les ensembles participatifs, interrogent les formes de concert et de création collective. Il est également à l’origine de Project Fukushima!, initiative artistique et citoyenne lancée après le séisme et la catastrophe nucléaire de 2011.",
+    "works": [
+      "Ground Zero (1992)",
+      "Revolutionary Pekinese Opera (1995)",
+      "Catholic Tastes (1995)",
+      "Anode (1997)",
+      "ONJQ (Otomo Yoshihide’s New Jazz Quintet)",
+      "Project Fukushima! (depuis 2011)"
+    ],
+    "bibliography": [
+      "Otomo Yoshihide, textes et entretiens publiés dans les catalogues de YCAM et NTT InterCommunication Center.",
+      "David Novak, Japanoise: Music at the Edge of Circulation, Duke University Press, 2013."
+    ],
+    "sources": [
+      {
+        "url": "https://otomoyoshihide.com/en/?page_id=4",
+        "note": "Site officiel : biographie et parcours artistique."
+      },
+      {
+        "url": "https://www.ntticc.or.jp/en/archive/participants/otomo-yoshihide/",
+        "note": "NTT InterCommunication Center : profil, improvisation et travail sonore."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "tony-conrad",
+      "fred-frith"
+    ],
+    "role_icon": "🎛️",
+    "role_label": "Improvisation et électronique",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "anthony-braxton",
+    "name": "Anthony Braxton",
+    "years": "1945–",
+    "group": "AACM / Free jazz / Composition",
+    "bio": "Anthony Braxton (né en 1945 à Chicago) est saxophoniste, clarinettiste, multi-instrumentiste, compositeur et théoricien américain. Membre majeur de l’Association for the Advancement of Creative Musicians (AACM), il développe dès la fin des années 1960 une œuvre qui déplace les catégories du jazz et de la musique contemporaine. For Alto (1969), enregistrement solo devenu historique, affirme l’autonomie d’une pratique instrumentale étendue. Ses compositions combinent systèmes graphiques, formes ouvertes, improvisation structurée et références à des traditions musicales multiples. Il élabore des cycles de grande ampleur, dont les opéras Trillium et les ensembles Creative Orchestra, Ghost Trance Music et Diamond Curtain Wall. Pédagogue pendant près de trois décennies à Wesleyan University, il a profondément marqué plusieurs générations de musiciens et de compositeurs.",
+    "works": [
+      "For Alto (1969)",
+      "The Complete Arista Recordings (1974–1980)",
+      "Creative Orchestra Music 1976",
+      "Composition No. 96 (1991)",
+      "Ghost Trance Music (cycle, à partir de 1995)",
+      "Trillium (cycle d’opéras)",
+      "Sonic Genome (projet d’installation et de performance)"
+    ],
+    "bibliography": [
+      "Anthony Braxton, Tri-Axium Writings, 3 volumes, 1985–1994.",
+      "Graham Lock, Forces in Motion: The Music and Thoughts of Anthony Braxton, Da Capo Press, 1988.",
+      "Ronald M. Radano, New Musical Figurations: Anthony Braxton’s Cultural Critique, University of Chicago Press, 1993."
+    ],
+    "sources": [
+      {
+        "url": "https://tricentricfoundation.org/anthony-braxton-bio",
+        "note": "Tri-Centric Foundation : biographie officielle et description des systèmes de composition."
+      },
+      {
+        "url": "https://www.macfound.org/fellows/class-of-1994/anthony-braxton",
+        "note": "MacArthur Foundation : parcours, AACM et importance dans les musiques improvisées."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "alvin-curran",
+      "john-cage"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Composition et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "alvin-curran",
+    "name": "Alvin Curran",
+    "years": "1938–",
+    "group": "Musique expérimentale / Musica Elettronica Viva",
+    "bio": "Alvin Curran (né en 1938 à Providence, Rhode Island) est un compositeur et improvisateur américain installé en Italie à partir des années 1960. Cofondateur avec Frederic Rzewski et Richard Teitelbaum du collectif Musica Elettronica Viva (MEV), il participe à l’invention d’une musique électroacoustique collective où synthétiseurs, sons amplifiés, objets, voix et instruments acoustiques sont mis en jeu dans l’instant. Son travail personnel associe électronique, paysages sonores, enregistrements de terrain, voix et instruments, souvent dans des formes ouvertes qui font entrer l’environnement dans la composition. Des œuvres comme Canti Illuminati ou Maritime Rites élargissent la notion de concert à l’espace public et au paysage. Curran occupe une place charnière entre avant-garde américaine, improvisation européenne et recherche électroacoustique.",
+    "works": [
+      "Canti Illuminati (1977)",
+      "Maritime Rites (1984)",
+      "Inner Cities (cycle pour piano, 1990–2010)",
+      "Endangered Species (1992)",
+      "Lost Marbles (2004)"
+    ],
+    "bibliography": [
+      "Alvin Curran, « The Alvin Curran Fakebook », textes et partitions publiés par l’artiste.",
+      "David Toop, Ocean of Sound, Serpent’s Tail, 1995.",
+      "Documentation et notices de l’IRCAM consacrées à Musica Elettronica Viva et à Alvin Curran."
+    ],
+    "sources": [
+      {
+        "url": "https://brahms.ircam.fr/fr/composer/alvin-curran/biography",
+        "note": "IRCAM : biographie, Musica Elettronica Viva et œuvres électroacoustiques."
+      }
+    ],
+    "related": [
+      "john-cage",
+      "fred-frith",
+      "john-zorn"
+    ],
+    "role_icon": "🎛️",
+    "role_label": "Composition électroacoustique",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "evan-parker",
+    "name": "Evan Parker",
+    "years": "1944–",
+    "group": "Improvisation libre européenne",
+    "bio": "Evan Parker (né en 1944 à Bristol) est un saxophoniste britannique, figure majeure du free jazz européen et de l’improvisation libre. Après avoir découvert le trio de Cecil Taylor à New York en 1962, il rejoint à Londres le Spontaneous Music Ensemble de John Stevens, laboratoire d’une improvisation collective sans hiérarchie fixe. Sa collaboration avec le guitariste Derek Bailey donne naissance à la Music Improvisation Company et au label Incus, fondé en 1970 avec Tony Oxley. Parker développe au saxophone soprano et ténor un vocabulaire singulier fondé sur la respiration circulaire, les multiphoniques, les attaques répétées et les micro-variations de timbre. Il explore également l’improvisation avec électronique en temps réel, notamment au sein de son ElectroAcoustic Ensemble.",
+    "works": [
+      "Karyobin (Spontaneous Music Ensemble, 1968)",
+      "The Topography of the Lungs (avec Derek Bailey et Han Bennink, 1970)",
+      "Monoceros (1978)",
+      "Conic Sections (1989)",
+      "Toward the Margins (Evan Parker ElectroAcoustic Ensemble, 1996)"
+    ],
+    "bibliography": [
+      "Evan Parker, entretiens et textes réunis dans les archives de son site officiel.",
+      "John Corbett, Extended Play: Sounding Off from John Cage to Dr. Funkenstein, Duke University Press, 1994.",
+      "Ekkehard Jost, Free Jazz, Da Capo Press, 1994."
+    ],
+    "sources": [
+      {
+        "url": "https://evanparker.com/biography.php",
+        "note": "Site officiel : biographie, collaborations et développement de l’improvisation libre."
+      },
+      {
+        "url": "https://www.onassis.org/people/evan-parker",
+        "note": "Onassis Foundation : techniques instrumentales et parcours."
+      }
+    ],
+    "related": [
+      "derek-bailey",
+      "peter-brotzmann",
+      "anthony-braxton",
+      "butch-morris"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Saxophone et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "derek-bailey",
+    "name": "Derek Bailey",
+    "years": "1930–2005",
+    "group": "Improvisation libre européenne",
+    "bio": "Derek Bailey (1930–2005) est un guitariste, compositeur et théoricien britannique, l’un des principaux fondateurs de l’improvisation libre européenne. Refusant les idiomes établis et les hiérarchies entre composition et interprétation, il développe une pratique fondée sur l’écoute, l’instant et l’exploration des possibilités physiques de la guitare. Il cofonde en 1970 avec Evan Parker et Tony Oxley le label Incus, plateforme essentielle pour la diffusion des musiques improvisées. Son livre Improvisation: Its Nature and Practice in Music (1980) propose une réflexion influente sur les pratiques improvisées à travers les cultures et les genres. Ses collaborations avec des musiciens européens, américains et japonais témoignent de la dimension internationale de cette scène.",
+    "works": [
+      "The Topography of the Lungs (1970)",
+      "Solo Guitar, Volume 1 (1971)",
+      "Lot 74 (1974)",
+      "Company (série de rencontres improvisées, à partir de 1976)",
+      "Duo avec Anthony Braxton (1980)",
+      "Ballads (2002)"
+    ],
+    "bibliography": [
+      "Derek Bailey, Improvisation: Its Nature and Practice in Music, 1980 ; édition révisée, 1992.",
+      "Ben Watson, Derek Bailey and the Story of Free Improvisation, Verso, 2004."
+    ],
+    "sources": [
+      {
+        "url": "https://lespressesdureel.com/auteur.php?id=3910&menu=0",
+        "note": "Les presses du réel : biographie et réseau de collaborations internationales."
+      }
+    ],
+    "related": [
+      "evan-parker",
+      "peter-brotzmann",
+      "anthony-braxton",
+      "otomo-yoshihide",
+      "fred-frith"
+    ],
+    "role_icon": "🎸",
+    "role_label": "Guitare et improvisation",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "peter-brotzmann",
+    "name": "Peter Brötzmann",
+    "years": "1941–2023",
+    "group": "Free jazz européen",
+    "bio": "Peter Brötzmann (1941–2023) est un saxophoniste, clarinettiste et artiste visuel allemand, l’une des figures les plus radicales du free jazz européen. Formé aux arts plastiques, il aborde l’improvisation comme un geste physique et collectif, privilégiant l’intensité, la densité et la confrontation des timbres. Son album Machine Gun (1968), enregistré avec un ensemble réunissant notamment Han Bennink, Fred Van Hove et Evan Parker, devient un jalon du free jazz européen. Il participe à la fondation du label Free Music Production (FMP) en 1969 et multiplie les collaborations avec les scènes américaines, européennes et japonaises. Son travail, souvent associé à de grands ensembles, affirme une musique sans compromis, mais attentive à la construction d’une énergie collective.",
+    "works": [
+      "For Adolphe Sax (1967)",
+      "Machine Gun (1968)",
+      "Nipples (1969)",
+      "The Catch of a Ghost (avec Han Bennink et Fred Van Hove, 1977)",
+      "Die Like a Dog (trio avec William Parker et Hamid Drake, à partir de 1993)",
+      "Chicago Tentet (1997–2012)"
+    ],
+    "bibliography": [
+      "Bert Noglik, Peter Brötzmann: Das Spiel ist mein Leben, Wolke Verlag, 2016.",
+      "Graham Lock, Forces in Motion, 1988, pour le contexte des musiques improvisées européennes et américaines."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nbk.org/en/diskurs/broetzmann",
+        "note": "Neuer Berliner Kunstverein : parcours, FMP et collaborations."
+      }
+    ],
+    "related": [
+      "evan-parker",
+      "derek-bailey",
+      "otomo-yoshihide",
+      "anthony-braxton"
+    ],
+    "role_icon": "🎷",
+    "role_label": "Free jazz",
+    "kind": "person",
+    "groups": []
+  },
+  {
+    "id": "fred-frith",
+    "name": "Fred Frith",
+    "years": "1949–",
+    "group": "Rock expérimental / Improvisation",
+    "bio": "Fred Frith (né en 1949 à Heathfield, en Angleterre) est guitariste, compositeur et improvisateur, dont le parcours relie rock expérimental, musique contemporaine, improvisation libre et arts de la scène. Cofondateur de Henry Cow en 1968, il contribue à l’émergence d’un rock d’avant-garde nourri de composition savante, de musique improvisée et de pratiques collectives. Son album solo Guitar Solos (1974), réalisé avec des techniques étendues et des objets préparés, devient une référence pour les guitaristes expérimentaux. Il collabore avec des improvisateurs comme Derek Bailey, Evan Parker, Han Bennink, Ikue Mori et John Zorn, compose pour le cinéma, la danse et le théâtre, et enseigne pendant vingt ans à Mills College. Sa pratique fait de l’instrument un laboratoire de gestes, de matières et de sons.",
+    "works": [
+      "Guitar Solos (1974)",
+      "Gravity (1980)",
+      "Speechless (1981)",
+      "Cheap at Half the Price (1983)",
+      "Step Across the Border (film, 1990)",
+      "Ragged Atlas (2017)"
+    ],
+    "bibliography": [
+      "Fred Frith, textes et entretiens dans Arcana: Musicians on Music, éd. John Zorn.",
+      "Benjamin Piekut, Henry Cow: The World Is a Problem, Duke University Press, 2019.",
+      "David Toop, Into the Maelstrom: Music, Improvisation and the Dream of Freedom, 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fredfrith.com/bla-bla-bio",
+        "note": "Site officiel : biographie et collaborations dans les musiques expérimentales."
+      },
+      {
+        "url": "https://www.fredfrith.com/discography",
+        "note": "Site officiel : discographie et collaborations documentées."
+      }
+    ],
+    "related": [
+      "john-zorn",
+      "derek-bailey",
+      "evan-parker",
+      "alvin-curran",
+      "butch-morris",
+      "tony-conrad"
+    ],
+    "role_icon": "🎸",
+    "role_label": "Rock expérimental et improvisation",
+    "kind": "person",
+    "groups": []
   }
 ]
