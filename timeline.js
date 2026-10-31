@@ -33,7 +33,7 @@ updateBottomScrollWidth();
 const aliases=[];const aliasOwners=new Map();
 for(const p of people){const full=p.name.trim();const surname=full.split(/\s+/).at(-1);const variants=new Set([full]);if(surname.length>=6){const k=surname.toLocaleLowerCase('fr');aliasOwners.set(k,(aliasOwners.get(k)||0)+1);variants.add(surname)}for(const label of variants)aliases.push({label,id:p.id})}
 const uniqueAliases=aliases.filter(a=>a.label.includes(' ')||aliasOwners.get(a.label.toLocaleLowerCase('fr'))===1).sort((a,b)=>b.label.length-a.label.length);
-const escapeRegex=value=>value.replace(/[.*+?^${}()|[\\]\\]/g,'\\$&');
+const escapeRegex=value=>value.split('').map(ch=>'.*+?^${}()|[]\\'.includes(ch)?'\\'+ch:ch).join('');
 const aliasPattern=uniqueAliases.length?new RegExp('(^|[^\\p{L}\\p{N}])('+uniqueAliases.map(a=>escapeRegex(a.label)).join('|')+')(?=$|[^\\p{L}\\p{N}])','giu'):null;
 function linkedBio(value){const source=esc(value||'Notice à compléter.');if(!aliasPattern)return source;aliasPattern.lastIndex=0;return source.replace(aliasPattern,(match,prefix,label)=>{const found=uniqueAliases.find(a=>a.label.toLocaleLowerCase('fr')===label.toLocaleLowerCase('fr'));return prefix+(found?'<a class="person-reference" href="#" data-compare-id="'+esc(found.id)+'" title="Ajouter '+esc(byId[found.id].name)+' à la comparaison">'+label+'</a>':label)})}
 let currentNoticeId=null;let comparisonIds=[];
