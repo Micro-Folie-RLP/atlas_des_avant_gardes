@@ -15021,7 +15021,7 @@
     "sources": [
       {
         "url": "https://www.tonyconradmovie.com/about2",
-        "note": "Documentaire Tony Conrad: Completely in the Present : parcours, œuvres et pratiques interdisciplinaires."
+        "note": "Documentaire Tony Conrad: Completely in the Present : parcours et pratiques interdisciplinaires."
       },
       {
         "url": "https://www.eai.org/artists/tony-conrad/biography",
@@ -16896,12 +16896,16 @@
     ],
     "sources": [
       {
-        "url": "https://www.cinematheque.fr/",
-        "note": "Cinémathèque française : rétrospectives, archives et études sur Buñuel."
+        "url": "https://www.cinematheque.fr/cycle/luis-bunuel-230.html",
+        "note": "Cinémathèque française : parcours surréaliste et filmographie."
       },
       {
-        "url": "https://www.bfi.org.uk/",
-        "note": "British Film Institute : dossiers et filmographie de Buñuel."
+        "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/121894",
+        "note": "Archives espagnoles PARES : notice d’autorité et biographie."
+      },
+      {
+        "url": "https://sic.cultura.gob.mx/ficha.php?table=cineasta&table_id=1145",
+        "note": "Secrétariat à la Culture du Mexique : biographie et parcours."
       }
     ],
     "related": [
@@ -16978,12 +16982,16 @@
     ],
     "sources": [
       {
-        "url": "https://www.bfi.org.uk/",
-        "note": "BFI : ressources sur le cinéma underground et la carrière d’Anger."
+        "url": "https://www.centrepompidou.fr/fr/ressources/personne/cig8jx",
+        "note": "Centre Pompidou : œuvres, dates et repères biographiques."
       },
       {
-        "url": "https://www.anthologyfilmarchives.org/",
-        "note": "Anthology Film Archives : programmation et conservation du cinéma d’avant-garde."
+        "url": "https://cinema.ucla.edu/events/kenneth-anger-08-05-06/",
+        "note": "UCLA Film & Television Archive : place dans le cinéma underground et analyse des films."
+      },
+      {
+        "url": "https://www.loc.gov/blogs/now-see-hear/2023/05/remembering-kenneth-anger-1927-2023/",
+        "note": "Library of Congress : hommage et parcours de cinéaste."
       }
     ],
     "related": [
