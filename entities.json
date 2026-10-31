@@ -6826,7 +6826,7 @@
       }
     ],
     "related": [
-      "andre-breton"
+      "breton"
     ]
   },
   {
@@ -6865,9 +6865,7 @@
       "La Créatique ou la Novatique (1941–1976), Al Dante, 2003."
     ],
     "related": [
-      "guy-debord",
-      "gabriel-pomerand",
-      "maurice-lemaitre"
+      "guy-debord"
     ]
   },
   {
@@ -6911,8 +6909,7 @@
     ],
     "related": [
       "isidore-isou",
-      "asger-jorn",
-      "raoul-vaneigem"
+      "asger-jorn"
     ]
   },
   {
@@ -6988,10 +6985,10 @@
       }
     ],
     "related": [
-      "michel-leiris",
-      "andre-masson",
-      "rene-daumal",
-      "andre-breton"
+      "leiris",
+      "masson",
+      "daumal",
+      "breton"
     ]
   },
   {
@@ -7025,9 +7022,7 @@
       }
     ],
     "related": [
-      "guillaume-apollinaire",
-      "pierre-reverdy",
-      "philippe-soupault"
+      "soupault"
     ]
   },
   {
@@ -7097,10 +7092,6 @@
         "url": "https://catalogue.bnf.fr/ark:/12148/cb118889284",
         "note": "BnF : notice d’autorité, dates et œuvres liées."
       }
-    ],
-    "related": [
-      "marguerite-duras",
-      "sarah-kofman"
     ]
   },
   {
@@ -7135,9 +7126,8 @@
       }
     ],
     "related": [
-      "anais-nin",
-      "jack-kerouac",
-      "allen-ginsberg"
+      "kerouac",
+      "ginsberg"
     ]
   },
   {
@@ -7211,8 +7201,7 @@
     ],
     "related": [
       "ts-eliot",
-      "james-joyce",
-      "hilda-doolittle"
+      "james-joyce"
     ]
   },
   {
@@ -7288,8 +7277,6 @@
       }
     ],
     "related": [
-      "pablo-picasso",
-      "henri-matisse",
       "virginia-woolf"
     ]
   },
