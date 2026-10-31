@@ -17503,5 +17503,1307 @@
     "role_label": "Rock expérimental et improvisation",
     "kind": "person",
     "groups": []
+  },
+  {
+    "id": "valentine-penrose",
+    "name": "Valentine Penrose",
+    "years": "1903–1978",
+    "group": "Surréalisme, poésie et ésotérisme",
+    "bio": "Poétesse, romancière et artiste française liée au surréalisme, Valentine Penrose développe une œuvre où collage, poésie, érotisme et imaginaire alchimique se croisent. Ses voyages en Inde et son intérêt pour les traditions spirituelles nourrissent une écriture visionnaire, notamment dans Erzsébet Báthory.",
+    "works": [
+      "La déroute (1937)",
+      "Dons des féminines (1951)",
+      "Erzsébet Báthory (1962)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "Dons des féminines, 1951",
+      "Erzsébet Báthory, Mercure de France, 1962",
+      "AWARE, notice biographique Valentine Penrose."
+    ],
+    "groups": []
+  },
+  {
+    "id": "hegel",
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "years": "1770–1831",
+    "group": "Idéalisme allemand",
+    "bio": "Philosophe allemand majeur de l'idéalisme, Hegel élabore une pensée dialectique de l'histoire, de la conscience et de l'esprit. Sa philosophie de l'art, de la religion et de l'histoire a profondément marqué les débats esthétiques et politiques du XIXe siècle.",
+    "works": [
+      "Phénoménologie de l'esprit (1807)",
+      "Science de la logique (1812–1816)",
+      "Principes de la philosophie du droit (1821)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Idéalisme allemand",
+    "bibliography": [
+      "Phénoménologie de l'esprit, 1807",
+      "Principes de la philosophie du droit, 1821",
+      "Encyclopédie des sciences philosophiques, 1817."
+    ],
+    "groups": []
+  },
+  {
+    "id": "bertrand-russell",
+    "name": "Bertrand Russell",
+    "years": "1872–1970",
+    "group": "Philosophie analytique et pacifisme",
+    "bio": "Philosophe, logicien et essayiste britannique, Russell contribue à la naissance de la philosophie analytique et aux fondements de la logique mathématique. Militant pacifiste et critique des dogmatismes religieux et politiques, il reçoit le prix Nobel de littérature en 1950.",
+    "works": [
+      "Principia Mathematica (avec A. N. Whitehead, 1910–1913)",
+      "The Problems of Philosophy (1912)",
+      "A History of Western Philosophy (1945)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie analytique et pacifisme",
+    "bibliography": [
+      "Principia Mathematica, Cambridge University Press, 1910–1913",
+      "The Problems of Philosophy, 1912",
+      "A History of Western Philosophy, 1945."
+    ],
+    "groups": []
+  },
+  {
+    "id": "stefan-themerson",
+    "name": "Stefan Themerson",
+    "years": "1910–1988",
+    "group": "Avant-garde polonaise, cinéma expérimental",
+    "bio": "Écrivain, cinéaste expérimental, éditeur et inventeur polonais installé en Grande-Bretagne, Stefan Themerson explore les rapports entre langage, image, logique et perception. Avec Franciszka Themerson, il réalise des films d'avant-garde et fonde la maison d'édition Gaberbocchus Press.",
+    "works": [
+      "Practical Pansophia (1940)",
+      "Bayamus (1949)",
+      "factor T (1956)",
+      "Semantic Divertissements (1962)"
+    ],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Avant-garde polonaise",
+    "bibliography": [
+      "Bayamus, 1949",
+      "factor T, 1956",
+      "Semantic Divertissements, Gaberbocchus Press, 1962."
+    ],
+    "groups": []
+  },
+  {
+    "id": "lanza-del-vasto",
+    "name": "Lanza del Vasto",
+    "years": "1901–1981",
+    "group": "Non-violence, philosophie et spiritualité",
+    "bio": "Philosophe, poète et militant de la non-violence, Giuseppe Lanza di Trabia, dit Lanza del Vasto, rencontre Gandhi en Inde en 1937. Il fonde en France la Communauté de l'Arche, inspirée de la non-violence gandhienne, du travail communautaire et d'une spiritualité chrétienne ouverte au dialogue.",
+    "works": [
+      "Le Pèlerinage aux sources (1943)",
+      "La Trinité spirituelle (1975)",
+      "Commentaire de l'Évangile (197 వ్యాఖ్య)"
+    ],
+    "kind": "person",
+    "role_icon": "🕊️",
+    "role_label": "Non-violence",
+    "bibliography": [
+      "Le Pèlerinage aux sources, Denoël, 1943",
+      "Vinoba ou le nouveau pèlerinage, 1954",
+      "Les Quatre Fléaux, 1959."
+    ],
+    "groups": []
+  },
+  {
+    "id": "gurdjieff",
+    "name": "Georges Ivanovitch Gurdjieff",
+    "years": "c. 1866–1949",
+    "group": "Quatrième voie, ésotérisme moderne",
+    "bio": "Maître spirituel d'origine caucasienne, Gurdjieff développe un enseignement de travail sur soi qu'il présente comme une « quatrième voie », associant observation de soi, exercices corporels, musique et travail en groupe. Son itinéraire de jeunesse demeure partiellement incertain et doit être distingué des récits légendaires construits autour de sa personne.",
+    "works": [
+      "Beelzebub's Tales to His Grandson (1950)",
+      "Meetings with Remarkable Men (1963)",
+      "Life Is Real Only Then, When 'I Am' (1974)"
+    ],
+    "kind": "person",
+    "role_icon": "🜂",
+    "role_label": "Quatrième voie",
+    "bibliography": [
+      "Beelzebub's Tales to His Grandson, 1950",
+      "Meetings with Remarkable Men, 1963",
+      "James Moore, Gurdjieff: A Biography, 1999."
+    ],
+    "groups": []
+  },
+  {
+    "id": "ouspensky",
+    "name": "Piotr Demianovitch Ouspensky",
+    "years": "1878–1947",
+    "group": "Quatrième voie, philosophie",
+    "bio": "Écrivain et penseur russe, Ouspensky s'intéresse d'abord aux dimensions de la conscience, au temps et aux systèmes symboliques. Après sa rencontre avec Gurdjieff en 1915, il devient l'un des principaux exposants de cet enseignement, avant de développer à Londres son propre travail de transmission.",
+    "works": [
+      "Tertium Organum (1912)",
+      "A New Model of the Universe (1931)",
+      "In Search of the Miraculous (1949)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Quatrième voie",
+    "bibliography": [
+      "Tertium Organum, 1912",
+      "In Search of the Miraculous, 1949",
+      "James Webb, The Harmonious Circle, 1980."
+    ],
+    "groups": []
+  },
+  {
+    "id": "blavatsky",
+    "name": "Helena Petrovna Blavatsky",
+    "years": "1831–1891",
+    "group": "Théosophie",
+    "bio": "Autrice et occultiste d'origine russe, cofondatrice de la Société théosophique en 1875 avec Henry Steel Olcott et William Quan Judge. Elle propose une synthèse ésotérique de traditions religieuses et philosophiques, exposée dans des ouvrages qui ont fortement influencé les spiritualités modernes, malgré de nombreuses controverses historiques et critiques.",
+    "works": [
+      "Isis Unveiled (1877)",
+      "The Secret Doctrine (1888)",
+      "The Key to Theosophy (1889)"
+    ],
+    "kind": "person",
+    "role_icon": "🜁",
+    "role_label": "Théosophie",
+    "bibliography": [
+      "Isis Unveiled, 1877",
+      "The Secret Doctrine, 1888",
+      "Antoine Faivre, Accès à l'ésotérisme occidental, 1986."
+    ],
+    "groups": []
+  },
+  {
+    "id": "martinez-de-pasqually",
+    "name": "Martinez de Pasqually",
+    "years": "c. 1727–1774",
+    "group": "Illuminisme, théurgie",
+    "bio": "Théurge et fondateur de l'Ordre des Chevaliers Maçons Élus Coëns de l'Univers, actif dans la France du XVIIIe siècle. Son système de réintégration de l'être humain dans son état originel mêle théologie chrétienne, théurgie et maçonnerie initiatique. Les éléments de sa biographie restent lacunaires.",
+    "works": [
+      "Traité sur la réintégration des êtres dans leurs premières propriétés, vertus et puissances spirituelles et divines (manuscrit, XVIIIe siècle)"
+    ],
+    "kind": "person",
+    "role_icon": "🜂",
+    "role_label": "Illuminisme",
+    "bibliography": [
+      "Traité sur la réintégration, édition critique dirigée par Robert Amadou, 1995",
+      "Jean-Pierre Laurant, L'Ésotérisme chrétien en France au XIXe siècle, 1992."
+    ],
+    "groups": []
+  },
+  {
+    "id": "julien-champagne",
+    "name": "Julien Champagne",
+    "years": "1877–1932",
+    "group": "Alchimie, illustration",
+    "bio": "Peintre, dessinateur et illustrateur français, Julien Champagne est associé au milieu alchimique parisien du début du XXe siècle. Il illustre les ouvrages attribués à Fulcanelli et fut parfois présenté comme l'auteur caché de ceux-ci, hypothèse discutée mais non démontrée.",
+    "works": [
+      "Illustrations du Mystère des cathédrales (1926)",
+      "illustrations des Demeures philosophales (1930)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Alchimie",
+    "bibliography": [
+      "Fulcanelli, Le Mystère des cathédrales, 1926",
+      "Fulcanelli, Les Demeures philosophales, 1930",
+      "Eugène Canseliet, L'Alchimie expliquée sur ses textes classiques, 1972."
+    ],
+    "groups": []
+  },
+  {
+    "id": "fulcanelli",
+    "name": "Fulcanelli",
+    "years": "actif vers 1920–1930",
+    "group": "Alchimie, hermétisme",
+    "bio": "Pseudonyme d'un auteur français d'alchimie dont l'identité demeure inconnue. Ses deux ouvrages, publiés dans l'entre-deux-guerres et consacrés à l'interprétation alchimique de l'architecture et des symboles, ont exercé une influence considérable sur l'ésotérisme contemporain. L'identification à Julien Champagne ou à d'autres figures reste hypothétique.",
+    "works": [
+      "Le Mystère des cathédrales (1926)",
+      "Les Demeures philosophales (1930)"
+    ],
+    "kind": "person",
+    "role_icon": "🜃",
+    "role_label": "Alchimie",
+    "bibliography": [
+      "Le Mystère des cathédrales, 1926",
+      "Les Demeures philosophales, 1930",
+      "Geneviève Dubois, Fulcanelli dévoilé, 1992 (thèse à discuter)."
+    ],
+    "groups": []
+  },
+  {
+    "id": "aleister-crowley",
+    "name": "Aleister Crowley",
+    "years": "1875–1947",
+    "group": "Thelema, magie cérémonielle",
+    "bio": "Poète, écrivain et occultiste britannique, membre de la Golden Dawn puis fondateur de la religion ésotérique de Thelema après l'expérience du Caire en 1904, selon son propre récit. Sa production abondante mêle magie cérémonielle, poésie, yoga, polémique et autobiographie; son héritage est controversé et a fait l'objet d'études historiques récentes.",
+    "works": [
+      "The Book of the Law (1904)",
+      "Magick in Theory and Practice (1929)",
+      "The Confessions of Aleister Crowley (1929)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Thelema",
+    "bibliography": [
+      "The Book of the Law, 1904",
+      "Magick in Theory and Practice, 1929",
+      "Henrik Bogdan & Martin P. Starr (dir.), Aleister Crowley and Western Esotericism, OUP, 2012."
+    ],
+    "groups": []
+  },
+  {
+    "id": "alexandre-de-salzmann",
+    "name": "Alexander von Salzmann",
+    "years": "1874–1934",
+    "group": "Gurdjieff, arts de la scène",
+    "bio": "Artiste et décorateur d'origine germano-russe, Alexander von Salzmann travaille notamment à Darmstadt et développe des recherches sur l'éclairage scénique. Proche de Gurdjieff, il participe à la transmission de son enseignement et épouse Jeanne Allemand, qui deviendra Jeanne de Salzmann.",
+    "works": [
+      "Travaux de scénographie et d'éclairage",
+      "contributions au travail de Gurdjieff"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Gurdjieff",
+    "bibliography": [
+      "James Webb, The Harmonious Circle, 1980",
+      "James Moore, Gurdjieff: A Biography, 1999."
+    ],
+    "groups": []
+  },
+  {
+    "id": "eliphas-levi",
+    "name": "Éliphas Lévi",
+    "years": "1810–1875",
+    "group": "Occultisme français, kabbale",
+    "bio": "De son nom civil Alphonse-Louis Constant, Éliphas Lévi est une figure centrale de la renaissance occultiste française du XIXe siècle. Il associe symbolisme chrétien, kabbale, tarot et magie cérémonielle dans une œuvre qui marque durablement Papus, Stanislas de Guaita et l'occultisme moderne.",
+    "works": [
+      "Dogme et rituel de la haute magie (1854–1856)",
+      "Histoire de la magie (1860)",
+      "La Clef des grands mystères (1861)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Occultisme français",
+    "bibliography": [
+      "Dogme et rituel de la haute magie, 1854–1856",
+      "Histoire de la magie, 1860",
+      "Jean-Pierre Laurant, L'Ésotérisme chrétien en France au XIXe siècle, 1992."
+    ],
+    "groups": []
+  },
+  {
+    "id": "annie-besant",
+    "name": "Annie Besant",
+    "years": "1847–1933",
+    "group": "Théosophie, réformisme",
+    "bio": "Militante britannique pour la libre-pensée, les droits des femmes et l'autonomie indienne, Annie Besant rejoint la Société théosophique en 1889 et en devient présidente en 1907. Elle contribue à internationaliser le mouvement et joue un rôle dans la formation de l'Ordre de l'Étoile d'Orient autour de Krishnamurti.",
+    "works": [
+      "The Ancient Wisdom (1897)",
+      "Thought-Forms (avec C. W. Leadbeater, 1901)",
+      "Autobiography (1893)"
+    ],
+    "kind": "person",
+    "role_icon": "🜁",
+    "role_label": "Théosophie",
+    "bibliography": [
+      "The Ancient Wisdom, 1897",
+      "Thought-Forms, 1901",
+      "Theosophy and the New Psychology, 1904."
+    ],
+    "groups": []
+  },
+  {
+    "id": "leadbeater",
+    "name": "Charles Webster Leadbeater",
+    "years": "1854–1934",
+    "group": "Théosophie",
+    "bio": "Ancien ecclésiastique anglican devenu théosophe, Leadbeater est l'un des principaux vulgarisateurs de la clairvoyance et des doctrines théosophiques. Son rôle dans la découverte et l'éducation de Jiddu Krishnamurti a été influent et controversé.",
+    "works": [
+      "The Astral Plane (1895)",
+      "Man Visible and Invisible (1902)",
+      "The Chakras (1927)"
+    ],
+    "kind": "person",
+    "role_icon": "🜁",
+    "role_label": "Théosophie",
+    "bibliography": [
+      "The Astral Plane, 1895",
+      "The Chakras, 1927",
+      "Nicholas Goodrick-Clarke, The Western Esoteric Traditions, 2008."
+    ],
+    "groups": []
+  },
+  {
+    "id": "rudolf-steiner",
+    "name": "Rudolf Steiner",
+    "years": "1861–1925",
+    "group": "Anthroposophie",
+    "bio": "Philosophe autrichien, d'abord lié à la Société théosophique, Steiner fonde l'anthroposophie et la Société anthroposophique en 1912–1913. Sa pensée associe connaissance spirituelle, philosophie, pédagogie, agriculture, médecine et arts, avec des institutions durables comme les écoles Waldorf.",
+    "works": [
+      "La Philosophie de la liberté (1894)",
+      "Théosophie (1904)",
+      "La Science de l'occulte (1910)"
+    ],
+    "kind": "person",
+    "role_icon": "🜁",
+    "role_label": "Anthroposophie",
+    "bibliography": [
+      "La Philosophie de la liberté, 1894",
+      "Théosophie, 1904",
+      "Helmut Zander, Anthroposophie in Deutschland, 2007."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jiddu-krishnamurti",
+    "name": "Jiddu Krishnamurti",
+    "years": "1895–1986",
+    "group": "Philosophie spirituelle, anti-autoritarisme",
+    "bio": "Penseur indien repéré enfant par Charles W. Leadbeater et préparé par la Société théosophique à devenir l'« Instructeur du monde ». En 1929, il dissout l'Ordre de l'Étoile d'Orient et rejette toute autorité spirituelle organisée, développant une réflexion sur la liberté, la peur et l'observation de soi.",
+    "works": [
+      "The First and Last Freedom (1954)",
+      "Freedom from the Known (1969)",
+      "Commentaries on Living (1956–1960)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie spirituelle",
+    "bibliography": [
+      "The First and Last Freedom, 1954",
+      "Freedom from the Known, 1969",
+      "Mary Lutyens, Krishnamurti: The Years of Awakening, 1975."
+    ],
+    "groups": []
+  },
+  {
+    "id": "alice-bailey",
+    "name": "Alice Bailey",
+    "years": "1880–1949",
+    "group": "Théosophie, ésotérisme du XXe siècle",
+    "bio": "Autrice ésotérique britannique et ancienne membre de la Société théosophique, Alice Bailey fonde avec son époux le mouvement Lucis Trust. Elle publie une vaste doctrine de méditation, d'évolution spirituelle et de hiérarchies occultes, qu'elle présente comme transmise par un maître tibétain nommé Djwal Khul.",
+    "works": [
+      "Initiation, Human and Solar (1922)",
+      "A Treatise on Cosmic Fire (1925)",
+      "Esoteric Psychology (1936–1942)"
+    ],
+    "kind": "person",
+    "role_icon": "🜁",
+    "role_label": "Théosophie",
+    "bibliography": [
+      "Initiation, Human and Solar, 1922",
+      "A Treatise on Cosmic Fire, 1925",
+      "Olav Hammer, Claiming Knowledge, 2004."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jeanne-de-salzmann",
+    "name": "Jeanne de Salzmann",
+    "years": "1889–1990",
+    "group": "Gurdjieff, mouvement et conscience",
+    "bio": "Danseuse et pédagogue suisse, Jeanne Allemand épouse Alexander von Salzmann et rencontre Gurdjieff en 1919. Elle devient l'une des principales responsables de la transmission de son enseignement après sa mort, en organisant des groupes et des centres en Europe et aux États-Unis.",
+    "works": [
+      "The Reality of Being (2010, publication posthume)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Gurdjieff",
+    "bibliography": [
+      "The Reality of Being, 2010",
+      "James Moore, Gurdjieff: A Biography, 1999."
+    ],
+    "groups": []
+  },
+  {
+    "id": "thomas-de-hartmann",
+    "name": "Thomas de Hartmann",
+    "years": "1885–1956",
+    "group": "Musique, Gurdjieff",
+    "bio": "Compositeur russe formé au Conservatoire de Saint-Pétersbourg, Thomas de Hartmann collabore avec Gurdjieff à la composition de centaines de pièces pour piano, inspirées notamment de mélodies sacrées et populaires d'Asie centrale, du Caucase et du Moyen-Orient.",
+    "works": [
+      "Musique pour piano composée avec Gurdjieff",
+      "Our Life with Mr. Gurdjieff (1964, avec Olga de Hartmann)"
+    ],
+    "kind": "person",
+    "role_icon": "🎼",
+    "role_label": "Musique",
+    "bibliography": [
+      "Our Life with Mr. Gurdjieff, 1964",
+      "Gurdjieff / de Hartmann, Music for the Piano, éditions diverses."
+    ],
+    "groups": []
+  },
+  {
+    "id": "john-bennett",
+    "name": "John Godolphin Bennett",
+    "years": "1897–1974",
+    "group": "Gurdjieff, systèmes et cybernétique",
+    "bio": "Mathématicien, ingénieur et penseur britannique, Bennett étudie avec Ouspensky puis Gurdjieff. Il tente de relier la Quatrième Voie à la science des systèmes, à la psychologie et à la cybernétique, et fonde l'International Academy for Continuous Education à Sherborne.",
+    "works": [
+      "The Dramatic Universe (1956–1966)",
+      "Gurdjieff: Making a New World (1973)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Gurdjieff",
+    "bibliography": [
+      "The Dramatic Universe, 4 vol., 1956–1966",
+      "Gurdjieff: Making a New World, 1973."
+    ],
+    "groups": []
+  },
+  {
+    "id": "saint-martin",
+    "name": "Louis-Claude de Saint-Martin",
+    "years": "1743–1803",
+    "group": "Martinisme, illuminisme",
+    "bio": "Philosophe mystique français, ancien disciple de Martinez de Pasqually, Saint-Martin développe une voie intérieure de connaissance de Dieu et de régénération spirituelle. Ses écrits, publiés parfois sous le pseudonyme du Philosophe inconnu, fondent le courant auquel sera donné le nom de martinisme.",
+    "works": [
+      "Des erreurs et de la vérité (1775)",
+      "L'Homme de désir (1790)",
+      "Le Ministère de l'homme-esprit (1802)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Martinisme",
+    "bibliography": [
+      "Des erreurs et de la vérité, 1775",
+      "L'Homme de désir, 1790",
+      "Robert Amadou, Louis-Claude de Saint-Martin et le martinisme, études diverses."
+    ],
+    "groups": []
+  },
+  {
+    "id": "papus",
+    "name": "Papus (Gérard Encausse)",
+    "years": "1865–1916",
+    "group": "Occultisme français, martinisme",
+    "bio": "Médecin et occultiste français, Gérard Encausse, dit Papus, contribue à structurer l'occultisme fin-de-siècle. Il fonde le Groupe indépendant d'études ésotériques, participe à la relance du martinisme et diffuse une synthèse de kabbale, tarot, magnétisme et traditions initiatiques.",
+    "works": [
+      "Le Tarot des Bohémiens (1889)",
+      "Traité méthodique de science occulte (1891)",
+      "La Kabbale (1892)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Occultisme français",
+    "bibliography": [
+      "Le Tarot des Bohémiens, 1889",
+      "Traité méthodique de science occulte, 1891",
+      "Jean-Pierre Laurant, L'Ésotérisme chrétien en France au XIXe siècle, 1992."
+    ],
+    "groups": []
+  },
+  {
+    "id": "stanislas-de-guaita",
+    "name": "Stanislas de Guaita",
+    "years": "1861–1897",
+    "group": "Occultisme français, kabbale",
+    "bio": "Poète et occultiste français, cofondateur avec Papus de l'Ordre kabbalistique de la Rose-Croix. Son œuvre théorique, marquée par Éliphas Lévi et la kabbale chrétienne, participe à la structuration des réseaux occultistes parisiens de la fin du XIXe siècle.",
+    "works": [
+      "Au seuil du mystère (1886)",
+      "Le Serpent de la Genèse (1891–1897)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Occultisme français",
+    "bibliography": [
+      "Au seuil du mystère, 1886",
+      "Le Serpent de la Genèse, 3 vol., 1891–1897."
+    ],
+    "groups": []
+  },
+  {
+    "id": "josephin-peladan",
+    "name": "Joséphin Péladan",
+    "years": "1858–1918",
+    "group": "Rose-Croix esthétique, symbolisme",
+    "bio": "Écrivain, critique d'art et occultiste français, Péladan fonde l'Ordre de la Rose-Croix catholique et esthétique et organise les Salons de la Rose+Croix à Paris (1892–1897). Il défend un art idéaliste et spiritualiste contre le naturalisme.",
+    "works": [
+      "Le Vice suprême (1884)",
+      "Comment on devient mage (1892)",
+      "L'Art idéaliste et mystique (1894)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Rose-Croix esthétique",
+    "bibliography": [
+      "Le Vice suprême, 1884",
+      "L'Art idéaliste et mystique, 1894",
+      "catalogue des Salons de la Rose+Croix."
+    ],
+    "groups": []
+  },
+  {
+    "id": "oswald-wirth",
+    "name": "Oswald Wirth",
+    "years": "1860–1943",
+    "group": "Symbolisme, franc-maçonnerie",
+    "bio": "Écrivain, dessinateur et franc-maçon suisse, Oswald Wirth travaille avec Stanislas de Guaita et renouvelle l'interprétation symbolique du tarot. Son approche associe hermétisme, symbolisme maçonnique et pédagogie initiatique.",
+    "works": [
+      "Le Livre de l'apprenti (1894)",
+      "Le Tarot des imagiers du Moyen Âge (1927)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Symbolisme",
+    "bibliography": [
+      "Le Livre de l'apprenti, 1894",
+      "Le Tarot des imagiers du Moyen Âge, 1927."
+    ],
+    "groups": []
+  },
+  {
+    "id": "sedir",
+    "name": "Sédir (Yvon Le Loup)",
+    "years": "1871–1926",
+    "group": "Mystique chrétienne, martinisme",
+    "bio": "Écrivain mystique français, Yvon Le Loup, dit Sédir, fréquente les milieux martinistes et occultistes avant de se consacrer à une spiritualité chrétienne intérieure. Il fonde les Amitiés spirituelles et diffuse une mystique de la charité et de la vie évangélique.",
+    "works": [
+      "Les Amitiés spirituelles (1919)",
+      "Histoire et doctrine des Rose-Croix (1910)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Mystique chrétienne",
+    "bibliography": [
+      "Histoire et doctrine des Rose-Croix, 1910",
+      "Les Amitiés spirituelles, 1919."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jean-bricaud",
+    "name": "Jean Bricaud",
+    "years": "1881–1934",
+    "group": "Martinisme, gnosticisme",
+    "bio": "Ecclésiastique et occultiste français, Bricaud dirige plusieurs organisations martinistes et gnostiques lyonnaises. Figure controversée de l'occultisme institutionnel du début du XXe siècle, il participe à la multiplication des ordres et filiations revendiquant l'héritage martiniste.",
+    "works": [
+      "La Gnose et les gnostiques (ouvrages et articles)",
+      "textes martinistes et ecclésiastiques"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Martinisme",
+    "bibliography": [
+      "Études sur le martinisme lyonnais et les Églises gnostiques, notamment Jean-Pierre Laurant, travaux sur l'ésotérisme français."
+    ],
+    "groups": []
+  },
+  {
+    "id": "robert-ambelain",
+    "name": "Robert Ambelain",
+    "years": "1907–1997",
+    "group": "Ésotérisme français, martinisme",
+    "bio": "Écrivain et occultiste français, Robert Ambelain publie sur l'astrologie, la magie cérémonielle, la kabbale et les traditions initiatiques. Il fonde ou réorganise plusieurs structures martinistes et gnostiques et exerce une influence importante sur l'ésotérisme francophone d'après-guerre.",
+    "works": [
+      "La Kabbale pratique (1951)",
+      "Scala philosophorum (1965)",
+      "Le Martinisme (1946)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Ésotérisme français",
+    "bibliography": [
+      "Le Martinisme, 1946",
+      "La Kabbale pratique, 1951",
+      "Scala philosophorum, 1965."
+    ],
+    "groups": []
+  },
+  {
+    "id": "eugene-canseliet",
+    "name": "Eugène Canseliet",
+    "years": "1899–1982",
+    "group": "Alchimie",
+    "bio": "Alchimiste français et disciple revendiqué de Fulcanelli, Canseliet contribue à la diffusion de l'œuvre fulcanellienne par ses préfaces et commentaires. Il est l'un des principaux relais du renouveau alchimique français du XXe siècle, même si les récits de filiation doivent être lus avec prudence.",
+    "works": [
+      "Deux logis alchimiques (1945)",
+      "L'Alchimie expliquée sur ses textes classiques (1972)"
+    ],
+    "kind": "person",
+    "role_icon": "🜃",
+    "role_label": "Alchimie",
+    "bibliography": [
+      "Deux logis alchimiques, 1945",
+      "L'Alchimie expliquée sur ses textes classiques, 1972."
+    ],
+    "groups": []
+  },
+  {
+    "id": "basil-valentine",
+    "name": "Basile Valentin (Basil Valentine)",
+    "years": "identité historique incertaine",
+    "group": "Alchimie, tradition pseudo-épigraphique",
+    "bio": "Nom traditionnellement attribué à un moine bénédictin allemand du XVe siècle, mais dont l'existence historique et l'identité sont discutées. Les traités publiés sous ce nom au début de l'époque moderne ont marqué l'alchimie européenne, notamment par leurs images du travail métallique et des antimoniaux.",
+    "works": [
+      "Les Douze Clefs de la philosophie (1599)",
+      "Le Char triomphal de l'antimoine (1604)"
+    ],
+    "kind": "person",
+    "role_icon": "🜃",
+    "role_label": "Alchimie",
+    "bibliography": [
+      "Les Douze Clefs de la philosophie, 1599",
+      "Le Char triomphal de l'antimoine, 1604",
+      "Lawrence M. Principe, The Secrets of Alchemy, 2013."
+    ],
+    "groups": []
+  },
+  {
+    "id": "paracelse",
+    "name": "Paracelse (Theophrastus von Hohenheim)",
+    "years": "1493–1541",
+    "group": "Médecine, alchimie, philosophie naturelle",
+    "bio": "Médecin et penseur suisse de langue allemande, Paracelse critique la médecine universitaire et défend une médecine fondée sur l'observation, l'expérience et une cosmologie où microcosme et macrocosme se répondent. Son œuvre mêle pharmacologie, alchimie, théologie et philosophie naturelle.",
+    "works": [
+      "Die große Wundarznei (1536)",
+      "Opus Paramirum (publié en 1562)",
+      "Astronomia Magna (1537)"
+    ],
+    "kind": "person",
+    "role_icon": "⚗️",
+    "role_label": "Médecine",
+    "bibliography": [
+      "Die große Wundarznei, 1536",
+      "Astronomia Magna, 1537",
+      "Walter Pagel, Paracelsus, 1958."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jacob-boehme",
+    "name": "Jakob Böhme",
+    "years": "1575–1624",
+    "group": "Théosophie chrétienne",
+    "bio": "Cordonner allemand et mystique autodidacte, Böhme développe une théosophie chrétienne fondée sur la tension des contraires, la chute, la nature divine et la régénération. Son influence traverse le piétisme, le romantisme allemand et les courants ésotériques modernes.",
+    "works": [
+      "Aurora (1612)",
+      "De signatura rerum (1622)",
+      "Mysterium Magnum (1623)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Théosophie chrétienne",
+    "bibliography": [
+      "Aurora, 1612",
+      "De signatura rerum, 1622",
+      "Alexandre Koyré, La Philosophie de Jacob Boehme, 1929."
+    ],
+    "groups": []
+  },
+  {
+    "id": "robert-fludd",
+    "name": "Robert Fludd",
+    "years": "1574–1637",
+    "group": "Hermétisme, cosmologie renaissante",
+    "bio": "Médecin et philosophe anglais, Fludd expose une cosmologie hermétique où musique, architecture, médecine et harmonie universelle reflètent les correspondances entre macrocosme et microcosme. Il défend la tradition rosicrucienne dans les controverses intellectuelles du début du XVIIe siècle.",
+    "works": [
+      "Utriusque Cosmi Historia (1617–1621)",
+      "Monochordum Mundi Symphoniacum (1622)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Hermétisme",
+    "bibliography": [
+      "Utriusque Cosmi Historia, 1617–1621",
+      "Joscelyn Godwin, Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds, 1979."
+    ],
+    "groups": []
+  },
+  {
+    "id": "agrippa",
+    "name": "Heinrich Cornelius Agrippa",
+    "years": "1486–1535",
+    "group": "Magie renaissante, kabbale chrétienne",
+    "bio": "Humaniste, juriste et médecin allemand, Agrippa synthétise magie naturelle, astrologie, kabbale chrétienne et philosophie néoplatonicienne. Son De occulta philosophia devient l'un des textes majeurs de la magie savante de la Renaissance.",
+    "works": [
+      "De occulta philosophia libri tres (1533)",
+      "De incertitudine et vanitate scientiarum (1530)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Magie renaissante",
+    "bibliography": [
+      "De occulta philosophia, 1533",
+      "De incertitudine et vanitate scientiarum, 1530",
+      "Christopher I. Lehrich, The Language of Demons and Angels, 2003."
+    ],
+    "groups": []
+  },
+  {
+    "id": "john-dee",
+    "name": "John Dee",
+    "years": "1527–1609",
+    "group": "Renaissance, mathématiques et magie angélique",
+    "bio": "Mathématicien, astronome, conseiller d'Élisabeth Ire et praticien de philosophie occulte, John Dee cherche à unifier sciences mathématiques, navigation et connaissance des anges. Ses séances de scrying avec Edward Kelley donnent naissance au corpus dit énochien.",
+    "works": [
+      "Monas Hieroglyphica (1564)",
+      "Propaedeumata Aphoristica (1558)",
+      "A True and Faithful Relation (1659, posthume)"
+    ],
+    "kind": "person",
+    "role_icon": "📜",
+    "role_label": "Renaissance",
+    "bibliography": [
+      "Monas Hieroglyphica, 1564",
+      "A True and Faithful Relation, 1659",
+      "Deborah Harkness, John Dee's Conversations with Angels, 1999."
+    ],
+    "groups": []
+  },
+  {
+    "id": "giordano-bruno",
+    "name": "Giordano Bruno",
+    "years": "1548–1600",
+    "group": "Philosophie renaissante, hermétisme",
+    "bio": "Philosophe italien, ancien dominicain, Bruno défend l'infinité de l'univers et une cosmologie pluraliste, tout en développant une philosophie de la mémoire et de la magie naturelle nourrie de néoplatonisme et d'hermétisme. Condamné par l'Inquisition romaine, il est exécuté à Rome en 1600.",
+    "works": [
+      "De l'infinito, universo e mondi (1584)",
+      "De umbris idearum (1582)",
+      "Spaccio de la bestia trionfante (1584)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie renaissante",
+    "bibliography": [
+      "De l'infinito, universo e mondi, 1584",
+      "Frances Yates, Giordano Bruno and the Hermetic Tradition, 1964."
+    ],
+    "groups": []
+  },
+  {
+    "id": "marsilio-ficino",
+    "name": "Marsile Ficin",
+    "years": "1433–1499",
+    "group": "Néoplatonisme renaissant, hermétisme",
+    "bio": "Humaniste et prêtre florentin, Marsile Ficin traduit Platon et le Corpus Hermeticum en latin et anime l'Académie platonicienne de Florence sous le patronage des Médicis. Sa pensée associe platonisme, théologie chrétienne, astrologie et médecine de l'âme.",
+    "works": [
+      "Theologia Platonica (1482)",
+      "De vita libri tres (1489)",
+      "traduction du Corpus Hermeticum (1463)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Néoplatonisme renaissant",
+    "bibliography": [
+      "Theologia Platonica, 1482",
+      "De vita, 1489",
+      "Brian P. Copenhaver, Magic in Western Culture, 2015."
+    ],
+    "groups": []
+  },
+  {
+    "id": "nicolas-flamel",
+    "name": "Nicolas Flamel",
+    "years": "c. 1330–1418",
+    "group": "Alchimie, légende hermétique",
+    "bio": "Libraire et bourgeois parisien du XIVe siècle, Nicolas Flamel est devenu après sa mort une figure légendaire de l'alchimie et de la transmutation. Les traités alchimiques qui lui sont attribués sont postérieurs et ne permettent pas de lui reconnaître une pratique historique de l'alchimie.",
+    "works": [
+      "Le Livre des figures hiéroglyphiques (attribué, 1612)",
+      "Le Livre d'Abraham le Juif (récit légendaire)"
+    ],
+    "kind": "person",
+    "role_icon": "🜃",
+    "role_label": "Alchimie",
+    "bibliography": [
+      "Claude Gagnon, Nicolas Flamel sous investigation, 1994",
+      "Lawrence M. Principe, The Secrets of Alchemy, 2013."
+    ],
+    "groups": []
+  },
+  {
+    "id": "s-l-mathers",
+    "name": "Samuel Liddell MacGregor Mathers",
+    "years": "1854–1918",
+    "group": "Golden Dawn, magie cérémonielle",
+    "bio": "Occultiste britannique et cofondateur de l'Hermetic Order of the Golden Dawn en 1888, Mathers traduit et adapte des textes de magie cérémonielle et de kabbale. Il joue un rôle majeur dans la formalisation rituelle de l'occultisme britannique moderne.",
+    "works": [
+      "The Kabbalah Unveiled (1887)",
+      "The Key of Solomon (édition/traduction, 1889)",
+      "The Book of the Sacred Magic of Abramelin (1898)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Golden Dawn",
+    "bibliography": [
+      "The Kabbalah Unveiled, 1887",
+      "The Book of the Sacred Magic of Abramelin, 1898",
+      "Ellic Howe, The Magicians of the Golden Dawn, 1972."
+    ],
+    "groups": []
+  },
+  {
+    "id": "westcott",
+    "name": "William Wynn Westcott",
+    "years": "1848–1925",
+    "group": "Golden Dawn, occultisme britannique",
+    "bio": "Médecin légiste et occultiste britannique, Westcott cofonde la Golden Dawn avec Mathers et William Robert Woodman. Il contribue à la diffusion de la kabbale hermétique et des rituels initiatiques dans l'Angleterre victorienne.",
+    "works": [
+      "The Magical Ritual of the Sanctum Regnum (1896)",
+      "Numbers: Their Occult Power and Mystic Virtue (1890)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Golden Dawn",
+    "bibliography": [
+      "Numbers: Their Occult Power and Mystic Virtue, 1890",
+      "Ellic Howe, The Magicians of the Golden Dawn, 1972."
+    ],
+    "groups": []
+  },
+  {
+    "id": "dion-fortune",
+    "name": "Dion Fortune",
+    "years": "1890–1946",
+    "group": "Occultisme britannique, psychologie",
+    "bio": "Occultiste et romancière britannique, née Violet Mary Firth, Dion Fortune est membre de la Golden Dawn puis fonde la Fraternity of the Inner Light. Elle associe psychologie jungienne, symbolisme kabbalistique, magie rituelle et fiction initiatique.",
+    "works": [
+      "The Mystical Qabalah (1935)",
+      "Psychic Self-Defence (1930)",
+      "The Sea Priestess (1938)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Occultisme britannique",
+    "bibliography": [
+      "The Mystical Qabalah, 1935",
+      "Psychic Self-Defence, 1930",
+      "Gareth Knight, Dion Fortune and the Inner Light, 2000."
+    ],
+    "groups": []
+  },
+  {
+    "id": "israel-regardie",
+    "name": "Israel Regardie",
+    "years": "1907–1985",
+    "group": "Golden Dawn, magie cérémonielle",
+    "bio": "Écrivain et occultiste britannique puis américain, Regardie fut secrétaire d'Aleister Crowley avant de publier les rituels de la Golden Dawn, contribuant à leur transmission publique. Il s'intéresse aussi à la psychologie jungienne et aux pratiques de santé holistique.",
+    "works": [
+      "The Tree of Life (1932)",
+      "The Golden Dawn (1937–1940)",
+      "The Middle Pillar (1938)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Golden Dawn",
+    "bibliography": [
+      "The Tree of Life, 1932",
+      "The Golden Dawn, 1937–1940",
+      "R. A. Gilbert, The Golden Dawn Companion, 1986."
+    ],
+    "groups": []
+  },
+  {
+    "id": "austin-osman-spare",
+    "name": "Austin Osman Spare",
+    "years": "1886–1956",
+    "group": "Art, magie du chaos",
+    "bio": "Dessinateur et peintre britannique, Spare développe une pratique magique personnelle fondée sur le sigil, le désir et l'inconscient. Son œuvre graphique singulière et ses écrits ont été redécouverts par les courants de magie du chaos dans la seconde moitié du XXe siècle.",
+    "works": [
+      "The Book of Pleasure (1913)",
+      "The Focus of Life (1921)",
+      "The Anathema of Zos (1927)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Art",
+    "bibliography": [
+      "The Book of Pleasure, 1913",
+      "The Focus of Life, 1921",
+      "Phil Baker, Austin Osman Spare: The Life and Legend of London's Lost Artist, 2011."
+    ],
+    "groups": []
+  },
+  {
+    "id": "kenneth-grant",
+    "name": "Kenneth Grant",
+    "years": "1924–2011",
+    "group": "Thelema, occultisme contemporain",
+    "bio": "Occultiste britannique, disciple d'Aleister Crowley puis fondateur de l'ordre Typhonian, Grant développe une interprétation personnelle de Thelema mêlant magie sexuelle, mythes lovecraftiens, traditions orientales et symbolisme kabbalistique.",
+    "works": [
+      "The Magical Revival (1972)",
+      "Nightside of Eden (1977)",
+      "Outside the Circles of Time (1980)"
+    ],
+    "kind": "person",
+    "role_icon": "🜏",
+    "role_label": "Thelema",
+    "bibliography": [
+      "The Magical Revival, 1972",
+      "Nightside of Eden, 1977",
+      "Henrik Bogdan & Martin P. Starr (dir.), Aleister Crowley and Western Esotericism, 2012."
+    ],
+    "groups": []
+  },
+  {
+    "id": "florence-farr",
+    "name": "Florence Farr",
+    "years": "1860–1917",
+    "group": "Théâtre, Golden Dawn",
+    "bio": "Actrice, metteuse en scène et écrivaine britannique, Florence Farr est une figure importante du théâtre expérimental londonien et de la Golden Dawn. Elle travaille avec George Bernard Shaw et contribue à la recherche d'une scène symboliste, musicale et rituelle.",
+    "works": [
+      "The Dancing Faun (1894)",
+      "Egyptian Magic (1896)",
+      "The Way of Wisdom (1900)"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Théâtre",
+    "bibliography": [
+      "The Dancing Faun, 1894",
+      "Egyptian Magic, 1896",
+      "travaux sur la Golden Dawn et le théâtre fin-de-siècle."
+    ],
+    "groups": []
+  },
+  {
+    "id": "edouard-schure",
+    "name": "Édouard Schuré",
+    "years": "1841–1929",
+    "group": "Ésotérisme, littérature symboliste",
+    "bio": "Écrivain et philosophe alsacien, Schuré connaît un immense succès avec Les Grands Initiés, ouvrage qui propose une histoire spiritualisée des religions et des figures fondatrices. Son œuvre influence les milieux théosophiques et anthroposophiques, notamment Rudolf Steiner.",
+    "works": [
+      "Les Grands Initiés (1889)",
+      "Le Drame musical (1875)",
+      "L'Évolution divine (1912)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Ésotérisme",
+    "bibliography": [
+      "Les Grands Initiés, 1889",
+      "L'Évolution divine, 1912",
+      "études sur l'ésotérisme français."
+    ],
+    "groups": []
+  },
+  {
+    "id": "louis-massignon",
+    "name": "Louis Massignon",
+    "years": "1883–1962",
+    "group": "Islamologie, mystique comparée",
+    "bio": "Islamologue et historien français, spécialiste de la mystique musulmane et de Hallâj, Massignon joue un rôle majeur dans le dialogue islamo-chrétien. Son travail philologique et spirituel, nourri d'une implication personnelle profonde, relie érudition, histoire religieuse et engagement.",
+    "works": [
+      "La Passion de Hallâj (1922)",
+      "Essai sur les origines du lexique technique de la mystique musulmane (1922)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Islamologie",
+    "bibliography": [
+      "La Passion de Hallâj, 1922",
+      "Essai sur les origines du lexique technique de la mystique musulmane, 1922."
+    ],
+    "groups": []
+  },
+  {
+    "id": "mircea-eliade",
+    "name": "Mircea Eliade",
+    "years": "1907–1986",
+    "group": "Histoire des religions, mythologie",
+    "bio": "Historien des religions et écrivain roumain, Eliade étudie les mythes, les rites, le chamanisme et les symboles religieux dans une perspective comparatiste. Son œuvre savante, influente mais discutée pour ses généralisations et son passé politique, dialogue avec l'histoire des traditions ésotériques.",
+    "works": [
+      "Le Yoga (1936)",
+      "Traité d'histoire des religions (1949)",
+      "Le Sacré et le profane (1957)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Histoire des religions",
+    "bibliography": [
+      "Traité d'histoire des religions, 1949",
+      "Le Sacré et le profane, 1957",
+      "Mac Linscott Ricketts, Mircea Eliade: The Romanian Roots, 1988."
+    ],
+    "groups": []
+  },
+  {
+    "id": "coomaraswamy",
+    "name": "Ananda K. Coomaraswamy",
+    "years": "1877–1947",
+    "group": "Art asiatique, philosophie traditionnelle",
+    "bio": "Historien de l'art et métaphysicien anglo-cinghalais, Coomaraswamy contribue à faire connaître les arts indiens et bouddhiques en Occident. Ses essais défendent une conception symbolique et spirituelle de l'art traditionnel, en dialogue avec les doctrines de l'Orient et du Moyen Âge européen.",
+    "works": [
+      "The Dance of Shiva (1918)",
+      "History of Indian and Indonesian Art (1927)",
+      "Christian and Oriental Philosophy of Art (1956)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Art asiatique",
+    "bibliography": [
+      "The Dance of Shiva, 1918",
+      "Christian and Oriental Philosophy of Art, 1956",
+      "Roger Lipsey, Coomaraswamy, 1977."
+    ],
+    "groups": []
+  },
+  {
+    "id": "frithjof-schuon",
+    "name": "Frithjof Schuon",
+    "years": "1907–1998",
+    "group": "École traditionaliste, métaphysique",
+    "bio": "Philosophe et essayiste suisse d'origine allemande, Schuon est une figure centrale de l'école traditionaliste ou pérennialiste, qui affirme l'existence d'une unité transcendante des religions. Il écrit sur le soufisme, les formes sacrées et la métaphysique comparée.",
+    "works": [
+      "De l'unité transcendante des religions (1948)",
+      "Formes et substance dans les religions (1961)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "École traditionaliste",
+    "bibliography": [
+      "De l'unité transcendante des religions, 1948",
+      "Formes et substance dans les religions, 1961",
+      "Mark Sedgwick, Against the Modern World, 2004."
+    ],
+    "groups": []
+  },
+  {
+    "id": "julius-evola",
+    "name": "Julius Evola",
+    "years": "1898–1974",
+    "group": "Traditionalisme, philosophie politique",
+    "bio": "Écrivain italien, peintre dadaïste dans sa jeunesse puis théoricien traditionaliste, Evola développe une pensée ésotérique hiérarchique et antimoderne. Son œuvre a exercé une influence sur des milieux d'extrême droite; cette dimension politique doit être explicitement prise en compte dans toute présentation.",
+    "works": [
+      "Révolte contre le monde moderne (1934)",
+      "La Tradition hermétique (1931)",
+      "Chevaucher le tigre (1961)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Traditionalisme",
+    "bibliography": [
+      "La Tradition hermétique, 1931",
+      "Révolte contre le monde moderne, 1934",
+      "Mark Sedgwick, Against the Modern World, 2004."
+    ],
+    "groups": []
+  },
+  {
+    "id": "boris-mouravieff",
+    "name": "Boris Mouravieff",
+    "years": "1890–1966",
+    "group": "Ésotérisme chrétien, tradition gurdjieffienne",
+    "bio": "Écrivain et penseur d'origine russe installé en Suisse, Mouravieff propose une interprétation ésotérique du christianisme orthodoxe et des traditions de connaissance intérieure. Sa trilogie Gnosis expose une doctrine de transformation spirituelle en dialogue et parfois en tension avec l'enseignement de Gurdjieff.",
+    "works": [
+      "Gnosis, tome I (1961), tome II (1962), tome III (1965)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Ésotérisme chrétien",
+    "bibliography": [
+      "Gnosis, 3 vol., 1961–1965",
+      "études comparatives sur les courants gurdjieffiens et l'ésotérisme chrétien."
+    ],
+    "groups": []
+  },
+  {
+    "id": "simone-weil",
+    "name": "Simone Weil",
+    "years": "1909–1943",
+    "group": "Philosophie, mystique et engagement",
+    "bio": "Philosophe française, enseignante, ouvrière volontaire et militante, Simone Weil développe une pensée de l'attention, du malheur, de la force et de la décréation. Sa recherche spirituelle, nourrie de christianisme, de Platon et de traditions orientales, demeure indépendante des institutions religieuses.",
+    "works": [
+      "La Pesanteur et la Grâce (1947)",
+      "L'Enracinement (1949)",
+      "Attente de Dieu (1950)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie",
+    "bibliography": [
+      "La Pesanteur et la Grâce, 1947",
+      "Attente de Dieu, 1950",
+      "Simone Pétrement, La Vie de Simone Weil, 1973."
+    ],
+    "groups": []
+  },
+  {
+    "id": "henry-corbin",
+    "name": "Henry Corbin",
+    "years": "1903–1978",
+    "group": "Philosophie islamique, imaginal",
+    "bio": "Philosophe et islamologue français, Corbin traduit et interprète Sohrawardi, Ibn Arabi et la philosophie iranienne. Il forge et développe la notion d'« imaginal » pour distinguer l'imagination créatrice d'une simple fantaisie subjective, et joue un rôle majeur dans l'étude des spiritualités chiites.",
+    "works": [
+      "Avicenne et le récit visionnaire (1954)",
+      "L'Imagination créatrice dans le soufisme d'Ibn Arabi (1958)",
+      "En Islam iranien (1971–1972)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Philosophie islamique",
+    "bibliography": [
+      "Avicenne et le récit visionnaire, 1954",
+      "L'Imagination créatrice dans le soufisme d'Ibn Arabi, 1958",
+      "En Islam iranien, 1971–1972."
+    ],
+    "groups": []
+  },
+  {
+    "id": "wolfgang-paalen",
+    "name": "Wolfgang Paalen",
+    "years": "1905–1959",
+    "group": "Surréalisme, peinture",
+    "bio": "Peintre et théoricien austro-mexicain, Paalen rejoint le surréalisme à Paris et invente le fumage, technique picturale utilisant la fumée d'une flamme. Exilé au Mexique, il fonde la revue Dyn et développe une critique du surréalisme bretonien, attentive à l'art amérindien et à la physique moderne.",
+    "works": [
+      "Dyn (revue, 1942–1944)",
+      "Form and Sense (1945)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "Dyn, 1942–1944",
+      "Form and Sense, 1945",
+      "Amy Winter, Wolfgang Paalen: Artist and Theorist of the Avant-Garde, 2002."
+    ],
+    "groups": []
+  },
+  {
+    "id": "alice-rahon",
+    "name": "Alice Rahon",
+    "years": "1904–1987",
+    "group": "Surréalisme, peinture",
+    "bio": "Poétesse et peintre française, Alice Rahon fréquente les surréalistes à Paris avant de s'installer au Mexique avec Wolfgang Paalen. Elle passe de la poésie à la peinture et développe un univers onirique inspiré par les paysages, les mythes et les cultures précolombiennes.",
+    "works": [
+      "À même la terre (1936)",
+      "Sablier couché (1938)",
+      "peintures des années 1940–1970"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "À même la terre, 1936",
+      "Sablier couché, 1938",
+      "études sur le surréalisme au Mexique."
+    ],
+    "groups": []
+  },
+  {
+    "id": "arthur-machen",
+    "name": "Arthur Machen",
+    "years": "1863–1947",
+    "group": "Littérature fantastique, mysticisme",
+    "bio": "Écrivain gallois, Machen est une figure majeure du fantastique fin-de-siècle. Son œuvre mêle mysticisme chrétien, horreur cosmique, folklore et visions de réalités cachées; elle influence notamment le fantastique moderne et H. P. Lovecraft.",
+    "works": [
+      "The Great God Pan (1894)",
+      "The White People (1904)",
+      "The Hill of Dreams (1907)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Littérature fantastique",
+    "bibliography": [
+      "The Great God Pan, 1894",
+      "The Hill of Dreams, 1907",
+      "Mark Valentine, Arthur Machen, 1995."
+    ],
+    "groups": []
+  },
+  {
+    "id": "ithell-colquhoun",
+    "name": "Ithell Colquhoun",
+    "years": "1906–1988",
+    "group": "Surréalisme, occultisme, peinture",
+    "bio": "Peintre, poétesse et occultiste britannique, Colquhoun rejoint le groupe surréaliste anglais avant d'en être écartée en raison de ses recherches ésotériques. Elle explore l'automatisme, l'alchimie, la kabbale et les traditions celtiques dans une œuvre picturale et littéraire singulière.",
+    "works": [
+      "The Living Stones (1957)",
+      "The Sword of Wisdom (1987)",
+      "The Goose of Hermogenes (1961)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "The Living Stones, 1957",
+      "The Goose of Hermogenes, 1961",
+      "Amy Hale, Ithell Colquhoun: Genius of the Fern Loved Gully, 2020."
+    ],
+    "groups": []
+  },
+  {
+    "id": "jean-cocteau",
+    "name": "Jean Cocteau",
+    "years": "1889–1963",
+    "group": "Poésie, cinéma, avant-garde",
+    "bio": "Poète, dramaturge, dessinateur et cinéaste français, Cocteau traverse les avant-gardes du XXe siècle sans se fixer à un mouvement. Son œuvre travaille le mythe, le miroir, la mort et la métamorphose; il entretient des liens avec Picasso, les Ballets russes et les milieux surréalistes, tout en gardant ses distances avec Breton.",
+    "works": [
+      "Le Potomak (1919)",
+      "Orphée (1926)",
+      "La Belle et la Bête (1946)",
+      "Le Testament d'Orphée (1960)"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Poésie",
+    "bibliography": [
+      "Le Potomak, 1919",
+      "Orphée, 1926",
+      "Journal d'un inconnu, 1953."
+    ],
+    "groups": []
+  },
+  {
+    "id": "kurt-seligmann",
+    "name": "Kurt Seligmann",
+    "years": "1900–1962",
+    "group": "Surréalisme, peinture, occultisme",
+    "bio": "Peintre suisse-américain associé au surréalisme, Seligmann développe une iconographie fantastique nourrie de mythologie et d'occultisme. Il rassemble une importante bibliothèque sur la magie et l'ésotérisme, qui nourrit son ouvrage de synthèse consacré à l'histoire de la magie.",
+    "works": [
+      "The Mirror of Magic (1948)",
+      "Myth of the World (1946)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "The Mirror of Magic, Pantheon, 1948",
+      "études sur le surréalisme et l'occultisme."
+    ],
+    "groups": []
+  },
+  {
+    "id": "leonora-carrington",
+    "name": "Leonora Carrington",
+    "years": "1917–2011",
+    "group": "Surréalisme, peinture, alchimie",
+    "bio": "Peintre et écrivaine britannique installée au Mexique, Carrington rejoint le cercle surréaliste dans les années 1930. Son œuvre, peuplée de figures hybrides, de mythes celtiques, d'alchimie et de traditions hermétiques, échappe aux catégories strictement surréalistes et construit une cosmologie personnelle.",
+    "works": [
+      "The Hearing Trumpet (1974)",
+      "Down Below (1944)",
+      "The Oval Lady (1937)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "The Oval Lady, 1937",
+      "Down Below, 1944",
+      "Susan L. Aberth, Leonora Carrington: Surrealism, Alchemy and Art, 2004."
+    ],
+    "groups": []
+  },
+  {
+    "id": "remedios-varo",
+    "name": "Remedios Varo",
+    "years": "1908–1963",
+    "group": "Surréalisme, peinture, alchimie",
+    "bio": "Peintre espagnole exilée au Mexique, Varo fréquente le groupe surréaliste à Paris avant de développer à Mexico une œuvre minutieuse, onirique et alchimique. Ses tableaux mettent en scène des laboratoires, des voyages initiatiques et des figures féminines de connaissance.",
+    "works": [
+      "Peintures majeures: La création des oiseaux (1957)",
+      "Papilla estelar (1958)",
+      "Les feuilles mortes (1956)"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Surréalisme",
+    "bibliography": [
+      "Catalogue raisonné, Walter Gruen & Ricardo Ovalle, Remedios Varo: Catálogo razonado, 1994",
+      "Janet A. Kaplan, Unexpected Journeys, 1988."
+    ],
+    "groups": []
   }
 ]
