@@ -16515,5 +16515,664 @@
       "hermann-nitsch",
       "otto-muehl"
     ]
+  },
+  {
+    "id": "knut-hamsun",
+    "name": "Knut Hamsun",
+    "years": "1859–1952",
+    "group": "Littérature moderne",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Knut Hamsun (1859–1952), romancier norvégien, compte parmi les précurseurs du modernisme psychologique. Après une jeunesse pauvre et plusieurs séjours aux États-Unis, il publie La Faim (1890), récit à la première personne qui suit les perceptions instables et les dérèglements d’un écrivain affamé dans Christiania. Le roman rompt avec le réalisme social dominant en privilégiant les mouvements discontinus de la conscience. Mystères, Pan et Victoria approfondissent cette exploration de l’intériorité, de la solitude et du rapport à la nature. L’Éveil de la glèbe, qui lui vaut le prix Nobel en 1920, marque un tournant vers une célébration de la paysannerie. Son héritage littéraire est cependant inséparable de son soutien public à l’Allemagne nazie et à l’occupation de la Norvège ; condamné après-guerre, il demeure une figure majeure mais profondément compromise de la littérature européenne.",
+    "works": [
+      "La Faim (1890)",
+      "Mystères (1892)",
+      "Pan (1894)",
+      "Victoria (1898)",
+      "Sous l’étoile d’automne (1906)",
+      "L’Éveil de la glèbe (1917)",
+      "Vagabonds (1927)",
+      "August le marin (1930)",
+      "Sur les sentiers où l’herbe repousse (1949)"
+    ],
+    "bibliography": [
+      "La Faim, 1890.",
+      "Pan, 1894.",
+      "Victoria, 1898.",
+      "L’Éveil de la glèbe, 1917.",
+      "Vagabonds, 1927.",
+      "Sur les sentiers où l’herbe repousse, 1949."
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Knut_Pedersen_dit_Knut_Hamsun/173829",
+        "note": "Larousse : parcours littéraire, romans et positionnement politique."
+      },
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1920/summary/",
+        "note": "Fondation Nobel : prix 1920 et contexte de l’œuvre."
+      }
+    ],
+    "related": [
+      "thomas-mann",
+      "alfred-doblin",
+      "virginia-woolf"
+    ]
+  },
+  {
+    "id": "thomas-mann",
+    "name": "Thomas Mann",
+    "years": "1875–1955",
+    "group": "Littérature moderne",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Thomas Mann (1875–1955), romancier et essayiste allemand, observe la bourgeoisie européenne à travers ses crises et son rapport ambigu à l’art. Les Buddenbrook (1901), fresque du déclin d’une famille de négociants, installe la tension entre vitalité sociale et sensibilité artistique. Tonio Kröger, La Mort à Venise et La Montagne magique interrogent l’opposition entre vie et esprit, désir et discipline, maladie et culture. L’ironie narrative et la construction symbolique de ses romans en font l’un des grands héritiers du réalisme européen, mais aussi un observateur aigu de la modernité. D’abord nationaliste en 1914, Mann évolue vers la défense de la démocratie et combat le nazisme depuis l’exil à partir de 1933. Naturalisé américain, il poursuit une œuvre marquée par l’histoire du siècle, notamment avec Le Docteur Faustus. Il reçoit le prix Nobel de littérature en 1929.",
+    "works": [
+      "Les Buddenbrook (1901)",
+      "Tonio Kröger (1903)",
+      "La Mort à Venise (1912)",
+      "La Montagne magique (1924)",
+      "Joseph et ses frères (1933–1943)",
+      "Lotte à Weimar (1939)",
+      "Le Docteur Faustus (1947)",
+      "Les Confessions du chevalier d’industrie Félix Krull (1954)"
+    ],
+    "bibliography": [
+      "Les Buddenbrook, 1901.",
+      "Tonio Kröger, 1903.",
+      "La Mort à Venise, 1912.",
+      "La Montagne magique, 1924.",
+      "Joseph et ses frères, 1933–1943.",
+      "Le Docteur Faustus, 1947."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1929/mann/biographical/",
+        "note": "Fondation Nobel : biographie et parcours littéraire."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Thomas_Mann/175126",
+        "note": "Larousse : thèmes, œuvres et évolution intellectuelle."
+      }
+    ],
+    "related": [
+      "knut-hamsun",
+      "alfred-doblin",
+      "hermann-hesse"
+    ]
+  },
+  {
+    "id": "albert-cossery",
+    "name": "Albert Cossery",
+    "years": "1913–2008",
+    "group": "Littérature contemporaine",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Albert Cossery (1913–2008), écrivain égyptien d’expression française, naît au Caire et s’installe à Paris en 1945, où il mène jusqu’à sa mort une existence volontairement discrète. Ses romans se déroulent le plus souvent dans une Égypte populaire, peuplée de mendiants, de marginaux, de rêveurs et de contestataires. Une ironie sèche et une langue dépouillée lui permettent de tourner en dérision le pouvoir, la richesse, le travail comme obligation morale et les ambitions de réussite. L’oisiveté devient chez lui une forme de liberté et une manière de résister aux injonctions sociales. Mendiants et orgueilleux, Les Fainéants dans la vallée fertile et La Violence et la dérision donnent à cette œuvre brève une portée politique singulière, sans la réduire au pamphlet. Son amitié avec Henry Miller et son regard d’exilé nourrissent une littérature à la fois caustique et humaniste.",
+    "works": [
+      "Les Hommes oubliés de Dieu (1941)",
+      "La Maison de la mort certaine (1944)",
+      "Les Fainéants dans la vallée fertile (1948)",
+      "Mendiants et orgueilleux (1955)",
+      "La Violence et la dérision (1964)",
+      "Un complot de saltimbanques (1975)",
+      "Une ambition dans le désert (1984)",
+      "Les Couleurs de l’infamie (1999)"
+    ],
+    "bibliography": [
+      "Les Hommes oubliés de Dieu, 1941.",
+      "La Maison de la mort certaine, 1944.",
+      "Les Fainéants dans la vallée fertile, 1948.",
+      "Mendiants et orgueilleux, 1955.",
+      "La Violence et la dérision, 1964.",
+      "Une ambition dans le désert, 1984.",
+      "Les Couleurs de l’infamie, 1999."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cilf-litteratures-francophones.fr/pages/albert-cossery.html",
+        "note": "Conseil international de la langue française : biographie et bibliographie."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/litterature/Albert_Cossery/172574",
+        "note": "Larousse : thèmes, style et présentation de l’œuvre."
+      }
+    ],
+    "related": [
+      "henry-miller"
+    ]
+  },
+  {
+    "id": "francis-bacon",
+    "name": "Francis Bacon",
+    "years": "1909–1992",
+    "group": "Expressionnisme figuratif",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Francis Bacon (1909–1992), peintre né à Dublin et actif principalement à Londres, développe une figuration violente et instable, à rebours de l’abstraction dominante de l’après-guerre. Autodidacte, d’abord designer, il détruit une grande partie de ses premières toiles avant que Three Studies for Figures at the Base of a Crucifixion (1944) ne le fasse connaître. Ses figures isolées, enfermées dans des cages perspectivistes ou déformées par le mouvement, évoquent la vulnérabilité du corps, la solitude et la brutalité de l’existence. Il puise dans la photographie, le cinéma, les maîtres anciens et les images de presse, notamment les portraits du pape Innocent X de Velázquez, qu’il transforme en visions convulsives. Ses séries de portraits et ses triptyques mettent en tension présence physique, accident pictural et sensation. Bacon reste une figure indépendante, difficile à rattacher à une école, mais centrale dans la peinture européenne du XXe siècle.",
+    "works": [
+      "Three Studies for Figures at the Base of a Crucifixion (1944)",
+      "Painting (1946)",
+      "Head VI (1949)",
+      "Study after Velázquez's Portrait of Pope Innocent X (1953)",
+      "Three Studies for a Crucifixion (1962)",
+      "Triptych, May–June 1973 (1973)"
+    ],
+    "bibliography": [
+      "David Sylvester, Interviews with Francis Bacon, Thames & Hudson, 1975.",
+      "Michael Peppiatt, Francis Bacon: Anatomy of an Enigma, 1996.",
+      "Martin Harrison (dir.), Francis Bacon: Catalogue Raisonné, 5 vol., 2016."
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/artwork/artist/francis-bacon",
+        "note": "Guggenheim : biographie et évolution picturale."
+      },
+      {
+        "url": "https://www.moma.org/artists/272-francis-bacon",
+        "note": "MoMA : œuvres et expositions."
+      }
+    ],
+    "related": [
+      "mark-rothko"
+    ]
+  },
+  {
+    "id": "mark-rothko",
+    "name": "Mark Rothko",
+    "years": "1903–1970",
+    "group": "Expressionnisme abstrait",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Mark Rothko (1903–1970), né Markus Rothkowitz dans l’Empire russe et émigré aux États-Unis en 1913, est une figure majeure de l’expressionnisme abstrait et de la Color Field painting. Après des débuts figuratifs et des recherches nourries par le surréalisme, il abandonne progressivement la représentation pour développer, à partir de la fin des années 1940, de vastes champs colorés traversés de rectangles aux contours vibrants. Ces surfaces ne visent pas une simple harmonie décorative : Rothko entend susciter une expérience émotionnelle et presque physique, liée à la tragédie, à l’extase et à la condition humaine. Il travaille souvent à grande échelle, dans des formats qui enveloppent le regardeur. Les peintures destinées à la chapelle de Houston, conçues dans les dernières années de sa vie, radicalisent cette recherche méditative. Sa trajectoire croise celle de Barnett Newman et Clyfford Still, mais son rapport à la couleur et à l’espace conserve une intensité singulière.",
+    "works": [
+      "Slow Swirl at the Edge of the Sea (1944)",
+      "Multiforms (vers 1946–1948)",
+      "No. 5/No. 24 (1948)",
+      "No. 14 (1960)",
+      "Rothko Chapel paintings (1964–1967)",
+      "Black on Gray (1969–1970)"
+    ],
+    "bibliography": [
+      "Mark Rothko, The Artist’s Reality: Philosophies of Art, Yale University Press, 2004.",
+      "Christopher Rothko, Mark Rothko: From the Inside Out, Yale University Press, 2015.",
+      "David Anfam, Mark Rothko: The Works on Canvas, Catalogue Raisonné, 1998."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/5047-mark-rothko",
+        "note": "MoMA : biographie, champs colorés et œuvres."
+      },
+      {
+        "url": "https://www.nga.gov/artists/1839-mark-rothko",
+        "note": "National Gallery of Art : parcours et expositions."
+      }
+    ],
+    "related": [
+      "francis-bacon"
+    ]
+  },
+  {
+    "id": "theodor-w-adorno",
+    "name": "Theodor W. Adorno",
+    "years": "1903–1969",
+    "group": "École de Francfort",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Theodor W. Adorno (1903–1969), philosophe, sociologue, musicologue et critique allemand, est l’un des principaux représentants de la première génération de l’École de Francfort. Formé à la philosophie et à la composition musicale, notamment auprès d’Alban Berg, il développe une pensée interdisciplinaire où esthétique, théorie sociale et critique de la rationalité se répondent. Contraint à l’exil par le nazisme en raison de ses origines juives et de ses positions intellectuelles, il séjourne à Oxford puis aux États-Unis, où il travaille avec Max Horkheimer. La Dialectique de la raison analyse la manière dont la rationalité des Lumières peut se retourner en domination ; Minima Moralia rassemble des réflexions fragmentaires sur la vie mutilée dans la société moderne. Adorno critique l’industrie culturelle, la standardisation des loisirs et les compromis de l’art avec le marché, tout en défendant la force négative des œuvres modernistes. De retour à Francfort en 1949, il devient une figure centrale de la théorie critique.",
+    "works": [
+      "Kierkegaard: Konstruktion des Ästhetischen (1933)",
+      "Dialectique de la raison (avec Max Horkheimer, 1944/1947)",
+      "Philosophie de la nouvelle musique (1949)",
+      "Minima Moralia (1951)",
+      "Prismes (1955)",
+      "Dialectique négative (1966)",
+      "Théorie esthétique (1970, posthume)"
+    ],
+    "bibliography": [
+      "Dialectique de la raison, avec Max Horkheimer, 1944/1947.",
+      "Philosophie de la nouvelle musique, 1949.",
+      "Minima Moralia, 1951.",
+      "Prismes, 1955.",
+      "Dialectique négative, 1966.",
+      "Théorie esthétique, Suhrkamp, 1970.",
+      "Stefan Müller-Doohm, Adorno: A Biography, Polity, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/adorno/",
+        "note": "Stanford Encyclopedia of Philosophy : biographie et théorie critique."
+      },
+      {
+        "url": "https://iep.utm.edu/adorno/",
+        "note": "Internet Encyclopedia of Philosophy : philosophie sociale et esthétique."
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vladimir-jankelevitch",
+    "name": "Vladimir Jankélévitch",
+    "years": "1903–1985",
+    "group": "Philosophie morale",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Vladimir Jankélévitch (1903–1985), philosophe et musicologue français, enseigne notamment à Lille puis à la Sorbonne, où il occupe la chaire de philosophie morale. Héritier critique de Bergson, il élabore une pensée du temps, de l’irréversible, de la mort et de l’instant, attentive à ce qui échappe aux concepts : le je-ne-sais-quoi, le presque-rien, l’ineffable. Son écriture, vive et sinueuse, mêle précision philosophique, images et paradoxes. La musique occupe une place essentielle dans son œuvre, avec des études consacrées à Fauré, Debussy et Ravel, mais aussi une réflexion sur l’expérience morale et la fragilité du vivant. Radié de l’Université par le régime de Vichy en raison de ses origines juives, il rejoint la Résistance et retrouve son poste après la Libération. Après la guerre, il prend une position publique majeure contre l’oubli des crimes nazis et défend l’imprescriptibilité des crimes contre l’humanité.",
+    "works": [
+      "Henri Bergson (1931)",
+      "L’Ironie (1936)",
+      "Ravel (1939)",
+      "Le Traité des vertus (1949–1972)",
+      "Le Je-ne-sais-quoi et le presque-rien (1957–1980)",
+      "La Mort (1966)",
+      "L’Imprescriptible (1986)"
+    ],
+    "bibliography": [
+      "Henri Bergson, 1931.",
+      "L’Ironie, 1936.",
+      "Ravel, 1939.",
+      "Le Je-ne-sais-quoi et le presque-rien, 3 vol., 1957–1980.",
+      "La Mort, 1966.",
+      "Le Traité des vertus, 1949–1972.",
+      "L’Imprescriptible, 1986."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/vladimir-jankelevitch-bibliographie",
+        "note": "BnF : bibliographie de référence."
+      },
+      {
+        "url": "https://irhis-recherche.univ-lille.fr/IRHiS_New/00-SiteUniversite/htdocs/jankelevitch-vladimir.html",
+        "note": "Université de Lille : biographie universitaire et engagement dans la Résistance."
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "francis-wolff",
+    "name": "Francis Wolff",
+    "years": "1950–",
+    "group": "Philosophie",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Francis Wolff (né en 1950), philosophe français et professeur émérite à l’École normale supérieure, travaille principalement sur la philosophie antique, la logique, le langage et la question de l’humain. Spécialiste d’Aristote et de Socrate, il interroge les conditions de la pensée rationnelle et les catégories par lesquelles les sociétés définissent le vivant, l’animal et la personne. Son approche conjugue histoire de la philosophie et intervention dans les débats contemporains : qu’est-ce qu’un être humain, comment penser l’animal, que signifie parler d’un monde commun ? Il a enseigné en France et au Brésil, dirigé le département de philosophie de l’ENS et animé le séminaire « Les lundis de la philosophie ». Son travail, éloigné des écoles d’avant-garde artistique, trouve sa place dans l’Atlas comme repère de la pensée contemporaine et contrepoint conceptuel aux expérimentations qui interrogent langage et humanité.",
+    "works": [
+      "Socrate (1985)",
+      "Aristote et la politique (1991)",
+      "Dire le monde (1997)",
+      "L’Être, l’homme, le disciple (2000)",
+      "Notre humanité. D’Aristote aux neurosciences (2010)",
+      "Pourquoi la musique ? (2015)",
+      "Trois utopies contemporaines (2017)"
+    ],
+    "bibliography": [
+      "Socrate, PUF, 1985.",
+      "Aristote et la politique, PUF, 1991.",
+      "Dire le monde, PUF, 1997.",
+      "Notre humanité. D’Aristote aux neurosciences, Fayard, 2010.",
+      "Pourquoi la musique ?, Fayard, 2015.",
+      "Trois utopies contemporaines, Fayard, 2017."
+    ],
+    "sources": [
+      {
+        "url": "https://www.franciswolff.fr/oeuvre-et-parcours/",
+        "note": "Site de Francis Wolff : parcours universitaire et bibliographie."
+      }
+    ],
+    "related": [
+      "vladimir-jankelevitch"
+    ]
+  },
+  {
+    "id": "germaine-dulac",
+    "name": "Germaine Dulac",
+    "years": "1882–1942",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Germaine Dulac (1882–1942), réalisatrice, théoricienne, journaliste et productrice française, est une pionnière du cinéma d’avant-garde. D’abord engagée dans le journalisme féministe, elle aborde le cinéma comme un art autonome, capable de traduire les mouvements intérieurs plutôt que d’illustrer une intrigue. Ses films des années 1920 explorent rythme, motifs visuels, surimpressions et correspondances entre musique et image. La Souriante Madame Beudet (1923) est un jalon du cinéma impressionniste ; La Coquille et le Clergyman (1928), sur un scénario d’Antonin Artaud, pousse l’expérimentation vers une logique onirique et surréaliste, non sans conflit avec le groupe de Breton. Avec Thèmes et variations et Étude cinégraphique sur une arabesque, elle approfondit le cinéma pur, libéré de la narration traditionnelle. Elle défend ensuite les ciné-clubs et le cinéma documentaire, formulant une théorie durable de l’expérimentation visuelle et sonore.",
+    "works": [
+      "La Souriante Madame Beudet (1923)",
+      "Âme d’artiste (1924)",
+      "La Coquille et le Clergyman (1928)",
+      "Thèmes et variations (1928)",
+      "Étude cinégraphique sur une arabesque (1929)",
+      "Disque 957 (1928)"
+    ],
+    "bibliography": [
+      "Germaine Dulac, « Les esthétiques, les entraves, la cinégraphie intégrale », 1927.",
+      "Tami Williams, Germaine Dulac: A Cinema of Sensations, University of Illinois Press, 2014.",
+      "Études et catalogues de rétrospectives Germaine Dulac, Cinémathèque française."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cinematheque.fr/article/1521.html",
+        "note": "Cinémathèque française : biographie, théorie du cinéma et engagement féministe."
+      },
+      {
+        "url": "https://www.cineclubdecaen.com/analyse/cinemaexperimental.htm",
+        "note": "Repères historiques sur le cinéma expérimental et les films de Dulac."
+      }
+    ],
+    "related": [
+      "richter",
+      "dziga_vertov",
+      "maya-deren",
+      "luis-bunuel"
+    ]
+  },
+  {
+    "id": "luis-bunuel",
+    "name": "Luis Buñuel",
+    "years": "1900–1983",
+    "group": "Surréalisme",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Luis Buñuel (1900–1983), cinéaste espagnol, est une figure majeure du surréalisme et l’un des inventeurs du cinéma moderne. Formé à Madrid au contact de la Residencia de Estudiantes, où il se lie avec Federico García Lorca et Salvador Dalí, il rejoint Paris à la fin des années 1920. Un chien andalou (1929), coréalisé avec Dalí, attaque la logique narrative et l’image rassurante par des associations de rêves, de désir et de violence. L’Âge d’or (1930) provoque un scandale et affirme une critique radicale de la bourgeoisie, de l’Église et des conventions sociales. Après l’exil, Buñuel travaille au Mexique, où il réalise une œuvre à la fois populaire, corrosive et formellement libre, avant de revenir en Europe avec Viridiana, Le Charme discret de la bourgeoisie et Cet obscur objet du désir. Son cinéma mêle réalisme cru, inconscient, humour noir et critique des institutions.",
+    "works": [
+      "Un chien andalou (1929, avec Salvador Dalí)",
+      "L’Âge d’or (1930)",
+      "Las Hurdes / Terre sans pain (1933)",
+      "Los olvidados (1950)",
+      "Viridiana (1961)",
+      "Le Journal d’une femme de chambre (1964)",
+      "Belle de jour (1967)",
+      "Le Charme discret de la bourgeoisie (1972)",
+      "Cet obscur objet du désir (1977)"
+    ],
+    "bibliography": [
+      "Luis Buñuel, Mon dernier soupir, Robert Laffont, 1982.",
+      "Agustín Sánchez Vidal, Luis Buñuel, Cátedra, 1994.",
+      "Catalogues de rétrospectives de la Cinémathèque française et de la Filmoteca Española."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cinematheque.fr/",
+        "note": "Cinémathèque française : rétrospectives, archives et études sur Buñuel."
+      },
+      {
+        "url": "https://www.bfi.org.uk/",
+        "note": "British Film Institute : dossiers et filmographie de Buñuel."
+      }
+    ],
+    "related": [
+      "germaine-dulac"
+    ]
+  },
+  {
+    "id": "maya-deren",
+    "name": "Maya Deren",
+    "years": "1917–1961",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Maya Deren (1917–1961), cinéaste, chorégraphe, théoricienne et photographe américaine née à Kyiv, joue un rôle décisif dans l’émergence du cinéma expérimental indépendant aux États-Unis. Avec Alexander Hammid, elle réalise Meshes of the Afternoon (1943), film à petit budget qui transforme les gestes quotidiens en boucle onirique grâce aux répétitions, raccords impossibles et dédoublements. At Land, A Study in Choreography for Camera et Ritual in Transfigured Time explorent le mouvement du corps, le montage et la construction d’un espace-temps propre au cinéma. Deren défend l’indépendance de production et de diffusion, organise des projections et contribue à créer des structures de soutien au cinéma expérimental. Ses recherches sur la danse et les rituels haïtiens nourrissent Divine Horsemen: The Living Gods of Haiti. Son œuvre brève mais influente affirme le cinéma comme art autonome, proche de la danse et de la musique.",
+    "works": [
+      "Meshes of the Afternoon (1943, avec Alexander Hammid)",
+      "At Land (1944)",
+      "A Study in Choreography for Camera (1945)",
+      "Ritual in Transfigured Time (1946)",
+      "Meditation on Violence (1948)",
+      "The Very Eye of Night (1958)",
+      "Divine Horsemen: The Living Gods of Haiti (livre, 1953)"
+    ],
+    "bibliography": [
+      "Maya Deren, An Anagram of Ideas on Art, Form and Film, 1946.",
+      "Maya Deren, Divine Horsemen: The Living Gods of Haiti, 1953.",
+      "Maya Deren, Essential Deren: Collected Writings on Film, éd. Bruce R. McPherson, 2005."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/6912-maya-deren",
+        "note": "MoMA : biographie, œuvres et pratique du cinéma comme art autonome."
+      },
+      {
+        "url": "https://www.moma.org/calendar/exhibitions/1096",
+        "note": "MoMA : rétrospective et importance dans le cinéma expérimental."
+      },
+      {
+        "url": "https://www.bfi.org.uk/features/maya-deren-meshes-of-the-afternoon",
+        "note": "BFI : parcours et films majeurs."
+      }
+    ],
+    "related": [
+      "germaine-dulac",
+      "kenneth-anger",
+      "stan-brakhage"
+    ]
+  },
+  {
+    "id": "kenneth-anger",
+    "name": "Kenneth Anger",
+    "years": "1927–2023",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Kenneth Anger (1927–2023), cinéaste américain du cinéma underground, réalise dès l’adolescence des courts métrages où se mêlent surréalisme, culture queer, érotisme, occultisme et mythologies hollywoodiennes. Fireworks (1947), tourné en noir et blanc, affirme très tôt une représentation explicite du désir homosexuel et provoque une réaction judiciaire. Installé un temps en Europe, il réalise Eaux d’artifice, Inauguration of the Pleasure Dome et Scorpio Rising, film-manifeste qui associe motards, icônes populaires, musique rock et montage associatif. Ses œuvres, souvent brèves et soigneusement composées, font de la bande sonore et du montage des forces structurantes, sans recourir au récit classique. Anger publie aussi Hollywood Babylon, chronique scandaleuse et mythologique de l’industrie du cinéma. Son influence s’étend au cinéma indépendant, aux arts visuels et à la culture musicale underground.",
+    "works": [
+      "Fireworks (1947)",
+      "Puce Moment (1949)",
+      "Eaux d’artifice (1953)",
+      "Inauguration of the Pleasure Dome (1954)",
+      "Scorpio Rising (1963)",
+      "Invocation of My Demon Brother (1969)",
+      "Lucifer Rising (1972)"
+    ],
+    "bibliography": [
+      "Kenneth Anger, Hollywood Babylon, 1959 (édition anglaise augmentée, 1975).",
+      "Bill Landis, Anger: The Unauthorized Biography of Kenneth Anger, 1995.",
+      "P. Adams Sitney, Visionary Film: The American Avant-Garde, Oxford University Press, 1974."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bfi.org.uk/",
+        "note": "BFI : ressources sur le cinéma underground et la carrière d’Anger."
+      },
+      {
+        "url": "https://www.anthologyfilmarchives.org/",
+        "note": "Anthology Film Archives : programmation et conservation du cinéma d’avant-garde."
+      }
+    ],
+    "related": [
+      "maya-deren",
+      "stan-brakhage",
+      "tony-conrad"
+    ]
+  },
+  {
+    "id": "stan-brakhage",
+    "name": "Stan Brakhage",
+    "years": "1933–2003",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Stan Brakhage (1933–2003), cinéaste américain, est l’un des créateurs les plus prolifiques et influents du cinéma d’avant-garde d’après-guerre. Il explore la perception visuelle en travaillant la caméra à l’épaule, les variations de mise au point, les surimpressions, les rythmes de montage et la matérialité de la pellicule. Il peint, gratte ou colle parfois directement sur le film, comme dans Mothlight, et cherche à rendre des formes de vision qui échappent au langage verbal. Dog Star Man, cycle monumental du début des années 1960, associe expérience intime, nature, naissance et perception cosmique. Brakhage refuse la séparation entre technique et expérience : le film devient un acte de regard, un flux sensoriel et une écriture plastique. Son œuvre, qui compte plusieurs centaines de films, est accompagnée d’essais théoriques influents sur la vision et le cinéma.",
+    "works": [
+      "Interim (1952)",
+      "Desistfilm (1954)",
+      "Mothlight (1963)",
+      "Dog Star Man (1961–1964)",
+      "The Art of Vision (1965)",
+      "Scenes from Under Childhood (1967–1970)",
+      "The Text of Light (1974)"
+    ],
+    "bibliography": [
+      "Stan Brakhage, Metaphors on Vision, Film Culture, 1963.",
+      "Stan Brakhage, Film at Wit’s End: Eight Avant-Garde Filmmakers, 1989.",
+      "P. Adams Sitney, Visionary Film: The American Avant-Garde, 1974."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bfi.org.uk/sight-and-sound/interviews/all-that-light-stan-brakhage-film",
+        "note": "BFI : biographie, démarche perceptive et place dans l’avant-garde."
+      },
+      {
+        "url": "https://catalog.afi.com/Person/141714-Stan-Brakhage",
+        "note": "AFI Catalog : filmographie sélective."
+      }
+    ],
+    "related": [
+      "maya-deren",
+      "kenneth-anger",
+      "tony-conrad"
+    ]
+  },
+  {
+    "id": "chris-marker",
+    "name": "Chris Marker",
+    "years": "1921–2012",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Chris Marker (1921–2012), cinéaste, écrivain, photographe et artiste multimédia français, invente une forme de film-essai où mémoire personnelle, histoire politique et réflexion sur les images s’entrelacent. Après des débuts dans l’édition et le journalisme, il réalise des documentaires de voyage qui déplacent les codes du reportage par le commentaire subjectif et le montage poétique. Lettre de Sibérie (1957) révèle sa manière de faire varier le sens d’une même séquence par la voix off. La Jetée (1962), construite presque entièrement à partir de photographies fixes, transforme le récit de science-fiction en méditation sur le temps et la mémoire. Le Fond de l’air est rouge, Sans Soleil et Level Five poursuivent cette enquête sur les traces, les révolutions et les technologies. Marker travaille aussi avec des collectifs, notamment SLON et les Groupes Medvedkine, et explore plus tard la vidéo et le CD-ROM interactif Immemory.",
+    "works": [
+      "Les Statues meurent aussi (1953, avec Alain Resnais)",
+      "Dimanche à Pékin (1956)",
+      "Lettre de Sibérie (1957)",
+      "La Jetée (1962)",
+      "Le Joli Mai (1963)",
+      "Le Fond de l’air est rouge (1977)",
+      "Sans Soleil (1983)",
+      "Level Five (1997)",
+      "Immemory (CD-ROM, 1998)"
+    ],
+    "bibliography": [
+      "Chris Marker, Commentaires 1 et 2, Seuil, 1961 et 1967.",
+      "Chris Marker, Le Dépays, Herscher, 1982.",
+      "Catherine Lupton, Chris Marker: Memories of the Future, Reaktion Books, 2005.",
+      "Dossiers et inventaires du fonds Chris Marker, Cinémathèque française."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cinematheque.fr/article/884.html",
+        "note": "Cinémathèque française : archives, parcours et films majeurs."
+      },
+      {
+        "url": "https://www.eai.org/artists/chris-marker/biography",
+        "note": "Electronic Arts Intermix : biographie, films et œuvres multimédias."
+      },
+      {
+        "url": "https://iffr.com/en/person/chris-marker",
+        "note": "International Film Festival Rotterdam : biographie et filmographie."
+      }
+    ],
+    "related": [
+      "jean-luc-godard",
+      "dziga_vertov",
+      "germaine-dulac"
+    ]
+  },
+  {
+    "id": "norman-mclaren",
+    "name": "Norman McLaren",
+    "years": "1914–1987",
+    "group": "Cinéma expérimental",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Cinéma",
+    "bio": "Norman McLaren (1914–1987), cinéaste et animateur écossais installé au Canada, renouvelle le cinéma d’animation par ses expérimentations sur la pellicule, le mouvement et le son. Formé à la Glasgow School of Art, il rejoint en 1941 l’Office national du film du Canada, où il fonde et anime un atelier devenu un laboratoire majeur. Il dessine directement sur la pellicule, grave l’émulsion, réalise des animations sans caméra et compose parfois la bande sonore en traçant des formes sur la piste optique. Begone Dull Care, Blinkity Blank et Neighbours témoignent de ses inventions, entre abstraction musicale, montage discontinu et pixillation. Son œuvre associe recherche formelle et accessibilité, sans opposer expérimentation et plaisir du spectateur. Il reçoit un Oscar pour Neighbours et la Palme d’or du court métrage à Cannes pour Blinkity Blank.",
+    "works": [
+      "Love on the Wing (1938)",
+      "Hen Hop (1942)",
+      "Begone Dull Care (1949, avec Evelyn Lambart)",
+      "Neighbours (1952)",
+      "Blinkity Blank (1955)",
+      "A Chairy Tale (1957, avec Claude Jutra)",
+      "Pas de deux (1968)",
+      "Synchromy (1971)"
+    ],
+    "bibliography": [
+      "Donald McWilliams, Norman McLaren: On the Creative Process, ONF, 1991.",
+      "Canadian Film Encyclopedia : notice et filmographie de Norman McLaren.",
+      "Catalogues et rétrospectives de l’Office national du film du Canada."
+    ],
+    "sources": [
+      {
+        "url": "https://cfe.tiff.net/canadianfilmencyclopedia/content/bios/norman-mclaren",
+        "note": "Canadian Film Encyclopedia : biographie, techniques et filmographie."
+      },
+      {
+        "url": "https://www.cccb.org/en/w/participants/norman-mclaren",
+        "note": "CCCB : parcours et importance du cinéma abstrait de McLaren."
+      }
+    ],
+    "related": [
+      "richter",
+      "dziga_vertov",
+      "tony-conrad"
+    ]
+  },
+  {
+    "id": "jean-luc-godard",
+    "name": "Jean-Luc Godard",
+    "years": "1930–2022",
+    "group": "Nouvelle Vague / cinéma-essai",
+    "groups": [],
+    "kind": "person",
+    "role_icon": "🎬",
+    "role_label": "Littérature / arts / philosophie",
+    "bio": "Jean-Luc Godard (1930–2022), cinéaste, scénariste et critique franco-suisse, transforme le langage du cinéma avec la Nouvelle Vague avant de remettre sans cesse en cause ses propres formes. Critique aux Cahiers du cinéma, il passe à la réalisation avec À bout de souffle (1960), dont les coupes franches, la caméra mobile et le jeu avec les genres rompent avec les conventions du cinéma de studio. Vivre sa vie, Le Mépris, Pierrot le fou et Week-end prolongent cette recherche par le collage, la citation, la discontinuité narrative et la réflexion sur les images. Après Mai 1968, il travaille avec Jean-Pierre Gorin au sein du Groupe Dziga Vertov, dans une pratique collective et militante qui interroge les rapports entre cinéma, idéologie et production. À partir des années 1980, ses films deviennent de plus en plus essayistiques, jusqu’à la série Histoire(s) du cinéma, montage monumental d’images, de sons et de textes. Godard fait du cinéma un outil critique qui pense autant qu’il montre.",
+    "works": [
+      "À bout de souffle (1960)",
+      "Vivre sa vie (1962)",
+      "Le Mépris (1963)",
+      "Pierrot le fou (1965)",
+      "Week-end (1967)",
+      "Le Gai Savoir (1969)",
+      "Tout va bien (1972, avec Jean-Pierre Gorin)",
+      "Numéro deux (1975)",
+      "Histoire(s) du cinéma (1988–1998)",
+      "Le Livre d’image (2018)"
+    ],
+    "bibliography": [
+      "Jean-Luc Godard, Introduction à une véritable histoire du cinéma, Albatros, 1980.",
+      "Jean-Luc Godard, Histoire(s) du cinéma, Gallimard-Gaumont, 1998.",
+      "Antoine de Baecque, Godard. Biographie, Grasset, 2010."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11905213z",
+        "note": "BnF : notice d’autorité, filmographie et Groupe Dziga Vertov."
+      },
+      {
+        "url": "https://www.cinematheque.fr/",
+        "note": "Cinémathèque française : rétrospectives, archives et dossiers sur Godard."
+      }
+    ],
+    "related": [
+      "chris-marker",
+      "dziga_vertov",
+      "germaine-dulac",
+      "richter"
+    ]
   }
 ]
