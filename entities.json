@@ -1184,7 +1184,8 @@
       }
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Photographie"
     ]
   },
   {
@@ -9131,7 +9132,9 @@
       "liubov-popova",
       "alexandra-exter"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "liubov-popova",
@@ -9170,7 +9173,9 @@
       "alexander-rodchenko",
       "kazimir-malevich"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "el-lissitzky",
@@ -9338,7 +9343,9 @@
       "varvara-stepanova",
       "liubov-popova"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "olga-rozanova",
@@ -9382,7 +9389,10 @@
       "kazimir-malevich",
       "natalia-goncharova"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe",
+      "Cubo-futurisme"
+    ]
   },
   {
     "id": "ivan-kliun",
@@ -9421,7 +9431,9 @@
       "olga-rozanova",
       "vladimir-tatlin"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "nadezhda-udaltsova",
@@ -9456,7 +9468,9 @@
       "varvara-stepanova",
       "kazimir-malevich"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "pavel-filonov",
@@ -9528,7 +9542,10 @@
       "velimir-khlebnikov",
       "aleksei-kruchenykh"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe",
+      "Futurisme russe"
+    ]
   },
   {
     "id": "vladimir-mayakovsky",
@@ -9565,7 +9582,9 @@
       "aleksei-kruchenykh",
       "david-burliuk"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "velimir-khlebnikov",
@@ -9601,7 +9620,9 @@
       "aleksei-kruchenykh",
       "david-burliuk"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "aleksei-kruchenykh",
@@ -9657,7 +9678,9 @@
       "velimir-khlebnikov",
       "david-burliuk"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "mikhail-matiushin",
@@ -9693,7 +9716,9 @@
       "aleksei-kruchenykh",
       "nikolai-kulbin"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "nikolai-kulbin",
@@ -9765,7 +9790,8 @@
       "nadezhda-udaltsova"
     ],
     "groups": [
-      "Suprématisme"
+      "Suprématisme",
+      "Avant-garde russe"
     ]
   },
   {
@@ -9803,7 +9829,8 @@
       "moisei-ginzburg"
     ],
     "groups": [
-      "Photographie"
+      "Photographie",
+      "Avant-garde russe"
     ]
   },
   {
@@ -9875,7 +9902,9 @@
       "gustav-klutsis",
       "varvara-stepanova"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "moisei-ginzburg",
@@ -9911,7 +9940,9 @@
       "gustav-klutsis",
       "varvara-stepanova"
     ],
-    "groups": []
+    "groups": [
+      "Avant-garde russe"
+    ]
   },
   {
     "id": "filippo-tommaso-marinetti",
