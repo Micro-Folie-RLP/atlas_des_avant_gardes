@@ -784,5 +784,257 @@
         "url": "https://www.arche-de-saint-antoine.com/"
       }
     ]
+  },
+  {
+    "id": "f-satie-peladan",
+    "type": "collaboration",
+    "subject": "josephin-peladan",
+    "object": "erik-satie",
+    "label": "Satie compose la musique de scène du Fils des étoiles et les Sonneries de la Rose-Croix",
+    "date": "1891–1892",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/musdico/Erik_Satie/170015"
+      }
+    ]
+  },
+  {
+    "id": "f-satie-cocteau",
+    "type": "collaboration",
+    "subject": "erik-satie",
+    "object": "jean-cocteau",
+    "label": "Satie et Cocteau collaborent dans le contexte du ballet Parade",
+    "date": "1917",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/musdico/Erik_Satie/170015"
+      }
+    ]
+  },
+  {
+    "id": "f-apollinaire-breton",
+    "type": "influence",
+    "subject": "guillaume-apollinaire",
+    "object": "breton",
+    "label": "L'œuvre et le vocabulaire d'Apollinaire constituent un précédent important pour le surréalisme",
+    "date": "1917–1924",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.apollinaire.ulg.ac.be/Bibliographie.htm"
+      }
+    ]
+  },
+  {
+    "id": "f-cortazar-cocteau",
+    "type": "influence",
+    "subject": "jean-cocteau",
+    "object": "julio-cortazar",
+    "label": "La lecture d'Opium de Cocteau marque la découverte de l'avant-garde européenne par Cortázar",
+    "date": "années 1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bnf.fr/fr/julio-cortazar-1914-1984"
+      }
+    ]
+  },
+  {
+    "id": "f-riviere-artau",
+    "type": "correspondance",
+    "subject": "jacques-riviere",
+    "object": "artaud",
+    "label": "Correspondance éditoriale et littéraire autour des premiers textes d'Artaud",
+    "date": "1924–1925",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bnf.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-junger-benjamin",
+    "type": "courant_commun",
+    "subject": "ernst-junger",
+    "object": "walter-benjamin",
+    "label": "Deux diagnostics très différents de la modernité technique, de la guerre et de l'expérience; rapprochement critique plutôt que filiation",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.bnf.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-faulkner-dospassos",
+    "type": "courant_commun",
+    "subject": "william-faulkner",
+    "object": "john-dos-passos",
+    "label": "Deux renouvellements majeurs du roman américain par la fragmentation et la pluralité des voix",
+    "date": "années 1920–1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.loc.gov/"
+      }
+    ]
+  },
+  {
+    "id": "f-conrad-faulkner",
+    "type": "influence",
+    "subject": "joseph-conrad",
+    "object": "william-faulkner",
+    "label": "La narration indirecte et la pluralité des points de vue chez Conrad constituent un précédent du modernisme romanesque",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.britannica.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-schaeffer-ferrari",
+    "type": "collaboration",
+    "subject": "pierre-schaeffer",
+    "object": "luc-ferrari",
+    "label": "Ferrari travaille au Groupe de recherches musicales auprès de Schaeffer",
+    "date": "années 1950–1960",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-schaeffer-radigue",
+    "type": "influence",
+    "subject": "pierre-schaeffer",
+    "object": "eliane-radigue",
+    "label": "Radigue se forme auprès de Schaeffer et de Pierre Henry au sein des recherches concrètes",
+    "date": "années 1950",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-bryars-bailey",
+    "type": "collaboration",
+    "subject": "gavin-bryars",
+    "object": "derek-bailey",
+    "label": "Bryars participe aux premiers ensembles d'improvisation libre avec Derek Bailey",
+    "date": "années 1960",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ubu.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-schnittke-cage",
+    "type": "courant_commun",
+    "subject": "alfred-schnittke",
+    "object": "john-cage",
+    "label": "Deux approches distinctes de l'ouverture et de l'hétérogénéité des matériaux musicaux",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.britannica.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-cardew-cage",
+    "type": "influence",
+    "subject": "john-cage",
+    "object": "cornelius-cardew",
+    "label": "L'indétermination et les partitions ouvertes de Cage influencent les premières recherches de Cardew",
+    "date": "années 1960",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bl.uk/"
+      }
+    ]
+  },
+  {
+    "id": "f-cros-schaeffer",
+    "type": "courant_commun",
+    "subject": "charles-cros",
+    "object": "pierre-schaeffer",
+    "label": "Du paléophone de Cros à la musique concrète, deux jalons de l'enregistrement et de l'écoute du son",
+    "date": "1877–XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-benjamin-surrealisme",
+    "type": "critique",
+    "subject": "walter-benjamin",
+    "object": "breton",
+    "label": "Benjamin analyse le surréalisme comme une expérience critique de la modernité",
+    "date": "1929",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.marxists.org/reference/archive/benjamin/1929/surrealism.htm"
+      }
+    ]
+  },
+  {
+    "id": "f-apollinaire-satie",
+    "type": "relation",
+    "subject": "guillaume-apollinaire",
+    "object": "erik-satie",
+    "label": "Ils appartiennent aux réseaux artistiques parisiens qui croisent poésie, musique et arts de la scène; lien précis à documenter",
+    "date": "années 1910",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.bnf.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-benjamin-bataille",
+    "type": "courant_commun",
+    "subject": "walter-benjamin",
+    "object": "bataille",
+    "label": "Proximités et échanges intellectuels dans le Paris des années 1930, à documenter précisément",
+    "date": "années 1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.bnf.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-kagel-cage",
+    "type": "courant_commun",
+    "subject": "mauricio-kagel",
+    "object": "john-cage",
+    "label": "Deux figures qui déplacent le concert vers l'indétermination, le geste et la performance, selon des voies distinctes",
+    "date": "après 1950",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.britannica.com/"
+      }
+    ]
   }
 ]
