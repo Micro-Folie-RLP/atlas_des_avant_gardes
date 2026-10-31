@@ -16346,5 +16346,187 @@
         "note": "Stanford Encyclopedia of Philosophy : trajectoire, marxisme et théorie littéraire."
       }
     ]
+  },
+  {
+    "id": "guenter-brus",
+    "name": "Günter Brus",
+    "years": "1938–2024",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et arts visuels",
+    "bio": "Günter Brus (1938–2024), peintre, dessinateur et performeur autrichien, est l’un des quatre principaux représentants de l’actionnisme viennois, avec Hermann Nitsch, Otto Muehl et Rudolf Schwarzkogler. D’abord marqué par la peinture informelle, il déplace progressivement le geste pictural vers son propre corps, devenu support, matériau et lieu de confrontation avec les normes sociales. À partir de l’action Ana (1964), puis de performances où il se couvre de peinture et met son corps en tension, Brus fait de l’action un événement artistique et politique. Sa participation à Kunst und Revolution à l’université de Vienne en 1968 provoque un scandale et des poursuites judiciaires. Après Zerreißprobe (1970), sa dernière action, il développe une œuvre de dessin, d’écriture et de peinture où l’imagerie corporelle se transforme en langage graphique.",
+    "works": [
+      "Ana (action, 1964)",
+      "Handbemalung. Kopfzumalung (actions, 1964)",
+      "Kunst und Revolution (action collective, 1968)",
+      "Zerreißprobe (action, 1970)",
+      "Irrwisch (1971)",
+      "Die Geheimnisträger (roman, 1984)",
+      "Die gute alte Zeit (autobiographie en plusieurs volumes, 2002–2010)"
+    ],
+    "bibliography": [
+      "Peter Noever (dir.), Günter Brus: Mitternachtsröte / Midnight Dawn, MAK, 2008.",
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Günter Brus, Die gute alte Zeit, autobiographie en trois volumes, 2002–2010.",
+      "Catalogues et notices de la Galerie bei der Albertina consacrés à Günter Brus."
+    ],
+    "sources": [
+      {
+        "url": "https://www.galerie-albertina.at/en/artists/13454/brus-gunter/",
+        "note": "Galerie bei der Albertina : biographie, actions et évolution vers le dessin."
+      },
+      {
+        "url": "https://data.onb.ac.at/nlv_lex/perslex/B/Brus_Guenter.html",
+        "note": "Bibliothèque nationale autrichienne : notice biographique et bibliographie."
+      },
+      {
+        "url": "https://wieneraktionismus.at/en/archiv-was-ist-wiener-aktionismus/",
+        "note": "Wiener Aktionismus Museum : contexte du mouvement et ses quatre principaux artistes."
+      }
+    ],
+    "related": [
+      "hermann-nitsch",
+      "otto-muehl",
+      "rudolf-schwarzkogler"
+    ]
+  },
+  {
+    "id": "hermann-nitsch",
+    "name": "Hermann Nitsch",
+    "years": "1938–2022",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Performance, peinture et musique",
+    "bio": "Hermann Nitsch (1938–2022), peintre, performeur, compositeur et théoricien autrichien, élabore dès la fin des années 1950 le projet de l’Orgien-Mysterien-Theater (Théâtre des orgies et des mystères). Cette œuvre totale associe actions corporelles, peinture, musique, liturgie, objets et substances organiques dans des cérémonies conçues pour mobiliser les sens et mettre en scène sacrifice, mort et catharsis. Avec Otto Muehl et Adolf Frohner, il participe à Die Blutorgel (1962), événement fondateur de l’actionnisme viennois, mouvement partagé avec Günter Brus et Rudolf Schwarzkogler. Ses actions controversées entraînent procès et peines de prison. Au château de Prinzendorf, il développe de grandes performances collectives, dont le Sechstagespiel de six jours en 1998. Ses partitions prolongent la même ambition : faire de l’art une expérience totale plutôt qu’un objet séparé de la vie.",
+    "works": [
+      "Orgien-Mysterien-Theater (projet élaboré à partir de 1957)",
+      "Die Blutorgel (avec Otto Muehl et Adolf Frohner, 1962)",
+      "Malaktionen (actions de peinture, à partir des années 1960)",
+      "20. Aktion (Vienne, 1966)",
+      "Architektur des Orgien-Mysterien-Theaters (dessins et plans)",
+      "Das 6-Tage-Spiel (Prinzendorf, 1998)",
+      "Allerheiligen-Sinfonie (1980)"
+    ],
+    "bibliography": [
+      "Hermann Nitsch, Die Architektur des Orgien Mysterien Theaters, Galerie Fred Jahn, 1984–1993.",
+      "Hermann Nitsch, partitions, textes et documents de l’Orgien-Mysterien-Theater, publications de l’atelier et du musée Nitsch.",
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Catalogues du Nitsch Museum et du Städel Museum consacrés aux actions et peintures."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nitschmuseum.at/en/nitsch/biography",
+        "note": "Nitsch Museum : chronologie, actions, théâtre et travaux musicaux."
+      },
+      {
+        "url": "https://www.museonitsch.org/en/biography/",
+        "note": "Museo Hermann Nitsch : conception du théâtre total et démarche cathartique."
+      },
+      {
+        "url": "https://sammlung.staedelmuseum.de/en/person/nitsch-hermann",
+        "note": "Städel Museum : œuvres conservées et biographie institutionnelle."
+      }
+    ],
+    "related": [
+      "guenter-brus",
+      "otto-muehl",
+      "rudolf-schwarzkogler"
+    ]
+  },
+  {
+    "id": "otto-muehl",
+    "name": "Otto Muehl",
+    "years": "1925–2013",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et arts visuels",
+    "bio": "Otto Muehl (1925–2013), artiste autrichien, est l’un des fondateurs de l’actionnisme viennois avec Günter Brus, Hermann Nitsch et Rudolf Schwarzkogler. Après des études de lettres, d’histoire et d’éducation artistique, il s’attaque au tableau traditionnel en déchirant, entaillant et incorporant des matériaux aux surfaces peintes. Ses actions mettent en jeu corps, déchets et gestes agressifs qui contestent les conventions de la peinture et la morale bourgeoise. En 1962, il participe avec Nitsch et Adolf Frohner à Die Blutorgel, puis à Kunst und Revolution en 1968. À partir des années 1970, il fonde des communautés expérimentales, dont celle de Friedrichshof, prétendant transformer la vie collective. Cette expérience est indissociable d’abus sexuels et de rapports de domination : Muehl est condamné en 1991 pour des infractions sexuelles, notamment envers des mineurs, et passe plusieurs années en prison. Ce contexte doit être mentionné avec son héritage artistique, sans que l’un efface l’autre.",
+    "works": [
+      "Destruction of the Panel Painting (actions, 1961)",
+      "Die Blutorgel (avec Hermann Nitsch et Adolf Frohner, 1962)",
+      "Fest des psycho-physischen Naturalismus (1963)",
+      "Kunst und Revolution (action collective, 1968)",
+      "ZOCK (plateforme d’actions publiques, à partir de 1967)",
+      "Peintures, collages et photographies des actions des années 1960"
+    ],
+    "bibliography": [
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Catalogues du Leopold Museum consacrés à Otto Muehl et à la collection Friedrichshof.",
+      "Getty Research Institute, Finding Aid for the Otto Mühl Papers, 2011.M.38.",
+      "Études historiques sur l’actionnisme viennois et la commune de Friedrichshof, à confronter aux documents judiciaires."
+    ],
+    "sources": [
+      {
+        "url": "https://www.leopoldmuseum.org/en/exhibitions/23/otto-muehl",
+        "note": "Leopold Museum : chronologie artistique, actions, communauté de Friedrichshof et contexte judiciaire."
+      },
+      {
+        "url": "https://www.estateottomuehl.com/biography/biography/",
+        "note": "Estate Otto Muehl : biographie et parcours artistique, à confronter aux études critiques."
+      },
+      {
+        "url": "https://www.getty.edu/research/collections/static/pdf/2011.M.38.pdf",
+        "note": "Getty Research Institute : guide des archives et note biographique."
+      }
+    ],
+    "related": [
+      "guenter-brus",
+      "hermann-nitsch",
+      "rudolf-schwarzkogler"
+    ]
+  },
+  {
+    "id": "rudolf-schwarzkogler",
+    "name": "Rudolf Schwarzkogler",
+    "years": "1940–1969",
+    "group": "Actionnisme viennois",
+    "groups": [
+      "Actionnisme viennois"
+    ],
+    "kind": "person",
+    "role_icon": "🎨",
+    "role_label": "Performance et photographie",
+    "bio": "Rudolf Schwarzkogler (1940–1969), artiste autrichien, est le plus discret et le plus construit visuellement des quatre principaux actionnistes viennois, avec Günter Brus, Hermann Nitsch et Otto Muehl. Après la peinture et les expérimentations informelles, il conçoit à partir de 1965 des actions pensées comme des séquences d’images, photographiées et mises en scène avec précision. Le corps y apparaît entouré de bandages, d’objets médicaux et de surfaces blanches, dans des compositions austères qui interrogent douleur, identité et vulnérabilité. Contrairement à une légende largement diffusée après sa mort, ses actions ne documentent pas une véritable auto-amputation : elles reposent sur une scénographie construite. Il meurt à Vienne à vingt-neuf ans. Son œuvre, réduite en volume mais influente dans l’histoire de la performance photographiée, se distingue par sa retenue et sa rigueur formelle.",
+    "works": [
+      "1. Aktion (série d’actions photographiées, 1965)",
+      "2. Aktion (série d’actions photographiées, 1965)",
+      "3. Aktion (série d’actions photographiées, 1965–1966)",
+      "Aktion mit dem Körper (1967)",
+      "Satisfaction (film réalisé avec Günter Brus et Otto Muehl, 1969)",
+      "Simultan (film réalisé avec Günter Brus et Otto Muehl, 1969)"
+    ],
+    "bibliography": [
+      "Hubert Klocker (dir.), Rite of Passage: The Early Years of Vienna Actionism, 1960–1966, Snoeck, 2014.",
+      "Catalogues du Wiener Aktionismus Museum consacrés aux quatre actionnistes viennois.",
+      "Dictionnaire de la peinture, notice « Rudolf Schwarzkogler », Larousse.",
+      "Études sur la photographie performative et la construction de la légende autour de Schwarzkogler."
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/encyclopedie/peinture/Rudolf_Schwarzkogler/154337",
+        "note": "Larousse : langage corporel, actions photographiques et rectification de la légende de l’auto-amputation."
+      },
+      {
+        "url": "https://wieneraktionismus.at/en/archiv-was-ist-wiener-aktionismus/",
+        "note": "Wiener Aktionismus Museum : contexte historique du mouvement."
+      }
+    ],
+    "related": [
+      "guenter-brus",
+      "hermann-nitsch",
+      "otto-muehl"
+    ]
   }
 ]
