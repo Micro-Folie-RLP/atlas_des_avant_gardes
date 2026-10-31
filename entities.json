@@ -3887,16 +3887,16 @@
     "kind": "person",
     "sources": [
       {
-        "url": "https://sdrc.lib.uiowa.edu/dada/dadas/richter.htm",
-        "note": "University of Iowa : notice Hans Richter."
+        "url": "https://www.moma.org/research/archives/finding-aids/HansRichterb.html",
+        "note": "MoMA Archives : notice biographique et fonds Hans Richter."
       },
       {
-        "url": "https://www.moma.org/artists/4925",
-        "note": "MoMA : Hans Richter, peintre et cinéaste."
+        "url": "https://www.guggenheim-venice.it/en/art/artists/hans-richter/",
+        "note": "Peggy Guggenheim Collection : parcours dada et films abstraits."
       },
       {
-        "url": "https://www.filmportal.de/person/hans-richter_",
-        "note": "Filmportal : filmographie et repères biographiques."
+        "url": "https://www.moma.org/collection/works/398276",
+        "note": "MoMA : fiche de Rhythmus 21 (1921)."
       }
     ],
     "role_icon": "🎨",
@@ -15009,31 +15009,34 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Tony Conrad est un artiste, cinéaste, violoniste et compositeur américain associé au minimalisme et à l’avant-garde new-yorkaise. Avec le groupe Theatre of Eternal Music, il explore des sons continus, des accords soutenus et des phénomènes acoustiques qui transforment l’écoute en expérience physique. Ses films structuraux, notamment The Flicker, réduisent l’image à des alternances lumineuses rapides, interrogeant les mécanismes perceptifs du cinéma.",
+    "bio": "Tony Conrad (1940–2016), artiste, cinéaste, violoniste, compositeur et pédagogue américain, travaille à la frontière de la musique expérimentale, du cinéma structurel et des arts conceptuels. Associé au Theatre of Eternal Music de La Monte Young, il explore les sons continus, les drones et les phénomènes d’accordage qui transforment l’écoute en expérience physique. Son film The Flicker (1966), construit par l’alternance rapide de photogrammes noirs et blancs, réduit le cinéma à la lumière, au rythme et aux réactions perceptives du spectateur. Il collabore également avec Jack Smith sur Flaming Creatures et participe à des réseaux d’artistes qui brouillent les frontières entre musique, performance, cinéma et politique. Son travail, longtemps difficile à classer, a profondément marqué les pratiques minimalistes et expérimentales.",
     "works": [
-      "The Flicker",
-      "Four Violins",
-      "Outside the Dream Syndicate"
+      "Flaming Creatures (musique et participation, 1963)",
+      "The Flicker (film, 1966)",
+      "Four Violins (1964)",
+      "Coming Attractions (1970)",
+      "Outside the Dream Syndicate (avec Faust, 1973)",
+      "Yellow Movies (1973–1975)"
     ],
     "sources": [
       {
-        "url": "https://www.loc.gov/",
-        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Tony Conrad."
+        "url": "https://www.tonyconradmovie.com/about2",
+        "note": "Documentaire Tony Conrad: Completely in the Present : parcours, œuvres et pratiques interdisciplinaires."
       },
       {
-        "url": "https://www.newworldrecords.org/",
-        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Tony Conrad."
+        "url": "https://www.eai.org/artists/tony-conrad/biography",
+        "note": "Electronic Arts Intermix : biographie et œuvres vidéo/film."
       }
     ],
     "bibliography": [
-      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
-      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
-      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+      "Tony Conrad, Early Minimalism: Volume One, Table of the Elements, 1997.",
+      "Tony Conrad, Writings, 1967–2010, éd. Michael Leja, 2013.",
+      "Branden W. Joseph, Beyond the Dream Syndicate: Tony Conrad and the Arts after Cage, Zone Books, 2008.",
+      "Tony Conrad: Completely in the Present, film documentaire de Tyler Hubby, 2016."
     ],
     "related": [
-      "charles-ives",
-      "david-tudor",
-      "henry-cowell"
+      "stan-brakhage",
+      "kenneth-anger"
     ],
     "groups": []
   },
@@ -15451,31 +15454,39 @@
     "role_icon": "🎬",
     "role_label": "Cinéma",
     "statut": "Acteur",
-    "bio": "Cinéaste et théoricien soviétique, promoteur du Ciné-Œil et d'un cinéma fondé sur le montage, le mouvement et l'observation du réel. Il expérimente aussi la composition sonore à partir des bruits industriels. Son œuvre participe à la recherche d’un langage cinématographique autonome, fondé sur le cadrage, le montage, le rythme et la matérialité de l’image. Les films et écrits théoriques de cette période interrogent autant la perception que les rapports entre création, technologie et société.",
+    "bio": "Dziga Vertov (1896–1954), cinéaste et théoricien soviétique né Denis Kaufman, développe le concept de Ciné-Œil (Kino-Glaz) et défend un cinéma fondé sur l’observation du réel, la caméra et le montage plutôt que sur les conventions du théâtre et de la fiction. Avec son épouse et monteuse Elizaveta Svilova et son frère opérateur Mikhaïl Kaufman, il forme le « Conseil des Trois » et le groupe des Kinoks. Les actualités Kino-Pravda et des films comme La Sixième Partie du monde préparent L’Homme à la caméra (1929), symphonie urbaine sans intrigue qui expose aussi les procédés de sa propre fabrication. Vertov expérimente surimpressions, écrans divisés, accélérés, ralentis et montage des sons industriels dans Enthousiasme (1931), l’un des premiers longs métrages sonores documentaires. Accusé de formalisme dans les années 1930, il est progressivement marginalisé par l’industrie soviétique. Son œuvre sera redécouverte par les cinéastes expérimentaux et documentaristes, notamment Jean-Luc Godard.",
     "works": [
-      "L'Homme à la caméra",
-      "Enthousiasme (Symphonie du Donbass)"
+      "Kino-Pravda (série d’actualités, 1922–1925)",
+      "Kino-Glaz / Ciné-Œil (1924)",
+      "La Sixième Partie du monde (1926)",
+      "La Onzième Année (1928)",
+      "L’Homme à la caméra (1929)",
+      "Enthousiasme / Symphonie du Donbass (1931)",
+      "Trois chants sur Lénine (1934)"
     ],
     "kind": "person",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/film",
-        "note": "Ressource institutionnelle de contexte pour « Cinéma expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Dziga Vertov."
+        "url": "https://www.moma.org/artists/24575-dziga-vertov",
+        "note": "MoMA : notice d’artiste et œuvres conservées."
       },
       {
-        "url": "https://www.bfi.org.uk/",
-        "note": "Ressource institutionnelle de contexte pour « Cinéma expérimental » ; à compléter par des catalogues et études spécialisées consacrés à Dziga Vertov."
+        "url": "https://www.bfi.org.uk/film/cacbb2df-be18-5e59-b5c3-f0eb9ea3a90d/man-with-a-movie-camera",
+        "note": "BFI : analyse de L’Homme à la caméra et de ses innovations formelles."
+      },
+      {
+        "url": "https://cinema.ucla.edu/series/kino-eye-the-revolutionary-cinema-of-dziga-vertov/",
+        "note": "UCLA Film & Television Archive : rétrospective et parcours du cinéaste."
       }
     ],
     "bibliography": [
-      "Annette Michelson (dir.), Kino-Eye: The Writings of Dziga Vertov, University of California Press, 1984.",
+      "Dziga Vertov, Kino-Eye: The Writings of Dziga Vertov, éd. Annette Michelson, University of California Press, 1984.",
       "Vlada Petrić, Constructivism in Film: The Man with the Movie Camera, Cambridge University Press, 1987.",
       "John MacKay, Dziga Vertov: Life and Work, Academic Studies Press, 2018."
     ],
     "related": [
-      "nikolai_foregger",
-      "arseni_avraamov",
-      "alexander_mossolov"
+      "jean-luc-godard",
+      "richter"
     ]
   },
   {
@@ -16523,8 +16534,8 @@
     "group": "Littérature moderne",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "📖",
+    "role_label": "Littérature",
     "bio": "Knut Hamsun (1859–1952), romancier norvégien, compte parmi les précurseurs du modernisme psychologique. Après une jeunesse pauvre et plusieurs séjours aux États-Unis, il publie La Faim (1890), récit à la première personne qui suit les perceptions instables et les dérèglements d’un écrivain affamé dans Christiania. Le roman rompt avec le réalisme social dominant en privilégiant les mouvements discontinus de la conscience. Mystères, Pan et Victoria approfondissent cette exploration de l’intériorité, de la solitude et du rapport à la nature. L’Éveil de la glèbe, qui lui vaut le prix Nobel en 1920, marque un tournant vers une célébration de la paysannerie. Son héritage littéraire est cependant inséparable de son soutien public à l’Allemagne nazie et à l’occupation de la Norvège ; condamné après-guerre, il demeure une figure majeure mais profondément compromise de la littérature européenne.",
     "works": [
       "La Faim (1890)",
@@ -16554,11 +16565,6 @@
         "url": "https://www.nobelprize.org/prizes/literature/1920/summary/",
         "note": "Fondation Nobel : prix 1920 et contexte de l’œuvre."
       }
-    ],
-    "related": [
-      "thomas-mann",
-      "alfred-doblin",
-      "virginia-woolf"
     ]
   },
   {
@@ -16568,8 +16574,8 @@
     "group": "Littérature moderne",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "📖",
+    "role_label": "Littérature",
     "bio": "Thomas Mann (1875–1955), romancier et essayiste allemand, observe la bourgeoisie européenne à travers ses crises et son rapport ambigu à l’art. Les Buddenbrook (1901), fresque du déclin d’une famille de négociants, installe la tension entre vitalité sociale et sensibilité artistique. Tonio Kröger, La Mort à Venise et La Montagne magique interrogent l’opposition entre vie et esprit, désir et discipline, maladie et culture. L’ironie narrative et la construction symbolique de ses romans en font l’un des grands héritiers du réalisme européen, mais aussi un observateur aigu de la modernité. D’abord nationaliste en 1914, Mann évolue vers la défense de la démocratie et combat le nazisme depuis l’exil à partir de 1933. Naturalisé américain, il poursuit une œuvre marquée par l’histoire du siècle, notamment avec Le Docteur Faustus. Il reçoit le prix Nobel de littérature en 1929.",
     "works": [
       "Les Buddenbrook (1901)",
@@ -16598,11 +16604,6 @@
         "url": "https://www.larousse.fr/encyclopedie/litterature/Thomas_Mann/175126",
         "note": "Larousse : thèmes, œuvres et évolution intellectuelle."
       }
-    ],
-    "related": [
-      "knut-hamsun",
-      "alfred-doblin",
-      "hermann-hesse"
     ]
   },
   {
@@ -16612,8 +16613,8 @@
     "group": "Littérature contemporaine",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "📖",
+    "role_label": "Littérature",
     "bio": "Albert Cossery (1913–2008), écrivain égyptien d’expression française, naît au Caire et s’installe à Paris en 1945, où il mène jusqu’à sa mort une existence volontairement discrète. Ses romans se déroulent le plus souvent dans une Égypte populaire, peuplée de mendiants, de marginaux, de rêveurs et de contestataires. Une ironie sèche et une langue dépouillée lui permettent de tourner en dérision le pouvoir, la richesse, le travail comme obligation morale et les ambitions de réussite. L’oisiveté devient chez lui une forme de liberté et une manière de résister aux injonctions sociales. Mendiants et orgueilleux, Les Fainéants dans la vallée fertile et La Violence et la dérision donnent à cette œuvre brève une portée politique singulière, sans la réduire au pamphlet. Son amitié avec Henry Miller et son regard d’exilé nourrissent une littérature à la fois caustique et humaniste.",
     "works": [
       "Les Hommes oubliés de Dieu (1941)",
@@ -16655,8 +16656,8 @@
     "group": "Expressionnisme figuratif",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "🎨",
+    "role_label": "Peinture",
     "bio": "Francis Bacon (1909–1992), peintre né à Dublin et actif principalement à Londres, développe une figuration violente et instable, à rebours de l’abstraction dominante de l’après-guerre. Autodidacte, d’abord designer, il détruit une grande partie de ses premières toiles avant que Three Studies for Figures at the Base of a Crucifixion (1944) ne le fasse connaître. Ses figures isolées, enfermées dans des cages perspectivistes ou déformées par le mouvement, évoquent la vulnérabilité du corps, la solitude et la brutalité de l’existence. Il puise dans la photographie, le cinéma, les maîtres anciens et les images de presse, notamment les portraits du pape Innocent X de Velázquez, qu’il transforme en visions convulsives. Ses séries de portraits et ses triptyques mettent en tension présence physique, accident pictural et sensation. Bacon reste une figure indépendante, difficile à rattacher à une école, mais centrale dans la peinture européenne du XXe siècle.",
     "works": [
       "Three Studies for Figures at the Base of a Crucifixion (1944)",
@@ -16680,9 +16681,6 @@
         "url": "https://www.moma.org/artists/272-francis-bacon",
         "note": "MoMA : œuvres et expositions."
       }
-    ],
-    "related": [
-      "mark-rothko"
     ]
   },
   {
@@ -16692,8 +16690,8 @@
     "group": "Expressionnisme abstrait",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "🎨",
+    "role_label": "Peinture",
     "bio": "Mark Rothko (1903–1970), né Markus Rothkowitz dans l’Empire russe et émigré aux États-Unis en 1913, est une figure majeure de l’expressionnisme abstrait et de la Color Field painting. Après des débuts figuratifs et des recherches nourries par le surréalisme, il abandonne progressivement la représentation pour développer, à partir de la fin des années 1940, de vastes champs colorés traversés de rectangles aux contours vibrants. Ces surfaces ne visent pas une simple harmonie décorative : Rothko entend susciter une expérience émotionnelle et presque physique, liée à la tragédie, à l’extase et à la condition humaine. Il travaille souvent à grande échelle, dans des formats qui enveloppent le regardeur. Les peintures destinées à la chapelle de Houston, conçues dans les dernières années de sa vie, radicalisent cette recherche méditative. Sa trajectoire croise celle de Barnett Newman et Clyfford Still, mais son rapport à la couleur et à l’espace conserve une intensité singulière.",
     "works": [
       "Slow Swirl at the Edge of the Sea (1944)",
@@ -16717,9 +16715,6 @@
         "url": "https://www.nga.gov/artists/1839-mark-rothko",
         "note": "National Gallery of Art : parcours et expositions."
       }
-    ],
-    "related": [
-      "francis-bacon"
     ]
   },
   {
@@ -16729,8 +16724,8 @@
     "group": "École de Francfort",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "📚",
+    "role_label": "Philosophie et critique",
     "bio": "Theodor W. Adorno (1903–1969), philosophe, sociologue, musicologue et critique allemand, est l’un des principaux représentants de la première génération de l’École de Francfort. Formé à la philosophie et à la composition musicale, notamment auprès d’Alban Berg, il développe une pensée interdisciplinaire où esthétique, théorie sociale et critique de la rationalité se répondent. Contraint à l’exil par le nazisme en raison de ses origines juives et de ses positions intellectuelles, il séjourne à Oxford puis aux États-Unis, où il travaille avec Max Horkheimer. La Dialectique de la raison analyse la manière dont la rationalité des Lumières peut se retourner en domination ; Minima Moralia rassemble des réflexions fragmentaires sur la vie mutilée dans la société moderne. Adorno critique l’industrie culturelle, la standardisation des loisirs et les compromis de l’art avec le marché, tout en défendant la force négative des œuvres modernistes. De retour à Francfort en 1949, il devient une figure centrale de la théorie critique.",
     "works": [
       "Kierkegaard: Konstruktion des Ästhetischen (1933)",
@@ -16759,8 +16754,7 @@
         "url": "https://iep.utm.edu/adorno/",
         "note": "Internet Encyclopedia of Philosophy : philosophie sociale et esthétique."
       }
-    ],
-    "related": []
+    ]
   },
   {
     "id": "vladimir-jankelevitch",
@@ -16769,8 +16763,8 @@
     "group": "Philosophie morale",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "📚",
+    "role_label": "Philosophie et musique",
     "bio": "Vladimir Jankélévitch (1903–1985), philosophe et musicologue français, enseigne notamment à Lille puis à la Sorbonne, où il occupe la chaire de philosophie morale. Héritier critique de Bergson, il élabore une pensée du temps, de l’irréversible, de la mort et de l’instant, attentive à ce qui échappe aux concepts : le je-ne-sais-quoi, le presque-rien, l’ineffable. Son écriture, vive et sinueuse, mêle précision philosophique, images et paradoxes. La musique occupe une place essentielle dans son œuvre, avec des études consacrées à Fauré, Debussy et Ravel, mais aussi une réflexion sur l’expérience morale et la fragilité du vivant. Radié de l’Université par le régime de Vichy en raison de ses origines juives, il rejoint la Résistance et retrouve son poste après la Libération. Après la guerre, il prend une position publique majeure contre l’oubli des crimes nazis et défend l’imprescriptibilité des crimes contre l’humanité.",
     "works": [
       "Henri Bergson (1931)",
@@ -16799,8 +16793,7 @@
         "url": "https://irhis-recherche.univ-lille.fr/IRHiS_New/00-SiteUniversite/htdocs/jankelevitch-vladimir.html",
         "note": "Université de Lille : biographie universitaire et engagement dans la Résistance."
       }
-    ],
-    "related": []
+    ]
   },
   {
     "id": "francis-wolff",
@@ -16809,8 +16802,8 @@
     "group": "Philosophie",
     "groups": [],
     "kind": "person",
-    "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_icon": "📚",
+    "role_label": "Philosophie",
     "bio": "Francis Wolff (né en 1950), philosophe français et professeur émérite à l’École normale supérieure, travaille principalement sur la philosophie antique, la logique, le langage et la question de l’humain. Spécialiste d’Aristote et de Socrate, il interroge les conditions de la pensée rationnelle et les catégories par lesquelles les sociétés définissent le vivant, l’animal et la personne. Son approche conjugue histoire de la philosophie et intervention dans les débats contemporains : qu’est-ce qu’un être humain, comment penser l’animal, que signifie parler d’un monde commun ? Il a enseigné en France et au Brésil, dirigé le département de philosophie de l’ENS et animé le séminaire « Les lundis de la philosophie ». Son travail, éloigné des écoles d’avant-garde artistique, trouve sa place dans l’Atlas comme repère de la pensée contemporaine et contrepoint conceptuel aux expérimentations qui interrogent langage et humanité.",
     "works": [
       "Socrate (1985)",
@@ -16834,9 +16827,6 @@
         "url": "https://www.franciswolff.fr/oeuvre-et-parcours/",
         "note": "Site de Francis Wolff : parcours universitaire et bibliographie."
       }
-    ],
-    "related": [
-      "vladimir-jankelevitch"
     ]
   },
   {
@@ -16875,8 +16865,7 @@
     "related": [
       "richter",
       "dziga_vertov",
-      "maya-deren",
-      "luis-bunuel"
+      "maya-deren"
     ]
   },
   {
@@ -16887,7 +16876,7 @@
     "groups": [],
     "kind": "person",
     "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_label": "Cinéma",
     "bio": "Luis Buñuel (1900–1983), cinéaste espagnol, est une figure majeure du surréalisme et l’un des inventeurs du cinéma moderne. Formé à Madrid au contact de la Residencia de Estudiantes, où il se lie avec Federico García Lorca et Salvador Dalí, il rejoint Paris à la fin des années 1920. Un chien andalou (1929), coréalisé avec Dalí, attaque la logique narrative et l’image rassurante par des associations de rêves, de désir et de violence. L’Âge d’or (1930) provoque un scandale et affirme une critique radicale de la bourgeoisie, de l’Église et des conventions sociales. Après l’exil, Buñuel travaille au Mexique, où il réalise une œuvre à la fois populaire, corrosive et formellement libre, avant de revenir en Europe avec Viridiana, Le Charme discret de la bourgeoisie et Cet obscur objet du désir. Son cinéma mêle réalisme cru, inconscient, humour noir et critique des institutions.",
     "works": [
       "Un chien andalou (1929, avec Salvador Dalí)",
@@ -17051,7 +17040,7 @@
     "groups": [],
     "kind": "person",
     "role_icon": "🎬",
-    "role_label": "Cinéma",
+    "role_label": "Cinéma et arts multimédias",
     "bio": "Chris Marker (1921–2012), cinéaste, écrivain, photographe et artiste multimédia français, invente une forme de film-essai où mémoire personnelle, histoire politique et réflexion sur les images s’entrelacent. Après des débuts dans l’édition et le journalisme, il réalise des documentaires de voyage qui déplacent les codes du reportage par le commentaire subjectif et le montage poétique. Lettre de Sibérie (1957) révèle sa manière de faire varier le sens d’une même séquence par la voix off. La Jetée (1962), construite presque entièrement à partir de photographies fixes, transforme le récit de science-fiction en méditation sur le temps et la mémoire. Le Fond de l’air est rouge, Sans Soleil et Level Five poursuivent cette enquête sur les traces, les révolutions et les technologies. Marker travaille aussi avec des collectifs, notamment SLON et les Groupes Medvedkine, et explore plus tard la vidéo et le CD-ROM interactif Immemory.",
     "works": [
       "Les Statues meurent aussi (1953, avec Alain Resnais)",
@@ -17085,9 +17074,7 @@
       }
     ],
     "related": [
-      "jean-luc-godard",
-      "dziga_vertov",
-      "germaine-dulac"
+      "jean-luc-godard"
     ]
   },
   {
@@ -17098,7 +17085,7 @@
     "groups": [],
     "kind": "person",
     "role_icon": "🎬",
-    "role_label": "Cinéma",
+    "role_label": "Cinéma d’animation",
     "bio": "Norman McLaren (1914–1987), cinéaste et animateur écossais installé au Canada, renouvelle le cinéma d’animation par ses expérimentations sur la pellicule, le mouvement et le son. Formé à la Glasgow School of Art, il rejoint en 1941 l’Office national du film du Canada, où il fonde et anime un atelier devenu un laboratoire majeur. Il dessine directement sur la pellicule, grave l’émulsion, réalise des animations sans caméra et compose parfois la bande sonore en traçant des formes sur la piste optique. Begone Dull Care, Blinkity Blank et Neighbours témoignent de ses inventions, entre abstraction musicale, montage discontinu et pixillation. Son œuvre associe recherche formelle et accessibilité, sans opposer expérimentation et plaisir du spectateur. Il reçoit un Oscar pour Neighbours et la Palme d’or du court métrage à Cannes pour Blinkity Blank.",
     "works": [
       "Love on the Wing (1938)",
@@ -17139,7 +17126,7 @@
     "groups": [],
     "kind": "person",
     "role_icon": "🎬",
-    "role_label": "Littérature / arts / philosophie",
+    "role_label": "Cinéma",
     "bio": "Jean-Luc Godard (1930–2022), cinéaste, scénariste et critique franco-suisse, transforme le langage du cinéma avec la Nouvelle Vague avant de remettre sans cesse en cause ses propres formes. Critique aux Cahiers du cinéma, il passe à la réalisation avec À bout de souffle (1960), dont les coupes franches, la caméra mobile et le jeu avec les genres rompent avec les conventions du cinéma de studio. Vivre sa vie, Le Mépris, Pierrot le fou et Week-end prolongent cette recherche par le collage, la citation, la discontinuité narrative et la réflexion sur les images. Après Mai 1968, il travaille avec Jean-Pierre Gorin au sein du Groupe Dziga Vertov, dans une pratique collective et militante qui interroge les rapports entre cinéma, idéologie et production. À partir des années 1980, ses films deviennent de plus en plus essayistiques, jusqu’à la série Histoire(s) du cinéma, montage monumental d’images, de sons et de textes. Godard fait du cinéma un outil critique qui pense autant qu’il montre.",
     "works": [
       "À bout de souffle (1960)",
@@ -17169,10 +17156,7 @@
       }
     ],
     "related": [
-      "chris-marker",
-      "dziga_vertov",
-      "germaine-dulac",
-      "richter"
+      "dziga_vertov"
     ]
   }
 ]
