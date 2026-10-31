@@ -1036,5 +1036,579 @@
         "url": "https://www.britannica.com/"
       }
     ]
+  },
+  {
+    "id": "f-walter-ruttmann-viking-eggeling",
+    "type": "courant_commun",
+    "subject": "walter-ruttmann",
+    "object": "viking-eggeling",
+    "label": "Deux pionniers du cinéma abstrait allemand, qui organisent le mouvement filmique comme une composition plastique et rythmique.",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.cinematheque.fr/catalogues/restaurations-tirages/corpus.php?id=6"
+      }
+    ]
+  },
+  {
+    "id": "f-walter-ruttmann-oskar-fischinger",
+    "type": "influence",
+    "subject": "walter-ruttmann",
+    "object": "oskar-fischinger",
+    "label": "Le cinéma abstrait de Ruttmann constitue un précédent majeur pour les recherches de Fischinger sur le rythme visuel.",
+    "date": "années 1920–1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.cinematheque.fr/catalogues/restaurations-tirages/corpus.php?id=6"
+      }
+    ]
+  },
+  {
+    "id": "f-oskar-fischinger-len-lye",
+    "type": "courant_commun",
+    "subject": "oskar-fischinger",
+    "object": "len-lye",
+    "label": "Deux voies majeures de l'animation expérimentale, l'une fondée sur la musicalité abstraite, l'autre sur le travail direct de la pellicule.",
+    "date": "années 1930–1950",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://lightcone.org/fr/a-propos-de-light-cone"
+      }
+    ]
+  },
+  {
+    "id": "f-germaine-dulac-jean-epstein",
+    "type": "courant_commun",
+    "subject": "germaine-dulac",
+    "object": "jean-epstein",
+    "label": "Deux cinéastes et théoriciens de l'avant-garde française qui interrogent la photogénie, le rythme et les puissances propres de l'image.",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.larousse.fr/archives/cinema/page/521"
+      }
+    ]
+  },
+  {
+    "id": "f-jean-epstein-henri-chomette",
+    "type": "courant_commun",
+    "subject": "jean-epstein",
+    "object": "henri-chomette",
+    "label": "Leurs recherches participent à l'exploration française du cinéma pur, de la photogénie et des possibilités plastiques du mouvement.",
+    "date": "années 1920",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.larousse.fr/archives/cinema/page/521"
+      }
+    ]
+  },
+  {
+    "id": "f-henri-storck-joris-ivens",
+    "type": "collaboration",
+    "subject": "henri-storck",
+    "object": "joris-ivens",
+    "label": "Ils réalisent ensemble Misère au Borinage, film majeur du documentaire social et militant.",
+    "date": "1933",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.cineclubdecaen.com/analyse/cinemaexperimental.htm"
+      }
+    ]
+  },
+  {
+    "id": "f-maya-deren-stan-brakhage",
+    "type": "influence",
+    "subject": "maya-deren",
+    "object": "stan-brakhage",
+    "label": "Deren contribue à légitimer un cinéma indépendant, personnel et expérimental dont Brakhage devient l'un des grands renouvelateurs.",
+    "date": "années 1940–1950",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://lightcone.org/fr/a-propos-de-light-cone"
+      }
+    ]
+  },
+  {
+    "id": "f-maya-deren-jonas-mekas",
+    "type": "courant_commun",
+    "subject": "maya-deren",
+    "object": "jonas-mekas",
+    "label": "Ils participent à la constitution d'une culture américaine du cinéma indépendant, des réseaux de projection et de la défense du film d'artiste.",
+    "date": "années 1940–1960",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://lightcone.org/fr/a-propos-de-light-cone"
+      }
+    ]
+  },
+  {
+    "id": "f-peter-kubelka-jonas-mekas",
+    "type": "fondation",
+    "subject": "peter-kubelka",
+    "object": "jonas-mekas",
+    "label": "Ils cofondent l'Anthology Film Archives, institution essentielle à la conservation et à la diffusion du cinéma d'avant-garde.",
+    "date": "1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-michael-snow-hollis-frampton",
+    "type": "courant_commun",
+    "subject": "michael-snow",
+    "object": "hollis-frampton",
+    "label": "Deux figures majeures du cinéma structurel nord-américain, qui font du dispositif, de la durée et de la perception leur matériau.",
+    "date": "années 1960–1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-michael-snow-paul-sharits",
+    "type": "courant_commun",
+    "subject": "michael-snow",
+    "object": "paul-sharits",
+    "label": "Leurs films participent au renouvellement structurel du cinéma expérimental et à l'analyse des conditions matérielles de l'image.",
+    "date": "années 1960–1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-eadweard-muybridge-etienne-jules-marey",
+    "type": "courant_commun",
+    "subject": "eadweard-muybridge",
+    "object": "etienne-jules-marey",
+    "label": "Leurs recherches photographiques décomposent le mouvement et contribuent aux fondements scientifiques et artistiques de l'image animée.",
+    "date": "années 1870–1890",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.cinematheque.fr/catalogues/restaurations-tirages/corpus.php?id=6"
+      }
+    ]
+  },
+  {
+    "id": "f-alfred-stieglitz-berenice-abbott",
+    "type": "transmission",
+    "subject": "alfred-stieglitz",
+    "object": "berenice-abbott",
+    "label": "Abbott travaille comme assistante de Man Ray à Paris puis participe à la transmission de la photographie moderne américaine, dans un milieu marqué par les réseaux de Stieglitz.",
+    "date": "années 1920–1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.moma.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-florence-henri-laszlo-moholy-nagy",
+    "type": "influence",
+    "subject": "florence-henri",
+    "object": "laszlo-moholy-nagy",
+    "label": "La Nouvelle Vision et les expérimentations du Bauhaus nourrissent la photographie construite de Florence Henri.",
+    "date": "années 1920",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.moma.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-sergei-eisenstein-lev-kuleshov",
+    "type": "courant_commun",
+    "subject": "sergei-eisenstein",
+    "object": "lev-kuleshov",
+    "label": "Ils contribuent à l'élaboration des théories soviétiques du montage, selon des conceptions différentes du conflit et de la construction des plans.",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.cineclubdecaen.com/analyse/cinemaexperimental.htm"
+      }
+    ]
+  },
+  {
+    "id": "f-esfir-shub-sergei-eisenstein",
+    "type": "courant_commun",
+    "subject": "esfir-shub",
+    "object": "sergei-eisenstein",
+    "label": "Leurs pratiques de montage soviétique explorent la construction politique du sens, l'une par le film d'archives, l'autre par le montage dramatique.",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.cineclubdecaen.com/analyse/cinemaexperimental.htm"
+      }
+    ]
+  },
+  {
+    "id": "f-joseph-cornell-bruce-conner",
+    "type": "influence",
+    "subject": "joseph-cornell",
+    "object": "bruce-conner",
+    "label": "Le travail de found footage et de montage poétique de Cornell constitue un précédent important pour les films de collage de Conner.",
+    "date": "1930s–1950s",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-guy-debord-gil-j-wolman",
+    "type": "collaboration",
+    "subject": "guy-debord",
+    "object": "gil-j-wolman",
+    "label": "Wolman participe à l'Internationale lettriste aux côtés de Debord avant les recompositions qui conduisent au situationnisme.",
+    "date": "années 1950",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-isidore-isou-maurice-lemaitre",
+    "type": "collaboration",
+    "subject": "isidore-isou",
+    "object": "maurice-lemaitre",
+    "label": "Lemaître est l'un des principaux continuateurs du lettrisme et de ses expérimentations sur la projection, le son et la pellicule.",
+    "date": "années 1950",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://lightcone.org/fr/a-propos-de-light-cone"
+      }
+    ]
+  },
+  {
+    "id": "f-pierre-schaeffer-pierre-henry",
+    "type": "collaboration",
+    "subject": "pierre-schaeffer",
+    "object": "pierre-henry",
+    "label": "Ils composent ensemble la Symphonie pour un homme seul, œuvre fondatrice de la musique concrète.",
+    "date": "1950",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-pierre-schaeffer-bernard-parmegiani",
+    "type": "collaboration",
+    "subject": "pierre-schaeffer",
+    "object": "bernard-parmegiani",
+    "label": "Parmegiani rejoint le Groupe de recherches musicales et participe au développement de la musique électroacoustique française.",
+    "date": "à partir de 1959",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-pierre-schaeffer-francois-bayle",
+    "type": "collaboration",
+    "subject": "pierre-schaeffer",
+    "object": "francois-bayle",
+    "label": "Bayle rejoint le GRM et devient l'une des figures majeures de la musique acousmatique développée dans le sillage des recherches de Schaeffer.",
+    "date": "à partir de 1960",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-pierre-schaeffer-michel-chion",
+    "type": "collaboration",
+    "subject": "pierre-schaeffer",
+    "object": "michel-chion",
+    "label": "Chion travaille au GRM et prolonge les recherches sur l'écoute, les objets sonores et les relations entre son et image.",
+    "date": "années 1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-pierre-schaeffer-robert-cahen",
+    "type": "influence",
+    "subject": "pierre-schaeffer",
+    "object": "robert-cahen",
+    "label": "Formé à la musique concrète auprès de Schaeffer, Cahen transpose des procédés électroacoustiques dans ses recherches vidéo.",
+    "date": "années 1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-alvin-lucier-pauline-oliveros",
+    "type": "courant_commun",
+    "subject": "alvin-lucier",
+    "object": "pauline-oliveros",
+    "label": "Ils participent aux scènes américaines de musique expérimentale, d'écoute et de recherche sur les propriétés physiques du son.",
+    "date": "années 1960–1970",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-r-murray-schafer-hildegard-westerkamp",
+    "type": "collaboration",
+    "subject": "r-murray-schafer",
+    "object": "hildegard-westerkamp",
+    "label": "Westerkamp participe au World Soundscape Project fondé par Schafer et développe une pratique de composition attentive aux paysages sonores.",
+    "date": "années 1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.sfu.ca/"
+      }
+    ]
+  },
+  {
+    "id": "f-annea-lockwood-hildegard-westerkamp",
+    "type": "courant_commun",
+    "subject": "annea-lockwood",
+    "object": "hildegard-westerkamp",
+    "label": "Leurs œuvres explorent l'écoute des environnements, les enregistrements de terrain et les relations entre son et écologie.",
+    "date": "années 1970–1990",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-bruno-maderna-luciano-berio",
+    "type": "fondation",
+    "subject": "bruno-maderna",
+    "object": "luciano-berio",
+    "label": "Ils fondent ensemble le Studio di fonologia musicale de la RAI à Milan, laboratoire majeur de musique électronique d'après-guerre.",
+    "date": "1955",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.rai.it/"
+      }
+    ]
+  },
+  {
+    "id": "f-iannis-xenakis-pierre-schaeffer",
+    "type": "courant_commun",
+    "subject": "iannis-xenakis",
+    "object": "pierre-schaeffer",
+    "label": "Deux voies majeures de la recherche sonore d'après-guerre, entre composition électroacoustique, mathématiques, espace et écoute.",
+    "date": "années 1950–1970",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-tony-conrad-la-monte-young",
+    "type": "collaboration",
+    "subject": "tony-conrad",
+    "object": "la-monte-young",
+    "label": "Conrad participe au Theatre of Eternal Music et aux recherches fondatrices du drone et du minimalisme new-yorkais.",
+    "date": "années 1960",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.moma.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-carolee-schneemann-yvonne-rainer",
+    "type": "courant_commun",
+    "subject": "carolee-schneemann",
+    "object": "yvonne-rainer",
+    "label": "Leurs pratiques interrogent le corps, la performance, le regard et les conventions de représentation dans les avant-gardes américaines des années 1960–1970.",
+    "date": "années 1960–1970",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-steina-woody-vasulka",
+    "type": "collaboration",
+    "subject": "steina",
+    "object": "woody-vasulka",
+    "label": "Le couple d'artistes fonde un laboratoire et un lieu de diffusion essentiels à l'art vidéo, et mène des recherches conjointes sur l'image électronique.",
+    "date": "années 1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://vasulka.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-robert-cahen-pierre-schaeffer",
+    "type": "transmission",
+    "subject": "robert-cahen",
+    "object": "pierre-schaeffer",
+    "label": "Cahen se forme à la musique concrète auprès de Schaeffer avant de développer un travail vidéo nourri par le traitement du son et du temps.",
+    "date": "années 1970",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ina.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-patrick-bokanowski-germaine-dulac",
+    "type": "courant_commun",
+    "subject": "patrick-bokanowski",
+    "object": "germaine-dulac",
+    "label": "Leur cinéma explore, à des périodes différentes, les transformations optiques et plastiques de l'image en marge du récit conventionnel.",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://lightcone.org/fr/a-propos-de-light-cone"
+      }
+    ]
+  },
+  {
+    "id": "f-ludwig-hirschfeld-mack-oskar-schlemmer",
+    "type": "courant_commun",
+    "subject": "ludwig-hirschfeld-mack",
+    "object": "oskar-schlemmer",
+    "label": "Leurs recherches au Bauhaus associent lumière, mouvement, géométrie et scène dans une conception élargie de l'œuvre d'art.",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bauhaus.de/"
+      }
+    ]
+  },
+  {
+    "id": "f-kurt-schwerdtfeger-ludwig-hirschfeld-mack",
+    "type": "courant_commun",
+    "subject": "kurt-schwerdtfeger",
+    "object": "ludwig-hirschfeld-mack",
+    "label": "Leurs dispositifs de projection lumineuse comptent parmi les expériences du Bauhaus qui anticipent l'art cinétique et le cinéma élargi.",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bauhaus.de/"
+      }
+    ]
+  },
+  {
+    "id": "f-laszlo-moholy-nagy-walter-gropius",
+    "type": "collaboration",
+    "subject": "laszlo-moholy-nagy",
+    "object": "walter-gropius",
+    "label": "Moholy-Nagy enseigne au Bauhaus sous la direction de Gropius et développe un programme transversal autour de la photographie, du design et des techniques modernes.",
+    "date": "1923–1928",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bauhaus.de/"
+      }
+    ]
+  },
+  {
+    "id": "f-norman-mclaren-len-lye",
+    "type": "courant_commun",
+    "subject": "norman-mclaren",
+    "object": "len-lye",
+    "label": "Ils renouvellent l'animation expérimentale par le travail direct sur la pellicule, le rythme et les relations entre son et image.",
+    "date": "années 1930–1950",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://lightcone.org/fr/a-propos-de-light-cone"
+      }
+    ]
+  },
+  {
+    "id": "f-arthur-lipsett-bruce-conner",
+    "type": "courant_commun",
+    "subject": "arthur-lipsett",
+    "object": "bruce-conner",
+    "label": "Leurs films de montage et de found footage recomposent les images médiatiques en collages critiques et rythmiques.",
+    "date": "années 1950–1960",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.nfb.ca/"
+      }
+    ]
+  },
+  {
+    "id": "f-harun-farocki-guy-debord",
+    "type": "courant_commun",
+    "subject": "harun-farocki",
+    "object": "guy-debord",
+    "label": "Leurs films interrogent la production sociale des images, la représentation du pouvoir et les mécanismes du spectacle, selon des méthodes distinctes.",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
+  },
+  {
+    "id": "f-peter-greenaway-chris-marker",
+    "type": "courant_commun",
+    "subject": "peter-greenaway",
+    "object": "chris-marker",
+    "label": "Leurs œuvres brouillent les frontières entre cinéma, essai, archives, dispositifs visuels et formes d'exposition.",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/collection/films-et-nouveaux-medias"
+      }
+    ]
   }
 ]
