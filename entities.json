@@ -6801,51 +6801,118 @@
     "name": "Jean-Pierre Brisset",
     "years": "1837–1919",
     "group": "Précurseurs / outsiders",
-    "bio": "Écrivain et penseur autodidacte devenu une figure culte pour les avant-gardes en raison de ses théories linguistiques singulières.",
+    "bio": "Jean-Pierre Brisset (1837–1919), écrivain autodidacte et inventeur français, exerce plusieurs métiers avant de consacrer ses livres à une théorie singulière des origines du langage. Dans La Grammaire logique et La Science de Dieu, il rapproche mots, sons et expressions populaires par des jeux d’homophonie qu’il traite comme des preuves de l’histoire humaine. Sa méthode, absurde en apparence mais rigoureusement déployée, fait de lui un précurseur de la poésie expérimentale et de la pataphysique. Célébré par André Breton dans l’Anthologie de l’humour noir, il reste une figure isolée plutôt qu’un membre d’un mouvement constitué.",
     "works": [
-      "La Grande Nouvelle",
-      "Les Origines humaines"
+      "La Natation ou l’art de nager (1870)",
+      "La Grammaire logique (1878)",
+      "La Science de Dieu ou la création de l’homme (1900)",
+      "Les Origines humaines (1913)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "La Natation ou l’art de nager, 1870.",
+      "La Grammaire logique, 1878.",
+      "La Science de Dieu ou la création de l’homme, 1900.",
+      "Les Origines humaines, 1913.",
+      "André Breton, Anthologie de l’humour noir, 1940."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb124678306.public",
+        "note": "BnF : notice d’autorité, repères biographiques et publications."
+      }
+    ],
+    "related": [
+      "andre-breton"
+    ]
   },
   {
     "id": "isidore-isou",
     "name": "Isidore Isou",
     "years": "1925–2007",
     "group": "Lettrisme",
-    "bio": "Artiste et théoricien d'origine roumaine, fondateur du lettrisme et promoteur d'une avant-garde radicale du signe et du son.",
+    "bio": "Isidore Isou (1925–2007), né en Roumanie sous le nom d’Isidore Goldstein, arrive à Paris en 1945 et fonde le lettrisme avec Gabriel Pomerand. Il fait de la lettre, du son et du signe les unités premières de la création, au-delà du mot et de la représentation traditionnelle. Introduction à une nouvelle poésie et à une nouvelle musique (1947) expose un programme qui s’étend à la peinture, au cinéma, au théâtre et à l’économie politique. Avec Traité de bave et d’éternité, il transforme le cinéma en terrain de montage discontinu et de désynchronisation. Son mouvement entend dépasser le surréalisme et influence brièvement le jeune Guy Debord. Isou développe ensuite l’hypergraphie, l’art infinitésimal et la créatique, utopie de transformation générale des pratiques artistiques.",
     "works": [
-      "Introduction à une nouvelle poésie et à une nouvelle musique"
+      "Introduction à une nouvelle poésie et à une nouvelle musique (1947)",
+      "Les Journaux des dieux (1950)",
+      "Traité de bave et d’éternité (film, 1951)",
+      "Essai sur le roman (1950)",
+      "Initiation à la haute volupté (1960)",
+      "La Créatique ou la Novatique (2003)"
     ],
     "sources": [
       {
-        "url": "https://brahms.ircam.fr/fr/isidore-isou",
-        "note": "Ressources biographiques de l'IRCAM."
+        "url": "https://ressources.ircam.fr/fr/composer/isidore-isou/biography",
+        "note": "IRCAM : biographie, histoire du lettrisme et bibliographie sélective."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/de-la-lettre-a-limage/isidore-isou",
+        "note": "Centre Pompidou : œuvres plastiques et chronologie."
       }
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Introduction à une nouvelle poésie et à une nouvelle musique, Gallimard, 1947.",
+      "Les Journaux des dieux, 1950.",
+      "Essai sur le roman, 1950.",
+      "Initiation à la haute volupté, 1960.",
+      "La Créatique ou la Novatique (1941–1976), Al Dante, 2003."
+    ],
+    "related": [
+      "guy-debord",
+      "gabriel-pomerand",
+      "maurice-lemaitre"
+    ]
   },
   {
     "id": "guy-debord",
     "name": "Guy Debord",
     "years": "1931–1994",
     "group": "Situationnisme",
-    "bio": "Théoricien et cinéaste, figure centrale de l'Internationale situationniste et de la critique de la société du spectacle.",
+    "bio": "Guy Debord (1931–1994), écrivain, théoricien et cinéaste, passe du lettrisme à l’Internationale lettriste avant de fonder l’Internationale situationniste en 1957 avec des artistes et militants dont Asger Jorn. Il veut dépasser l’œuvre d’art autonome au profit de situations vécues capables de transformer les rapports sociaux et la vie quotidienne. La dérive, le détournement et la critique de l’urbanisme deviennent des outils de contestation. Dans La Société du spectacle (1967), il décrit une société où les rapports humains sont médiatisés par les représentations et la marchandise. Ses films refusent les conventions narratives et utilisent texte, silence, noir et images préexistantes comme instruments de critique. Son parcours reste marqué par la rupture et l’hostilité à la récupération institutionnelle.",
     "works": [
-      "La Société du spectacle",
-      "Mémoires"
+      "Hurlements en faveur de Sade (film, 1952)",
+      "Rapport sur la construction des situations (1957)",
+      "Mémoires (avec Asger Jorn, 1959)",
+      "La Société du spectacle (1967)",
+      "La Véritable Scission dans l’Internationale (1972)",
+      "In girum imus nocte et consumimur igni (film, 1978)",
+      "Commentaires sur la société du spectacle (1988)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "kind": "person",
     "groups": [
       "Lettrisme"
+    ],
+    "bibliography": [
+      "Rapport sur la construction des situations, 1957.",
+      "La Société du spectacle, Buchet-Chastel, 1967.",
+      "La Véritable Scission dans l’Internationale, Champ libre, 1972.",
+      "Commentaires sur la société du spectacle, Gérard Lebovici, 1988.",
+      "Œuvres, Gallimard, Quarto, 2006.",
+      "Correspondance, Fayard, 1999–2007."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11898959m",
+        "note": "BnF : notice d’autorité et filmographie liée."
+      },
+      {
+        "url": "https://www.fayard.fr/auteur/guy-debord/",
+        "note": "Fayard : présentation et bibliographie éditoriale."
+      }
+    ],
+    "related": [
+      "isidore-isou",
+      "asger-jorn",
+      "raoul-vaneigem"
     ]
   },
   {
@@ -6892,10 +6959,13 @@
     "name": "Georges Limbour",
     "years": "1900–1970",
     "group": "Surréalisme / dissidences",
-    "bio": "Poète, romancier et critique d'art, proche du Grand Jeu puis du surréalisme, également associé à la revue Documents.",
+    "bio": "Georges Limbour (1900–1970) est un poète, romancier et critique d’art français, proche du premier surréalisme sans s’y soumettre durablement. Ami de Michel Leiris et d’André Masson, il fréquente les écrivains de la revue Documents et participe aux réseaux du Grand Jeu. Son écriture associe humour, merveilleux, précision descriptive et attention aux arts plastiques. Dans ses récits, objets et paysages se chargent d’une étrangeté discrète plutôt que de suivre une logique narrative classique. Critique attentif, il contribue à faire dialoguer littérature et peinture. Son parcours illustre les circulations entre avant-gardes parisiennes, mais aussi la position indépendante de ceux qui traversent plusieurs réseaux sans devenir les porte-parole d’une école.",
     "works": [
-      "Soleil bas",
-      "La Pie voleuse"
+      "Soleil bas (1934)",
+      "Les Vanilliers (1938)",
+      "La Pie voleuse (1939)",
+      "L’Illustre Cheval blanc (1953)",
+      "Récits et écrits critiques sur les arts plastiques"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
@@ -6903,6 +6973,25 @@
     "groups": [
       "Documents",
       "Grand Jeu"
+    ],
+    "bibliography": [
+      "Soleil bas, 1934.",
+      "Les Vanilliers, 1938.",
+      "La Pie voleuse, 1939.",
+      "L’Illustre Cheval blanc, Gallimard, 1953.",
+      "Catalogue général de la BnF : éditions et études sur Georges Limbour."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Georges+Limbour",
+        "note": "BnF : catalogue des récits et écrits critiques de l’auteur."
+      }
+    ],
+    "related": [
+      "michel-leiris",
+      "andre-masson",
+      "rene-daumal",
+      "andre-breton"
     ]
   },
   {
@@ -6910,133 +6999,339 @@
     "name": "Pierre Albert-Birot",
     "years": "1876–1967",
     "group": "Avant-gardes / théâtre",
-    "bio": "Poète, dramaturge et éditeur, fondateur de la revue SIC et acteur important des avant-gardes autour de la Première Guerre mondiale.",
+    "bio": "Pierre Albert-Birot (1876–1967), poète, dramaturge, éditeur et artiste français, fonde en 1916 la revue SIC (Sons, Idées, Couleurs), foyer du modernisme parisien pendant la Première Guerre mondiale. Il y publie des écrivains et artistes comme Guillaume Apollinaire, Pierre Reverdy et Philippe Soupault, en accueillant des propositions cubistes, futuristes et dadaïstes. Son travail traverse poésie, théâtre, typographie, sculpture et expériences scéniques. Il invente Grabinoulor, héros d’une vaste aventure romanesque où la logique ordinaire est constamment déplacée. Proche des avant-gardes sans s’enfermer dans une école, il contribue à relier texte, image, mouvement et voix.",
     "works": [
-      "Les Amusements naturels",
-      "Grabinoulor"
+      "SIC (revue, 1916–1919)",
+      "Les Amusements naturels (1918)",
+      "Poèmes à l’autre moi (1927)",
+      "Grabinoulor (premiers épisodes en 1921, ensemble en 1933)",
+      "Les Mémoires d’Adam et Ève (théâtre)"
     ],
     "role_icon": "🎭",
     "role_label": "Théâtre",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Les Amusements naturels, 1918.",
+      "Poèmes à l’autre moi, 1927.",
+      "Grabinoulor, Denoël, 1933.",
+      "SIC, revue dirigée par Pierre Albert-Birot, 1916–1919.",
+      "Catalogue BnF : éditions et manuscrits de Pierre Albert-Birot."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Pierre+Albert-Birot",
+        "note": "BnF : éditions, revue SIC et bibliographie de l’auteur."
+      }
+    ],
+    "related": [
+      "guillaume-apollinaire",
+      "pierre-reverdy",
+      "philippe-soupault"
+    ]
   },
   {
     "id": "alfred-doblin",
     "name": "Alfred Döblin",
     "years": "1878–1957",
     "group": "Modernismes",
-    "bio": "Romancier allemand, figure de l'expressionnisme et du roman urbain moderne.",
+    "bio": "Alfred Döblin (1878–1957), médecin et écrivain allemand, est l’un des grands expérimentateurs du roman moderniste. Psychiatre à Berlin, il observe la métropole, ses rythmes, ses médias et ses conflits sociaux. Berlin Alexanderplatz (1929) renouvelle le récit urbain par le montage de voix, slogans, chansons et fragments documentaires, donnant à la ville une fonction presque organique. Döblin s’intéresse à l’expressionnisme, au cinéma et au reportage sans abandonner la construction romanesque. Juif et opposant au nazisme, il s’exile en 1933, passe par la France puis les États-Unis et revient en Europe après la guerre. Son œuvre associe innovation formelle, attention aux milieux populaires et interrogation sur la violence de l’histoire moderne.",
     "works": [
-      "Berlin Alexanderplatz"
+      "Die drei Sprünge des Wang-lun (1915)",
+      "Wadzeks Kampf mit der Dampfturbine (1918)",
+      "Wallstein (1920)",
+      "Berge, Meere und Giganten (1924)",
+      "Berlin Alexanderplatz (1929)",
+      "November 1918 (cycle, 1937–1943)",
+      "Hamlet oder Die lange Nacht nimmt ein Ende (1956)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Die drei Sprünge des Wang-lun, 1915.",
+      "Berlin Alexanderplatz, S. Fischer, 1929.",
+      "November 1918, cycle publié entre 1937 et 1943.",
+      "Hamlet oder Die lange Nacht nimmt ein Ende, 1956.",
+      "Études sur le modernisme allemand et l’écriture urbaine de Döblin."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Alfred-Doblin",
+        "note": "Encyclopaedia Britannica : biographie et importance de Berlin Alexanderplatz."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Alfred+D%C3%B6blin",
+        "note": "BnF : éditions françaises et traductions."
+      }
+    ],
+    "related": [
+      "james-joyce",
+      "virginia-woolf",
+      "ts-eliot"
+    ]
   },
   {
     "id": "robert-antelme",
     "name": "Robert Antelme",
     "years": "1917–1990",
     "group": "Littérature / témoignage",
-    "bio": "Écrivain français, auteur d'un témoignage majeur sur les camps nazis et proche de Marguerite Duras et Dionys Mascolo.",
+    "bio": "Robert Antelme (1917–1990), écrivain et résistant français, est connu principalement pour L’Espèce humaine, témoignage sur la déportation publié en 1947. Arrêté en 1944 pour ses activités dans la Résistance, il est déporté à Buchenwald puis à Gandersheim. Libéré en 1945, il met en forme une expérience qui résiste aux catégories ordinaires du récit : la faim, la violence et la déshumanisation y sont décrites sans renoncer à affirmer l’appartenance commune des victimes à l’humanité. Son livre marque profondément Marguerite Duras et les débats littéraires et philosophiques sur le témoignage. Son œuvre publiée est restreinte, mais sa rigueur d’écriture et sa portée éthique en font une référence majeure.",
     "works": [
-      "L'Espèce humaine"
+      "L’Espèce humaine (1947)",
+      "Textes et documents sur la Résistance et le témoignage"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "L’Espèce humaine, La Cité universelle, 1947 ; réédition Gallimard, collection Tel, 1978.",
+      "Sarah Kofman, Paroles suffoquées, Galilée, 1986.",
+      "Marguerite Duras, La Douleur, P.O.L, 1985, pour le contexte du retour des déportés.",
+      "Catalogue BnF : notice d’autorité et éditions liées à Robert Antelme."
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb118889284",
+        "note": "BnF : notice d’autorité, dates et œuvres liées."
+      }
+    ],
+    "related": [
+      "marguerite-duras",
+      "sarah-kofman"
+    ]
   },
   {
     "id": "henry-miller",
     "name": "Henry Miller",
     "years": "1891–1980",
     "group": "Littératures américaines",
-    "bio": "Romancier américain dont l'écriture autobiographique et transgressive a marqué la littérature du XXe siècle.",
+    "bio": "Henry Miller (1891–1980), romancier et essayiste américain, rompt avec les conventions narratives et morales dans une œuvre autobiographique, lyrique et provocatrice. Installé à Paris en 1930, il y écrit Tropique du Cancer, publié en 1934, qui mêle souvenirs, précarité matérielle, réflexion sur l’écriture et passages érotiques. Interdit aux États-Unis pendant plusieurs décennies, le livre devient un symbole des débats sur la censure. Tropique du Capricorne revient sur sa jeunesse new-yorkaise, tandis que la trilogie La Crucifixion en rose transforme sa vie en matière romanesque. Lié à Anaïs Nin et aux expatriés littéraires, Miller n’appartient pas à une avant-garde organisée, mais son mélange de confession, de digression et de refus des normes influence des écrivains de la Beat Generation.",
     "works": [
-      "Tropique du Cancer",
-      "Tropique du Capricorne"
+      "Tropique du Cancer (1934)",
+      "Printemps noir (1936)",
+      "Tropique du Capricorne (1939)",
+      "The Air-Conditioned Nightmare (1945)",
+      "La Crucifixion en rose : Sexus (1949), Plexus (1953), Nexus (1960)",
+      "Big Sur et les oranges de Jérôme Bosch (1957)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Tropic of Cancer, Obelisk Press, Paris, 1934.",
+      "Black Spring, Obelisk Press, 1936.",
+      "Tropic of Capricorn, Obelisk Press, 1939.",
+      "The Air-Conditioned Nightmare, New Directions, 1945.",
+      "The Rosy Crucifixion, trilogie publiée entre 1949 et 1960."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Henry-Miller-American-writer",
+        "note": "Encyclopaedia Britannica : biographie et repères sur l’œuvre autobiographique."
+      }
+    ],
+    "related": [
+      "anais-nin",
+      "jack-kerouac",
+      "allen-ginsberg"
+    ]
   },
   {
     "id": "william-blake",
     "name": "William Blake",
     "years": "1757–1827",
     "group": "Précurseurs",
-    "bio": "Poète, graveur et visionnaire anglais, dont l'œuvre indépendante a nourri plusieurs traditions artistiques modernes.",
+    "bio": "William Blake (1757–1827), poète, graveur et peintre anglais, construit une œuvre où texte et image forment un même dispositif visionnaire. Il invente une technique d’impression en relief qui lui permet de produire des livres enluminés mêlant poésie, dessin et mythologie personnelle. Songs of Innocence and of Experience oppose et entrelace deux états de l’existence ; The Marriage of Heaven and Hell attaque les dualismes moraux et religieux de son temps. Longtemps marginalisé, Blake devient une référence pour les romantiques, les symbolistes et plusieurs avant-gardes du XXe siècle. Sa pensée politique et sa critique des institutions traversent des poèmes et images denses, dont l’influence se prolonge chez des modernistes comme T. S. Eliot, malgré leurs conceptions esthétiques différentes.",
     "works": [
-      "Songs of Innocence and of Experience",
-      "The Marriage of Heaven and Hell"
+      "Songs of Innocence (1789)",
+      "The Marriage of Heaven and Hell (vers 1790–1793)",
+      "Songs of Innocence and of Experience (1794)",
+      "The Book of Urizen (1794)",
+      "Milton (vers 1804–1810)",
+      "Jerusalem: The Emanation of the Giant Albion (vers 1804–1820)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Songs of Innocence, 1789.",
+      "The Marriage of Heaven and Hell, vers 1790–1793.",
+      "Songs of Innocence and of Experience, 1794.",
+      "The Book of Urizen, 1794.",
+      "David V. Erdman, The Complete Poetry and Prose of William Blake, University of California Press, 1982."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tate.org.uk/art/artists/william-blake-39",
+        "note": "Tate : biographie, œuvres et contexte de la pratique de peintre-graveur."
+      }
+    ],
+    "related": [
+      "ts-eliot",
+      "ezra-pound"
+    ]
   },
   {
     "id": "ezra-pound",
     "name": "Ezra Pound",
     "years": "1885–1972",
     "group": "Modernismes",
-    "bio": "Poète et critique américain, acteur central du modernisme littéraire, dont l'héritage esthétique doit être distingué de son soutien au fascisme et de son antisémitisme.",
+    "bio": "Ezra Pound (1885–1972), poète américain installé en Europe, est un acteur majeur du modernisme anglophone, à la fois créateur, critique, traducteur et organisateur de réseaux. À Londres, il soutient T. S. Eliot, James Joyce, H.D. et d’autres écrivains, et contribue à faire circuler l’imagisme et le vorticisme. Son travail de montage, de citation et de juxtaposition culmine dans The Cantos, vaste poème inachevé qui fait dialoguer histoire, économie, mythes et langues multiples. Son rôle d’animateur de l’avant-garde ne peut être dissocié de son adhésion au fascisme italien et de ses émissions de propagande pendant la Seconde Guerre mondiale. Arrêté en 1945, il est détenu puis interné aux États-Unis. Le prix Bollingen attribué aux Pisan Cantos en 1949 déclenche une controverse durable sur les rapports entre valeur littéraire et responsabilité politique.",
     "works": [
-      "The Cantos"
+      "A Lume Spento (1908)",
+      "Personae (1909)",
+      "Ripostes (1912)",
+      "Cathay (1915)",
+      "Hugh Selwyn Mauberley (1920)",
+      "The Cantos (1922–1969, inachevé)",
+      "The Pisan Cantos (1948)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "A Lume Spento, Venise, 1908.",
+      "Cathay, Elkin Mathews, 1915.",
+      "Hugh Selwyn Mauberley, 1920.",
+      "The Pisan Cantos, New Directions, 1948.",
+      "The Cantos, éditions successives de 1925 à 1969.",
+      "Guide to the Ezra Pound Papers, Beinecke Library, Yale University."
+    ],
+    "sources": [
+      {
+        "url": "https://bollingen.yale.edu/poet/ezra-pound",
+        "note": "Yale : biographie, modernisme, The Cantos et contexte politique."
+      }
+    ],
+    "related": [
+      "ts-eliot",
+      "james-joyce",
+      "hilda-doolittle"
+    ]
   },
   {
     "id": "ts-eliot",
     "name": "T. S. Eliot",
     "years": "1888–1965",
     "group": "Modernismes",
-    "bio": "Poète et critique anglo-américain, figure majeure du modernisme littéraire.",
+    "bio": "T. S. Eliot (1888–1965), poète, dramaturge et critique né aux États-Unis puis naturalisé britannique, transforme la poésie anglophone par des formes fragmentaires qui rendent sensible la crise de la modernité. Après Harvard et un séjour à Paris, il s’installe en Angleterre et publie The Love Song of J. Alfred Prufrock (1915), monologue intérieur mêlant ironie et références culturelles. The Waste Land (1922), construit par montage de voix, de langues et de citations, devient un texte emblématique du modernisme. Eliot dirige ensuite la revue The Criterion et travaille chez Faber & Faber, jouant un rôle important dans la vie littéraire britannique. Sa poésie tardive, notamment Four Quartets, prend une orientation méditative et religieuse. Il reçoit le Nobel de littérature en 1948 ; son conservatisme culturel et certaines positions sociales restent discutés.",
     "works": [
-      "The Waste Land",
-      "Four Quartets"
+      "The Love Song of J. Alfred Prufrock (1915)",
+      "The Waste Land (1922)",
+      "The Hollow Men (1925)",
+      "Ash-Wednesday (1930)",
+      "Murder in the Cathedral (1935)",
+      "Four Quartets (1935–1942)",
+      "Tradition and the Individual Talent (1919)"
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Prufrock and Other Observations, 1917.",
+      "The Waste Land, Boni and Liveright, 1922.",
+      "The Hollow Men, 1925.",
+      "Four Quartets, Faber & Faber, 1943.",
+      "Selected Essays, Faber & Faber, 1932 ; édition augmentée, 1951.",
+      "The Letters of T. S. Eliot, Faber & Faber."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1948/eliot/biographical/",
+        "note": "Fondation Nobel : parcours, œuvres et réception de la poésie moderniste."
+      }
+    ],
+    "related": [
+      "ezra-pound",
+      "james-joyce",
+      "virginia-woolf"
+    ]
   },
   {
     "id": "gertrude-stein",
     "name": "Gertrude Stein",
     "years": "1874–1946",
     "group": "Modernismes",
-    "bio": "Écrivaine américaine, collectionneuse et figure centrale des avant-gardes parisiennes, dont l'écriture expérimente répétition et syntaxe.",
+    "bio": "Gertrude Stein (1874–1946), écrivaine américaine installée à Paris dès 1903, expérimente répétition, syntaxe, rythme et perception du langage. Son salon de la rue de Fleurus devient un lieu de rencontre pour des artistes comme Pablo Picasso et Henri Matisse, ainsi que pour des écrivains modernistes. Dans Tender Buttons, elle déplace le rapport ordinaire entre mots et objets en faisant primer sonorité, structure et association sur le récit conventionnel. The Making of Americans et ses portraits explorent la répétition comme manière de produire une identité en mouvement. Collectionneuse et médiatrice des arts modernes, Stein n’appartient pas pour autant à une école picturale. Son influence sur les écritures expérimentales tient à sa façon de faire du langage lui-même la matière et le sujet de l’œuvre.",
     "works": [
-      "Tender Buttons",
-      "The Autobiography of Alice B. Toklas"
+      "Three Lives (1909)",
+      "The Making of Americans (écrit 1903–1911, publié 1925)",
+      "Tender Buttons (1914)",
+      "Geography and Plays (1922)",
+      "The Autobiography of Alice B. Toklas (1933)",
+      "Everybody’s Autobiography (1937)",
+      "Wars I Have Seen (1945)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Three Lives, Grafton Press, 1909.",
+      "Tender Buttons, Claire Marie, 1914.",
+      "The Making of Americans, Contact Editions, 1925.",
+      "The Autobiography of Alice B. Toklas, Harcourt, Brace, 1933.",
+      "Lectures in America, Random House, 1935.",
+      "The Yale Edition of the Unpublished Writings of Gertrude Stein, Yale University Press."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Gertrude-Stein",
+        "note": "Encyclopaedia Britannica : biographie, salon parisien et écriture expérimentale."
+      }
+    ],
+    "related": [
+      "pablo-picasso",
+      "henri-matisse",
+      "virginia-woolf"
+    ]
   },
   {
     "id": "virginia-woolf",
     "name": "Virginia Woolf",
     "years": "1882–1941",
     "group": "Modernismes",
-    "bio": "Romancière et essayiste anglaise, figure majeure du modernisme et de l'exploration de la conscience.",
+    "bio": "Virginia Woolf (1882–1941), romancière, essayiste et éditrice britannique, est une figure centrale du modernisme littéraire et du cercle de Bloomsbury. Avec Leonard Woolf, elle fonde Hogarth Press, qui publie des œuvres novatrices et des traductions importantes. Ses romans déplacent l’action vers la perception, la mémoire et les flux de conscience : Mrs Dalloway suit une journée londonienne à travers plusieurs expériences intérieures, tandis que To the Lighthouse et The Waves explorent la durée et la construction de soi. Dans Une chambre à soi, Woolf analyse les conditions matérielles et sociales qui ont limité l’accès des femmes à la création. Elle réfléchit aussi à la guerre et au fascisme. Son œuvre dialogue avec James Joyce et T. S. Eliot tout en développant une approche singulière du temps narratif et de la subjectivité.",
     "works": [
-      "Mrs Dalloway",
-      "Les Vagues",
-      "Une chambre à soi"
+      "The Voyage Out (1915)",
+      "Mrs Dalloway (1925)",
+      "To the Lighthouse (1927)",
+      "Orlando (1928)",
+      "A Room of One’s Own (1929)",
+      "The Waves (1931)",
+      "Three Guineas (1938)",
+      "Between the Acts (1941)"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Mrs Dalloway, Hogarth Press, 1925.",
+      "To the Lighthouse, Hogarth Press, 1927.",
+      "A Room of One’s Own, Hogarth Press, 1929.",
+      "The Waves, Hogarth Press, 1931.",
+      "Three Guineas, Hogarth Press, 1938.",
+      "The Diary of Virginia Woolf, éd. Anne Olivier Bell, Hogarth Press, 1977–1984."
+    ],
+    "sources": [
+      {
+        "url": "https://www.britannica.com/biography/Virginia-Woolf",
+        "note": "Encyclopaedia Britannica : biographie, Bloomsbury et innovations narratives."
+      }
+    ],
+    "related": [
+      "james-joyce",
+      "ts-eliot",
+      "gertrude-stein"
+    ]
   },
   {
     "id": "dh-lawrence",
