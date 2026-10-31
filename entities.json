@@ -24,7 +24,8 @@
       "Le Mont Analogue, Gallimard, 1952 (posthume, inachevé).",
       "Les Pouvoirs de la parole, Gallimard, 1972 (posthume).",
       "Lettres à ses amis, 1958."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gilbert",
@@ -52,7 +53,8 @@
       "Monsieur Morphée, empoisonneur public, Fata Morgana, 1966 (posthume).",
       "Œuvres complètes, 2 vol., Gallimard, 1974-1977.",
       "Correspondance, Gallimard, 1971."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "vailland",
@@ -85,7 +87,8 @@
       "325 000 francs, 1955.",
       "La Loi, 1957 (prix Goncourt).",
       "Le Regard froid, 1963."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "sima",
@@ -142,7 +145,8 @@
       "De la paille et du grain, 1948.",
       "Petite préface à toute critique, 1951.",
       "Lettre aux directeurs de la Résistance, 1952."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "leiris",
@@ -353,7 +357,8 @@
       "Henri Michaux, Misérable miracle, Éditions du Rocher, 1956.",
       "Raymond Bellour, Henri Michaux ou une mesure de l'être, Gallimard, 1965.",
       "Centre Pompidou, dossier et notices d'œuvres consacrés à Henri Michaux."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "caillois",
@@ -480,7 +485,8 @@
       "Écrits pour le cinéma, Verdier, 2007.",
       "Jérusalem et Athènes, éd. revue et corrigée sous la direction de Monique Jutrin, Cerf, 2024.",
       "Site de la Société d'études Benjamin Fondane : chronologie, bibliographies et Cahiers Benjamin Fondane."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "rimbaud",
@@ -509,7 +515,8 @@
       "Benjamin Fondane, Rimbaud le voyou, 1936.",
       "Parade sauvage, revue d'études rimbaldiennes, Musée Arthur Rimbaud / Société des amis de Rimbaud.",
       "Bibliothèque nationale de France, dossier Rimbaud et ressources Gallica."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "tzara",
@@ -572,7 +579,8 @@
       "La Nuit, l'esprit, 1946.",
       "Fonds André Rolland de Renéville, Institut Mémoires de l'édition contemporaine (IMEC), notice archivistique.",
       "Michel Random, Grand Jeu et surréalisme : Reims-Paris-Prague, Ludion / Musée des beaux-arts de Reims, 2003."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "meyrat",
@@ -594,6 +602,9 @@
       "« Les Phrères simplistes », dossier d'archives, Bibliothèque Carnegie de Reims, signalé au Catalogue collectif de France (CCFr).",
       "« Les insoumis du Grand Jeu », Le Monde des livres, 13 mars 2003.",
       "Fonds et documentation sur Le Grand Jeu, Bibliothèque Carnegie de Reims / patrimoine des bibliothèques de Reims."
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -621,7 +632,8 @@
       "En mal d'aurore, journal, édition posthume, 2002.",
       "Fonds Pierre Minet (1909-1975), Institut Mémoires de l'édition contemporaine (IMEC), notice archivistique.",
       "Zéno Bianu (éd.), Les Poètes du Grand Jeu, Poésie/Gallimard, 2003."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "henry",
@@ -655,6 +667,9 @@
         "url": "https://catalogue.bnf.fr/ark:/12148/cb11907288b",
         "note": "Notice d’autorité BnF."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -685,6 +700,9 @@
         "url": "https://corpus.inha.fr/gaael/cr1c27af7fa-6369-461e-8148-8388fe735468.xml/cr18712df91-9804-47bc-96ac-033ed19cf298.html",
         "note": "Inventaire du fonds Maurice Henry et de ses correspondances."
       }
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -806,7 +824,8 @@
         "url": "https://www.centrepompidou.fr/es/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/dada",
         "note": "Dossier de ressources sur Dada."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "picabia",
@@ -841,7 +860,8 @@
         "url": "https://www.centrepompidou.fr/es/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/dada",
         "note": "Dossier Dada et œuvres de Picabia."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "duchamp",
@@ -878,7 +898,8 @@
         "url": "https://www.moma.org/artists/?q=Dada&with_online_works=true",
         "note": "Œuvres de Duchamp conservées au MoMA."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "arp",
@@ -896,9 +917,7 @@
     "kind": "person",
     "role_icon": "🗿",
     "role_label": "Arts visuels et poésie",
-    "groups": [
-      "Dada"
-    ],
+    "groups": [],
     "bibliography": [
       "Jours effeuillés : poèmes, essais, souvenirs, 1920-1965, Gallimard, 1966.",
       "Hans Arp / Sophie Taeuber-Arp. Exploracions mútues, catalogue, 2003.",
@@ -1000,7 +1019,9 @@
         "note": "Outil de vérification des éditions."
       }
     ],
-    "groups": []
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "soupault",
@@ -1124,7 +1145,8 @@
         "url": "https://www.bnf.fr/fr/le-dictionnaire-de-biographie-francaise",
         "note": "Outil biographique de référence."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "boiffard",
@@ -1177,9 +1199,7 @@
     "kind": "person",
     "role_icon": "📖",
     "role_label": "Écriture",
-    "groups": [
-      "Acéphale"
-    ],
+    "groups": [],
     "bibliography": [
       "Écrits de Laure, textes réunis par le collectif Change, 1977.",
       "Écrits retrouvés, Laure, préface de Jérôme Peignot, 1987.",
@@ -1330,7 +1350,8 @@
         "url": "https://www.centrepompidou.fr/fr/ressources/personne/cej4AGn",
         "note": "Notice d’artiste et œuvres conservées."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jolas",
@@ -1369,7 +1390,8 @@
         "url": "https://www.jstor.org/stable/j.ctt32bq84",
         "note": "Notice bibliographique de Man from Babel."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "revue-grandjeu",
@@ -1818,7 +1840,8 @@
       "Mexico City Blues, Grove Press, 1959.",
       "The Subterraneans, Grove Press, 1958.",
       "Jack Kerouac, bibliographie officielle, jackkerouac.com."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ginsberg",
@@ -1854,7 +1877,8 @@
       "The Fall of America: Poems of These States, City Lights, 1973.",
       "Collected Poems 1947-1997, HarperCollins, 2006.",
       "Bill Morgan, I Celebrate Myself: The Somewhat Private Life of Allen Ginsberg, Viking, 2006."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "burroughs",
@@ -1892,7 +1916,8 @@
       "The Ticket That Exploded, Olympia Press, 1962.",
       "Barry Miles, Call Me Burroughs: A Life, Twelve, 2013.",
       "The Letters of William S. Burroughs, 1945-1959, éd. Oliver Harris, Viking, 1993."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "corso",
@@ -1932,7 +1957,8 @@
       "Elegiac Feelings American, New Directions, 1970.",
       "Mindfield: New and Selected Poems, New Directions, 1989.",
       "Gregory Corso, The Whole Shot: Collected Interviews with the Beat Poet, éd. Michael Skau, 1993."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ferlinghetti",
@@ -1973,7 +1999,8 @@
       "These Are My Rivers, New Directions, 1993.",
       "Writing Across the Landscape: Travel Journals 1960-2010, Liveright, 2015.",
       "Lawrence Ferlinghetti, bibliographie officielle, City Lights Books."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "cassady",
@@ -2005,7 +2032,8 @@
       "Neal Cassady, The Joan Anderson Letter and Other Writings, éd. Dave Moore, 2014.",
       "Barry Gifford et Lawrence Lee, Jack’s Book: An Oral Biography of Jack Kerouac, 1978.",
       "Tom Wolfe, The Electric Kool-Aid Acid Test, Farrar, Straus and Giroux, 1968."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "huncke",
@@ -2038,7 +2066,8 @@
       "Guilty of Everything, William Morrow, 1990.",
       "The Herbert Huncke Reader, éd. Benjamin Weissman, 1997.",
       "Herbert Huncke, archives et documents biographiques, collections universitaires."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "holmes",
@@ -2068,7 +2097,8 @@
       "Get Home Free, Random House, 1964.",
       "Nothing More to Declare, Random House, 1967.",
       "Edward L. Lach Jr., « Holmes, John Clellon (1926–1988) », American National Biography, Oxford University Press."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "snyder",
@@ -2104,7 +2134,8 @@
       "The Practice of the Wild, North Point Press, 1990.",
       "Mountains and Rivers Without End, Counterpoint, 1996.",
       "The Gary Snyder Reader: Prose, Poetry, and Translations, 1952–1998, Counterpoint, 1999."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "orlovsky",
@@ -2129,7 +2160,8 @@
       "Clean Asshole Poems & Smiling Vegetable Songs, City Lights, 1967.",
       "Straight Hearts' Delight: Love Poems and Selected Letters, éd. Bill Morgan, Penguin, 2001.",
       "Peter Orlovsky papers, Harry Ransom Center, The University of Texas at Austin."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "mcclure",
@@ -2168,7 +2200,8 @@
       "Of Indigo and Saffron: New and Selected Poems, University of California Press, 1991.",
       "Mephistos and Other Poems, City Lights, 2016.",
       "Persian Pony, Ekstasis Editions, 2017."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "whalen",
@@ -2201,7 +2234,8 @@
       "Decompressions, Grey Fox Press, 1977.",
       "Heavy Breathing: Poems, 1967–1980, Four Seasons Foundation, 1980.",
       "Canoeing Up Cabarga Creek: Buddhist Poems, 1955–1986, Parallax Press, 1996."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "welch",
@@ -2229,7 +2263,8 @@
       "Hermit Poems, Four Seasons Foundation, 1965.",
       "Ring of Bone: Collected Poems, éd. Donald Allen, Grey Fox Press, 1973.",
       "I Remain: The Letters of Lew Welch & Friends, éd. Donald Allen, Grey Fox Press, 2001."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "kaufman",
@@ -2258,6 +2293,9 @@
       "Golden Sardine, City Lights, 1967.",
       "The Ancient Rain: Poems 1956–1978, New Directions, 1981.",
       "Stuart D. Hobbs, « Kaufman, Bob (1925–1986) », American National Biography, Oxford University Press."
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -2291,7 +2329,8 @@
       "Loba, première édition 1978; édition augmentée 1998.",
       "Pieces of a Song: Selected Poems, City Lights, 2001.",
       "Recollections of My Life as a Woman: The New York Years, Viking, 2001."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "cowen",
@@ -2318,7 +2357,8 @@
     "bibliography": [
       "Elise Cowen: Poems and Fragments, éd. Tony Trigilio, Ahsahta Press, 2014.",
       "Notice de catalogue WorldCat pour l’édition de 2014; voir également les études universitaires sur les femmes de la Beat Generation."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "johnson",
@@ -2353,7 +2393,8 @@
       "Door Wide Open: A Beat Love Affair in Letters, 1957–1958, Viking, 2000.",
       "The Voice Is All: The Lonely Victory of Jack Kerouac, Viking, 2012.",
       "Bibliographie et biographie de l’autrice sur son site officiel."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "hettie-jones",
@@ -2382,7 +2423,8 @@
       "Doing 70, Hanging Loose Press, 2007.",
       "Love, H, Hanging Loose Press, 2016.",
       "Notice biographique et bibliographique à recouper avec les catalogues éditoriaux."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "kyger",
@@ -2419,7 +2461,8 @@
       "Going On: Selected Poems 1958–1980, Dutton, 1983.",
       "As Ever: Selected Poems, Penguin, 2002.",
       "About Now: Collected Poems, National Poetry Foundation, 2007."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pommy-vega",
@@ -2449,7 +2492,8 @@
       "Tracking the Serpent: Journeys to Four Continents, 1997.",
       "The Green Piano, 2005.",
       "Repères bibliographiques à recouper avec les catalogues d’édition et les archives de poésie beat."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ruth-weiss",
@@ -2485,7 +2529,8 @@
       "Desert Journal, 1977; nouvelle édition, Trembling Pillow Press, 2012.",
       "Can't Stop the Beat: The Life and Words of a Beat Poet, Divine Arts, 2011.",
       "Ressources bibliographiques conservées par la ruth weiss Foundation."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "kandel",
@@ -2510,7 +2555,8 @@
       "An Exquisite Navel, 1965.",
       "The Love Book, San Francisco, 1966.",
       "Études sur la poésie beat de San Francisco et les procès pour obscénité des années 1960."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "waldman",
@@ -2551,7 +2597,8 @@
       "Trickster Feminism, Penguin Books, 2018.",
       "Bard, Kinetic, Coffee House Press, 2023.",
       "Bibliographie complète tenue par l’autrice sur son site officiel."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "baraka",
@@ -2588,7 +2635,8 @@
       "The Dead Lecturer, Grove Press, 1964.",
       "The Autobiography of LeRoi Jones/Amiri Baraka, Freundlich Books, 1984.",
       "The Music: Reflections on Jazz and Blues, William Morrow, 1987."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joans",
@@ -2651,7 +2699,8 @@
       "Hotel Nirvana, City Lights, 1974.",
       "Carnivorous Saint: Gay Poems 1941–1976, 1976.",
       "Memoirs of a Bastard Angel, William Morrow, 1989."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "lamantia",
@@ -2714,7 +2763,8 @@
       "In the Bronx and Other Stories (1965)",
       "Sixty-Seven Poems for Downtrodden Saints (1997)",
       "One of a Kind (2008)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bremser",
@@ -2746,7 +2796,8 @@
       "Poems of Madness & Angel (1986)",
       "The Conquerors (1998)",
       "The Dying of Children (1999)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "solomon",
@@ -2774,7 +2825,8 @@
     "bibliography": [
       "Report from the Asylum (1960)",
       "Mishaps, Perhaps (1966)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gysin",
@@ -2806,7 +2858,8 @@
       "The Exterminator (1967, avec William S. Burroughs)",
       "The Third Mind (1978, avec William S. Burroughs)",
       "The Process (1969)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bowles",
@@ -2840,7 +2893,8 @@
       "The Spider's House (1955)",
       "Without Stopping: An Autobiography (1972)",
       "Collected Stories, 1939–1976 (1979)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "rexroth",
@@ -2872,7 +2926,8 @@
       "The Dragon and the Unicorn (1952)",
       "100 Poems from the Chinese (1956)",
       "The Love Poems of Marichiko (1978)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "levertov",
@@ -2905,7 +2960,8 @@
       "O Taste and See (1964)",
       "The Sorrow Dance (1967)",
       "Breathing the Water (1987)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "cassady-carolyn",
@@ -2932,7 +2988,8 @@
     "bibliography": [
       "Off the Road: My Years with Cassady, Kerouac, and Ginsberg (1990)",
       "Heart Beat: My Life with Jack and Neal (1976)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "vollmer",
@@ -2958,7 +3015,8 @@
     "role_label": "Autre",
     "bibliography": [
       "Aucune œuvre autonome publiée de son vivant n'est solidement attestée; son parcours est documenté par les biographies de Burroughs et les archives du cercle beat."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "carr",
@@ -2984,7 +3042,8 @@
     "role_label": "Autre",
     "bibliography": [
       "Son rôle est retracé notamment dans les biographies de Jack Kerouac, Allen Ginsberg et William S. Burroughs, ainsi que dans les études sur le cercle de Columbia."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "adam",
@@ -3026,7 +3085,8 @@
       "Gone Sailing (1980)",
       "The Bells of Dis (1985)",
       "A Helen Adam Reader (2007/2008, éd. Kristin Prevallet)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gleason",
@@ -3050,7 +3110,8 @@
     "role_label": "Poésie",
     "bibliography": [
       "Bibliographie des livres de Madeline Gleason à établir à partir de catalogues de bibliothèques et d'archives : les titres parfois attribués en ligne ne sont pas suffisamment corroborés pour être repris ici."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "de-angulo",
@@ -3088,7 +3149,8 @@
       "Coyote Man & Old Doctor Loon (1973)",
       "Coyote's Bones: Selected Poetry and Prose (1974)",
       "Lariat: And Other Writings (1974)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ball",
@@ -3115,7 +3177,8 @@
       "Die Flucht aus der Zeit (1927; journal)",
       "Tenderenda der Phantast (écrit dans les années 1910, publié en 1967)",
       "Hermann Hesse: Sein Leben und sein Werk (1927)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "hennings",
@@ -3146,7 +3209,8 @@
       "Gefängnis (1919)",
       "Das Brandmal (1920)",
       "Das ewige Lied (1923)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "huelsenbeck",
@@ -3177,7 +3241,8 @@
       "Phantastische Gebete (1916)",
       "En avant Dada (1920)",
       "Dada Almanach (1920)"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "hausmann",
@@ -3201,9 +3266,7 @@
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
-    "groups": [
-      "Dada"
-    ],
+    "groups": [],
     "bibliography": [
       "Courrier Dada (1920)",
       "Hyle (roman, écrit dans les années 1920; publication posthume)",
@@ -3239,6 +3302,9 @@
       "Schnitt mit dem Küchenmesser Dada (1919–1920)",
       "Aus einem ethnographischen Museum (série, 1924–1930)",
       "Hannah Höch: Eine Lebenscollage (catalogue raisonné et archives, 1989–2001)"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -3267,9 +3333,7 @@
     ],
     "role_icon": "🎨",
     "role_label": "Arts visuels",
-    "groups": [
-      "Dada"
-    ],
+    "groups": [],
     "bibliography": [
       "Catalogue raisonné Sophie Taeuber-Arp (Fondation Arp / publications muséales)",
       "Sophie Taeuber-Arp: Living Abstraction (catalogue d'exposition, 2021)"
@@ -3303,7 +3367,8 @@
     "bibliography": [
       "Die acht Weltsätze (1918)",
       "Textes, tracts et interventions publiés dans les périodiques dadaïstes berlinois; bibliographie à préciser selon les éditions."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "grosz",
@@ -3349,7 +3414,8 @@
       "heartfield",
       "hausmann",
       "hoch"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "heartfield",
@@ -3391,7 +3457,8 @@
       "hausmann",
       "hoch",
       "schwitters"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "schwitters",
@@ -3424,9 +3491,7 @@
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "groups": [
-      "Dada"
-    ],
+    "groups": [],
     "bibliography": [
       "An Anna Blume, 1919.",
       "Die Sonate in Urlauten (Ursonate), publiée en revue puis en édition, 1932.",
@@ -3480,7 +3545,8 @@
       "manray",
       "wood",
       "duchamp"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "manray",
@@ -3571,7 +3637,8 @@
       "picabia",
       "wood",
       "freytag"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "wood",
@@ -3611,7 +3678,8 @@
       "duchamp",
       "freytag",
       "manray"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "arnauld",
@@ -3655,7 +3723,8 @@
       "picabia",
       "breton",
       "suzanneduchamp"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "janco",
@@ -3699,7 +3768,8 @@
       "arp",
       "taeuber",
       "richter"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "crotti",
@@ -3740,7 +3810,8 @@
       "duchamp",
       "picabia",
       "arp"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "citroen",
@@ -3780,6 +3851,10 @@
       "schwitters",
       "richter",
       "grosz"
+    ],
+    "groups": [
+      "Bauhaus",
+      "Photographie"
     ]
   },
   {
@@ -3824,7 +3899,8 @@
       "tzara",
       "janco",
       "schwitters"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "cravan",
@@ -3865,7 +3941,8 @@
       "picabia",
       "duchamp",
       "tzara"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pansaers",
@@ -3998,7 +4075,8 @@
       "joostens",
       "citroen",
       "schwitters"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "scutenaire",
@@ -4630,7 +4708,8 @@
       "The Music of Morton Feldman, éd. Thomas DeLio, Excelsior, 1996."
     ],
     "related": [],
-    "url": "https://brahms.ircam.fr/fr/composer/morton-feldman/biography"
+    "url": "https://brahms.ircam.fr/fr/composer/morton-feldman/biography",
+    "groups": []
   },
   {
     "id": "john-cage",
@@ -4665,7 +4744,8 @@
     ],
     "groups": [
       "ZAJ",
-      "Fluxus"
+      "Fluxus",
+      "Musique expérimentale"
     ],
     "bibliography": [
       "Silence: Lectures and Writings, Wesleyan University Press, 1961.",
@@ -4715,7 +4795,8 @@
       "morton-feldman",
       "christian-wolff",
       "david-tudor"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "christian-wolff",
@@ -4749,7 +4830,8 @@
       "morton-feldman",
       "earle-brown",
       "cornelius-cardew"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gyorgy-ligeti",
@@ -4790,7 +4872,8 @@
       "iannis-xenakis",
       "messiaen",
       "morton-feldman"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "iannis-xenakis",
@@ -4828,7 +4911,8 @@
     "related": [
       "stockhausen",
       "messiaen"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "stockhausen",
@@ -4867,7 +4951,8 @@
       "iannis-xenakis",
       "luigi-nono",
       "john-cage"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "luigi-nono",
@@ -4904,7 +4989,8 @@
       "stockhausen",
       "iannis-xenakis",
       "gyorgy-ligeti"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "scriabin",
@@ -4937,7 +5023,8 @@
     ],
     "related": [
       "iannis-xenakis"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "messiaen",
@@ -4976,7 +5063,8 @@
       "iannis-xenakis",
       "gyorgy-ligeti",
       "stockhausen"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "kurtag",
@@ -5010,7 +5098,8 @@
     "related": [
       "gyorgy-ligeti",
       "stockhausen"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "takemitsu",
@@ -5045,7 +5134,8 @@
     "related": [
       "john-cage",
       "iannis-xenakis"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "philip-glass",
@@ -5083,7 +5173,8 @@
       "terry-riley",
       "la-monte-young",
       "brian-eno"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "steve-reich",
@@ -5128,7 +5219,8 @@
       "la-monte-young",
       "john-cage",
       "brian-eno"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "terry-riley",
@@ -5164,7 +5256,8 @@
       "steve-reich",
       "philip-glass",
       "pauline-oliveros"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "la-monte-young",
@@ -5198,7 +5291,8 @@
       "steve-reich",
       "john-cage",
       "brian-eno"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "max-richter",
@@ -5234,7 +5328,8 @@
       "brian-eno",
       "johann-johannsson",
       "olafur-arnalds"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "johann-johannsson",
@@ -5270,7 +5365,8 @@
       "olafur-arnalds",
       "brian-eno",
       "eliane-radigue"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "olafur-arnalds",
@@ -5303,7 +5399,8 @@
       "johann-johannsson",
       "max-richter",
       "brian-eno"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "brian-eno",
@@ -5343,7 +5440,8 @@
       "steve-reich",
       "philip-glass",
       "max-richter"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "laurie-anderson",
@@ -5379,7 +5477,8 @@
       "brian-eno",
       "christian-marclay",
       "john-cage"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "christian-marclay",
@@ -5455,7 +5554,8 @@
       "eliane-radigue",
       "max-richter",
       "john-cage"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "eliane-radigue",
@@ -5528,7 +5628,8 @@
       "terry-riley",
       "steve-reich",
       "john-cage"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "rabelais",
@@ -5565,7 +5666,8 @@
         "url": "https://www.larousse.fr/encyclopedie/personnage/Fran%C3%A7ois_Rabelais/140121",
         "note": "Larousse, synthèse biographique et bibliographique, avec prudence sur le Cinquième Livre."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "borges",
@@ -5600,7 +5702,8 @@
         "url": "https://www.borges.pitt.edu/",
         "note": "Borges Center, University of Pittsburgh, ressources critiques et bibliographiques."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "musil",
@@ -5634,7 +5737,8 @@
         "url": "https://www.musil-online.at/",
         "note": "Robert-Musil-Institut / Klagenfurt, ressources de recherche et documentation."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "kafka",
@@ -5667,7 +5771,8 @@
         "url": "https://www.kafka-museum.cz/",
         "note": "Franz Kafka Museum, Prague, chronologie et ressources documentaires."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jarry",
@@ -5700,7 +5805,8 @@
         "url": "https://www.college-de-pataphysique.org/",
         "note": "Collège de ’Pataphysique, héritage institutionnel et bibliographie pataphysique."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gracq",
@@ -5767,7 +5873,8 @@
         "url": "https://data.bnf.fr/fr/11913974/stephane_mallarme/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pessoa",
@@ -5797,7 +5904,8 @@
         "url": "https://www.casafernandopessoa.pt/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "rene-char",
@@ -5859,7 +5967,8 @@
         "url": "https://www.robertwalser.ch/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "walter-benjamin",
@@ -5889,7 +5998,8 @@
         "url": "https://www.walterbenjamin.org/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "genet",
@@ -5918,7 +6028,8 @@
         "url": "https://www.gallimard.fr/auteurs/jean-genet",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "henri-lefebvre",
@@ -5981,7 +6092,8 @@
     "related": [
       "lautreamont",
       "breton"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "john-fante",
@@ -6012,7 +6124,8 @@
         "url": "https://www.johnfante.org/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jacques-rigaut",
@@ -6043,7 +6156,8 @@
       "tzara",
       "breton",
       "soupault"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jacques-vache",
@@ -6072,7 +6186,8 @@
     "related": [
       "breton",
       "soupault"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "stanislas-rodanski",
@@ -6134,7 +6249,8 @@
         "url": "https://www.bnf.fr/fr/marcel-proust",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "james-joyce",
@@ -6164,7 +6280,8 @@
         "url": "https://jamesjoyce.ie/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "samuel-beckett",
@@ -6196,7 +6313,8 @@
         "url": "https://www.beckettfoundation.org.uk/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "lautreamont",
@@ -6225,7 +6343,8 @@
         "url": "https://data.bnf.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "raymond-roussel",
@@ -6256,7 +6375,8 @@
         "url": "https://www.raymond-roussel.com/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "raymond-queneau",
@@ -6318,7 +6438,8 @@
       "David Bellos, Georges Perec: A Life in Words, Harvill, 1993.",
       "Perec, Cahiers Georges Perec, Association Georges Perec."
     ],
-    "related": []
+    "related": [],
+    "groups": []
   },
   {
     "id": "maurice-blanchot",
@@ -6348,7 +6469,8 @@
         "url": "https://www.imec-archives.com/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joe-bousquet",
@@ -6412,7 +6534,8 @@
         "url": "https://www.college-de-pataphysique.org/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "rene-crevel",
@@ -6503,7 +6626,8 @@
         "url": "https://www.andre-malraux.org/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "francis-ponge",
@@ -6533,7 +6657,8 @@
         "url": "https://www.francisponge.org/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "celine",
@@ -6563,7 +6688,8 @@
         "url": "https://www.bnf.fr/fr/louis-ferdinand-celine",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "max-jacob",
@@ -6591,7 +6717,8 @@
         "url": "https://www.max-jacob.com/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pierre-reverdy",
@@ -6623,7 +6750,8 @@
         "url": "https://data.bnf.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "tristan-corbiere",
@@ -6654,7 +6782,8 @@
         "url": "https://data.bnf.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jean-pierre-brisset",
@@ -6668,7 +6797,8 @@
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "isidore-isou",
@@ -6687,7 +6817,8 @@
     ],
     "role_icon": "📼",
     "role_label": "Poésie sonore",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "guy-debord",
@@ -6718,7 +6849,8 @@
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "georges-limbour",
@@ -6750,7 +6882,8 @@
     ],
     "role_icon": "🎭",
     "role_label": "Théâtre",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "alfred-doblin",
@@ -6763,7 +6896,8 @@
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "robert-antelme",
@@ -6776,7 +6910,8 @@
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "henry-miller",
@@ -6790,7 +6925,8 @@
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "william-blake",
@@ -6804,7 +6940,8 @@
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "ezra-pound",
@@ -6817,7 +6954,8 @@
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "ts-eliot",
@@ -6831,7 +6969,8 @@
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "gertrude-stein",
@@ -6845,7 +6984,8 @@
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "virginia-woolf",
@@ -6860,7 +7000,8 @@
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "dh-lawrence",
@@ -6900,7 +7041,8 @@
       "hermann-hesse",
       "henry-miller",
       "virginia-woolf"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "hermann-hesse",
@@ -6941,7 +7083,8 @@
       "dh-lawrence",
       "thomas-bernhard",
       "bruno-schulz"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "thomas-bernhard",
@@ -6983,7 +7126,8 @@
       "hermann-hesse",
       "witold-gombrowicz",
       "bruno-schulz"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "witold-gombrowicz",
@@ -7026,7 +7170,8 @@
       "bruno-schulz",
       "thomas-bernhard",
       "claude-simon"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bruno-schulz",
@@ -7064,7 +7209,8 @@
       "witold-gombrowicz",
       "thomas-bernhard",
       "claude-simon"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "boris-vian",
@@ -7107,7 +7253,8 @@
       "jean-pierre-martinet",
       "claude-simon",
       "henri-chopin"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jean-pierre-martinet",
@@ -7151,7 +7298,8 @@
       "pierre-guyotat",
       "boris-vian",
       "thomas-bernhard"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pierre-guyotat",
@@ -7195,7 +7343,8 @@
       "jean-pierre-martinet",
       "gherasim-luca",
       "bernard-heidsieck"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "claude-simon",
@@ -7236,7 +7385,8 @@
       "pierre-guyotat",
       "witold-gombrowicz",
       "dh-lawrence"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bernard-heidsieck",
@@ -7271,7 +7421,8 @@
       "henri-chopin",
       "francois-dufrene",
       "sten-hanson"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "henri-chopin",
@@ -7387,7 +7538,8 @@
       "ake-hodell",
       "bengt-emil-johnson",
       "bernard-heidsieck"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ake-hodell",
@@ -7424,7 +7576,8 @@
       "sten-hanson",
       "bengt-emil-johnson",
       "henri-chopin"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jose-luis-castillejo",
@@ -7452,8 +7605,7 @@
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "groups": [
-      "ZAJ",
-      "Poésie sonore"
+      "ZAJ"
     ],
     "bibliography": [
       "José Luis Castillejo, The Book of i’s, 1969.",
@@ -7580,7 +7732,8 @@
       "henri-chopin",
       "bob-cobbing",
       "francois-dufrene"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "francois-dufrene",
@@ -7634,7 +7787,8 @@
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "groups": [
-      "Art vidéo"
+      "Art vidéo",
+      "Nouveau Réalisme"
     ],
     "bibliography": [
       "Mimmo Rotella, catalogues des premières expositions de décollages, années 1950.",
@@ -7690,7 +7844,8 @@
       "bob-cobbing",
       "arrigo-lora-totino",
       "henri-chopin"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bob-cobbing",
@@ -7729,7 +7884,8 @@
       "henri-chopin",
       "bernard-heidsieck",
       "paul-de-vree"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ladislav-novak",
@@ -7765,7 +7921,8 @@
       "bob-cobbing",
       "paul-de-vree",
       "gherasim-luca"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "hugh-davies",
@@ -7839,7 +7996,8 @@
       "sten-hanson",
       "ake-hodell",
       "bernard-heidsieck"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jacques-bekaert",
@@ -7871,7 +8029,8 @@
       "henri-chopin",
       "bernard-heidsieck",
       "sten-hanson"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ja-da-silva",
@@ -7903,7 +8062,8 @@
       "henri-chopin",
       "bernard-heidsieck",
       "sten-hanson"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "charles-amirkhanian",
@@ -7939,7 +8099,8 @@
       "hugh-davies",
       "philip-corner",
       "henri-chopin"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ben-patterson",
@@ -8060,7 +8221,8 @@
       "yoko-ono",
       "john-cage",
       "bob-cobbing"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jean-louis-brau",
@@ -8181,7 +8343,8 @@
       "dick-higgins",
       "schwitters",
       "john-cage"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "anton-bruhin",
@@ -8218,7 +8381,8 @@
       "henri-chopin",
       "bob-cobbing",
       "schwitters"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "eduardo-kac",
@@ -8255,7 +8419,8 @@
       "ulises-carrion",
       "john-giorno",
       "nam-june-paik"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "emil-cioran",
@@ -8297,7 +8462,8 @@
       "albert-caraco",
       "luc-dietrich",
       "emmanuel-bove"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "albert-caraco",
@@ -8335,7 +8501,8 @@
       "emil-cioran",
       "rene-guenon",
       "luc-dietrich"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "rene-guenon",
@@ -8377,7 +8544,8 @@
       "emil-cioran",
       "albert-caraco",
       "luc-dietrich"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "luc-dietrich",
@@ -8411,7 +8579,8 @@
       "emil-cioran",
       "albert-caraco",
       "emmanuel-bove"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "armand-robin",
@@ -8454,7 +8623,8 @@
       "henri-chopin",
       "john-giorno",
       "ulises-carrion"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "georges-darien",
@@ -8497,7 +8667,8 @@
       "emmanuel-bove",
       "luc-dietrich",
       "marcel-schwob"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "marcel-schwob",
@@ -8537,7 +8708,8 @@
       "jarry",
       "borges",
       "kafka"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ivan-gontcharov",
@@ -8572,7 +8744,8 @@
       "marcel-schwob",
       "emmanuel-bove",
       "cesare-pavese"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "john-giorno",
@@ -8615,7 +8788,8 @@
       "burroughs",
       "ginsberg",
       "yoko-ono"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "emmanuel-bove",
@@ -8660,7 +8834,8 @@
       "marcel-schwob",
       "luc-dietrich",
       "georges-darien"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ivan-chtcheglov",
@@ -8691,7 +8866,8 @@
       "guy-debord",
       "constant-nieuwenhuys",
       "isidore-isou"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "cesare-pavese",
@@ -8735,7 +8911,8 @@
       "emmanuel-bove",
       "marcel-schwob",
       "albert-caraco"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "kazimir-malevich",
@@ -8817,6 +8994,10 @@
       "paul-klee",
       "kazimir-malevich",
       "el-lissitzky"
+    ],
+    "groups": [
+      "Bauhaus",
+      "Avant-garde russe"
     ]
   },
   {
@@ -8937,7 +9118,8 @@
       "alexander-rodchenko",
       "liubov-popova",
       "alexandra-exter"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "liubov-popova",
@@ -8975,7 +9157,8 @@
       "varvara-stepanova",
       "alexander-rodchenko",
       "kazimir-malevich"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "el-lissitzky",
@@ -9021,7 +9204,8 @@
       "alexander-rodchenko"
     ],
     "groups": [
-      "Avant-garde russe"
+      "Avant-garde russe",
+      "Suprématisme"
     ]
   },
   {
@@ -9140,7 +9324,8 @@
       "natalia-goncharova",
       "varvara-stepanova",
       "liubov-popova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "olga-rozanova",
@@ -9183,7 +9368,8 @@
       "aleksei-kruchenykh",
       "kazimir-malevich",
       "natalia-goncharova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ivan-kliun",
@@ -9221,7 +9407,8 @@
       "kazimir-malevich",
       "olga-rozanova",
       "vladimir-tatlin"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "nadezhda-udaltsova",
@@ -9255,7 +9442,8 @@
     "related": [
       "varvara-stepanova",
       "kazimir-malevich"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pavel-filonov",
@@ -9290,7 +9478,8 @@
       "kazimir-malevich",
       "mikhail-matiushin",
       "natalia-goncharova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "david-burliuk",
@@ -9325,7 +9514,8 @@
       "vladimir-mayakovsky",
       "velimir-khlebnikov",
       "aleksei-kruchenykh"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "vladimir-mayakovsky",
@@ -9361,7 +9551,8 @@
       "velimir-khlebnikov",
       "aleksei-kruchenykh",
       "david-burliuk"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "velimir-khlebnikov",
@@ -9396,7 +9587,8 @@
       "vladimir-mayakovsky",
       "aleksei-kruchenykh",
       "david-burliuk"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "aleksei-kruchenykh",
@@ -9451,7 +9643,8 @@
       "vladimir-mayakovsky",
       "velimir-khlebnikov",
       "david-burliuk"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "mikhail-matiushin",
@@ -9486,7 +9679,8 @@
       "kazimir-malevich",
       "aleksei-kruchenykh",
       "nikolai-kulbin"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "nikolai-kulbin",
@@ -9521,7 +9715,8 @@
       "mikhail-matiushin",
       "aleksei-kruchenykh",
       "david-burliuk"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ivan-puni",
@@ -9555,7 +9750,8 @@
     "related": [
       "kazimir-malevich",
       "nadezhda-udaltsova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gustav-klutsis",
@@ -9627,7 +9823,8 @@
     "related": [
       "varvara-stepanova",
       "nadezhda-udaltsova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "alexander-vesnin",
@@ -9662,7 +9859,8 @@
       "moisei-ginzburg",
       "gustav-klutsis",
       "varvara-stepanova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "moisei-ginzburg",
@@ -9697,7 +9895,8 @@
       "alexander-vesnin",
       "gustav-klutsis",
       "varvara-stepanova"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "filippo-tommaso-marinetti",
@@ -9732,7 +9931,8 @@
       "umberto-boccioni",
       "giacomo-balla",
       "francesco-balilla-pratella"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "umberto-boccioni",
@@ -9768,7 +9968,8 @@
       "filippo-tommaso-marinetti",
       "carlo-carra",
       "gino-severini"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "carlo-carra",
@@ -9803,7 +10004,8 @@
       "umberto-boccioni",
       "gino-severini",
       "giacomo-balla"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gino-severini",
@@ -9838,7 +10040,8 @@
       "umberto-boccioni",
       "carlo-carra",
       "giacomo-balla"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "giacomo-balla",
@@ -9873,7 +10076,8 @@
       "fortu-depero",
       "umberto-boccioni",
       "filippo-tommaso-marinetti"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "fortu-depero",
@@ -9908,7 +10112,8 @@
       "giacomo-balla",
       "enrico-prampolini",
       "bruno-munari"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "enrico-prampolini",
@@ -9943,7 +10148,8 @@
       "fortu-depero",
       "antonio-santelia",
       "giacomo-balla"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "antonio-santelia",
@@ -9978,7 +10184,8 @@
       "moisei-ginzburg",
       "alexander-vesnin",
       "filippo-tommaso-marinetti"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "anton-giulio-bragaglia",
@@ -10051,7 +10258,8 @@
       "filippo-tommaso-marinetti",
       "francesco-balilla-pratella",
       "umberto-boccioni"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ardengo-soffici",
@@ -10086,7 +10294,8 @@
       "filippo-tommaso-marinetti",
       "carlo-carra",
       "gino-severini"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "benedetta-cappa",
@@ -10121,7 +10330,8 @@
       "filippo-tommaso-marinetti",
       "giacomo-balla",
       "enrico-prampolini"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bruno-munari",
@@ -10194,7 +10404,8 @@
       "filippo-tommaso-marinetti",
       "anton-giulio-bragaglia",
       "george-brecht"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "george-maciunas",
@@ -10229,7 +10440,8 @@
       "george-brecht",
       "dick-higgins",
       "alison-knowles"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "george-brecht",
@@ -10379,7 +10591,8 @@
       "george-maciunas",
       "dick-higgins",
       "mieko-shiomi"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "dick-higgins",
@@ -10452,7 +10665,8 @@
       "dick-higgins",
       "george-maciunas",
       "jackson-mac-low"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "mieko-shiomi",
@@ -10526,6 +10740,9 @@
       "george-maciunas",
       "wolf-vostell",
       "daniel-spoerri"
+    ],
+    "groups": [
+      "Art conceptuel"
     ]
   },
   {
@@ -10599,7 +10816,8 @@
       "robert-filliou",
       "wolf-vostell",
       "george-maciunas"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ay-o",
@@ -10634,7 +10852,8 @@
       "mieko-shiomi",
       "george-maciunas",
       "yoko-ono"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joe-jones",
@@ -10669,7 +10888,8 @@
       "george-brecht",
       "takehisa-kosugi",
       "george-maciunas"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "charlotte-moorman",
@@ -10704,7 +10924,8 @@
       "nam-june-paik",
       "yoko-ono",
       "george-maciunas"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ken-friedman",
@@ -10739,7 +10960,8 @@
       "george-maciunas",
       "dick-higgins",
       "george-brecht"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "takehisa-kosugi",
@@ -10889,7 +11111,8 @@
       "george-maciunas",
       "robert-filliou",
       "ken-friedman"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "arthur-koepcke",
@@ -10962,7 +11185,8 @@
       "george-maciunas",
       "arthur-koepcke",
       "milan-knizak"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "milan-knizak",
@@ -11072,7 +11296,8 @@
         "url": "https://www.nypl.org/research/research-catalog",
         "note": "Ressource documentaire sur Fluxus / Nouveau Réalisme ; à compléter par une notice d’œuvre propre à Ben Vautier."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joseph-beuys",
@@ -11106,7 +11331,8 @@
         "url": "https://www.nypl.org/research/research-catalog",
         "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Joseph Beuys."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "takako-saito",
@@ -11140,7 +11366,8 @@
         "url": "https://www.nypl.org/research/research-catalog",
         "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Takako Saito."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "yoshi-wada",
@@ -11174,7 +11401,8 @@
         "url": "https://www.nypl.org/research/research-catalog",
         "note": "Ressource documentaire sur Fluxus / musique expérimentale ; à compléter par une notice d’œuvre propre à Yoshi Wada."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "henry-flynt",
@@ -11208,7 +11436,8 @@
         "url": "https://www.nypl.org/research/research-catalog",
         "note": "Ressource documentaire sur Fluxus ; à compléter par une notice d’œuvre propre à Henry Flynt."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "baargeld",
@@ -11310,7 +11539,8 @@
       "piet-mondrian",
       "gerrit-rietveld",
       "bart-van-der-leck"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "piet-mondrian",
@@ -11344,7 +11574,8 @@
       "theo-van-doesburg",
       "gerrit-rietveld",
       "bart-van-der-leck"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gerrit-rietveld",
@@ -11378,7 +11609,8 @@
       "theo-van-doesburg",
       "piet-mondrian",
       "bart-van-der-leck"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bart-van-der-leck",
@@ -11412,7 +11644,8 @@
       "theo-van-doesburg",
       "piet-mondrian",
       "gerrit-rietveld"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "vilmos-huszár",
@@ -11446,7 +11679,8 @@
       "theo-van-doesburg",
       "piet-mondrian",
       "gerrit-rietveld"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "j-j-p-oud",
@@ -11480,7 +11714,8 @@
       "theo-van-doesburg",
       "piet-mondrian",
       "gerrit-rietveld"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "cornelis-van-eesteren",
@@ -11513,7 +11748,8 @@
       "theo-van-doesburg",
       "piet-mondrian",
       "gerrit-rietveld"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "vantongerloo",
@@ -11547,7 +11783,8 @@
       "theo-van-doesburg",
       "piet-mondrian",
       "gerrit-rietveld"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "walter-gropius",
@@ -11581,7 +11818,8 @@
       "paul-klee",
       "oskar-schlemmer",
       "marcel-breuer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "paul-klee",
@@ -11687,7 +11925,8 @@
       "walter-gropius",
       "paul-klee",
       "marcel-breuer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "marcel-breuer",
@@ -11721,7 +11960,8 @@
       "walter-gropius",
       "paul-klee",
       "oskar-schlemmer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "johannes-itten",
@@ -11755,7 +11995,8 @@
       "walter-gropius",
       "paul-klee",
       "oskar-schlemmer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "josef-albers",
@@ -11789,7 +12030,8 @@
       "walter-gropius",
       "paul-klee",
       "laszlo-moholy-nagy"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "anni-albers",
@@ -11823,7 +12065,8 @@
       "walter-gropius",
       "paul-klee",
       "oskar-schlemmer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "marianne-brandt",
@@ -11857,7 +12100,8 @@
       "walter-gropius",
       "paul-klee",
       "oskar-schlemmer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gertrud-arndt",
@@ -11891,7 +12135,8 @@
       "walter-gropius",
       "paul-klee",
       "laszlo-moholy-nagy"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "lucia-moholy",
@@ -11925,7 +12170,8 @@
       "walter-gropius",
       "paul-klee",
       "laszlo-moholy-nagy"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "karel-teige",
@@ -12258,7 +12504,8 @@
       "corneille",
       "pierre-alechinsky",
       "christian-dotremont"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "constant-nieuwenhuys",
@@ -12292,7 +12539,8 @@
       "asger-jorn",
       "karel-appel",
       "corneille"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "corneille",
@@ -12326,7 +12574,8 @@
       "karel-appel",
       "pierre-alechinsky",
       "christian-dotremont"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "pierre-alechinsky",
@@ -12360,7 +12609,8 @@
       "karel-appel",
       "corneille",
       "christian-dotremont"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "christian-dotremont",
@@ -12394,7 +12644,8 @@
       "karel-appel",
       "corneille",
       "pierre-alechinsky"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joseph-noiret",
@@ -12428,7 +12679,8 @@
       "karel-appel",
       "corneille",
       "pierre-alechinsky"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jorgen-nash",
@@ -12462,7 +12714,8 @@
       "asger-jorn",
       "karel-appel",
       "constant-nieuwenhuys"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "henry-heerup",
@@ -12496,7 +12749,8 @@
       "karel-appel",
       "corneille",
       "pierre-alechinsky"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "carl-henning-pedersen",
@@ -12530,7 +12784,8 @@
       "karel-appel",
       "corneille",
       "pierre-alechinsky"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jiri-kolar",
@@ -12556,7 +12811,6 @@
       }
     ],
     "groups": [
-      "Art conceptuel",
       "Surréalisme"
     ],
     "bibliography": [
@@ -12602,7 +12856,8 @@
       "petr-stembera",
       "jiri-kovanda",
       "stanislav-kolibal"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "petr-stembera",
@@ -12636,7 +12891,8 @@
       "jiri-kovanda",
       "stanislav-kolibal",
       "joseph-kosuth"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "jiri-kovanda",
@@ -12670,7 +12926,8 @@
       "petr-stembera",
       "stanislav-kolibal",
       "joseph-kosuth"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "stanislav-kolibal",
@@ -12704,7 +12961,8 @@
       "petr-stembera",
       "jiri-kovanda",
       "joseph-kosuth"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "milan-adamciak",
@@ -12738,7 +12996,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "peter-weibel",
@@ -12772,7 +13031,8 @@
       "bruce-nauman",
       "martha-rosler",
       "dan-graham"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "valie-export",
@@ -12880,7 +13140,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joan-jonas",
@@ -12914,7 +13175,8 @@
       "valie-export",
       "peter-campus",
       "dara-birnbaum"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "martha-rosler",
@@ -12948,7 +13210,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "peter-campus",
@@ -12982,7 +13245,8 @@
       "valie-export",
       "joan-jonas",
       "dara-birnbaum"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "dan-graham",
@@ -13016,7 +13280,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "dara-birnbaum",
@@ -13050,7 +13315,8 @@
       "valie-export",
       "joan-jonas",
       "peter-campus"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "bill-viola",
@@ -13084,7 +13350,8 @@
       "valie-export",
       "joan-jonas",
       "peter-campus"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "gary-hill",
@@ -13118,7 +13385,8 @@
       "valie-export",
       "joan-jonas",
       "peter-campus"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "joseph-kosuth",
@@ -13152,7 +13420,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "sol-lewitt",
@@ -13186,7 +13455,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "lawrence-weiner",
@@ -13220,7 +13490,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "terry-atkinson",
@@ -13254,7 +13525,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "hanne-darboven",
@@ -13288,7 +13560,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "on-kawara",
@@ -13322,7 +13595,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "stanley-brouwn",
@@ -13356,7 +13630,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "marina-abramovic",
@@ -13390,7 +13665,8 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "patrick-waldberg",
@@ -13416,7 +13692,6 @@
       }
     ],
     "groups": [
-      "Acéphale",
       "Surréalisme"
     ],
     "bibliography": [
@@ -13453,9 +13728,7 @@
         "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Isabelle Waldberg."
       }
     ],
-    "groups": [
-      "Acéphale"
-    ],
+    "groups": [],
     "bibliography": [
       "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
       "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
@@ -13490,9 +13763,7 @@
         "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Jean Wahl."
       }
     ],
-    "groups": [
-      "Acéphale"
-    ],
+    "groups": [],
     "bibliography": [
       "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
       "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
@@ -13527,9 +13798,7 @@
         "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Jules Monnerot."
       }
     ],
-    "groups": [
-      "Acéphale"
-    ],
+    "groups": [],
     "bibliography": [
       "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
       "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
@@ -13610,7 +13879,8 @@
       "walter-marchetti",
       "ramon-barce",
       "tomas-marco"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "ramon-barce",
@@ -13644,7 +13914,8 @@
       "walter-marchetti",
       "esther-ferrer",
       "tomas-marco"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "tomas-marco",
@@ -13678,7 +13949,8 @@
       "walter-marchetti",
       "esther-ferrer",
       "ramon-barce"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "lucebert",
@@ -13712,7 +13984,8 @@
       "asger-jorn",
       "karel-appel",
       "constant-nieuwenhuys"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "eugene-brands",
@@ -13746,7 +14019,8 @@
       "asger-jorn",
       "karel-appel",
       "constant-nieuwenhuys"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "lotti-van-der-gaag",
@@ -13780,7 +14054,8 @@
       "asger-jorn",
       "karel-appel",
       "constant-nieuwenhuys"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "else-alfelt",
@@ -13814,7 +14089,8 @@
       "asger-jorn",
       "karel-appel",
       "constant-nieuwenhuys"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -13850,7 +14126,8 @@
       "david-tudor",
       "henry-cowell",
       "harry-partch"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -13885,6 +14162,9 @@
       "charles-ives",
       "henry-cowell",
       "harry-partch"
+    ],
+    "groups": [
+      "Fluxus"
     ]
   },
   {
@@ -13920,7 +14200,8 @@
       "charles-ives",
       "david-tudor",
       "harry-partch"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -13956,7 +14237,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -13990,7 +14272,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14026,7 +14309,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14062,7 +14346,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14098,7 +14383,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14133,7 +14419,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14168,7 +14455,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14203,7 +14491,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14239,7 +14528,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14275,7 +14565,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14311,7 +14602,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14347,7 +14639,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14383,7 +14676,8 @@
       "charles-ives",
       "david-tudor",
       "henry-cowell"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14419,7 +14713,8 @@
       "ludwig-wittgenstein",
       "alphonse-allais",
       "elisee-reclus"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14454,7 +14749,8 @@
       "henry-david-thoreau",
       "alphonse-allais",
       "elisee-reclus"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14490,7 +14786,8 @@
       "henry-david-thoreau",
       "ludwig-wittgenstein",
       "elisee-reclus"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14525,7 +14822,8 @@
       "henry-david-thoreau",
       "ludwig-wittgenstein",
       "alphonse-allais"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14561,7 +14859,8 @@
       "george-orwell",
       "henry-david-thoreau",
       "panait-istrati"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14597,7 +14896,8 @@
       "gunther-anders",
       "karl-marx",
       "john-cowper-powys"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14633,7 +14933,8 @@
       "george-orwell",
       "karl-marx",
       "henry-david-thoreau"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14669,7 +14970,8 @@
       "john-cowper-powys",
       "george-orwell",
       "nestor-makhno"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14705,7 +15007,8 @@
       "nestor-makhno",
       "george-orwell",
       "gunther-anders"
-    ]
+    ],
+    "groups": []
   },
   {
     "kind": "person",
@@ -14739,7 +15042,8 @@
       "karl-marx",
       "panait-istrati",
       "george-orwell"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "arseni_avraamov",
@@ -14747,8 +15051,7 @@
     "years": "1886–1944",
     "group": "Musique expérimentale",
     "groups": [
-      "Avant-garde russe",
-      "Musique expérimentale"
+      "Avant-garde russe"
     ],
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
@@ -14785,8 +15088,7 @@
     "years": "1896–1954",
     "group": "Cinéma expérimental",
     "groups": [
-      "Avant-garde russe",
-      "Cinéma expérimental"
+      "Avant-garde russe"
     ],
     "role_icon": "🎬",
     "role_label": "Cinéma",
@@ -14862,8 +15164,7 @@
     "years": "1900–1973",
     "group": "Musique expérimentale",
     "groups": [
-      "Avant-garde russe",
-      "Musique expérimentale"
+      "Avant-garde russe"
     ],
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
@@ -14901,8 +15202,7 @@
     "years": "1892–1914",
     "group": "Futurisme russe",
     "groups": [
-      "Avant-garde russe",
-      "Futurisme russe"
+      "Avant-garde russe"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
@@ -14939,8 +15239,7 @@
     "years": "1887–1941",
     "group": "Futurisme russe",
     "groups": [
-      "Avant-garde russe",
-      "Futurisme russe"
+      "Avant-garde russe"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
@@ -14979,7 +15278,6 @@
     "group": "Futurisme russe",
     "groups": [
       "Avant-garde russe",
-      "Futurisme russe",
       "Poésie sonore"
     ],
     "role_icon": "📼",
@@ -15017,8 +15315,7 @@
     "years": "1884–1961",
     "group": "Futurisme russe",
     "groups": [
-      "Avant-garde russe",
-      "Futurisme russe"
+      "Avant-garde russe"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
@@ -15057,7 +15354,6 @@
     "group": "Futurisme russe",
     "groups": [
       "Avant-garde russe",
-      "Futurisme russe",
       "Théâtre et modernités"
     ],
     "role_icon": "🎭",
@@ -15095,8 +15391,7 @@
     "years": "1905–1942",
     "group": "Littérature expérimentale",
     "groups": [
-      "Avant-garde russe",
-      "Littérature expérimentale"
+      "Avant-garde russe"
     ],
     "role_icon": "📖",
     "role_label": "Écriture",
@@ -15173,8 +15468,7 @@
     "years": "1890–1977",
     "group": "Constructivisme",
     "groups": [
-      "Avant-garde russe",
-      "Constructivisme"
+      "Avant-garde russe"
     ],
     "role_icon": "🎨",
     "role_label": "Arts visuels",
@@ -15212,8 +15506,7 @@
     "years": "1884–1962",
     "group": "Constructivisme",
     "groups": [
-      "Avant-garde russe",
-      "Constructivisme"
+      "Avant-garde russe"
     ],
     "role_icon": "🎨",
     "role_label": "Arts visuels",
@@ -15252,7 +15545,6 @@
     "group": "Arts",
     "groups": [
       "Avant-garde russe",
-      "Arts",
       "Théâtre et modernités"
     ],
     "role_icon": "🎨",
@@ -15291,7 +15583,6 @@
     "group": "Futurisme russe",
     "groups": [
       "Avant-garde russe",
-      "Futurisme russe",
       "Poésie / modernités"
     ],
     "role_icon": "📖",
@@ -15330,8 +15621,7 @@
     "years": "1890–1974",
     "group": "Constructivisme",
     "groups": [
-      "Avant-garde russe",
-      "Constructivisme"
+      "Avant-garde russe"
     ],
     "role_icon": "🏛️",
     "role_label": "Architecture",
@@ -15370,7 +15660,6 @@
     "group": "Littérature russe",
     "groups": [
       "Avant-garde russe",
-      "Littérature russe",
       "Poésie / modernités"
     ],
     "role_icon": "📖",
@@ -15412,7 +15701,6 @@
     "group": "Littérature russe",
     "groups": [
       "Avant-garde russe",
-      "Littérature russe",
       "Poésie / modernités"
     ],
     "role_icon": "📖",
