@@ -12522,7 +12522,7 @@
     "name": "VALIE EXPORT",
     "years": "1940–",
     "group": "Art vidéo / performance",
-    "bio": "Artiste autrichienne, pionnière de la performance féministe et de l’art vidéo, elle interroge le corps, le regard et les médias.",
+    "bio": "VALIE EXPORT, artiste autrichienne née Waltraud Lehner, adopte son nom d’artiste comme geste de rupture avec les conventions d’identité et de représentation. Dès les années 1960, ses performances, films, photographies et installations interrogent le regard, la violence symbolique et la construction sociale du corps féminin. Ses actions dans l’espace public, parfois délibérément provocatrices, font d’elle une figure majeure de l’art féministe et de l’art médiatique européen.",
     "works": [
       "Tapp und Tastkino",
       "Facing a Family"
@@ -12532,9 +12532,23 @@
     "role_label": "Art vidéo",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo / performance » ; à compléter par les notices et catalogues propres à VALIE EXPORT."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/p/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo / performance » ; à compléter par les notices et catalogues propres à VALIE EXPORT."
       }
+    ],
+    "bibliography": [
+      "Peggy Phelan et Helena Reckitt (dir.), Art and Feminism, Phaidon, 2001.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Catherine Elwes, Video Art: A Guided Tour, I.B. Tauris, 2005."
+    ],
+    "related": [
+      "joan-jonas",
+      "peter-campus",
+      "dara-birnbaum"
     ]
   },
   {
@@ -12542,7 +12556,7 @@
     "name": "Birgit Jürgenssen",
     "years": "1949–2003",
     "group": "Art conceptuel / performance",
-    "bio": "Artiste autrichienne, figure de l’art féministe, elle utilise photographie, dessin et performance pour interroger les rôles de genre.",
+    "bio": "Birgit Jürgenssen est une artiste autrichienne dont le travail mêle dessin, photographie, sculpture et performance pour analyser les rôles assignés aux femmes. Dans des images souvent ironiques, elle transforme les objets domestiques et les gestes quotidiens en signes de contraintes sociales. Son œuvre, redécouverte internationalement après sa mort, occupe une place importante dans l’histoire de l’art féministe et des pratiques conceptuelles en Autriche.",
     "works": [
       "Hausfrauen-Küchenschürze",
       "Selbst mit Pelz"
@@ -12552,9 +12566,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / performance » ; à compléter par les notices et catalogues propres à Birgit Jürgenssen."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/p/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / performance » ; à compléter par les notices et catalogues propres à Birgit Jürgenssen."
       }
+    ],
+    "bibliography": [
+      "RoseLee Goldberg, Performance Art: From Futurism to the Present, Thames & Hudson, 2011.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997.",
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12562,7 +12590,7 @@
     "name": "Bruce Nauman",
     "years": "1941–",
     "group": "Art conceptuel / art vidéo",
-    "bio": "Artiste américain, il explore langage, corps, répétition et espace par la sculpture, la performance et la vidéo.",
+    "bio": "Bruce Nauman est un artiste américain qui, depuis les années 1960, explore les possibilités de l’atelier comme laboratoire d’actions, de langage et de perception. Vidéos, néons, sculptures et installations mettent souvent le corps à l’épreuve de gestes répétitifs ou de situations inconfortables. En brouillant les frontières entre performance, objet et documentation, il a profondément influencé l’art conceptuel et l’installation contemporaine.",
     "works": [
       "Walking in an Exaggerated Manner Around the Perimeter of a Square",
       "The True Artist Helps the World by Revealing Mystic Truths"
@@ -12573,8 +12601,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / art vidéo » ; à compléter par les notices et catalogues propres à Bruce Nauman."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / art vidéo » ; à compléter par les notices et catalogues propres à Bruce Nauman."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Michael Rush, Video Art, Thames & Hudson, 2007."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12582,7 +12624,7 @@
     "name": "Joan Jonas",
     "years": "1936–",
     "group": "Art vidéo / performance",
-    "bio": "Artiste américaine, pionnière de la vidéo et de la performance, elle combine gestes, miroirs, dessin, son et images enregistrées.",
+    "bio": "Joan Jonas est une artiste américaine pionnière de la performance et de l’art vidéo. À partir des années 1960, elle combine gestes chorégraphiques, miroirs, masques, dessins, sons et images projetées, faisant de la scène un espace de circulation entre présence et représentation. Son travail puise dans les rituels, les récits et les paysages, tout en examinant la manière dont les médias construisent le regard.",
     "works": [
       "Vertical Roll",
       "Organic Honey’s Visual Telepathy"
@@ -12592,9 +12634,23 @@
     "role_label": "Art vidéo",
     "sources": [
       {
-        "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo / performance » ; à compléter par les notices et catalogues propres à Joan Jonas."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/p/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo / performance » ; à compléter par les notices et catalogues propres à Joan Jonas."
       }
+    ],
+    "bibliography": [
+      "Peggy Phelan et Helena Reckitt (dir.), Art and Feminism, Phaidon, 2001.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Catherine Elwes, Video Art: A Guided Tour, I.B. Tauris, 2005."
+    ],
+    "related": [
+      "valie-export",
+      "peter-campus",
+      "dara-birnbaum"
     ]
   },
   {
@@ -12602,7 +12658,7 @@
     "name": "Martha Rosler",
     "years": "1943–",
     "group": "Art conceptuel / art vidéo",
-    "bio": "Artiste américaine, elle mêle vidéo, photographie et critique sociale autour des médias, du genre et de la guerre.",
+    "bio": "Martha Rosler est une artiste américaine dont les vidéos, photomontages, installations et essais relient l’expérience quotidienne aux structures politiques. Elle analyse notamment le travail domestique, les représentations médiatiques de la guerre, le logement et la transformation des villes. Sa pratique féministe refuse l’idée d’une œuvre isolée du monde social et associe recherche documentaire, satire et critique des images.",
     "works": [
       "Semiotics of the Kitchen",
       "The Bowery in two inadequate descriptive systems"
@@ -12613,8 +12669,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / art vidéo » ; à compléter par les notices et catalogues propres à Martha Rosler."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / art vidéo » ; à compléter par les notices et catalogues propres à Martha Rosler."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Michael Rush, Video Art, Thames & Hudson, 2007."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12622,7 +12692,7 @@
     "name": "Peter Campus",
     "years": "1937–",
     "group": "Art vidéo",
-    "bio": "Artiste américain, pionnier de l’installation vidéo en circuit fermé et des recherches sur la perception et l’image de soi.",
+    "bio": "Peter Campus est un artiste américain qui joue un rôle important dans les débuts de l’art vidéo. Ses installations en circuit fermé confrontent le visiteur à sa propre image, souvent déformée ou décalée, et font de la perception un événement incertain. En travaillant avec la caméra, l’écran et l’espace réel, il transforme la relation entre spectateur et œuvre en expérience corporelle et temporelle.",
     "works": [
       "Three Transitions",
       "Interface"
@@ -12633,8 +12703,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Peter Campus."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Peter Campus."
       }
+    ],
+    "bibliography": [
+      "Michael Rush, Video Art, Thames & Hudson, 2007.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Doug Hall et Sally Jo Fifer (dir.), Illuminating Video: An Essential Guide to Video Art, Aperture, 1990."
+    ],
+    "related": [
+      "valie-export",
+      "joan-jonas",
+      "dara-birnbaum"
     ]
   },
   {
@@ -12642,7 +12726,7 @@
     "name": "Dan Graham",
     "years": "1942–2022",
     "group": "Art conceptuel / art vidéo",
-    "bio": "Artiste et théoricien américain, il explore architecture, télévision, miroirs et participation du public.",
+    "bio": "Dan Graham est un artiste américain dont les œuvres traversent sculpture, vidéo, architecture et critique culturelle. Ses pavillons de verre et de miroir organisent des boucles de perception où les visiteurs se voient et voient les autres, tandis que ses vidéos étudient la télévision, les comportements et l’espace social. Son travail relie l’art conceptuel aux cultures populaires et à une réflexion sur l’architecture comme dispositif de pouvoir.",
     "works": [
       "Present Continuous Past(s)",
       "Rock My Religion"
@@ -12653,8 +12737,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / art vidéo » ; à compléter par les notices et catalogues propres à Dan Graham."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / art vidéo » ; à compléter par les notices et catalogues propres à Dan Graham."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Michael Rush, Video Art, Thames & Hudson, 2007."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12662,7 +12760,7 @@
     "name": "Dara Birnbaum",
     "years": "1946–",
     "group": "Art vidéo",
-    "bio": "Artiste américaine, pionnière de la vidéo féministe, elle déconstruit les images de la télévision et de la culture populaire.",
+    "bio": "Dara Birnbaum est une artiste américaine pionnière de la vidéo et de l’installation, connue pour détourner des images de la télévision et de la culture populaire. En répétant, découpant et remontant des séquences, elle rend visibles les conventions de genre, de pouvoir et de narration incorporées aux médias. Ses œuvres montrent que le montage n’est pas seulement technique : il peut devenir une méthode de critique politique.",
     "works": [
       "Technology/Transformation: Wonder Woman",
       "Kiss the Girls: Make Them Cry"
@@ -12673,8 +12771,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Dara Birnbaum."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Dara Birnbaum."
       }
+    ],
+    "bibliography": [
+      "Michael Rush, Video Art, Thames & Hudson, 2007.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Doug Hall et Sally Jo Fifer (dir.), Illuminating Video: An Essential Guide to Video Art, Aperture, 1990."
+    ],
+    "related": [
+      "valie-export",
+      "joan-jonas",
+      "peter-campus"
     ]
   },
   {
@@ -12682,7 +12794,7 @@
     "name": "Bill Viola",
     "years": "1951–2024",
     "group": "Art vidéo",
-    "bio": "Artiste américain, il développe des installations vidéo immersives autour du temps, du corps, de la naissance et de la mort.",
+    "bio": "Bill Viola est un artiste américain majeur de l’art vidéo, dont les installations utilisent ralentis, images monumentales et paysages sonores pour explorer la naissance, la mort, la mémoire et les états de conscience. Il puise dans diverses traditions spirituelles et artistiques sans réduire ses œuvres à une illustration doctrinale. La durée et l’immersion invitent le spectateur à éprouver physiquement les transformations de l’image.",
     "works": [
       "The Passing",
       "The Crossing"
@@ -12693,8 +12805,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Bill Viola."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Bill Viola."
       }
+    ],
+    "bibliography": [
+      "Michael Rush, Video Art, Thames & Hudson, 2007.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Doug Hall et Sally Jo Fifer (dir.), Illuminating Video: An Essential Guide to Video Art, Aperture, 1990."
+    ],
+    "related": [
+      "valie-export",
+      "joan-jonas",
+      "peter-campus"
     ]
   },
   {
@@ -12702,7 +12828,7 @@
     "name": "Gary Hill",
     "years": "1951–",
     "group": "Art vidéo",
-    "bio": "Artiste américain, il explore les relations entre image vidéo, langage, corps et espace dans des installations interactives.",
+    "bio": "Gary Hill est un artiste américain dont les installations vidéo et sonores interrogent les liens entre langage, corps et image électronique. Les mots apparaissent, se fragmentent ou disparaissent dans des environnements où la voix et l’écran modifient la perception du spectateur. Son œuvre, exigeante et souvent immersive, fait du médium vidéo non un simple support narratif mais un espace où la pensée se forme et se défait.",
     "works": [
       "Tall Ships",
       "Incidence of Catastrophe"
@@ -12713,8 +12839,22 @@
     "sources": [
       {
         "url": "https://www.moma.org/collection/terms/video",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Gary Hill."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/v/video-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art vidéo » ; à compléter par les notices et catalogues propres à Gary Hill."
       }
+    ],
+    "bibliography": [
+      "Michael Rush, Video Art, Thames & Hudson, 2007.",
+      "Chris Meigh-Andrews, A History of Video Art, Bloomsbury, 2014.",
+      "Doug Hall et Sally Jo Fifer (dir.), Illuminating Video: An Essential Guide to Video Art, Aperture, 1990."
+    ],
+    "related": [
+      "valie-export",
+      "joan-jonas",
+      "peter-campus"
     ]
   },
   {
@@ -12722,7 +12862,7 @@
     "name": "Joseph Kosuth",
     "years": "1945–",
     "group": "Art conceptuel",
-    "bio": "Artiste américain, figure fondatrice de l’art conceptuel, il place langage, définition et contexte au cœur de l’œuvre.",
+    "bio": "Joseph Kosuth est un artiste américain central dans l’émergence de l’art conceptuel des années 1960. Ses œuvres associent souvent objets, définitions et représentations afin d’interroger ce qui fait qu’une chose devient une œuvre d’art. Avec ses textes théoriques, il déplace l’attention de la fabrication matérielle vers les conditions linguistiques et institutionnelles de l’art, sans pour autant abolir le rôle du contexte d’exposition.",
     "works": [
       "One and Three Chairs",
       "Art after Philosophy"
@@ -12732,9 +12872,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Joseph Kosuth."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Joseph Kosuth."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12742,7 +12896,7 @@
     "name": "Sol LeWitt",
     "years": "1928–2007",
     "group": "Art conceptuel",
-    "bio": "Artiste américain, il définit l’œuvre conceptuelle par l’idée et les instructions, notamment dans ses structures et dessins muraux.",
+    "bio": "Sol LeWitt est un artiste américain qui a contribué à définir l’art conceptuel et l’art minimal. Ses structures géométriques et ses dessins muraux reposent sur des systèmes de règles pouvant être exécutés par d’autres, séparant l’idée de l’objet final. Cette méthode transforme l’auteur en concepteur d’instructions et permet à une même œuvre d’exister sous des réalisations différentes, sans perdre son principe organisateur.",
     "works": [
       "Paragraphs on Conceptual Art",
       "Wall Drawings"
@@ -12752,9 +12906,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Sol LeWitt."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Sol LeWitt."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12762,7 +12930,7 @@
     "name": "Lawrence Weiner",
     "years": "1942–2021",
     "group": "Art conceptuel",
-    "bio": "Artiste américain, il utilise le langage comme matériau et conçoit des œuvres dont l’exécution physique n’est pas toujours nécessaire.",
+    "bio": "Lawrence Weiner est un artiste américain associé à l’art conceptuel, dont les œuvres prennent souvent la forme de propositions verbales inscrites sur un mur ou imprimées. Il considère que le langage peut constituer une œuvre sans exiger une réalisation matérielle unique : le public rencontre alors une idée, une instruction ou une possibilité. Son travail a profondément déplacé les notions de propriété, d’objet et de participation du spectateur.",
     "works": [
       "Statements",
       "Declaration of Intent"
@@ -12772,9 +12940,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Lawrence Weiner."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Lawrence Weiner."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12782,7 +12964,7 @@
     "name": "Terry Atkinson",
     "years": "1939–",
     "group": "Art conceptuel",
-    "bio": "Artiste britannique, cofondateur du collectif Art & Language, il contribue à une pratique analytique et théorique de l’art conceptuel.",
+    "bio": "Terry Atkinson est un artiste et théoricien britannique, cofondateur du groupe Art & Language à la fin des années 1960. Son travail associe peinture, texte, logique et critique institutionnelle pour examiner les présupposés qui structurent les images et les discours artistiques. Il contribue à faire de l’écriture et de la discussion collective des matériaux de création, en contestant le modèle de l’artiste comme auteur solitaire.",
     "works": [
       "Art-Language",
       "Map to Not Indicate"
@@ -12792,9 +12974,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Terry Atkinson."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Terry Atkinson."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12802,7 +12998,7 @@
     "name": "Hanne Darboven",
     "years": "1941–2009",
     "group": "Art conceptuel",
-    "bio": "Artiste allemande, elle crée des installations sérielles fondées sur l’écriture, les nombres, le calendrier et la durée.",
+    "bio": "Hanne Darboven est une artiste allemande dont les œuvres sérielles transforment nombres, dates, écritures et calendriers en vastes installations. Ses systèmes de notation enregistrent le passage du temps sans le réduire à un récit linéaire, produisant des ensembles à la fois rigoureux et méditatifs. Son travail, souvent associé à l’art conceptuel, se distingue par une matérialité de l’écriture et par l’ampleur presque architecturale de ses archives.",
     "works": [
       "Kulturgeschichte 1880–1983",
       "Schreibzeit"
@@ -12812,9 +13008,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Hanne Darboven."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Hanne Darboven."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12822,7 +13032,7 @@
     "name": "On Kawara",
     "years": "1932–2014",
     "group": "Art conceptuel",
-    "bio": "Artiste japonais, il transforme dates, lieux et traces quotidiennes en œuvres conceptuelles sur le temps et l’existence.",
+    "bio": "On Kawara est un artiste japonais associé à l’art conceptuel, connu notamment pour ses Date Paintings, tableaux portant la date du jour de leur réalisation. Ses séries de cartes postales, télégrammes et listes enregistrent l’existence par des gestes ordinaires, répétitifs et précisément datés. L’œuvre ne raconte pas une vie : elle rend sensible la durée, la présence et la fragilité du fait d’être vivant.",
     "works": [
       "Today Series",
       "I Am Still Alive"
@@ -12832,9 +13042,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à On Kawara."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à On Kawara."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12842,7 +13066,7 @@
     "name": "Stanley Brouwn",
     "years": "1935–2017",
     "group": "Art conceptuel",
-    "bio": "Artiste néerlandais, il explore mesure, déplacement et langage avec une pratique conceptuelle volontairement discrète.",
+    "bio": "Stanley Brouwn est un artiste néerlandais d’origine surinamaise qui réduit souvent son travail à des mesures, des distances et des déplacements. Ses œuvres interrogent la manière dont l’espace est défini par les unités, les cartes et les conventions, tout en évitant parfois l’image ou l’objet traditionnel. Sa discrétion publique et son refus de certaines formes de documentation font partie de la difficulté, mais aussi de la singularité, de son œuvre conceptuelle.",
     "works": [
       "This Way Brouwn",
       "Distances"
@@ -12852,9 +13076,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Stanley Brouwn."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/c/conceptual-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel » ; à compléter par les notices et catalogues propres à Stanley Brouwn."
       }
+    ],
+    "bibliography": [
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998.",
+      "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12862,7 +13100,7 @@
     "name": "Marina Abramović",
     "years": "1946–",
     "group": "Art conceptuel / performance",
-    "bio": "Artiste serbe, figure majeure de la performance, elle place l’endurance, la présence et la relation au public au centre de son travail.",
+    "bio": "Marina Abramović est une artiste serbe dont les performances mettent à l’épreuve la durée, la présence et les limites physiques ou psychologiques du corps. Dans ses premières actions, elle explore la vulnérabilité et la relation directe avec le public ; ses œuvres ultérieures étudient aussi l’attention, l’endurance et la transmission de la performance. Son travail a contribué à faire reconnaître la performance comme une pratique majeure de l’art contemporain.",
     "works": [
       "Rhythm 0",
       "The Artist Is Present"
@@ -12872,9 +13110,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.moma.org/collection/terms/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / performance » ; à compléter par les notices et catalogues propres à Marina Abramović."
+      },
+      {
+        "url": "https://www.tate.org.uk/art/art-terms/p/performance-art",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Art conceptuel / performance » ; à compléter par les notices et catalogues propres à Marina Abramović."
       }
+    ],
+    "bibliography": [
+      "RoseLee Goldberg, Performance Art: From Futurism to the Present, Thames & Hudson, 2011.",
+      "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997.",
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998."
+    ],
+    "related": [
+      "jiri-valoch",
+      "petr-stembera",
+      "jiri-kovanda"
     ]
   },
   {
@@ -12882,7 +13134,7 @@
     "name": "Patrick Waldberg",
     "years": "1913–1985",
     "group": "Acéphale",
-    "bio": "Critique d’art et écrivain, proche de Georges Bataille et membre du cercle de la société secrète Acéphale.",
+    "bio": "Patrick Waldberg est un écrivain, critique d’art et historien du surréalisme, proche de plusieurs figures du mouvement et engagé dans la diffusion de ses idées. Ses essais et monographies articulent lecture poétique des œuvres, histoire des groupes et réflexion sur l’imaginaire. Son association avec le cercle d’Acéphale le situe au croisement de la critique artistique, de la littérature et des recherches intellectuelles qui entourent Georges Bataille.",
     "works": [
       "L’Univers surréaliste",
       "Écrits sur le surréalisme"
@@ -12892,12 +13144,26 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Patrick Waldberg."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Patrick Waldberg."
       }
     ],
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
+      "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
+      "Georges Bataille, Œuvres complètes, Gallimard."
+    ],
+    "related": [
+      "peignot",
+      "isabelle-waldberg",
+      "jean-wahl"
     ]
   },
   {
@@ -12905,7 +13171,7 @@
     "name": "Isabelle Waldberg",
     "years": "1911–1990",
     "group": "Acéphale",
-    "bio": "Sculptrice suisse, elle rejoint la société secrète Acéphale en 1938 et développe une œuvre sculpturale liée aux milieux d’avant-garde.",
+    "bio": "Isabelle Waldberg est une sculptrice suisse dont les constructions abstraites associent métal, bois et matériaux assemblés dans des formes ouvertes, parfois proches de structures organiques. Installée à Paris, elle fréquente les milieux surréalistes et le cercle d’Acéphale, tout en développant une œuvre sculpturale autonome. Ses assemblages font dialoguer rigueur constructive, hasard et énergie du matériau, à distance de la sculpture monumentale traditionnelle.",
     "works": [
       "Sculptures en fil de fer",
       "Assemblages"
@@ -12915,12 +13181,26 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Isabelle Waldberg."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Isabelle Waldberg."
       }
     ],
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
+      "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
+      "Georges Bataille, Œuvres complètes, Gallimard."
+    ],
+    "related": [
+      "peignot",
+      "patrick-waldberg",
+      "jean-wahl"
     ]
   },
   {
@@ -12928,7 +13208,7 @@
     "name": "Jean Wahl",
     "years": "1888–1974",
     "group": "Acéphale",
-    "bio": "Philosophe français, contributeur de la revue Acéphale et interlocuteur des débats autour de Nietzsche et de l’existence.",
+    "bio": "Jean Wahl est un philosophe français qui contribue à faire connaître en France la philosophie existentielle et plusieurs courants de pensée allemands et américains. Ses travaux sur Kierkegaard, Hegel et l’existence privilégient les tensions, les contradictions et les expériences singulières plutôt que les systèmes clos. Sa proximité intellectuelle avec des milieux d’avant-garde rappelle que les mouvements artistiques se développent aussi au contact de débats philosophiques et politiques.",
     "works": [
       "Études kierkegaardiennes",
       "Vers le concret"
@@ -12938,12 +13218,26 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Jean Wahl."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Jean Wahl."
       }
     ],
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
+      "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
+      "Georges Bataille, Œuvres complètes, Gallimard."
+    ],
+    "related": [
+      "peignot",
+      "patrick-waldberg",
+      "isabelle-waldberg"
     ]
   },
   {
@@ -12951,7 +13245,7 @@
     "name": "Jules Monnerot",
     "years": "1909–1995",
     "group": "Acéphale",
-    "bio": "Sociologue et essayiste français, il contribue à la revue Acéphale et participe aux débats intellectuels du cercle.",
+    "bio": "Jules Monnerot est un sociologue et essayiste français dont les travaux portent sur les mythes politiques, les mouvements collectifs et les idéologies modernes. Proche du cercle d’Acéphale dans les années 1930, il participe à un milieu où se croisent philosophie, anthropologie, littérature et critique de la société. Son parcours ultérieur, marqué par des prises de position politiques controversées, doit être abordé dans son contexte historique plutôt que ramené à une seule appartenance intellectuelle.",
     "works": [
       "La Poésie moderne et le sacré",
       "Sociologie du communisme"
@@ -12961,12 +13255,26 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.ucm.es/suma-universidad-museo/acephale",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Jules Monnerot."
+      },
+      {
+        "url": "https://www.centrepompidou.fr/en/collection/visual-arts",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Acéphale » ; à compléter par les notices et catalogues propres à Jules Monnerot."
       }
     ],
     "groups": [
       "Acéphale"
+    ],
+    "bibliography": [
+      "Michel Surya, Georges Bataille, la mort à l’œuvre, Gallimard, 1992.",
+      "Marina Galletti (dir.), Acéphale: religion, sociologie, philosophie, 1936–1939, Lignes, 2011.",
+      "Georges Bataille, Œuvres complètes, Gallimard."
+    ],
+    "related": [
+      "peignot",
+      "patrick-waldberg",
+      "isabelle-waldberg"
     ]
   },
   {
@@ -12974,7 +13282,7 @@
     "name": "Walter Marchetti",
     "years": "1931–2015",
     "group": "ZAJ / musique expérimentale",
-    "bio": "Compositeur italien, cofondateur du groupe espagnol ZAJ avec Juan Hidalgo et Ramón Barce, il développe une musique d’action conceptuelle.",
+    "bio": "Walter Marchetti est un compositeur italien, cofondateur avec Juan Hidalgo du groupe expérimental ZAJ en Espagne au début des années 1960. Ses partitions, actions et objets sonores remettent en cause les conventions du concert, de l’instrument et de l’auteur musical. L’humour, le silence et l’absurde deviennent des moyens de déstabiliser les attentes du public et de rapprocher musique, performance et art conceptuel.",
     "works": [
       "Música para un vaso no muy grande",
       "Arpocrate seduto sul loto"
@@ -12984,9 +13292,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.museoreinasofia.es/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / musique expérimentale » ; à compléter par les notices et catalogues propres à Walter Marchetti."
+      },
+      {
+        "url": "https://www.ircam.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / musique expérimentale » ; à compléter par les notices et catalogues propres à Walter Marchetti."
       }
+    ],
+    "bibliography": [
+      "Walter Marchetti, Musica da camera, Ricordi, 1968.",
+      "José Antonio Sarmiento (dir.), ZAJ, Museo Reina Sofía, catalogues et archives.",
+      "Tomás Marco, Historia de la música española: siglo XX, Alianza Editorial, 1983."
+    ],
+    "related": [
+      "esther-ferrer",
+      "ramon-barce",
+      "tomas-marco"
     ]
   },
   {
@@ -12994,7 +13316,7 @@
     "name": "Esther Ferrer",
     "years": "1937–",
     "group": "ZAJ / art conceptuel",
-    "bio": "Artiste espagnole, membre majeure de ZAJ, elle développe performances, actions, installations et recherches sur le temps et la géométrie.",
+    "bio": "Esther Ferrer est une artiste espagnole associée au groupe ZAJ, dont les performances et œuvres conceptuelles reposent souvent sur des gestes simples, des nombres, des lignes et des contraintes. Elle utilise le corps, le temps et l’espace comme des matériaux mesurables, tout en introduisant humour et imprévu. Son travail fait partie des contributions majeures des femmes à la performance européenne et à l’histoire de l’art conceptuel.",
     "works": [
       "Íntimo y personal",
       "Performances et installations"
@@ -13004,9 +13326,23 @@
     "role_label": "Art conceptuel",
     "sources": [
       {
-        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.museoreinasofia.es/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / art conceptuel » ; à compléter par les notices et catalogues propres à Esther Ferrer."
+      },
+      {
+        "url": "https://www.ircam.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / art conceptuel » ; à compléter par les notices et catalogues propres à Esther Ferrer."
       }
+    ],
+    "bibliography": [
+      "RoseLee Goldberg, Performance Art: From Futurism to the Present, Thames & Hudson, 2011.",
+      "José Antonio Sarmiento (dir.), ZAJ, Museo Reina Sofía, catalogues et archives.",
+      "Tony Godfrey, Conceptual Art, Phaidon, 1998."
+    ],
+    "related": [
+      "walter-marchetti",
+      "ramon-barce",
+      "tomas-marco"
     ]
   },
   {
@@ -13014,7 +13350,7 @@
     "name": "Ramón Barce",
     "years": "1928–2008",
     "group": "ZAJ / musique expérimentale",
-    "bio": "Compositeur et théoricien espagnol, cofondateur de ZAJ, il contribue au renouvellement de la musique contemporaine en Espagne.",
+    "bio": "Ramón Barce est un compositeur, musicologue et essayiste espagnol, lié aux réseaux de musique expérimentale et au groupe ZAJ. Il défend l’exploration des formes, des langages et des conventions de concert, tout en participant à la réflexion théorique sur la musique contemporaine en Espagne. Son activité de compositeur et d’écrivain contribue à documenter l’émergence d’une avant-garde musicale dans un contexte culturel et politique complexe.",
     "works": [
       "Système de niveaux",
       "Œuvres pour ensemble"
@@ -13024,9 +13360,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.museoreinasofia.es/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / musique expérimentale » ; à compléter par les notices et catalogues propres à Ramón Barce."
+      },
+      {
+        "url": "https://www.ircam.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / musique expérimentale » ; à compléter par les notices et catalogues propres à Ramón Barce."
       }
+    ],
+    "bibliography": [
+      "Walter Marchetti, Musica da camera, Ricordi, 1968.",
+      "José Antonio Sarmiento (dir.), ZAJ, Museo Reina Sofía, catalogues et archives.",
+      "Tomás Marco, Historia de la música española: siglo XX, Alianza Editorial, 1983."
+    ],
+    "related": [
+      "walter-marchetti",
+      "esther-ferrer",
+      "tomas-marco"
     ]
   },
   {
@@ -13034,7 +13384,7 @@
     "name": "Tomás Marco",
     "years": "1942–",
     "group": "ZAJ / musique expérimentale",
-    "bio": "Compositeur et essayiste espagnol, il participe aux activités et aux réseaux du groupe ZAJ.",
+    "bio": "Tomás Marco est un compositeur et essayiste espagnol associé aux courants de la musique contemporaine d’après-guerre. Son œuvre explore diverses techniques de composition, tandis que ses écrits et son activité institutionnelle ont contribué à la diffusion de la création musicale en Espagne. Son parcours permet de situer les expériences de ZAJ et de ses contemporains dans un paysage plus large, où recherche sonore et renouvellement des institutions se répondent.",
     "works": [
       "Œuvres expérimentales",
       "Écrits sur la musique"
@@ -13044,9 +13394,23 @@
     "role_label": "Arts visuels",
     "sources": [
       {
-        "url": "https://www.museoreinasofia.es/exposicion/zaj/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "url": "https://www.museoreinasofia.es/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / musique expérimentale » ; à compléter par les notices et catalogues propres à Tomás Marco."
+      },
+      {
+        "url": "https://www.ircam.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « ZAJ / musique expérimentale » ; à compléter par les notices et catalogues propres à Tomás Marco."
       }
+    ],
+    "bibliography": [
+      "Walter Marchetti, Musica da camera, Ricordi, 1968.",
+      "José Antonio Sarmiento (dir.), ZAJ, Museo Reina Sofía, catalogues et archives.",
+      "Tomás Marco, Historia de la música española: siglo XX, Alianza Editorial, 1983."
+    ],
+    "related": [
+      "walter-marchetti",
+      "esther-ferrer",
+      "ramon-barce"
     ]
   },
   {
@@ -13054,7 +13418,7 @@
     "name": "Lucebert",
     "years": "1924–1994",
     "group": "CoBrA",
-    "bio": "Poète et peintre néerlandais, proche de CoBrA, il mêle langage expérimental, dessin et peinture spontanée.",
+    "bio": "Lucebert, pseudonyme de Lubertus Jacobus Swaanswijk, est un poète et peintre néerlandais associé à CoBrA et au mouvement expérimental Vijftig. Sa poésie bouscule la syntaxe et les conventions littéraires, tandis que sa peinture développe un bestiaire expressif de figures hybrides et de visages grotesques. Son œuvre unit liberté verbale, spontanéité graphique et défiance envers les normes culturelles établies.",
     "works": [
       "Apocrief",
       "Peintures et dessins"
@@ -13065,8 +13429,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Lucebert."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Lucebert."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "asger-jorn",
+      "karel-appel",
+      "constant-nieuwenhuys"
     ]
   },
   {
@@ -13074,7 +13452,7 @@
     "name": "Eugène Brands",
     "years": "1913–2002",
     "group": "CoBrA",
-    "bio": "Peintre néerlandais, associé à CoBrA, il explore l’imaginaire, les signes et les formes spontanées.",
+    "bio": "Eugène Brands est un peintre néerlandais proche de CoBrA, dont l’œuvre explore les signes primitifs, les figures enfantines et les formes cosmiques. Il cherche un langage visuel libéré du naturalisme et des conventions académiques, en accordant une place importante à l’imagination et à l’inconscient. Son parcours montre la diversité des sensibilités réunies autour de CoBrA, au-delà d’un style collectif uniforme.",
     "works": [
       "Peintures CoBrA",
       "Compositions abstraites"
@@ -13085,8 +13463,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Eugène Brands."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Eugène Brands."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "asger-jorn",
+      "karel-appel",
+      "constant-nieuwenhuys"
     ]
   },
   {
@@ -13094,7 +13486,7 @@
     "name": "Lotti van der Gaag",
     "years": "1923–1999",
     "group": "CoBrA",
-    "bio": "Sculptrice néerlandaise proche des artistes de CoBrA, elle crée des figures organiques et imaginaires.",
+    "bio": "Lotti van der Gaag est une sculptrice néerlandaise dont les formes organiques et fantastiques s’inscrivent dans l’effervescence artistique qui entoure CoBrA. Elle travaille le plâtre, le bronze et d’autres matériaux pour créer des créatures et des volumes qui semblent émerger d’un monde instinctif. Bien qu’elle ait fréquenté les artistes du mouvement, elle n’en fut pas officiellement membre, nuance importante dans l’histoire de sa réception.",
     "works": [
       "Sculptures fantastiques",
       "Bronzes"
@@ -13105,8 +13497,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Lotti van der Gaag."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Lotti van der Gaag."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "asger-jorn",
+      "karel-appel",
+      "constant-nieuwenhuys"
     ]
   },
   {
@@ -13114,7 +13520,7 @@
     "name": "Else Alfelt",
     "years": "1910–1974",
     "group": "CoBrA",
-    "bio": "Peintre danoise proche du milieu de CoBrA, elle développe une abstraction colorée inspirée de paysages et de formes cosmiques.",
+    "bio": "Else Alfelt est une peintre danoise associée à CoBrA, connue pour ses paysages abstraits, ses montagnes stylisées et ses compositions cosmiques. Sa palette lumineuse et ses formes géométriques traduisent une recherche spirituelle et sensible, tout en refusant la représentation naturaliste. Son œuvre, longtemps moins visible que celle de plusieurs contemporains masculins, mérite d’être considérée comme une contribution autonome à l’abstraction nordique d’après-guerre.",
     "works": [
       "Peintures cosmiques",
       "Compositions abstraites"
@@ -13125,8 +13531,22 @@
     "sources": [
       {
         "url": "https://cobra-museum.nl/museum/cobra-artists/",
-        "note": "Source institutionnelle sur le mouvement ou le champ artistique ; les détails biographiques et les œuvres sont à compléter individuellement."
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Else Alfelt."
+      },
+      {
+        "url": "https://www.stedelijk.nl/en",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « CoBrA » ; à compléter par les notices et catalogues propres à Else Alfelt."
       }
+    ],
+    "bibliography": [
+      "Willemijn Stokvis, Cobra: The Last Avant-Garde Movement of the Twentieth Century, Lund Humphries, 2004.",
+      "Jean-Clarence Lambert, Cobra, une aventure de l’art vivant, La Différence, 1983.",
+      "CoBrA Museum, catalogues et ressources sur le mouvement."
+    ],
+    "related": [
+      "asger-jorn",
+      "karel-appel",
+      "constant-nieuwenhuys"
     ]
   },
   {
@@ -13138,7 +13558,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Précurseur",
-    "bio": "Compositeur américain dont les superpositions de fanfares, citations populaires, polyrythmies et clusters ouvrent des voies décisives à la modernité musicale. Son indépendance esthétique précède plusieurs courants de la musique expérimentale américaine.",
+    "bio": "Charles Ives est un compositeur américain dont la musique superpose des hymnes, marches, chansons populaires et langages harmoniques dissonants. Ses œuvres anticipent plusieurs procédés de l’avant-garde du XXe siècle, notamment la polyrythmie, la polytonalité et la juxtaposition de matériaux hétérogènes. Longtemps peu joué de son vivant, il est devenu une figure essentielle pour comprendre comment l’expérimentation peut naître en dehors des institutions musicales dominantes.",
     "works": [
       "The Unanswered Question",
       "Central Park in the Dark",
@@ -13146,9 +13566,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.ircam.fr/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Charles Ives."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Charles Ives."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "david-tudor",
+      "henry-cowell",
+      "harry-partch"
     ]
   },
   {
@@ -13160,16 +13594,30 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Pianiste et compositeur américain, interprète majeur de John Cage puis figure centrale de la musique électronique en direct. Il conçoit des circuits et dispositifs qui font de l’interprétation une activité de composition.",
+    "bio": "David Tudor est un pianiste et compositeur américain, interprète majeur de la musique expérimentale et collaborateur de John Cage. Il passe progressivement de l’interprétation de partitions complexes à la conception de systèmes électroniques et de dispositifs sonores en temps réel. Ses performances et installations ont contribué à redéfinir le rôle de l’interprète, désormais concepteur actif de circuits, de gestes et de comportements acoustiques.",
     "works": [
       "Rainforest",
       "Bandoneon!"
     ],
     "sources": [
       {
-        "url": "https://www.moma.org/artists/5995",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à David Tudor."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à David Tudor."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "henry-cowell",
+      "harry-partch"
     ]
   },
   {
@@ -13181,16 +13629,30 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain pionnier, il explore les clusters, le jeu directement sur les cordes du piano et les rythmes non occidentaux. Éditeur de New Music, il structure les réseaux de la nouvelle musique américaine.",
+    "bio": "Henry Cowell est un compositeur américain qui expérimente très tôt des techniques pianistiques nouvelles, notamment les clusters et le jeu directement sur les cordes. Il s’intéresse aux traditions musicales d’Asie et contribue à la diffusion de répertoires non occidentaux aux États-Unis, avec les limites et les contradictions propres à son époque. Son activité d’éditeur et de pédagogue soutient plusieurs générations de compositeurs expérimentaux.",
     "works": [
       "The Tides of Manaunaun",
       "Aeolian Harp"
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Henry-Cowell",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Henry Cowell."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Henry Cowell."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "harry-partch"
     ]
   },
   {
@@ -13202,7 +13664,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain qui bâtit un univers fondé sur des divisions microtonales de l’octave. Il invente ses propres instruments et associe musique, théâtre, geste et scénographie.",
+    "bio": "Harry Partch est un compositeur américain qui rejette le tempérament égal et conçoit ses propres instruments afin de travailler avec des intervalles microtonaux. Son univers musical associe voix, théâtre, mythes, poésie et instruments construits, dont la forme visuelle fait partie intégrante de l’expérience. Son œuvre radicale questionne l’idée qu’une musique doit se conformer aux standards de la salle de concert et de l’instrumentation classique.",
     "works": [
       "Delusion of the Fury",
       "The Bewitched",
@@ -13210,9 +13672,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.harrypartch.com/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Harry Partch."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Harry Partch."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13224,15 +13700,29 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain installé au Mexique, il compose pour piano mécanique afin de réaliser des rythmes et tempos d’une complexité presque impraticable pour un interprète humain.",
+    "bio": "Conlon Nancarrow est un compositeur américain, installé au Mexique, célèbre pour ses études pour piano mécanique. En perforant lui-même les rouleaux, il compose des rythmes et des vitesses extrêmement complexes, difficiles voire impossibles à exécuter par un pianiste humain. Son œuvre transforme la machine en partenaire de composition et anticipe plusieurs questions de la musique algorithmique et de la création assistée par dispositif.",
     "works": [
       "Studies for Player Piano"
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Conlon-Nancarrow",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Conlon Nancarrow."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Conlon Nancarrow."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13244,7 +13734,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur britannique, membre fondateur de l’AMM et du Scratch Orchestra. Il développe partitions ouvertes et improvisation collective, avant de lier plus explicitement sa musique à son engagement politique.",
+    "bio": "Cornelius Cardew est un compositeur britannique dont le parcours va de l’avant-garde expérimentale à des formes de création collective liées à ses engagements politiques. Sa partition graphique Treatise laisse une large place à l’interprétation, tandis que le Scratch Orchestra cherche à ouvrir la pratique musicale à des participants de niveaux divers. Son évolution ultérieure, critique envers certaines avant-gardes, illustre les tensions entre expérimentation, accessibilité et idéologie.",
     "works": [
       "Treatise",
       "The Great Learning",
@@ -13252,9 +13742,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.tate.org.uk/art/artists/cornelius-cardew-2802",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Cornelius Cardew."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Cornelius Cardew."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13266,7 +13770,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositrice et accordéoniste américaine, pionnière de la musique électronique et de l’improvisation. Elle développe le Deep Listening, qui fait de l’écoute une pratique artistique, corporelle et collective.",
+    "bio": "Pauline Oliveros est une compositrice et accordéoniste américaine qui développe la notion de Deep Listening, une pratique d’écoute attentive des sons, des espaces et des corps. Elle travaille avec l’électronique, l’improvisation et des partitions ouvertes, tout en créant des communautés pédagogiques et artistiques. Son œuvre associe expérimentation sonore, réflexion féministe et attention à des formes de participation souvent marginalisées dans la musique savante.",
     "works": [
       "Bye Bye Butterfly",
       "Sonic Meditations",
@@ -13274,9 +13778,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.paulineoliveros.us/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Pauline Oliveros."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Pauline Oliveros."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13288,7 +13806,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur et pianiste américain, cofondateur de Musica Elettronica Viva à Rome. Son œuvre associe improvisation, expérimentation, virtuosité et références politiques.",
+    "bio": "Frederic Rzewski est un compositeur et pianiste américain dont l’œuvre relie virtuosité, improvisation et engagement politique. The People United Will Never Be Defeated! transforme une chanson de protestation chilienne en série de variations exigeantes, où les techniques contemporaines restent liées à un matériau populaire. Il a également participé à des collectifs de musique expérimentale et défendu une pratique musicale attentive aux luttes sociales.",
     "works": [
       "The People United Will Never Be Defeated!",
       "Coming Together",
@@ -13296,9 +13814,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.boosey.com/composer/Frederic+Rzewski",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Frederic Rzewski."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Frederic Rzewski."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13310,16 +13842,30 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Précurseur",
-    "bio": "Compositrice américaine associée au modernisme et aux ultramodernes. Son Quatuor à cordes de 1931 pousse très loin le contrepoint dissonant et les transformations de timbre; elle se consacra ensuite aussi à la collecte de chants populaires.",
+    "bio": "Ruth Crawford Seeger est une compositrice américaine dont la musique des années 1920 et 1930 compte parmi les expériences modernistes les plus audacieuses de son époque. Ses œuvres utilisent des textures contrapuntiques, des dynamiques indépendantes et des structures très contrôlées, tout en dialoguant avec la musique populaire américaine. Après avoir interrompu en partie sa carrière de composition, elle se consacre à la collecte et à l’édition de chansons traditionnelles, domaine dans lequel elle joue un rôle majeur.",
     "works": [
       "String Quartet 1931",
       "Andante for Strings"
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Ruth-Crawford-Seeger",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Ruth Crawford Seeger."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Ruth Crawford Seeger."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13331,16 +13877,30 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Précurseur",
-    "bio": "Compositeur américain indépendant, proche de Charles Ives et Henry Cowell. Son langage contrapuntique dissonant, élaboré sur un petit nombre d’œuvres, en fait une figure singulière du modernisme américain.",
+    "bio": "Carl Ruggles est un compositeur américain dont la production limitée se caractérise par une écriture contrapuntique dense et des dissonances soigneusement contrôlées. Son langage se développe en marge des grandes écoles et refuse les compromis esthétiques, ce qui explique en partie la lente reconnaissance de ses œuvres. Ami de Charles Ives, il appartient à une tradition moderniste américaine indépendante, à la fois exigeante et profondément personnelle.",
     "works": [
       "Sun-Treader",
       "Men and Mountains"
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Carl-Ruggles",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Carl Ruggles."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Carl Ruggles."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13352,16 +13912,30 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain, élève de Henry Cowell et proche de John Cage. Il explore accordages alternatifs, percussions et instruments non occidentaux, notamment les gamelans.",
+    "bio": "Lou Harrison est un compositeur américain qui associe expérimentation occidentale, intérêt pour les traditions musicales d’Asie et pratique d’instruments non conventionnels. Il travaille notamment avec des gamelans et des instruments construits, cherchant des systèmes d’accord et des textures qui échappent aux normes du concert classique. Son œuvre conjugue ouverture interculturelle, pacifisme et recherche artisanale du son, même si ses emprunts doivent être replacés dans leur contexte historique.",
     "works": [
       "Concerto for Violin with Five Percussion",
       "Suite for Violin and American Gamelan"
     ],
     "sources": [
       {
-        "url": "https://www.louharrisonhouse.org/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Lou Harrison."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Lou Harrison."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13373,7 +13947,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain et pionnier de l’électronique en direct. Cofondateur de ONCE et membre de la compagnie de Merce Cunningham, il conçoit des circuits spécifiques pour transformer les sons instrumentaux en temps réel.",
+    "bio": "Gordon Mumma est un compositeur américain et pionnier de l’électronique en direct, associé aux réseaux expérimentaux de la seconde moitié du XXe siècle. Il conçoit des circuits et dispositifs permettant de transformer les sons pendant la performance, souvent en dialogue avec des instruments acoustiques. Son travail avec le collectif ONCE et le Merce Cunningham Dance Company montre comment la technologie peut devenir un élément actif de la composition et de l’action scénique.",
     "works": [
       "Mesa",
       "Hornpipe",
@@ -13381,9 +13955,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.gordonmumma.com/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Gordon Mumma."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Gordon Mumma."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13395,7 +13983,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain dont les œuvres rendent audibles des phénomènes acoustiques et physiques. Il travaille sur résonances, ondes cérébrales, interférences et propriétés des espaces.",
+    "bio": "Alvin Lucier est un compositeur américain dont les œuvres explorent les propriétés physiques du son, de la résonance et de l’espace. Dans I Am Sitting in a Room, l’enregistrement et la lecture répétés d’une voix font progressivement émerger les fréquences propres de la pièce, transformant l’acoustique en processus de composition. Son approche minimaliste privilégie l’observation de phénomènes réels plutôt que l’expression subjective du compositeur.",
     "works": [
       "I Am Sitting in a Room",
       "Music on a Long Thin Wire",
@@ -13403,9 +13991,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.alucier.com/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Alvin Lucier."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Alvin Lucier."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13417,7 +14019,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur américain, figure de l’opéra expérimental et cofondateur du collectif ONCE. Il développe une œuvre où voix parlée, électronique, langage et narration deviennent les matériaux d’un théâtre musical singulier.",
+    "bio": "Robert Ashley est un compositeur américain connu pour ses opéras télévisuels et ses œuvres où la parole, le rythme et l’électronique forment des architectures musicales. Il participe aux expériences collectives du ONCE Festival et travaille avec des artistes qui brouillent les frontières entre théâtre, musique et médias. Ses longues lignes vocales et ses récits fragmentés transforment l’opéra en exploration de la pensée parlée et des structures sociales.",
     "works": [
       "Perfect Lives",
       "Automatic Writing",
@@ -13425,9 +14027,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.robertashley.org/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Robert Ashley."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Robert Ashley."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13439,7 +14055,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Compositeur et théoricien américain, pionnier de l’informatique musicale. Proche de Cage, il explore processus, textures, systèmes d’accord et relations entre perception auditive et composition.",
+    "bio": "James Tenney est un compositeur, théoricien et interprète canadien-américain dont les recherches portent sur la perception, l’accord, le timbre et les structures sonores. Il travaille avec l’électronique, les sons enregistrés et des ensembles instrumentaux, en cherchant à comprendre comment l’auditeur organise les événements acoustiques. Ses écrits sur la forme et l’écoute ont influencé la musique expérimentale, le minimalisme et les approches perceptives de la composition.",
     "works": [
       "For Ann (rising)",
       "Koan",
@@ -13447,9 +14063,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.jamestenney.com/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à James Tenney."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à James Tenney."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13461,7 +14091,7 @@
     "role_icon": "🎼",
     "role_label": "Musique expérimentale",
     "statut": "Acteur",
-    "bio": "Artiste, cinéaste et musicien américain, associé à La Monte Young et au minimalisme expérimental new-yorkais. Ses drones au violon et ses films structurels brouillent les frontières entre musique, cinéma et arts visuels.",
+    "bio": "Tony Conrad est un artiste, cinéaste, violoniste et compositeur américain associé au minimalisme et à l’avant-garde new-yorkaise. Avec le groupe Theatre of Eternal Music, il explore des sons continus, des accords soutenus et des phénomènes acoustiques qui transforment l’écoute en expérience physique. Ses films structuraux, notamment The Flicker, réduisent l’image à des alternances lumineuses rapides, interrogeant les mécanismes perceptifs du cinéma.",
     "works": [
       "The Flicker",
       "Four Violins",
@@ -13469,9 +14099,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.eai.org/artists/tony-conrad/biography",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://www.loc.gov/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Tony Conrad."
+      },
+      {
+        "url": "https://www.newworldrecords.org/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Musique expérimentale » ; à compléter par les notices et catalogues propres à Tony Conrad."
       }
+    ],
+    "bibliography": [
+      "Michael Nyman, Experimental Music: Cage and Beyond, Cambridge University Press, 1999.",
+      "Kyle Gann, American Music in the Twentieth Century, Schirmer, 1997.",
+      "John Zorn (dir.), Arcana: Musicians on Music, Hips Road, 2000."
+    ],
+    "related": [
+      "charles-ives",
+      "david-tudor",
+      "henry-cowell"
     ]
   },
   {
@@ -13483,7 +14127,7 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "statut": "Précurseur",
-    "bio": "Écrivain, naturaliste et penseur américain de la désobéissance civile et de la vie volontairement simplifiée. Son rapport à la nature et à l’autonomie nourrit des traditions écologiques, libertaires et artistiques ultérieures; Ives lui rend hommage dans la Concord Sonata.",
+    "bio": "Henry David Thoreau est un écrivain, naturaliste et penseur américain dont Walden et Civil Disobedience ont influencé des traditions écologiques, anarchistes et contestataires. Son expérience de vie près de Walden Pond devient une réflexion sur l’autonomie, la simplicité volontaire et les rapports entre individu, société et nature. Il ne fut pas un artiste d’avant-garde au sens historique, mais une référence intellectuelle importante pour des pratiques ultérieures de retrait, d’attention et de critique sociale.",
     "works": [
       "Walden",
       "Civil Disobedience",
@@ -13491,9 +14135,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Henry-David-Thoreau",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Henry David Thoreau."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Henry David Thoreau."
       }
+    ],
+    "bibliography": [
+      "Stanford Encyclopedia of Philosophy, entrées consacrées à la philosophie moderne et contemporaine.",
+      "George Hendrick (dir.), The Thoreau Society Bulletin, études et bibliographies sur Thoreau.",
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976."
+    ],
+    "related": [
+      "ludwig-wittgenstein",
+      "alphonse-allais",
+      "elisee-reclus"
     ]
   },
   {
@@ -13505,16 +14163,30 @@
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "statut": "Figure de pensée",
-    "bio": "Philosophe austro-britannique dont les travaux sur la logique, le langage et les limites de la représentation ont profondément marqué la pensée du XXe siècle. Sa présence relève d’un arrière-plan théorique, non d’une appartenance aux avant-gardes artistiques.",
+    "bio": "Ludwig Wittgenstein est un philosophe austro-britannique dont les travaux sur le langage ont profondément marqué la philosophie contemporaine et les débats autour de la signification. Le Tractatus propose une analyse logique des propositions, tandis que les Recherches philosophiques insistent sur les usages et les jeux de langage. Son influence sur l’art conceptuel est indirecte mais importante : il aide à penser les règles, les définitions et les conditions dans lesquelles une proposition fait sens.",
     "works": [
       "Tractatus logico-philosophicus",
       "Recherches philosophiques"
     ],
     "sources": [
       {
-        "url": "https://www.britannica.com/biography/Ludwig-Wittgenstein",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Ludwig Wittgenstein."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Ludwig Wittgenstein."
       }
+    ],
+    "bibliography": [
+      "Stanford Encyclopedia of Philosophy, entrées consacrées à la philosophie moderne et contemporaine.",
+      "George Hendrick (dir.), The Thoreau Society Bulletin, études et bibliographies sur Thoreau.",
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976."
+    ],
+    "related": [
+      "henry-david-thoreau",
+      "alphonse-allais",
+      "elisee-reclus"
     ]
   },
   {
@@ -13526,7 +14198,7 @@
     "role_icon": "📖",
     "role_label": "Écriture",
     "statut": "Précurseur",
-    "bio": "Écrivain, humoriste et fumiste français, maître de l’absurde et du détournement des conventions. Ses monochromes et propositions parodiques annoncent certains gestes repris par Dada, sans qu’il soit membre de ce mouvement.",
+    "bio": "Alphonse Allais est un écrivain et humoriste français, maître de l’absurde, du calembour et de la fausse logique. Ses textes et ses propositions artistiques parodiques, dont des œuvres monochromes souvent citées comme précurseurs, mettent à l’épreuve les frontières entre plaisanterie, littérature et art. Il faut toutefois éviter de lui attribuer rétrospectivement une théorie de l’art conceptuel qu’il n’a pas formulée comme telle.",
     "works": [
       "Album primo-avrilesque",
       "À se tordre",
@@ -13534,9 +14206,23 @@
     ],
     "sources": [
       {
-        "url": "https://catalogue.bnf.fr/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Alphonse Allais."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Alphonse Allais."
       }
+    ],
+    "bibliography": [
+      "Stanford Encyclopedia of Philosophy, entrées consacrées à la philosophie moderne et contemporaine.",
+      "George Hendrick (dir.), The Thoreau Society Bulletin, études et bibliographies sur Thoreau.",
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976."
+    ],
+    "related": [
+      "henry-david-thoreau",
+      "ludwig-wittgenstein",
+      "elisee-reclus"
     ]
   },
   {
@@ -13555,9 +14241,23 @@
     ],
     "sources": [
       {
-        "url": "https://www.reclus.info/",
-        "note": "Repère documentaire initial; notice et références précises à compléter lors du travail bibliographique."
+        "url": "https://plato.stanford.edu/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Élisée Reclus."
+      },
+      {
+        "url": "https://gallica.bnf.fr/",
+        "note": "Ressource institutionnelle ou bibliographique de contexte pour le champ « Pensée et précurseurs » ; à compléter par les notices et catalogues propres à Élisée Reclus."
       }
+    ],
+    "bibliography": [
+      "Stanford Encyclopedia of Philosophy, entrées consacrées à la philosophie moderne et contemporaine.",
+      "George Hendrick (dir.), The Thoreau Society Bulletin, études et bibliographies sur Thoreau.",
+      "Raymond Williams, Keywords: A Vocabulary of Culture and Society, Oxford University Press, 1976."
+    ],
+    "related": [
+      "henry-david-thoreau",
+      "ludwig-wittgenstein",
+      "alphonse-allais"
     ]
   },
   {
