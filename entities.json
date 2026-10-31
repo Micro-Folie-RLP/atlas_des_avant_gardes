@@ -283,7 +283,9 @@
       "Arcane 17, 1944.",
       "Œuvres complètes, édition Marguerite Bonnet, Bibliothèque de la Pléiade, Gallimard, 1988-2008."
     ],
-    "groups": []
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "desnos",
@@ -316,7 +318,9 @@
       "Nouvelles Hébrides et autres textes, 1922-1930, Gallimard, 1978.",
       "Écrits sur les peintres, Flammarion, 1984, édition revue 2011."
     ],
-    "groups": []
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "michaux",
@@ -537,6 +541,9 @@
       "Michel Sanouillet, Dada à Paris, CNRS Éditions, éd. revue et augmentée, 2005.",
       "Notice biographique, Centre Pompidou, ressources Tristan Tzara.",
       "Historisches Lexikon der Schweiz, notice « Tristan Tzara », Ingrid Bigler-Marschall."
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -950,7 +957,9 @@
         "note": "Catalogue général BnF, notices d’autorité et éditions des œuvres."
       }
     ],
-    "groups": []
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "eluard",
@@ -1034,7 +1043,9 @@
         "note": "Notice biographique du Metropolitan Museum of Art."
       }
     ],
-    "groups": []
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "peret",
@@ -1076,7 +1087,9 @@
         "note": "Cahiers et documents d’archives."
       }
     ],
-    "groups": []
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "einstein",
@@ -1230,7 +1243,8 @@
       }
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Dada"
     ]
   },
   {
@@ -2606,6 +2620,9 @@
       "Afrodisia: New Poems, 1970.",
       "Teducation: Selected Poems, 1949–1999, Coffee House Press, 1999.",
       "Our Thang, Ekstasis Editions, 2001."
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -2666,6 +2683,9 @@
       "The Blood of the Air, City Lights Publishers.",
       "Bed of Sphinxes: New and Selected Poems, City Lights Publishers.",
       "Preserving Fire: Selected Prose, éd. Garrett Caples, City Lights, 2013."
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -3507,7 +3527,9 @@
       "picabia",
       "breton"
     ],
-    "groups": []
+    "groups": [
+      "Photographie"
+    ]
   },
   {
     "id": "suzanneduchamp",
@@ -5471,6 +5493,9 @@
     "related": [
       "william-basinski",
       "la-monte-young"
+    ],
+    "groups": [
+      "Musique expérimentale"
     ]
   },
   {
@@ -6261,6 +6286,9 @@
         "url": "https://www.oulipo.net/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -6705,7 +6733,10 @@
     "role_icon": "🪶",
     "role_label": "Poésie",
     "kind": "person",
-    "groups": []
+    "groups": [
+      "Documents",
+      "Grand Jeu"
+    ]
   },
   {
     "id": "pierre-albert-birot",
@@ -7277,6 +7308,9 @@
       "bernard-heidsieck",
       "francois-dufrene",
       "bob-cobbing"
+    ],
+    "groups": [
+      "Musique expérimentale"
     ]
   },
   {
@@ -7314,6 +7348,10 @@
       "ben-patterson",
       "juan-hidalgo",
       "john-cage"
+    ],
+    "groups": [
+      "Fluxus",
+      "Musique expérimentale"
     ]
   },
   {
@@ -7486,7 +7524,10 @@
     "role_icon": "📼",
     "role_label": "Poésie sonore",
     "groups": [
-      "ZAJ"
+      "ZAJ",
+      "Fluxus",
+      "Musique expérimentale",
+      "Art conceptuel"
     ],
     "bibliography": [
       "Juan Hidalgo, partitions et écrits publiés autour du groupe Zaj.",
@@ -7760,6 +7801,9 @@
       "philip-corner",
       "charles-amirkhanian",
       "henri-chopin"
+    ],
+    "groups": [
+      "Musique expérimentale"
     ]
   },
   {
@@ -7932,6 +7976,9 @@
       "philip-corner",
       "juan-hidalgo",
       "nam-june-paik"
+    ],
+    "groups": [
+      "Musique expérimentale"
     ]
   },
   {
@@ -7971,6 +8018,9 @@
       "bernard-heidsieck",
       "henri-chopin",
       "pierre-guyotat"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -8088,7 +8138,8 @@
       "jean-louis-brau"
     ],
     "groups": [
-      "Lettrisme"
+      "Lettrisme",
+      "Photographie"
     ]
   },
   {
@@ -8725,6 +8776,10 @@
       "el-lissitzky",
       "ivan-kliun",
       "liubov-popova"
+    ],
+    "groups": [
+      "Cubo-futurisme",
+      "Avant-garde russe"
     ]
   },
   {
@@ -8803,6 +8858,9 @@
       "alexander-rodchenko",
       "el-lissitzky",
       "liubov-popova"
+    ],
+    "groups": [
+      "Avant-garde russe"
     ]
   },
   {
@@ -8961,6 +9019,9 @@
       "kazimir-malevich",
       "vladimir-tatlin",
       "alexander-rodchenko"
+    ],
+    "groups": [
+      "Avant-garde russe"
     ]
   },
   {
@@ -9000,6 +9061,10 @@
       "mikhail-larionov",
       "alexandra-exter",
       "olga-rozanova"
+    ],
+    "groups": [
+      "Cubo-futurisme",
+      "Avant-garde russe"
     ]
   },
   {
@@ -9034,6 +9099,9 @@
       "natalia-goncharova",
       "kazimir-malevich",
       "vladimir-tatlin"
+    ],
+    "groups": [
+      "Avant-garde russe"
     ]
   },
   {
@@ -10196,6 +10264,9 @@
       "george-maciunas",
       "dick-higgins",
       "yoko-ono"
+    ],
+    "groups": [
+      "Art conceptuel"
     ]
   },
   {
@@ -10343,6 +10414,9 @@
       "george-maciunas",
       "george-brecht",
       "emmett-williams"
+    ],
+    "groups": [
+      "Art conceptuel"
     ]
   },
   {
@@ -10776,6 +10850,10 @@
       "dick-higgins",
       "emmett-williams",
       "george-brecht"
+    ],
+    "groups": [
+      "Art conceptuel",
+      "Théâtre expérimental"
     ]
   },
   {
@@ -10846,6 +10924,9 @@
       "george-maciunas",
       "eric-andersen",
       "milan-knizak"
+    ],
+    "groups": [
+      "Art conceptuel"
     ]
   },
   {
@@ -10954,6 +11035,9 @@
       "george-brecht",
       "george-maciunas",
       "dick-higgins"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -11531,7 +11615,8 @@
       "walter-gropius",
       "oskar-schlemmer",
       "marcel-breuer"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "laszlo-moholy-nagy",
@@ -11565,6 +11650,9 @@
       "walter-gropius",
       "paul-klee",
       "oskar-schlemmer"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -11873,7 +11961,8 @@
       "vitezslav-nezval"
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Constructivisme"
     ]
   },
   {
@@ -12022,7 +12111,8 @@
       "jindrich-styrsky"
     ],
     "groups": [
-      "Surréalisme"
+      "Surréalisme",
+      "Photographie"
     ]
   },
   {
@@ -12716,6 +12806,9 @@
       "joan-jonas",
       "peter-campus",
       "dara-birnbaum"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
@@ -12750,6 +12843,9 @@
       "jiri-valoch",
       "petr-stembera",
       "jiri-kovanda"
+    ],
+    "groups": [
+      "Photographie"
     ]
   },
   {
