@@ -6853,15 +6853,39 @@
     "name": "Gilles Deleuze",
     "years": "1925–1995",
     "group": "Philosophie / critique",
-    "bio": "Philosophe français dont les travaux sur la différence, le désir, le cinéma et la création ont marqué la pensée contemporaine.",
+    "bio": "Gilles Deleuze (1925–1995) est l’un des philosophes français majeurs de la seconde moitié du XXe siècle. Formé à l’histoire de la philosophie, il construit une pensée singulière de la différence, de la répétition, du désir et de la création, en dialogue avec Hume, Nietzsche, Spinoza, Bergson et Leibniz. Dans Différence et répétition et Logique du sens, il conteste les modèles qui ramènent la pensée à l’identité et à la représentation. Sa rencontre avec Félix Guattari ouvre une collaboration décisive : L’Anti-Œdipe et Mille plateaux proposent une analyse politique du désir, des agencements et des formes de pouvoir. Deleuze renouvelle aussi la philosophie de l’art avec ses livres sur Proust, le peintre Francis Bacon et le cinéma. Professeur à l’université de Vincennes puis Paris-VIII, il prend part au renouvellement intellectuel issu des années 1960 sans se rattacher à une école collective. Son œuvre, attentive aux sciences, à la littérature et aux pratiques artistiques, exerce une influence durable bien au-delà de la philosophie.",
     "works": [
-      "Différence et répétition",
-      "L'Anti-Œdipe"
+      "Empirisme et subjectivité (1953)",
+      "Nietzsche et la philosophie (1962)",
+      "Proust et les signes (1964)",
+      "Différence et répétition (1968)",
+      "Logique du sens (1969)",
+      "L’Anti-Œdipe (avec Félix Guattari, 1972)",
+      "Kafka. Pour une littérature mineure (avec Félix Guattari, 1975)",
+      "Mille plateaux (avec Félix Guattari, 1980)",
+      "Cinéma 1. L’Image-mouvement (1983)",
+      "Cinéma 2. L’Image-temps (1985)",
+      "Foucault (1986)",
+      "Qu’est-ce que la philosophie ? (avec Félix Guattari, 1991)"
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
     "kind": "person",
-    "groups": []
+    "groups": [],
+    "bibliography": [
+      "Différence et répétition, Paris, PUF, 1968.",
+      "Logique du sens, Paris, Minuit, 1969.",
+      "L’Anti-Œdipe, avec Félix Guattari, Paris, Minuit, 1972.",
+      "Mille plateaux, avec Félix Guattari, Paris, Minuit, 1980.",
+      "Cinéma 1. L’Image-mouvement, Paris, Minuit, 1983.",
+      "Foucault, Paris, Minuit, 1986."
+    ],
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy : parcours, concepts et bibliographie."
+      }
+    ]
   },
   {
     "id": "georges-limbour",
@@ -15785,6 +15809,247 @@
       "anna_akhmatova",
       "roman_jakobson",
       "daniil_kharms"
+    ]
+  },
+  {
+    "id": "roman-ingarden",
+    "name": "Roman Ingarden",
+    "years": "1893–1970",
+    "group": "Philosophie / esthétique",
+    "bio": "Roman Ingarden (1893–1970) est un philosophe polonais, phénoménologue et théoricien de l’art, formé auprès d’Edmund Husserl à Göttingen et à Fribourg. Tout en restant fidèle à une phénoménologie réaliste, il s’oppose au tournant idéaliste qu’il croit discerner chez son ancien maître. Son œuvre porte notamment sur les différents modes d’existence et sur la manière dont une œuvre d’art se constitue. Dans Das literarische Kunstwerk (L’Œuvre d’art littéraire, 1931), il décrit l’œuvre comme une structure stratifiée qui ne se réduit ni à l’objet matériel du livre ni à l’expérience subjective d’un lecteur. La lecture actualise certaines possibilités de l’œuvre sans abolir son indétermination. Cette réflexion influence durablement l’esthétique phénoménologique et les théories de la réception. Ingarden travaille aussi sur la musique, l’architecture, la peinture et l’ontologie générale. Il enseigne à Lviv puis, après la Seconde Guerre mondiale, à l’université Jagellonne de Cracovie.",
+    "works": [
+      "Das literarische Kunstwerk (1931)",
+      "Vom Erkennen des literarischen Kunstwerks (1937)",
+      "Untersuchungen zur Ontologie der Kunst (1962)",
+      "Der Streit um die Existenz der Welt (1947–1948)"
+    ],
+    "kind": "person",
+    "role_icon": "🧠",
+    "role_label": "Philosophie et esthétique",
+    "bibliography": [
+      "Das literarische Kunstwerk, 1931 ; traduction française : L’Œuvre d’art littéraire.",
+      "Vom Erkennen des literarischen Kunstwerks, 1937.",
+      "Untersuchungen zur Ontologie der Kunst, 1962."
+    ],
+    "groups": [],
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/ingarden/",
+        "note": "Stanford Encyclopedia of Philosophy : phénoménologie, ontologie et esthétique."
+      }
+    ]
+  },
+  {
+    "id": "pierre-michon",
+    "name": "Pierre Michon",
+    "years": "1945–",
+    "group": "Littérature contemporaine",
+    "bio": "Né en 1945 dans la Creuse, Pierre Michon est un écrivain français dont l’œuvre, exigeante et souvent brève, explore la naissance de la vocation artistique, la mémoire et la puissance de la langue. Après des études de lettres à Clermont-Ferrand et une période de voyages et de vie théâtrale, il publie à près de quarante ans Vies minuscules (1984), livre fondateur composé de récits consacrés à des proches, à des figures modestes et à des existences menacées par l’oubli. Michon transforme ces fragments biographiques en une prose dense, lyrique et travaillée, qui interroge autant l’écriture que ceux qu’elle ressuscite. Vie de Joseph Roulin et Rimbaud le fils poursuivent cette réflexion sur les vies d’artistes et la fabrication du mythe littéraire. Dans Les Onze, il imagine le tableau fictif d’un peintre de la Révolution française, mêlant histoire, politique et invention. Son œuvre se situe à la frontière du récit, de la biographie, de l’essai et de la poésie en prose, sans relever d’un mouvement organisé.",
+    "works": [
+      "Vies minuscules (1984)",
+      "Vie de Joseph Roulin (1988)",
+      "Rimbaud le fils (1991)",
+      "La Grande Beune (1995)",
+      "Trois auteurs (1997)",
+      "Corps du roi (2002)",
+      "Les Onze (2009)"
+    ],
+    "kind": "person",
+    "role_icon": "🪶",
+    "role_label": "Littérature",
+    "bibliography": [
+      "Vies minuscules, Gallimard, 1984.",
+      "Rimbaud le fils, Gallimard, 1991.",
+      "Corps du roi, Verdier, 2002.",
+      "Les Onze, Verdier, 2009."
+    ],
+    "groups": [],
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/pierre-michon-bibliographie",
+        "note": "Bibliothèque nationale de France : biographie, œuvres et repères sur Vies minuscules."
+      },
+      {
+        "url": "https://www.lesamisdepierremichon.fr/oeliguvres-de-pierre-michon.html",
+        "note": "Bibliographie détaillée des œuvres."
+      }
+    ]
+  },
+  {
+    "id": "marc-o",
+    "name": "Marc’O",
+    "years": "1927–2025",
+    "group": "Théâtre expérimental",
+    "bio": "Marc’O, pseudonyme de Marc-Gilbert Guillaumin (1927–2025), est un cinéaste, écrivain et metteur en scène français dont le parcours relie les avant-gardes lettristes, le cinéma expérimental et le théâtre. Arrivé à Paris au début des années 1950, il fréquente les lettristes, organise des lectures et des événements poétiques, et dirige des revues telles que Le Soulèvement de la jeunesse et Ion. Il s’intéresse très tôt aux possibilités du cinéma comme langage autonome ; son film Closed Vision est présenté à Cannes en 1954. À partir des années 1960, il développe une pratique théâtrale qui remet en question le texte dramatique traditionnel, les conventions de jeu et la relation entre acteurs et public. Les Bargasses et surtout Les Idoles deviennent des repères du théâtre expérimental de cette période. En 1968, il participe avec d’autres artistes et militantes à des initiatives de transformation culturelle. Son travail associe expérimentation formelle et réflexion sur les conditions collectives de la création. Sa proximité avec le milieu lettriste est documentée par ses revues et ses collaborations ; elle ne doit pas être confondue avec une appartenance à toutes les tendances issues du mouvement.",
+    "works": [
+      "Le Soulèvement de la jeunesse (revue)",
+      "Ion (revue, 1952)",
+      "Closed Vision (film, 1954)",
+      "Les Bargasses (1965)",
+      "Les Idoles (1966)",
+      "Flash Rouge (1978)"
+    ],
+    "kind": "person",
+    "role_icon": "🎭",
+    "role_label": "Cinéma et théâtre expérimental",
+    "bibliography": [
+      "Délire de fuite, Marc’O.",
+      "L’Art d’en sortir, Marc’O."
+    ],
+    "groups": [
+      "Lettrisme"
+    ],
+    "sources": [
+      {
+        "url": "https://www.editions-allia.com/fr/auteur/575/marc-o",
+        "note": "Éditions Allia : biographie, revues, cinéma et théâtre."
+      },
+      {
+        "url": "https://lesarchivesduspectacle.net/p/53829-Marc-O",
+        "note": "Les Archives du spectacle : dates de vie et productions théâtrales."
+      }
+    ]
+  },
+  {
+    "id": "jacques-derrida",
+    "name": "Jacques Derrida",
+    "years": "1930–2004",
+    "group": "Philosophie / déconstruction",
+    "bio": "Jacques Derrida (1930–2004), né à El-Biar en Algérie alors française, est un philosophe dont le travail a profondément marqué la théorie littéraire, les sciences humaines et la pensée politique. À partir d’une lecture minutieuse de Husserl, Heidegger et de la tradition philosophique occidentale, il élabore la déconstruction : non une méthode de destruction, mais une lecture attentive aux tensions, aux hiérarchies et aux contradictions qui travaillent les textes et les concepts. En 1967 paraissent trois livres décisifs, De la grammatologie, L’Écriture et la différence et La Voix et le phénomène. Derrida interroge notamment le privilège traditionnel accordé à la parole sur l’écriture, ainsi que les oppositions entre présence et absence, origine et répétition, identité et différence. Son écriture, souvent inventive et proche de la littérature, met à l’épreuve les frontières entre philosophie et critique. À partir des années 1980, ses travaux accordent une place croissante à la justice, à l’hospitalité, à la démocratie et à l’héritage de Marx. Il participe en 1983 à la fondation du Collège international de philosophie et exerce une influence majeure sur la critique littéraire, l’architecture et la théorie politique.",
+    "works": [
+      "De la grammatologie (1967)",
+      "L’Écriture et la différence (1967)",
+      "La Voix et le phénomène (1967)",
+      "La Dissémination (1972)",
+      "Glas (1974)",
+      "Spectres de Marx (1993)",
+      "Politiques de l’amitié (1994)"
+    ],
+    "kind": "person",
+    "role_icon": "🧠",
+    "role_label": "Philosophie et théorie",
+    "bibliography": [
+      "De la grammatologie, Minuit, 1967.",
+      "L’Écriture et la différence, Seuil, 1967.",
+      "La Dissémination, Seuil, 1972.",
+      "Spectres de Marx, Galilée, 1993."
+    ],
+    "groups": [],
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy : vie, œuvre et déconstruction."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11899710z",
+        "note": "Catalogue général de la BnF : notice d’autorité."
+      }
+    ]
+  },
+  {
+    "id": "roland-barthes",
+    "name": "Roland Barthes",
+    "years": "1915–1980",
+    "group": "Critique / sémiologie",
+    "bio": "Roland Barthes (1915–1980) est un écrivain, critique et sémiologue français, figure majeure du renouvellement de la critique littéraire après la Seconde Guerre mondiale. Ses premiers essais étudient la manière dont la société transforme ses valeurs en signes apparemment naturels. Dans Mythologies, il analyse aussi bien les images médiatiques que les objets ordinaires comme des constructions idéologiques. Le Degré zéro de l’écriture et les Éléments de sémiologie interrogent les formes de la langue et les codes qui organisent la culture. Associé au structuralisme dans les années 1960, Barthes contribue à déplacer l’étude de l’œuvre vers les systèmes de signes, les récits et les pratiques de lecture. Il s’éloigne ensuite d’une théorie strictement systématique pour explorer le plaisir du texte, le désir, la photographie et les formes fragmentaires de l’écriture de soi. S/Z propose une lecture détaillée de Sarrasine de Balzac ; Fragments d’un discours amoureux examine les figures et les langages de l’expérience amoureuse ; La Chambre claire associe théorie de la photographie et méditation personnelle. Élu au Collège de France en 1976, il occupe la chaire de sémiologie littéraire jusqu’à sa mort en 1980.",
+    "works": [
+      "Le Degré zéro de l’écriture (1953)",
+      "Mythologies (1957)",
+      "Éléments de sémiologie (1964)",
+      "Critique et vérité (1966)",
+      "S/Z (1970)",
+      "Le Plaisir du texte (1973)",
+      "Fragments d’un discours amoureux (1977)",
+      "La Chambre claire (1980)"
+    ],
+    "kind": "person",
+    "role_icon": "📚",
+    "role_label": "Critique et sémiologie",
+    "bibliography": [
+      "Le Degré zéro de l’écriture, Seuil, 1953.",
+      "Mythologies, Seuil, 1957.",
+      "S/Z, Seuil, 1970.",
+      "Fragments d’un discours amoureux, Seuil, 1977.",
+      "La Chambre claire, Gallimard/Seuil, 1980."
+    ],
+    "groups": [],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb118904281",
+        "note": "BnF : notice d’autorité, dates et fonctions."
+      },
+      {
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Roland_Barthes/107706",
+        "note": "Larousse : biographie et place dans la sémiologie et le structuralisme."
+      }
+    ]
+  },
+  {
+    "id": "michel-foucault",
+    "name": "Michel Foucault",
+    "years": "1926–1984",
+    "group": "Philosophie / critique",
+    "bio": "Michel Foucault (1926–1984) est un philosophe et historien des systèmes de pensée français. Ses recherches examinent comment les sociétés définissent la folie, la maladie, la délinquance, la sexualité et les formes légitimes du savoir. Dans Histoire de la folie et Naissance de la clinique, il étudie la constitution historique de catégories médicales et sociales ; Les Mots et les Choses et L’Archéologie du savoir analysent les règles qui rendent certains discours possibles à une époque donnée. À partir de Surveiller et punir, son travail met au premier plan les relations entre pouvoir, institutions, savoirs et discipline, sans réduire le pouvoir à la seule autorité de l’État. Ses derniers travaux portent davantage sur les pratiques de soi, l’éthique et les formes historiques de subjectivation. Professeur au Collège de France de 1970 à 1984, il y développe une série de cours qui ont profondément renouvelé l’histoire intellectuelle et les sciences sociales. Son dialogue avec les mouvements critiques de son temps est important, mais Foucault ne se laisse pas réduire à une école unique ni à un programme politique homogène.",
+    "works": [
+      "Histoire de la folie à l’âge classique (1961)",
+      "Naissance de la clinique (1963)",
+      "Les Mots et les Choses (1966)",
+      "L’Archéologie du savoir (1969)",
+      "L’Ordre du discours (1971)",
+      "Surveiller et punir (1975)",
+      "Histoire de la sexualité, I : La Volonté de savoir (1976)"
+    ],
+    "kind": "person",
+    "role_icon": "🧠",
+    "role_label": "Philosophie et histoire des idées",
+    "bibliography": [
+      "Histoire de la folie à l’âge classique, Gallimard, 1961.",
+      "Les Mots et les Choses, Gallimard, 1966.",
+      "L’Archéologie du savoir, Gallimard, 1969.",
+      "Surveiller et punir, Gallimard, 1975.",
+      "Histoire de la sexualité, I : La Volonté de savoir, Gallimard, 1976."
+    ],
+    "groups": [],
+    "sources": [
+      {
+        "url": "https://www.college-de-france.fr/fr/chaire/michel-foucault-histoire-des-systemes-de-pensee-chaire-statutaire/biography",
+        "note": "Collège de France : biographie et bibliographie sélective."
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb11903202t.public",
+        "note": "BnF : notice d’autorité."
+      }
+    ]
+  },
+  {
+    "id": "georg-lukacs",
+    "name": "Georg Lukács",
+    "years": "1885–1971",
+    "group": "Marxisme / esthétique",
+    "bio": "Georg (György) Lukács (1885–1971) est un philosophe, théoricien de la littérature et critique hongrois, dont l’œuvre relie esthétique, histoire sociale et marxisme. Ses premiers écrits, marqués par la philosophie allemande et la culture littéraire européenne, comprennent L’Âme et les formes et La Théorie du roman, réflexion sur les formes narratives et les rapports entre individu et monde historique. Après son engagement dans le mouvement communiste au lendemain de la révolution hongroise de 1919, il publie Histoire et conscience de classe (1923), ouvrage décisif pour le marxisme occidental. Il y développe notamment le concept de réification, par lequel les relations sociales sous le capitalisme prennent l’apparence de rapports entre choses. Ses positions politiques, son rôle dans les débats marxistes et ses prises de position sur le réalisme littéraire ont suscité de vives controverses. Dans ses travaux ultérieurs, Lukács défend le réalisme comme moyen de représenter les structures et contradictions d’une société, tout en poursuivant une vaste réflexion sur l’esthétique et l’ontologie. Son œuvre a profondément influencé la théorie critique et les débats sur le roman moderne.",
+    "works": [
+      "L’Âme et les formes (1911)",
+      "La Théorie du roman (1916)",
+      "Histoire et conscience de classe (1923)",
+      "Le Roman historique (1937)",
+      "L’Esthétique (1963)",
+      "Pour une ontologie de l’être social (publication posthume)"
+    ],
+    "kind": "person",
+    "role_icon": "📖",
+    "role_label": "Philosophie et théorie littéraire",
+    "bibliography": [
+      "Die Seele und die Formen, 1911 ; trad. fr. L’Âme et les formes.",
+      "Die Theorie des Romans, 1916 ; trad. fr. La Théorie du roman.",
+      "Geschichte und Klassenbewusstsein, 1923 ; trad. fr. Histoire et conscience de classe.",
+      "Der historische Roman, 1937 ; trad. fr. Le Roman historique."
+    ],
+    "groups": [],
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/lukacs/",
+        "note": "Stanford Encyclopedia of Philosophy : trajectoire, marxisme et théorie littéraire."
+      }
     ]
   }
 ]
