@@ -140,5 +140,649 @@
         "note": "Numéros et pages à relever"
       }
     ]
+  },
+  {
+    "id": "f-gurdjieff-ouspensky",
+    "type": "influence",
+    "subject": "gurdjieff",
+    "object": "ouspensky",
+    "label": "Rencontre et collaboration intellectuelle, puis transmission distincte de la Quatrième Voie",
+    "date": "1915",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.ouspensky.org.uk/bibliography"
+      }
+    ]
+  },
+  {
+    "id": "f-gurdjieff-daumal",
+    "type": "influence",
+    "subject": "gurdjieff",
+    "object": "daumal",
+    "label": "Daumal étudie l'enseignement de Gurdjieff",
+    "date": "années 1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.renedaumal.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-gurdjieff-jeanne",
+    "type": "collaboration",
+    "subject": "gurdjieff",
+    "object": "jeanne-de-salzmann",
+    "label": "Jeanne de Salzmann devient l'une des principales collaboratrices et continuatrices de Gurdjieff",
+    "date": "à partir de 1919",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.gurdjieff.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-gurdjieff-thomas-hartmann",
+    "type": "collaboration",
+    "subject": "gurdjieff",
+    "object": "thomas-de-hartmann",
+    "label": "Composition commune de la musique des mouvements et des pièces pour piano",
+    "date": "années 1920–1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.gurdjieff.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-gurdjieff-alexander-salzmann",
+    "type": "collaboration",
+    "subject": "gurdjieff",
+    "object": "alexandre-de-salzmann",
+    "label": "Proximité avec le cercle de Gurdjieff et contribution à la mise en scène des mouvements",
+    "date": "années 1920",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.gurdjieff.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-gurdjieff-bennett",
+    "type": "influence",
+    "subject": "gurdjieff",
+    "object": "john-bennett",
+    "label": "Bennett étudie auprès de Gurdjieff et contribue à la diffusion de son enseignement",
+    "date": "1940–1949",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.gurdjieff.org/"
+      }
+    ]
+  },
+  {
+    "id": "f-gurdjieff-mouravieff",
+    "type": "influence",
+    "subject": "gurdjieff",
+    "object": "boris-mouravieff",
+    "label": "Dialogue et proximité doctrinale autour des enseignements de connaissance intérieure",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.ouspensky.org.uk/bibliography"
+      }
+    ]
+  },
+  {
+    "id": "f-blavatsky-besant",
+    "type": "collaboration",
+    "subject": "blavatsky",
+    "object": "annie-besant",
+    "label": "Besant rejoint la Société théosophique fondée par Blavatsky après la mort de celle-ci",
+    "date": "à partir de 1889",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://theosophicalsociety.org.au/statics/academic-works-related-to-theosophy"
+      }
+    ]
+  },
+  {
+    "id": "f-blavatsky-leadbeater",
+    "type": "influence",
+    "subject": "blavatsky",
+    "object": "leadbeater",
+    "label": "Leadbeater prolonge et diffuse la tradition théosophique de Blavatsky",
+    "date": "fin XIXe–XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://theosophicalsociety.org.au/statics/academic-works-related-to-theosophy"
+      }
+    ]
+  },
+  {
+    "id": "f-besant-leadbeater",
+    "type": "collaboration",
+    "subject": "annie-besant",
+    "object": "leadbeater",
+    "label": "Collaboration au sein de la Société théosophique et coécriture de Thought-Forms",
+    "date": "1901",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://theosophicalsociety.org.au/statics/academic-works-related-to-theosophy"
+      }
+    ]
+  },
+  {
+    "id": "f-besant-krishnamurti",
+    "type": "relation",
+    "subject": "annie-besant",
+    "object": "jiddu-krishnamurti",
+    "label": "Besant prend en charge l'éducation de Krishnamurti et soutient l'Ordre de l'Étoile d'Orient",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://theosophicalsociety.org.au/statics/academic-works-related-to-theosophy"
+      }
+    ]
+  },
+  {
+    "id": "f-leadbeater-krishnamurti",
+    "type": "relation",
+    "subject": "leadbeater",
+    "object": "jiddu-krishnamurti",
+    "label": "Leadbeater repère Krishnamurti et participe à sa formation théosophique",
+    "date": "1909",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://theosophicalsociety.org.au/statics/academic-works-related-to-theosophy"
+      }
+    ]
+  },
+  {
+    "id": "f-blavatsky-steiner",
+    "type": "influence",
+    "subject": "blavatsky",
+    "object": "rudolf-steiner",
+    "label": "Steiner dirige d'abord la section allemande de la Société théosophique avant de fonder l'anthroposophie",
+    "date": "1902–1913",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-steiner-schure",
+    "type": "influence",
+    "subject": "rudolf-steiner",
+    "object": "edouard-schure",
+    "label": "Schuré soutient et accompagne la réception de l'œuvre de Steiner dans les milieux francophones",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-martinez-saint-martin",
+    "type": "influence",
+    "subject": "martinez-de-pasqually",
+    "object": "saint-martin",
+    "label": "Saint-Martin est initié dans l'ordre des Élus Coëns et devient le principal relais de sa pensée intérieure",
+    "date": "années 1760",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-saint-martin-papus",
+    "type": "influence",
+    "subject": "saint-martin",
+    "object": "papus",
+    "label": "Le martinisme de Papus revendique l'héritage de Saint-Martin",
+    "date": "fin XIXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-eliphas-papus",
+    "type": "influence",
+    "subject": "eliphas-levi",
+    "object": "papus",
+    "label": "Papus reprend et systématise plusieurs thèmes de l'occultisme d'Éliphas Lévi",
+    "date": "fin XIXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-eliphas-guaita",
+    "type": "influence",
+    "subject": "eliphas-levi",
+    "object": "stanislas-de-guaita",
+    "label": "L'œuvre de Guaita s'inscrit dans le sillage de l'occultisme d'Éliphas Lévi",
+    "date": "fin XIXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-guaita-peladan",
+    "type": "collaboration",
+    "subject": "stanislas-de-guaita",
+    "object": "josephin-peladan",
+    "label": "Proximité initiale dans les réseaux rosicruciens parisiens, avant leur séparation",
+    "date": "années 1880",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-guaita-wirth",
+    "type": "collaboration",
+    "subject": "stanislas-de-guaita",
+    "object": "oswald-wirth",
+    "label": "Wirth travaille dans l'entourage de Guaita et illustre des ouvrages occultistes",
+    "date": "fin XIXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-fulcanelli-champagne",
+    "type": "collaboration_hypothese",
+    "subject": "fulcanelli",
+    "object": "julien-champagne",
+    "label": "Champagne illustre les ouvrages de Fulcanelli; son identification comme auteur est une hypothèse non démontrée",
+    "date": "1926–1930",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.bibliotheque-sceaux.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-fulcanelli-canseliet",
+    "type": "transmission",
+    "subject": "fulcanelli",
+    "object": "eugene-canseliet",
+    "label": "Canseliet contribue à la publication et à la transmission des ouvrages attribués à Fulcanelli",
+    "date": "1926–1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.bibliotheque-sceaux.fr/"
+      }
+    ]
+  },
+  {
+    "id": "f-crowley-mathers",
+    "type": "collaboration",
+    "subject": "aleister-crowley",
+    "object": "s-l-mathers",
+    "label": "Crowley rejoint la Golden Dawn dont Mathers est l'un des chefs; leur relation devient conflictuelle",
+    "date": "1898–1900",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/8721"
+      }
+    ]
+  },
+  {
+    "id": "f-mathers-westcott",
+    "type": "fondation",
+    "subject": "s-l-mathers",
+    "object": "westcott",
+    "label": "Cofondateurs de l'Hermetic Order of the Golden Dawn",
+    "date": "1888",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-crowley-regardie",
+    "type": "transmission",
+    "subject": "aleister-crowley",
+    "object": "israel-regardie",
+    "label": "Regardie travaille comme secrétaire de Crowley avant de publier les textes de la Golden Dawn",
+    "date": "années 1920–1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/8721"
+      }
+    ]
+  },
+  {
+    "id": "f-crowley-grant",
+    "type": "influence",
+    "subject": "aleister-crowley",
+    "object": "kenneth-grant",
+    "label": "Grant développe une interprétation personnelle de Thelema après avoir fréquenté Crowley",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/8721"
+      }
+    ]
+  },
+  {
+    "id": "f-fortune-regardie",
+    "type": "courant_commun",
+    "subject": "dion-fortune",
+    "object": "israel-regardie",
+    "label": "Tous deux prolongent et réinterprètent les traditions de la Golden Dawn",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-ficino-agrippa",
+    "type": "influence",
+    "subject": "marsilio-ficino",
+    "object": "agrippa",
+    "label": "La philosophie néoplatonicienne et la magie naturelle de Ficin nourrissent la tradition renaissante dont hérite Agrippa",
+    "date": "XVe–XVIe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-agrippa-dee",
+    "type": "influence",
+    "subject": "agrippa",
+    "object": "john-dee",
+    "label": "Les traditions de magie savante et de philosophie occulte d'Agrippa constituent un arrière-plan important pour Dee",
+    "date": "XVIe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-paracelse-boehme",
+    "type": "influence",
+    "subject": "paracelse",
+    "object": "jacob-boehme",
+    "label": "La philosophie naturelle et les motifs théosophiques paracelsiens nourrissent l'environnement intellectuel de Böhme",
+    "date": "XVIIe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-fludd-agrippa",
+    "type": "influence",
+    "subject": "agrippa",
+    "object": "robert-fludd",
+    "label": "Fludd prolonge les traditions de magie naturelle, de correspondances et de philosophie occulte renaissante",
+    "date": "XVIIe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-pelen-rahon",
+    "type": "relation",
+    "subject": "wolfgang-paalen",
+    "object": "alice-rahon",
+    "label": "Couple d'artistes et collaboration dans le milieu surréaliste puis au Mexique",
+    "date": "années 1930–1940",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://awarewomenartists.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-paalen-breton",
+    "type": "collaboration",
+    "subject": "wolfgang-paalen",
+    "object": "breton",
+    "label": "Paalen participe au mouvement surréaliste avant de s'en éloigner et de critiquer certaines positions de Breton",
+    "date": "années 1930–1940",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://awarewomenartists.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-colquhoun-breton",
+    "type": "relation",
+    "subject": "ithell-colquhoun",
+    "object": "breton",
+    "label": "Colquhoun rejoint le surréalisme britannique, tout en développant une pratique ésotérique qui la marginalise",
+    "date": "années 1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://awarewomenartists.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-carrington-breton",
+    "type": "influence",
+    "subject": "breton",
+    "object": "leonora-carrington",
+    "label": "Carrington est associée au cercle surréaliste international animé par Breton",
+    "date": "années 1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://awarewomenartists.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-varo-carrington",
+    "type": "relation",
+    "subject": "remedios-varo",
+    "object": "leonora-carrington",
+    "label": "Amitié et proximité artistique au Mexique; intérêt partagé pour l'alchimie et les mondes imaginaires",
+    "date": "années 1940–1960",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://awarewomenartists.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-penrose-breton",
+    "type": "collaboration",
+    "subject": "valentine-penrose",
+    "object": "breton",
+    "label": "Penrose appartient aux réseaux surréalistes et publie dans leur environnement éditorial",
+    "date": "années 1930",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://awarewomenartists.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-machens-lovecraft",
+    "type": "influence",
+    "subject": "arthur-machen",
+    "object": "lovecraft",
+    "label": "L'œuvre fantastique de Machen influence directement la conception lovecraftienne de l'horreur cosmique",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.hplovecraft.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-coomaraswamy-corbin",
+    "type": "courant_commun",
+    "subject": "coomaraswamy",
+    "object": "henry-corbin",
+    "label": "Travaux majeurs sur les traditions symboliques et les philosophies religieuses orientales, dans des approches distinctes",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-eliade-corbin",
+    "type": "courant_commun",
+    "subject": "mircea-eliade",
+    "object": "henry-corbin",
+    "label": "Dialogue intellectuel autour de l'histoire des religions, des symboles et des traditions spirituelles",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-guenon-schuon",
+    "type": "influence",
+    "subject": "rene-guenon",
+    "object": "frithjof-schuon",
+    "label": "Schuon appartient à l'école traditionaliste et prolonge certains débats ouverts par Guénon",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-guenon-evola",
+    "type": "influence",
+    "subject": "rene-guenon",
+    "object": "julius-evola",
+    "label": "Dialogue et divergences au sein du traditionalisme antimoderne",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://academic.oup.com/book/9553"
+      }
+    ]
+  },
+  {
+    "id": "f-weill-corbin",
+    "type": "courant_commun",
+    "subject": "simone-weil",
+    "object": "henry-corbin",
+    "label": "Intérêt pour les traditions spirituelles, Platon et les formes de transcendance; rapprochement intellectuel à manier avec prudence",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://books.openedition.org/bibpompidou/2958"
+      }
+    ]
+  },
+  {
+    "id": "f-themerson-russell",
+    "type": "influence",
+    "subject": "stefan-themerson",
+    "object": "bertrand-russell",
+    "label": "Proximité d'esprit autour de la logique, de l'analyse du langage et de l'humour philosophique; lien d'influence direct non établi",
+    "date": "XXe siècle",
+    "status": "a_preciser",
+    "evidence": [
+      {
+        "url": "https://www.themersonarchive.com/"
+      }
+    ]
+  },
+  {
+    "id": "f-hegel-russell",
+    "type": "critique",
+    "subject": "bertrand-russell",
+    "object": "hegel",
+    "label": "Russell critique vivement l'idéalisme hégélien dans son histoire de la philosophie",
+    "date": "XXe siècle",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/"
+      }
+    ]
+  },
+  {
+    "id": "f-lanza-gandhi",
+    "type": "influence",
+    "subject": "lanza-del-vasto",
+    "object": "gandhi",
+    "label": "Lanza del Vasto rencontre Gandhi en Inde et rapporte en Europe une pratique de non-violence active",
+    "date": "1937",
+    "status": "atteste",
+    "evidence": [
+      {
+        "url": "https://www.arche-de-saint-antoine.com/"
+      }
+    ]
   }
 ]
