@@ -274,7 +274,8 @@
       "Anthologie de l'humour noir, 1940.",
       "Arcane 17, 1944.",
       "Œuvres complètes, édition Marguerite Bonnet, Bibliothèque de la Pléiade, Gallimard, 1988-2008."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "desnos",
@@ -306,7 +307,8 @@
       "Destinée arbitraire, Gallimard, 1975 (posthume).",
       "Nouvelles Hébrides et autres textes, 1922-1930, Gallimard, 1978.",
       "Écrits sur les peintres, Flammarion, 1984, édition revue 2011."
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "michaux",
@@ -401,6 +403,9 @@
       "Au palais des images, les spectres sont rois : œuvres complètes, éd. Geneviève Michel, Allia, 2017.",
       "La Conférence de Charleroi, Allia, 2020.",
       "Notice biographique et bibliographie, Maison de la poésie et de la langue française de Namur."
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -430,6 +435,9 @@
       "Michel Draguet, Magritte, Gallimard, coll. « Folio biographies », 2014.",
       "René Magritte : La trahison des images, catalogue d'exposition, Centre Pompidou, 2016.",
       "Notice d'autorité, Bibliothèque nationale de France."
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -705,7 +713,8 @@
         "url": "https://www.poetryfoundation.org/poets/antonin-artaud",
         "note": "Bibliographie des publications."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "klossowski",
@@ -932,7 +941,8 @@
         "url": "https://catalogue.bnf.fr/",
         "note": "Catalogue général BnF, notices d’autorité et éditions des œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "eluard",
@@ -972,7 +982,8 @@
         "url": "https://www.bnf.fr/fr/la-bibliographie-nationale-francaise",
         "note": "Outil de vérification des éditions."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "soupault",
@@ -1014,7 +1025,8 @@
         "url": "https://www.metmuseum.org/ko/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/soupault",
         "note": "Notice biographique du Metropolitan Museum of Art."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "peret",
@@ -1055,7 +1067,8 @@
         "url": "https://www.benjamin-peret.org/qui-sommes-nous/publications/cahiers-benjamin-peret.html",
         "note": "Cahiers et documents d’archives."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "einstein",
@@ -1204,6 +1217,9 @@
         "url": "https://www.fondationeltmesens.com/en/gallery",
         "note": "Notice et ressources de la Fondation E. L. T. Mesens."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -1242,6 +1258,9 @@
         "url": "https://www.encyclopedia.com/arts/educational-magazines/goemans-camille-constant-ghislain-1900-1960",
         "note": "Repères biographiques et bibliographie des écrits."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -3476,7 +3495,8 @@
       "freytag",
       "picabia",
       "breton"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "suzanneduchamp",
@@ -3855,6 +3875,9 @@
       "arnauld",
       "vano",
       "joostens"
+    ],
+    "groups": [
+      "Dada"
     ]
   },
   {
@@ -3896,6 +3919,9 @@
       "pansaers",
       "citroen",
       "janco"
+    ],
+    "groups": [
+      "Dada"
     ]
   },
   {
@@ -3983,6 +4009,9 @@
       "marien",
       "graverol",
       "chavee"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4026,6 +4055,9 @@
       "lecomte",
       "marien",
       "graverol"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4070,6 +4102,9 @@
       "graverol",
       "baes",
       "chavee"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4113,6 +4148,9 @@
       "hamoir",
       "baes",
       "magritte"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4153,6 +4191,9 @@
       "marien",
       "scutenaire",
       "magritte"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4197,6 +4238,9 @@
       "simon",
       "marien",
       "scutenaire"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4238,6 +4282,9 @@
       "simon",
       "breton",
       "scutenaire"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4279,6 +4326,9 @@
       "marien",
       "chavee",
       "dumont"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4319,6 +4369,9 @@
       "dumont",
       "colinet",
       "marien"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4360,6 +4413,9 @@
       "lecomte",
       "marien",
       "chavee"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4406,6 +4462,9 @@
       "marien",
       "graverol",
       "baes"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4446,6 +4505,9 @@
       "marien",
       "magritte",
       "mesens"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -4489,6 +4551,9 @@
       "souris",
       "marien",
       "magritte"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -5630,6 +5695,9 @@
         "url": "https://www.gallimard.fr/auteurs/julien-gracq",
         "note": "Gallimard, bibliographie éditoriale et repères sur les œuvres."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -5718,6 +5786,9 @@
         "url": "https://www.renehchar.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -5988,6 +6059,9 @@
     ],
     "related": [
       "breton"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -6260,6 +6334,9 @@
         "url": "https://www.maisonjoebousquet.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -6320,7 +6397,8 @@
         "url": "https://data.bnf.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "roger-vitrac",
@@ -6351,7 +6429,8 @@
         "url": "https://data.bnf.fr/",
         "note": "Notice institutionnelle ou ressource de référence pour contextualiser la biographie et les œuvres."
       }
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "andre-malraux",
@@ -6577,7 +6656,10 @@
     ],
     "role_icon": "🧠",
     "role_label": "Pensée et critique",
-    "kind": "person"
+    "kind": "person",
+    "groups": [
+      "Lettrisme"
+    ]
   },
   {
     "id": "gilles-deleuze",
@@ -6605,7 +6687,8 @@
     ],
     "role_icon": "🪶",
     "role_label": "Poésie",
-    "kind": "person"
+    "kind": "person",
+    "groups": []
   },
   {
     "id": "pierre-albert-birot",
@@ -7364,6 +7447,9 @@
       "francois-dufrene",
       "mimmo-rotella",
       "juan-hidalgo"
+    ],
+    "groups": [
+      "Lettrisme"
     ]
   },
   {
@@ -7469,6 +7555,9 @@
       "bernard-heidsieck",
       "henri-chopin",
       "gil-j-wolman"
+    ],
+    "groups": [
+      "Lettrisme"
     ]
   },
   {
@@ -7938,6 +8027,9 @@
       "maurice-lemaitre",
       "isidore-isou",
       "henri-chopin"
+    ],
+    "groups": [
+      "Lettrisme"
     ]
   },
   {
@@ -7977,6 +8069,9 @@
       "isidore-isou",
       "gil-j-wolman",
       "jean-louis-brau"
+    ],
+    "groups": [
+      "Lettrisme"
     ]
   },
   {
@@ -8924,7 +9019,7 @@
     "id": "alexandra-exter",
     "name": "Alexandra Exter",
     "years": "1882–1949",
-    "group": "Cubofuturisme",
+    "group": "Cubo-futurisme",
     "bio": "Née à Belostok en 1882, Alexandra Exter étudie à Kyiv et séjourne à Paris dès 1908, où elle découvre le cubisme et le futurisme. De retour dans l’Empire russe, elle devient une médiatrice essentielle entre les recherches parisiennes et les avant-gardes de Kyiv et Moscou. Son langage pictural associe couleurs intenses, plans géométriques et rythmes dynamiques ; elle participe aux expositions du Valet de carreau et de l’Union de la jeunesse. À partir des années 1910, elle développe une activité majeure de scénographe et de créatrice de costumes pour le théâtre, le ballet et le cinéma, donnant aux espaces scéniques une autonomie plastique. Elle quitte la Russie après la révolution et s’installe à Paris en 1924. Elle enseigne ensuite à l’Académie d’art moderne de Fernand Léger. Elle meurt à Fontenay-aux-Roses en 1949.",
     "works": [
       "Décors et costumes pour Salomé (1917)",
@@ -9043,7 +9138,7 @@
     "id": "nadezhda-udaltsova",
     "name": "Nadejda Oudaltsova",
     "years": "1886–1961",
-    "group": "Cubofuturisme",
+    "group": "Cubo-futurisme",
     "bio": "Peintre russe, Nadejda Oudaltsova se forme à Moscou puis séjourne à Paris en 1912-1913, où elle étudie de près le cubisme avec Lioubov Popova. De retour en Russie, elle participe aux expositions du Valet de carreau et aux recherches cubo-futuristes, avant de rejoindre les expériences suprématistes puis de développer une peinture plus personnelle. Après les bouleversements révolutionnaires, elle enseigne et travaille dans les institutions artistiques soviétiques. Les contraintes idéologiques des années 1930 réduisent progressivement sa visibilité, mais elle poursuit sa pratique jusqu'à la fin de sa vie.",
     "works": [
       "Autoportrait (1915)",
@@ -11018,7 +11113,10 @@
       "Alexander Alberro et Blake Stimson (dir.), Conceptual Art: A Critical Anthology, MIT Press, 1999.",
       "Lucy Lippard, Six Years: The Dematerialization of the Art Object, University of California Press, 1997."
     ],
-    "related": []
+    "related": [],
+    "groups": [
+      "Dada"
+    ]
   },
   {
     "id": "max-ernst",
@@ -11052,7 +11150,8 @@
       "tzara",
       "ribemont",
       "picabia"
-    ]
+    ],
+    "groups": []
   },
   {
     "id": "theo-van-doesburg",
@@ -11731,6 +11830,9 @@
       "toy en",
       "jindrich-styrsky",
       "vitezslav-nezval"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -11765,6 +11867,9 @@
       "karel-teige",
       "jindrich-styrsky",
       "vitezslav-nezval"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -11799,6 +11904,9 @@
       "karel-teige",
       "toy en",
       "vitezslav-nezval"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -11833,6 +11941,9 @@
       "karel-teige",
       "toy en",
       "jindrich-styrsky"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -11867,6 +11978,9 @@
       "karel-teige",
       "toy en",
       "jindrich-styrsky"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -11900,6 +12014,9 @@
       "karel-teige",
       "toy en",
       "jindrich-styrsky"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -11934,6 +12051,9 @@
       "karel-teige",
       "toy en",
       "jindrich-styrsky"
+    ],
+    "groups": [
+      "Surréalisme"
     ]
   },
   {
@@ -12300,7 +12420,8 @@
       }
     ],
     "groups": [
-      "Art conceptuel"
+      "Art conceptuel",
+      "Surréalisme"
     ],
     "bibliography": [
       "Derek Sayer, Prague, Capital of the Twentieth Century, Princeton University Press, 2013.",
